@@ -100,7 +100,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=kwbvsqm
 #EXTINF:-1 tvg-name="MVS TV SD" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV 6.4
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=kwbvsqmee4zpjc0&lchId=2306&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
-https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOE5t52Fa9Aafc4v86H2BKoOXDI4fECCmh2olsXykMSXG)/p/dm/3/x6t7n6t/live.m3u8
+https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFvpebbqj5544tghA8mH2Jbig8Q8pi32dip5yS0cxCcX)/p/dm/3/x6t7n6t/live.m3u8
 #EXTINF:-1 tvg-name="Cananl 21" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/logo_c21_2019_color_1.png" group-title="NACIONALES", Canal 21.1
 https://live.vimeocdn.com/1576126301-0xc37903ebd2ea45aba6791d81234880303039cbb8/cf0fcd9b-99d7-40f3-bd11-847fa85311d9/hls.m3u8
 #EXTINF:-1 tvg-name="Cananl 22.1" tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="NACIONALES", Canal 22.1
@@ -256,8 +256,6 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
 #EXTINF:-1, tvg-name="TV SPORTS" tvg-logo="-" group-title="DEPORTES", TV SPORTS 
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
-http://54.39.105.133:25461/live/Galaxy/Fubo/49.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 http://185.59.223.82:8080/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 http://ok2.se:8000/live/c968F1UOtx1U5cpBO/e16bF1UcwN7iubmXq/157.m3u8
@@ -265,8 +263,6 @@ http://ok2.se:8000/live/c968F1UOtx1U5cpBO/e16bF1UcwN7iubmXq/157.m3u8
 http://185.233.185.213:25443/live/NDAZWnxuUiAQP/mYmzK3RwSr/50102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 http://ya.azureedge.net/nfl.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
-http://54.39.105.133:25461/live/Galaxy/Fubo/82.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 https://bricebperreza.s3-accelerate.amazonaws.com/nfltv.m8
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
@@ -277,10 +273,6 @@ http://ok2.se:8000/live/c968F1UOtx1U5cpBO/e16bF1UcwN7iubmXq/156.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="DEPORTES", WWE Network HD
 http://185.59.223.82:8080/wwe/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
-http://54.39.105.133:25461/live/Galaxy/Fubo/205.m3u8
-#EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes 
-http://54.39.105.133:25461/live/Galaxy/Fubo/23.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 http://185.59.223.82:8080/espn/index.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
@@ -296,11 +288,7 @@ http://boxingstreams.xyz/neinz/video/espn2/d.m3u8
 #EXTINF:-1 tvg-name="ESPN NEWS (USA)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="DEPORTES", FOX SPORTS NEWS AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-http://54.39.105.133:25461/live/Galaxy/Fubo/71.m3u8
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 http://185.59.223.82:8080/foxsports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-http://54.39.105.133:25461/live/Galaxy/Fubo/72.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 http://185.59.223.82:8080/foxsports2/index.m3u8
 #EXTINF:-1 tvg-name="SONY TEN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="DEPORTES", SONY TEN 1
@@ -383,12 +371,6 @@ http://ok2.se:8000/live/7b05F1UHRVWaqzAF5/4253F1U2EbXwM7JF0/64910.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA", Telemundo 51 Miami Web
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/KCAL-HD.jpg" group-title="USA", KCAL-TV LOS ANGELES (CBS)
-http://54.39.105.133:25461/live/Galaxy/Fubo/108.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/KCBS-TV_logo.png" group-title="USA", KCBS-TV LOS ANGELES (CBS)
-http://54.39.105.133:25461/live/Galaxy/Fubo/59.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/KCOP_My_13_Los_Angeles.png" group-title="USA", KCOP-TV LOS ANGELES (FOX)
-http://54.39.105.133:25461/live/Galaxy/Fubo/77.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami HD
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
@@ -406,24 +388,9 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", WWE Network
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/usa-network-logo.jpg" group-title="USA", USA Network HD
-http://54.39.105.133:25461/live/Galaxy/Fubo/55.m3u8
-#EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/usa-network-logo.jpg" group-title="USA", USA Network HD
 http://185.59.223.82:8080/usa/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="USA", TNT HD
 http://45.58.140.227:80/live/0S61SLp06E/zphJddYjXE/666.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-http://34.86.36.101/live/ovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-http://bamsi.azureedge.net/hls/ufc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-https://ul.cdn946.net:8443/hls/d4lk6bkvw0d4q4.m3u8?s=V2NQwTvAAuSJ-Wym1Cggwg&e=1589081101
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-http://103.194.171.52/hls/Z1.m3u8
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=LztmlguOUTVFLa0HNReSRg&e=1589081596
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-http://blackaddon.com/scr/ab8.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="https://www.ezanime.net/wp-content/uploads/2020/04/EU_5WYBVAAE9z2Q.0-950x500.jpeg" group-title="EVENTO EN VIVO", UFC #249
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=kwbvsqmee4zpjc0&lchId=336&format=HLSAD&f=.m3u8
+
