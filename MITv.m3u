@@ -385,10 +385,7 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", WWE Network
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/usa-network-logo.jpg" group-title="USA", USA Network HD
-http://185.59.223.82:8080/usa/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="USA", TNT HD
-http://45.58.140.227:80/live/0S61SLp06E/zphJddYjXE/666.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://noticiasport.com/wp-content/uploads/2019/12/La-ex-estrella-de-Impact-Wrestling-se-burla-del-debut.jpg" group-title="DEPORTES", NXT
+http://zone2.azureedge.eu/live/dubs_abr_s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTE6NTY6MjggUE0maGFzaF92YWx1ZT16REVtdjhDb1A5cWlPL0d5cDRaNy9RPT0mdmFsaWRtaW51dGVzPTM2MCZpZD05OS4yMzAuMTM4LjExOCZzdHJtX2xlbj01
