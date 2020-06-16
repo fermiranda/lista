@@ -367,8 +367,10 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", WWE Network
-http://cdnak21.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", USA Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="USA", TNT HD
+http://live.highstream.club/live/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasport.com/wp-content/uploads/2019/12/La-ex-estrella-de-Impact-Wrestling-se-burla-del-debut.jpg" group-title="DEPORTES", NXT
