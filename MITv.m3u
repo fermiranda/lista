@@ -249,6 +249,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv
 http://blackaddon.com/scr/jun2.php?c=74&f.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
 http://blackaddon.com/scr/jun2.php?c=75&f.m3u8
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
+http://live.highstream.club/live/FS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
+http://live.highstream.club/live/FS2/chunks.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
