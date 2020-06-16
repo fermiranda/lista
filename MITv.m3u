@@ -93,6 +93,14 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/extrema.jpg" group-title="24/7", XtremaTV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="CNÑ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
+http://blackaddon.com/scr/jun2.php?c=14&f.m3u8
+#EXTINF:-1 tvg-name="CNÑ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
+https://micine.club/14/fastcgi.m3u8
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
+http://blackaddon.com/scr/jun2.php?c=15&f.m3u8
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
+https://micine.club/15/fastcgi.m3u8
 #EXTINF:-1 tvg-name="Milenio SD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-name="Teleformula" tvg-logo="http://1.bp.blogspot.com/-gXlkdRL4J-Y/UBNVnUzx8OI/AAAAAAAANhM/HidV4reyALY/s71/teleformula.PNG" group-title="NOTICIAS", Teleformula Web
