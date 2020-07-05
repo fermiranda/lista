@@ -39,20 +39,24 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv
 https://micine.club/143/fastcgi.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Multi Web
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV
+https://micine.club/149/fastcgi.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=2203&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=1870&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
+https://micine.club/146/fastcgi.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=317&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=1931&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
+https://micine.club/147/fastcgi.m3u8
 #EXTINF:-1 tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+ Noroeste
@@ -65,6 +69,8 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master02.m3u8
 #EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="NACIONALES", ADN 40 sd
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="NACIONALES", ADN 40
+https://micine.club/148/fastcgi.m3u8
 #EXTINF:-1 tvg-name="Canal 66" tvg-logo="http://canal66.tv/wp-content/uploads/2018/10/logo-med-web.png" group-title="NACIONALES", CANAL 66 MXL
 http://streamingcws10.com:1935/canal66/videocanal66/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1
@@ -87,6 +93,10 @@ http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/master.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=1499&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=89&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
+http://blackaddon.com/scr/jun2.php?c=92&f.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
+https://micine.club/92/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://blackaddon.com/scr/jun2.php?c=93&f.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -175,26 +185,40 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv
 http://blackaddon.com/scr/jun2.php?c=123&f.m3u8
 #EXTINF:-1 tvg-logo="http://dlbgroup.com/images/marcas/dlbgroup_wb.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=52&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://dlbgroup.com/images/marcas/dlbgroup_wb.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
+https://micine.club/101/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753775588029104128/v3XRWoqe.jpg" group-title="ENTRETENIMIENTO", A&E HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=62&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753775588029104128/v3XRWoqe.jpg" group-title="ENTRETENIMIENTO", A&E
+https://micine.club/1/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=64&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
+https://micine.club/2/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/14sky-logo-UniversalHD.jpg"  group-title="ENTRETENIMIENTO", UNIVERSAL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=57&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/14sky-logo-UniversalHD.jpg"  group-title="ENTRETENIMIENTO", UNIVERSAL HD
 http://blackaddon.com/scr/jun2.php?c=106&f.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=132&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal HD
 http://blackaddon.com/scr/jun2.php?c=118&f.m3u8
 #EXTINF:-1 tvg-logo="http://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/tnt_logo_blk.jpg" group-title="ENTRETENIMIENTO", TNT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=126&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/tnt_logo_blk.jpg" group-title="ENTRETENIMIENTO", TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=126&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/tnt_logo_blk.jpg" group-title="ENTRETENIMIENTO", TNT
+https://micine.club/113/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg" group-title="ENTRETENIMIENTO", TNT SERIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=71&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg" group-title="ENTRETENIMIENTO", TNT SERIES
+https://micine.club/112/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=328&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="ENTRETENIMIENTO", DHE HD
 http://blackaddon.com/scr/jun2.php?c=34&f.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="ENTRETENIMIENTO", DHE HD
+http://zufreelist.net:8080/listam3ufreliz/frelizt/467
 #EXTINF:-1 tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2015/03/New-Fox-UK-Logo-2015-300x138.jpg?x63424" group-title="ENTRETENIMIENTO", Fox Channel
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=47&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2015/03/New-Fox-UK-Logo-2015-300x138.jpg?x63424" group-title="ENTRETENIMIENTO", Fox Channel
@@ -215,6 +239,8 @@ https://micine.club/78/fastcgi.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
 http://blackaddon.com/scr/jun2.php?c=316&f.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=149&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://blackaddon.com/scr/jun2.php?c=22&f.m3u8
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="ENTRETENIMIENTO", SPACE
@@ -253,6 +279,8 @@ https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
 https://tvsabldep-lh.akamaihd.net/i/c3n4dep02_1@141898/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=1975&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UNIVISION TUDN
+https://micine.club/320/fastcgi.m3u8
 #EXTINF:-1 tvg-name="ESPN MX HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTES", ESPN MX
 http://blackaddon.com/scr/jun2.php?c=140&f.m3u8
 #EXTINF:-1 tvg-name="ESPN MX HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTES", ESPN MX
