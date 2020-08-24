@@ -139,6 +139,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=2306&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
 https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOzFT4Z9EpsEOZj-dnEm5RR6Smj9jWKDMa3Ybje4hwwC)/p/dm/3/x6t7n6t/live.m3u8
+#EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
+https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLpd-K58y5RspEuZ2A9eS38Me2ZLc5aowA8uL9NFJzff)/p/dm/3/x6t7n6t/live.m3u8
 #EXTINF:-1 tvg-name="Cananl 21" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/logo_c21_2019_color_1.png" group-title="NACIONALES", Canal 21.1
 https://live.vimeocdn.com/1576126301-0xc37903ebd2ea45aba6791d81234880303039cbb8/cf0fcd9b-99d7-40f3-bd11-847fa85311d9/hls.m3u8
 #EXTINF:-1 tvg-name="Cananl 22.1" tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="NACIONALES", Canal 22.1
@@ -441,17 +443,4 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 http://lavarel.site/live/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Orlando Magic
-http://13.58.255.252/tnt.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Orlando Magic
-http://lavarel.site/live/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Indiana Pacers
-http://lavarel.site/live/TNT/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Indiana Pacers
-https://tna5.bozztv.com/cercer/index.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Houston Rockets 
-https://tna5.bozztv.com/cercer/index.m3u8
