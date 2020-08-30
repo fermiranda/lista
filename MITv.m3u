@@ -445,4 +445,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png" group-title="MLB.tv", Milwakee Brewers vs Pittsburgh Pirates
-https://ul.cdn946.net:8443/hls/hffoi4r6d5z48.m3u8?s=kEPrDxzd3FWprgSoy1VNvg&e=1598684356
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+http://1.crackstreams.online/show/ufc/playlist.m3u8
