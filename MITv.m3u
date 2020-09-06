@@ -313,6 +313,8 @@ http://blackaddon.com/scr/ag1.php?c=75&f.m3u8
 http://live.highstream.club/live/FS1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 http://live.highstream.club/live/FS2/chunks.m3u8
+#EXTINF:-1 tvg-name="DIRECTV Sports" tvg-logo="http://mifut.ligatv.online/images/directv-sports.png" group-title="DEPORTES", DIRECTV Sports
+http://156.96.58.244:25461/live/mifut2020/9LGJfqX0vS/1845_.m3u8?token=QkZcAEULQAgUAlIGVAULXFVTAQEBBgxXBFoAAghUCFFfUwNWUwAABwBDG0cXQkpdV1o6WlIRDgNZDVcdExBKAUs7XQUUWUABBkMbRxBfVV0UDVUfFENdVkMDQAMJVwlXG0gWBE4XB0BYAFs6AFNOUVVSRwlYRlheTRsNX24BXAlYClBDDEFSEBpDXhYUFAJWQ1sJHxRRXUYTWBZUE18bUQ9VAkMaQQFdQw9DFx0UAhp7b0cfFFZMRgRXEVheCxteGwkHFA5BThBfEmgXAUVMSlNWCFZEEQ4QURtOE1wEQTtaC1oPUwAWW1kPREdeFAgaGhUIXFhaQF0TZhJYVUcDRghXB1UPQR8=
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
