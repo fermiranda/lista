@@ -505,11 +505,27 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Denver Nuggets
+http://45.148.26.66/hls/S-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Denver Nuggets
+http://a.crackstreams.vip/show/espn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://45.134.21.230:8081/hls/W-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://45.134.21.253/hls/67.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=T5eMuSCVlSr1BTBr_v2Lgg&e=1599967747
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+http://ustvnow.live/live/nfln/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+http://a.crackstreams.vip/show/nfl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+https://dcs-live.apis.anvato.net/server/play/m10rvaXGcos8a0gx/rendition.m3u8?track=video-3&anvsid=i178783033-n4d2f413c-3050-4eb8-b387-cbc3641df763&ts=1600382913&anvtrid=w3ab05f33ce4a9bc9ec92f11913aaa42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+http://ragnar.azureedge.net/hls/nflnw/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+http://sharellelbhasana.s3.amazonaws.com/zcrfop.m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+http://45.134.21.230:8081/abr/abr-K-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Cincinnati Bengals vs Cleveland Browns
+https://ul.cdn946.net:8443/hls/s2xg5jkkmmc2n2.m3u8?s=uIdc85Su5CwPV0AAhRkz0A&e=1600407779
+
+
