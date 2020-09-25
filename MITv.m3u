@@ -489,4 +489,12 @@ https://akamai2-me.cdn.booyah.live/hls/113130/24670746.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://cdn.crackstreams.net/live/mma/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Miami Dolphins vs Jacksonville Jaguars
+http://a.crackstreams.vip/show/nfln/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Miami Dolphins vs Jacksonville Jaguars
+http://caraba.azureedge.net/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Miami Dolphins vs Jacksonville Jaguars
+http://45.148.26.66:8081/hls/S-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", Miami Dolphins vs Jacksonville Jaguars
+https://dcs-live.apis.anvato.net/server/play/m10rvaXGcos8a0gx/rendition.m3u8?track=video-7&anvsid=i178782430-ne51f56cb-59f9-4f87-9208-a09bc10c8336&ts=1600993173&anvtrid=w3ab05f355c6ed3278f8bc87b6b05934
 
