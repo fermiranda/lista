@@ -338,12 +338,18 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=170&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
 http://blackaddon.com/scr/mcin.php?c=71&f.m3u8
+#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
+https://blackaddon.com/scr/megapro6.php?c=77|User-Agent=tupro
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=172&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 http://blackaddon.com/scr/mcin.php?c=74&f.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
+https://blackaddon.com/scr/megapro6.php?c=74|User-Agent=tupro
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
 http://blackaddon.com/scr/mcin.php?c=75&f.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
+https://blackaddon.com/scr/megapro6.php?c=165|User-Agent=tupro
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 http://live.highstream.club/live/FS1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
