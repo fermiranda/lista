@@ -299,20 +299,33 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-http://zcrack.azureedge.net/show/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-https://espn-ak.espn.com/hls/live/2002490/espn/espn1-p.m3u8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-http://dirkgborregoa.s3.amazonaws.com/lieoqt.m8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-http://gimmysgimmys.azureedge.net/hls/raiders/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-http://sv5.ustvnow.live/live/Saints/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-https://espn-ak.espn.com/hls/live/2002490/espn/espn1-p.m3u8
-#EXTINF:-1 tvg-logo="https://14iezz3qg8u21xburg26fglg-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/MNF-logo1-594x613.jpg" group-title="NFL MNF", New Orleans Saints vs Las Vegas Raiders
-https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=6vcZ0UMfq1tw9t4vejEIbA&e=1600753066
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Live NFL Redzone 
+http://p2p.nflsport.xyz/live/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Houston Texans vs Tennessee Titans
+http://p2p.nflsport.xyz/live/Texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Cincinnati Bengals vs Indianapolis Colts
+http://p2p.nflsport.xyz/live/Bengals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs Minnesota Vikings
+http://p2p.nflsport.xyz/live/Falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Denver Broncos vs New England Patriots
+http://p2p.nflsport.xyz/live/Broncos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Washington vs New York Giants
+http://p2p.nflsport.xyz/live/Team/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Baltimore Ravens vs Philadelphia Eagles
+http://p2p.nflsport.xyz/live/Ravens/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Cleveland Browns vs Pittsburgh Steelers
+http://p2p.nflsport.xyz/live/Browns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Chicago Bears vs Carolina Panthers
+http://p2p.nflsport.xyz/live/Bears/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Detroit Lions vs Jacksonville Jaguars
+http://p2p.nflsport.xyz/live/Lions/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Miami Dolphins
+http://p2p.nflsport.xyz/live/Jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Green Bay Packers vs Tampa Bay Buccaneers 
+http://p2p.nflsport.xyz/live/Packers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Rams vs San Francisco 49ers
+http://p2p.nflsport.xyz/live/nbc/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
 https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
