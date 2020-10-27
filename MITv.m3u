@@ -489,4 +489,19 @@ http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://tracka.azureedge.net/show/cfu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://jenisecroswellb.s3.amazonaws.com/jsqxxt.m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://tomorrowazny.azureedge.net/hls/nflnw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://vip.nflstream.buzz/live/Bears/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://45.134.21.230/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://tomorrowazny.azureedge.net/hls/nflnw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+https://artplcdn.azureedge.net/out/v1/05a6a98643ab4d84ba66cae2b1871739/gtf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Chicago Bears vs Los Angeles Rams
+http://tracka.azureedge.net/show/espn/playlist.m3u8
+
 
