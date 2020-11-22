@@ -505,6 +505,15 @@ http://alisiaulipiraa.s3.amazonaws.com/ieeccy.m8
 http://alisiaulipiraa.s3.amazonaws.com/vqabmo.m8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  New England Patriots vs Houston Texans
 http://alisiaulipiraa.s3.amazonaws.com/usaigb.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Miami Dolphins vs Denver Broncos
+http://alisiaulipiraa.s3.amazonaws.com/sxtngp.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  New York Jets vs Los Angeles Chargers
+http://alisiaulipiraa.s3.amazonaws.com/kmoonv.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Green Bay Packers vs Indianapolis Colts
+http://alisiaulipiraa.s3.amazonaws.com/agomgw.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Dallas Cowboys vs Minnesota Vikings
+http://alisiaulipiraa.s3.amazonaws.com/mhrcri.m8
+
 
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", NFL Redzone
 http://solomon.azureedge.net/show/redzone/playlist.m3u8
@@ -522,6 +531,15 @@ http://solomon.azureedge.net/show/jaguars/playlist.m3u8
 http://solomon.azureedge.net/show/ravens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New England Patriots vs Houston Texans
 http://solomon.azureedge.net/show/texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Miami Dolphins vs Denver Broncos
+http://lobotron.azureedge.net/show/broncos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Jets vs Los Angeles Chargers
+http://lobotron.azureedge.net/show/chargers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Green Bay Packers vs Indianapolis Colts
+http://lobotron.azureedge.net/show/colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Dallas Cowboys vs Minnesota Vikings
+http://lobotron.azureedge.net/show/vikings/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
 http://waynemashaney.azureedge.net/hls/redzone/playlist.m3u8
