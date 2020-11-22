@@ -557,6 +557,15 @@ http://waynemashaney.azureedge.net/hls/jaguars/chunks.m3u8
 http://waynemashaney.azureedge.net/hls/ravens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New England Patriots vs Houston Texans
 http://waynemashaney.azureedge.net/hls/texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs Denver Broncos
+http://waynemashaney.azureedge.net/hls/broncos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Los Angeles Chargers
+http://waynemashaney.azureedge.net/hls/chargers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Green Bay Packers vs Indianapolis Colts
+http://waynemashaney.azureedge.net/hls/colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Dallas Cowboys vs Minnesota Vikings
+http://waynemashaney.azureedge.net/hls/vikings/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
 http://cdn.tv247.club/Hanson_playlist.m3u8
