@@ -489,98 +489,15 @@ http://ricardo.azureedge.net/show/cfu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=28yJocQ_cnDdgAeWJPR11Q&e=1606020994
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  NFL Redzone
-http://alisiaulipiraa.s3.amazonaws.com/qenvzh.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Philadelphia Eagles vs Cleveland Browns
-http://alisiaulipiraa.s3.amazonaws.com/kqrrxe.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Atlanta Falcons vs New Orleans Saints
-http://alisiaulipiraa.s3.amazonaws.com/qeqzlb.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Cincinnati Bengals vs Washington
-http://alisiaulipiraa.s3.amazonaws.com/yswbax.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Detroit Lions vs Carolina Panthers
-http://alisiaulipiraa.s3.amazonaws.com/hccaxm.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Pittsburgh Steelers vs Jacksonville Jaguars
-http://alisiaulipiraa.s3.amazonaws.com/ieeccy.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Tennessee Titans vs Baltimore Ravens
-http://alisiaulipiraa.s3.amazonaws.com/vqabmo.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  New England Patriots vs Houston Texans
-http://alisiaulipiraa.s3.amazonaws.com/usaigb.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Miami Dolphins vs Denver Broncos
-http://alisiaulipiraa.s3.amazonaws.com/sxtngp.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  New York Jets vs Los Angeles Chargers
-http://alisiaulipiraa.s3.amazonaws.com/kmoonv.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Green Bay Packers vs Indianapolis Colts
-http://alisiaulipiraa.s3.amazonaws.com/agomgw.m8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Dallas Cowboys vs Minnesota Vikings
-http://alisiaulipiraa.s3.amazonaws.com/mhrcri.m8
-
-
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", NFL Redzone
-http://solomon.azureedge.net/show/redzone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Philadelphia Eagles vs Cleveland Browns
-http://solomon.azureedge.net/show/browns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Atlanta Falcons vs New Orleans Saints
-http://solomon.azureedge.net/show/saints/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Cincinnati Bengals vs Washington
-http://solomon.azureedge.net/show/redskins/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Detroit Lions vs Carolina Panthers
-http://solomon.azureedge.net/show/panthers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Pittsburgh Steelers vs Jacksonville Jaguars
-http://solomon.azureedge.net/show/jaguars/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Tennessee Titans vs Baltimore Ravens
-http://solomon.azureedge.net/show/ravens/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New England Patriots vs Houston Texans
-http://solomon.azureedge.net/show/texans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Miami Dolphins vs Denver Broncos
-http://lobotron.azureedge.net/show/broncos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Jets vs Los Angeles Chargers
-http://lobotron.azureedge.net/show/chargers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Green Bay Packers vs Indianapolis Colts
-http://lobotron.azureedge.net/show/colts/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Dallas Cowboys vs Minnesota Vikings
-http://lobotron.azureedge.net/show/vikings/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
-http://waynemashaney.azureedge.net/hls/redzone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Cleveland Browns
-http://waynemashaney.azureedge.net/hls/browns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs New Orleans Saints
-http://waynemashaney.azureedge.net/hls/saints/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Washington
-http://waynemashaney.azureedge.net/hls/bengals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Carolina Panthers
-http://waynemashaney.azureedge.net/hls/panthers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Pittsburgh Steelers vs Jacksonville Jaguars
-http://waynemashaney.azureedge.net/hls/jaguars/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Baltimore Ravens
-http://waynemashaney.azureedge.net/hls/ravens/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New England Patriots vs Houston Texans
-http://waynemashaney.azureedge.net/hls/texans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs Denver Broncos
-http://waynemashaney.azureedge.net/hls/broncos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Los Angeles Chargers
-http://waynemashaney.azureedge.net/hls/chargers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Green Bay Packers vs Indianapolis Colts
-http://waynemashaney.azureedge.net/hls/colts/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Dallas Cowboys vs Minnesota Vikings
-http://waynemashaney.azureedge.net/hls/vikings/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
-http://cdn.tv247.club/Hanson_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Cleveland Browns
-http://cdn.tv247.club/Eagles_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs New Orleans Saints
-http://cdn.tv247.club/Falcons_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Washington
-http://cdn.tv247.club/Bengals_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Carolina Panthers
-http://cdn.tv247.club/Lions_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Pittsburgh Steelers vs Jacksonville Jaguars
-http://cdn.tv247.club/Steelers_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Baltimore Ravens
-http://cdn.tv247.club/Titans_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New England Patriots vs Houston Texans
-http://cdn.tv247.club/Patriots_playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://danillejschleidera.s3.amazonaws.com/jcnxuu.m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://lobotron.azureedge.net/show/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://waynemashaney.azureedge.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://vip.nflstream.buzz/live/Rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://45.148.26.176:8081/abr/abr-K-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Los Angeles Rams vs Tampa Bay Buccaneers
+http://165w.freeddns.org/hls/y1.m3u8
