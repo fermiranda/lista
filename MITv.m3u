@@ -505,3 +505,24 @@ https://z.cantholdus.xyz/kaynakstreamradarco/espnplus1/naxi/caxi.m3u8
 https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=EbX7zXHzo1J1DchPAVVffA&e=1606637325
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.boxeoenvivo.net/wp-content/uploads/2020/08/tyson-jones-poster-oficial-de-la-pelea.jpg" group-title="EVENTO EN VIVO", BOX
 http://saradenton.azureedge.net/hls/sports/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Redzone
+http://cracker.trafficmanager.net/show/redzone/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Las Vegas Raiders vs Atlanta Falcons
+http://cracker.trafficmanager.net/show/falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Los Angeles Chargers vs Buffalo Bills
+http://cracker.trafficmanager.net/show/bills/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Giants vs Cincinnati Bengals
+http://cracker.trafficmanager.net/show/bengals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Tennessee Titans vs Indianapolis Colts
+http://cracker.trafficmanager.net/show/colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Carolina Panthers vs Minnesota Vikings
+http://cracker.trafficmanager.net/show/vikings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Arizona Cardinals vs New England Patriots
+http://cracker.trafficmanager.net/show/patriots/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Miami Dolphins vs New York Jets
+http://cracker.trafficmanager.net/show/jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Cleveland Browns vs Jacksonville Jaguars
+http://cracker.trafficmanager.net/show/jaguars/playlist.m3u8
