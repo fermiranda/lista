@@ -570,7 +570,12 @@ http://saradenton.azureedge.net/hls/patriots/playlist.m3u8
 http://saradenton.azureedge.net/hls/jets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cleveland Browns vs Jacksonville Jaguars
 http://saradenton.azureedge.net/hls/jaguars/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New Orleans Saints vs Denver Broncos
+http://ovamarie.azureedge.net/hls/broncos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Los Angeles Rams
+http://ovamarie.azureedge.net/hls/rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Tampa Bay Buccaneers
+http://ovamarie.azureedge.net/hls/buccaneers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
 http://45.148.26.176:8081/hls/Q-1/playlist.m3u8
