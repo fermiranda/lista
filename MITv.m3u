@@ -99,6 +99,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecp
 https://blackaddon.com/scr/mcin-23.php?c=92&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 https://micine.club/92/fastcgi.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
+https://blackghost.live/play/codeplus1-12.php?c=58353|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://blackaddon.com/scr/mcin-23.php?c=93&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -111,8 +113,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecp
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/fmhot3.png" group-title="24/7", FMHOT Movies
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", CINE WMS
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/phtv.png" group-title="24/7", PH TV
@@ -162,7 +162,7 @@ https://blackaddon.com/scr/mcin-23.php?c=84&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO
 https://micine.club/84/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO
-
+https://blackghost.live/play/codeplus1-12.php?c=28543|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO SUB
 https://blackaddon.com/scr/mcin-23.php?c=88&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO SUB
@@ -174,33 +174,37 @@ https://blackaddon.com/scr/mcin-23.php?c=85&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/02sky-logo-HBO2.jpg" group-title="ENTRETENIMIENTO", HBO 2 
 https://micine.club/85/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/02sky-logo-HBO2.jpg" group-title="ENTRETENIMIENTO", HBO 2
-https://blackaddon.com/scr/megapro6.php?c=63|User-Agent=tupro
+https://blackghost.live/play/codeplus1-12.php?c=28540|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS
 http://blackaddon.com/scr/mcin.php?c=89&f.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS
 https://micine.club/89/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS
-
+https://blackghost.live/play/codeplus1-12.php?c=634|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 https://blackaddon.com/scr/mcin-23.php?c=86&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 https://micine.club/86/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
-
+https://blackghost.live/play/codeplus1-12.php?c=35162|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature
 https://blackaddon.com/scr/mcin-23.php?c=87&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature
 https://micine.club/87/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature
-
+https://blackghost.live/play/codeplus1-12.php?c=635|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 https://blackaddon.com/scr/mcin-23.php?c=135&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 https://micine.club/135/fastcgi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
-
+https://blackghost.live/play/codeplus1-12.php?c=33916|User-Agent=TEAMCRUEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+https://blackghost.live/play/codeplus1-12.php?c=28523|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 https://blackaddon.com/scr/mcin-23.php?c=135&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
+https://blackghost.live/play/codeplus1-12.php?c=11004|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://southimagesservice.mtvnimages.com/images/default/PCH-default.jpg" group-title="ENTRETENIMIENTO", Paramount Channel HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="http://southimagesservice.mtvnimages.com/images/default/PCH-default.jpg" group-title="ENTRETENIMIENTO", Paramount Channel 
@@ -240,7 +244,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=328&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="ENTRETENIMIENTO", DHE HD
 https://blackaddon.com/scr/mcin-23.php?c=34&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="ENTRETENIMIENTO", DHE HD
-http://zufreelist.net:8080/masterzuiptv/login34/467
+https://blackghost.live/play/codeplus1-12.php?c=58337|User-Agent=TEAMCRUEL
 #EXTINF:-1 tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2015/03/New-Fox-UK-Logo-2015-300x138.jpg?x63424" group-title="ENTRETENIMIENTO", Fox Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2015/03/New-Fox-UK-Logo-2015-300x138.jpg?x63424" group-title="ENTRETENIMIENTO", Fox Channel
