@@ -147,7 +147,7 @@ https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLpd-K58y5RspEuZ2A
 #EXTINF:-1 tvg-name="Cananl 21" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/logo_c21_2019_color_1.png" group-title="NACIONALES", Canal 21.1
 http://189.240.228.90:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="Cananl 22.1" tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="NACIONALES", Canal 22.1
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIwIDE6MjU6NTggQU0maGFzaF92YWx1ZT1kdDB2bkdrZ3dSalBsV3N0VHJFNU53PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-name="Cananl 22.2" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/3cbc2a82-28fc-4ba3-8f0d-95a94169e647-2033x1141-760929368.png" group-title="NACIONALES", Canal 22.2
 http://api.new.livestream.com/accounts/16458468/events/6932143/live.m3u8
 #EXTINF:-1 tvg-name="QuieroTv GDL" tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
