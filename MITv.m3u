@@ -474,7 +474,7 @@ https://miap.xyz/151/serverkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami HD
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230219760257896449/bRaX7o7t_400x400.jpg" group-title="USA", CBS KDKA PITT WEB
+#EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/05/KDKA_CBS_Pittsburgh_logo_web_black.png" group-title="USA", CBS KDKA PITT WEB
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230219760257896449/bRaX7o7t_400x400.jpg" group-title="USA", CBS KDKA PITT WEB
 https://cbsn-pit-cedexis.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
@@ -482,11 +482,11 @@ https://cbsn-pit-cedexis.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA",ABC WTAE PITT WEB
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 https://content.uplynk.com/ext/0985b030a3cd48dc92f31734a3cbd19f/201203_035948_1_wtae.m3u8
 #EXTINF:-1 tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA",ABC (EST)
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", WPXI PITT WEB
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932750132294115336/JIZUc950_400x400.jpg" group-title="USA", WPXI PITT WEB
 https://d3mza9xaqch9ab.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10080_5bbd927e-ae15-4732-b72d-5231d7a0056c_LE/in/cmg-wpxitv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
 http://190.80.3.28/CW/CW.isml/index.m3u8
