@@ -109,7 +109,7 @@ https://miap.xyz/99/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://miap.xyz/100/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://62.210.101.222:9000/live/arthur21/arthur123/53302.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="ESPAÑA", Paramount Network
@@ -316,25 +316,19 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=2b6
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
 https://miap.xyz/83/serverkey.m3u8
-#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
-http://62.210.101.222:9000/live/arthur21/arthur123/43066.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 https://miap.xyz/84/serverkey.m3u8
-#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
-http://62.210.101.222:9000/live/arthur21/arthur123/43067.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
 https://miap.xyz/85/serverkey.m3u8
-#EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
-http://62.210.101.222:9000/live/arthur21/arthur123/43068.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-http://62.210.101.222:9000/live/arthur21/arthur123/50913.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-http://62.210.101.222:9000/live/arthur21/arthur123/50914.m3u8
+
 #EXTINF:-1 tvg-name="DIRECTV Sports" tvg-logo="http://mifut.ligatv.online/images/directv-sports.png" group-title="DEPORTES", DIRECTV Sports
 
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
@@ -447,9 +441,9 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
-https://blackghost.live/play/codeplus1-12.php?c=70710|User-Agent=TEAMCRUEL
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS LA
-https://blackghost.live/play/codeplus1-12.php?c=70712|User-Agent=TEAMCRUEL
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami HD
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
