@@ -360,7 +360,7 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="DEPORTES", WWE Network HD
 
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
-http://vip.nflstream.buzz/live/Rams/playlist.m3u8
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 http://boxingstreams.xyz/neinz/video/espn/index.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) Multi
@@ -368,11 +368,16 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8?
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://185.59.223.82:8080/espn2/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
-http://164.68.124.111/espn2.m3u8
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://boxingstreams.xyz/neinz/video/espn2/d.m3u8
-#EXTINF:-1 tvg-name="ESPN NEWS (USA)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="DEPORTES", 
-NEWS AU
+#EXTINF:-1 tvg-name="ESPN U (USA)" tvg-logo="https://img2.freepng.es/20180616/gei/kisspng-espnu-television-espn-inc-espnews-espn-2-5b2509af62a397.123202481529153967404.jpg" group-title="DEPORTES", ESPNU(USA) HD
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-name="ESPN SEC (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", ESPN SEC
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-name="ESPN ACCN (USA)" tvg-logo="https://theacc.com/images/2018/11/30/ACCN_Launch.png" group-title="DEPORTES", ESPN ACCN
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-name="FS NEWS AU (USA)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="DEPORTES", FOX SPORTS NEWS AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="SONY TEN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="DEPORTES", SONY TEN 1
 http://163.172.85.133:8080/TenS/1/index.m3u8
