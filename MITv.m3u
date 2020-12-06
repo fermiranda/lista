@@ -541,3 +541,22 @@ http://l.decrackerbro7.xyz/show/vikings/playlist.m3u8
 http://l.decrackerbro7.xyz/show/jets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Indianapolis Colts vs Houston Texans
 http://l.decrackerbro7.xyz/show/texans/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
+http://koreysteele.azureedge.net/hls/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New Orleans Saints vs Atlanta Falcons
+http://koreysteele.azureedge.net/hls/falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Chicago Bears
+http://koreysteele.azureedge.net/hls/bears/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cleveland Browns vs Tennessee Titans
+http://koreysteele.azureedge.net/hls/titans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Miami Dolphins
+http://koreysteele.azureedge.net/hls/dolphins/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jacksonville Jaguars vs Minnesota Vikings
+http://koreysteele.azureedge.net/hls/vikings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Las Vegas Raiders vs New York Jets
+http://koreysteele.azureedge.net/hls/jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Indianapolis Colts vs Houston Texans
+http://koreysteele.azureedge.net/hls/texans/playlist.m3u8
+
