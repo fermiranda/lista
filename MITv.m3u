@@ -564,7 +564,14 @@ http://l.decrackerbro7.xyz/show/vikings/playlist.m3u8
 http://l.decrackerbro7.xyz/show/jets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Indianapolis Colts vs Houston Texans
 http://l.decrackerbro7.xyz/show/texans/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Los Angeles Rams vs Arizona Cardinals
+http://l.decrackerbro7.xyz/show/cardinals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Giants vs Seattle Seahawks
+http://l.decrackerbro7.xyz/show/seahawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Philadelphia Eagles vs Green Bay Packers
+http://l.decrackerbro7.xyz/show/packers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New England Patriots vs Los Angeles Chargers 
+http://l.decrackerbro7.xyz/show/chargers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
 http://koreysteele.azureedge.net/hls/redzone/playlist.m3u8
