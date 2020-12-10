@@ -182,6 +182,8 @@ https://miap.xyz/76/serverkey.m3u8
 https://miap.xyz/80/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 https://miap.xyz/82/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+http://156.96.44.13:8081/televall2021/195_.m3u8?token=P-Wuxl8HStyYwF5yKWIfmw&expires=1607570539
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 https://miap.xyz/79/serverkey.m3u8
 #EXTINF:-1 tvg-logo="http://southimagesservice.mtvnimages.com/images/default/PCH-default.jpg" group-title="ENTRETENIMIENTO", Paramount Channel HD
