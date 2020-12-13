@@ -621,7 +621,18 @@ http://sv3.nflstream.buzz/live/Vikings/playlist.m3u8
 http://sv3.nflstream.buzz/live/Broncos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Jacksonville Jaguars
 http://sv3.nflstream.buzz/live/Titans/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Indianapolis Colts vs Las Vegas Raiders
+http://sv1.nflstream.buzz/live/Colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Seattle Seahawks
+http://sv2.nflstream.buzz/live/Jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Green Bay Packers vs Detroit Lions
+http://sv3.nflstream.buzz/live/Packers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New Orleans Saints vs Philadelphia Eagles
+http://sv5.nflstream.buzz/live/Saints/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Atlanta Falcons vs Los Angeles Chargers
+http://sv4.nflstream.buzz/live/Falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington vs San Francisco 49ers 
+http://sv6.nflstream.buzz/live/Team/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
 https://z.cantholdus.xyz/kaynakstreamradarco/nflredzone/naxi/caxi.m3u8
