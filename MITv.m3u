@@ -592,4 +592,21 @@ http://ongbak.azureedge.net/hls/panthers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Jacksonville Jaguars
 http://ongbak.azureedge.net/hls/jaguars/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
+http://vip.nflstream.buzz/live/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Houston Texans vs Chicago Bears
+http://sv2.nflstream.buzz/live/Texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Dallas Cowboys vs Cincinnati Bengals
+http://sv3.nflstream.buzz/live/Cowboys/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Miami Dolphins
+http://sv3.nflstream.buzz/live/Chiefs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Arizona Cardinals vs New York Giants
+http://sv3.nflstream.buzz/live/Cardenals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs Tampa Bay Buccaneers
+http://sv3.nflstream.buzz/live/Vikings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Denver Broncos vs Carolina Panthers
+http://sv3.nflstream.buzz/live/Broncos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Jacksonville Jaguars
+http://sv3.nflstream.buzz/live/Titans/playlist.m3u8
+
 
