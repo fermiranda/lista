@@ -573,3 +573,23 @@ http://z.decrackerbro8.xyz/show/buccaneers/playlist.m3u8
 http://z.decrackerbro8.xyz/show/panthers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Tennessee Titans vs Jacksonville Jaguars
 http://z.decrackerbro8.xyz/show/jaguars/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
+http://ongbak.azureedge.net/hls/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Houston Texans vs Chicago Bears
+http://ongbak.azureedge.net/hls/bears/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Dallas Cowboys vs Cincinnati Bengals
+http://ongbak.azureedge.net/hls/bengals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Miami Dolphins
+http://ongbak.azureedge.net/hls/dolphins/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Arizona Cardinals vs New York Giants
+http://ongbak.azureedge.net/hls/giants/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs Tampa Bay Buccaneers
+http://ongbak.azureedge.net/hls/buccaneers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Denver Broncos vs Carolina Panthers
+http://ongbak.azureedge.net/hls/panthers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Jacksonville Jaguars
+http://ongbak.azureedge.net/hls/jaguars/playlist.m3u8
+
+
