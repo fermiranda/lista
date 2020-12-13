@@ -604,6 +604,18 @@ http://ongbak.azureedge.net/hls/buccaneers/playlist.m3u8
 http://ongbak.azureedge.net/hls/panthers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Jacksonville Jaguars
 http://ongbak.azureedge.net/hls/jaguars/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Indianapolis Colts vs Las Vegas Raiders
+http://ongbak.azureedge.net/hls/raiders/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Seattle Seahawks
+http://ongbak.azureedge.net/hls/seahawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Green Bay Packers vs Detroit Lions
+http://ongbak.azureedge.net/hls/lions/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New Orleans Saints vs Philadelphia Eagles
+http://ongbak.azureedge.net/hls/eagles/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Atlanta Falcons vs Los Angeles Chargers
+http://ongbak.azureedge.net/hls/chargers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington vs San Francisco 49ers 
+http://ongbak.azureedge.net/hls/49ers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
 http://vip.nflstream.buzz/live/redzone/playlist.m3u8
