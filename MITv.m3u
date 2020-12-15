@@ -569,4 +569,15 @@ http://45.148.26.173:8081/hls/P-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Phoenix Suns 
 http://45.148.26.173:8081/hls/P-6/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Toronto Raptors
+https://3d1c1fe3e49a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.745626752528.channel.JGUD0qCci9II.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
+https://3d1c1fe3e49a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.745626752528.channel.Ay8SjYiTGKDI.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Dallas Mavericks
+https://3d1c1fe3e49a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.745626752528.channel.oqSunv57y51K.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Memphis Grizzlies
+https://3d1c1fe3e49a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.745626752528.channel.i4pJjnbjSCV8.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Phoenix Suns 
+https://3d1c1fe3e49a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.745626752528.channel.qojb8sJmLd3k.m3u8
+
 
