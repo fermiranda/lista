@@ -565,3 +565,24 @@ http://sv5.ustvnow.live/live/Bears/playlist.m3u8
 http://sv7.ustvnow.live/live/Seahawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jacksonville Jaguars vs Baltimore Ravens
 http://sv2.ustvnow.live/live/Jaguars/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL Redzone
+http://95.217.133.45:8080/hls/yrz.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Atlanta Falcons
+http://95.217.133.45:8080/hls/y6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Dallas Cowboys
+http://95.217.133.45:8080/hls/y3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Tennessee Titans
+http://95.217.133.45:8080/hls/y5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Houston Texans vs Indianapolis Colts
+http://95.217.133.45:8080/hls/y4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New England Patriots vs Miami Dolphins
+http://95.217.133.45:8080/hls/y2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Chicago Bears vs Minnesota Vikings
+http://95.217.133.45:8080/hls/y7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Seattle Seahawks vs Washington
+http://95.217.133.45:8080/hls/y8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jacksonville Jaguars vs Baltimore Ravens
+http://95.217.133.45:8080/hls/y1.m3u8
+
