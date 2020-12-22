@@ -505,3 +505,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://sv2.ustvnow.live/live/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Los Angeles Clippers
 http://sv2.ustvnow.live/live/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Golden State Warriors
+http://87.120.36.62:8080/hls/streama64171/index.m3u8?st=R8q0HcgXIt9Oht2NjXUN0g
+
