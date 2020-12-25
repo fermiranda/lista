@@ -539,4 +539,7 @@ http://kandyboekelmana.s3.amazonaws.com/lhscpg.m8
 http://sv1.ustvnow.live/live/Vikings/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
 http://52.70.159.78/live/y1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
+https://be2ad98d6b59.us-west-2.playback.live-video.net/api/video/v1/us-west-2.935354648677.channel.QipsRzuvYtA0.m3u8
+
 
