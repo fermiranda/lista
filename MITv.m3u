@@ -517,6 +517,9 @@ https://b9a38c56f6af.us-east-1.playback.live-video.net/api/video/v1/us-east-1.93
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
 http://vip.ustvnow.live/live/Buccaneers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
+http://sv1.ustvnow.live/live/49ers/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
 https://4493deesbnfe5uen.ezcdn483.net:8443/hls/t9oc0g8hw411.m3u8?s=97e-jbHD0xvRo1eUB_zqLQ&e=1609025307
