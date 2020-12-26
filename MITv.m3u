@@ -505,61 +505,15 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-http://sv1.ustvnow.live/live/Pelicans/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Golden State Warriors 
-http://sv1.ustvnow.live/live/Warriors/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-http://45.148.26.176:8081/abr/abr-K-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Dallas Mavericks
-http://d1i3f35s86o13.cloudfront.net/mystream/bucks.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-http://lll.accesscam.org/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Golden State Warriors 
-http://18.221.89.86/live/n2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Brooklyn Nets
-http://18.221.89.86/live/n2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Dallas Mavericks
-http://lll.accesscam.org/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
+http://laticiabwerleya.s3.amazonaws.com/awstnm.m8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-http://192.166.246.122/hls/ovostreamss.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Golden State Warriors 
-http://192.166.246.122/hls/ovo2.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Brooklyn Nets
-http://192.166.246.122/hls/ovostreamss.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Dallas Mavericks
-http://192.166.246.122/hls/ovostreamss.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Los Angeles Clippers
-http://192.166.246.122/hls/ovostreamss.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
+http://d1i3f35s86o13.cloudfront.net/mystream/nfl.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-https://cdn101.thatisme.xyz/hls/nbatv1/index.m3u8?st=lfYTOwNokYT70-rYuO9CGQ&e=1608927308
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Dallas Mavericks
-https://cdn103.thatisme.xyz:8443/hls/ga21/index.m3u8?st=Mk1Ck-OCKYOahxLhDJdfzQ&e=1608954217
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs New Orleans Pelicans
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/qe5out9z.m3u8?s=WSFbUggm4SehHF7FkKK3jg&e=1608939467
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Golden State Warriors 
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/s913qnlygtjwje.m3u8?s=drnaqK7s_fmFhBREgwFfcQ&e=1608945477
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Dallas Mavericks
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/s913qnlygtjwje.m3u8?s=X1hKpFix0X3PEMgFuNPU-w&e=1608961694
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
-http://kandyboekelmana.s3.amazonaws.com/lhscpg.m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
-http://sv1.ustvnow.live/live/Vikings/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
-http://52.70.159.78/live/y1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
-https://be2ad98d6b59.us-west-2.playback.live-video.net/api/video/v1/us-west-2.935354648677.channel.QipsRzuvYtA0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Minnesota Vikings vs New Orleans Saints
-http://cdn35.bestsolaris.net/edge/Vikings/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
+http://vip.ustvnow.live/live/Buccaneers/playlist.m3u8
 
 
