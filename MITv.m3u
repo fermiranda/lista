@@ -522,3 +522,11 @@ http://masionete.azureedge.net/hls/ravens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Cincinnati Bengals vs Houston Texans
 http://masionete.azureedge.net/hls/texans/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
+http://d207csbfea6pq5.cloudfront.net/stream/stream_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
+http://vip.ustvnow.live/live/Mavericks/playlist.m3u8
+
