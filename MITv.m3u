@@ -505,91 +505,20 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-http://laticiabwerleya.s3.amazonaws.com/awstnm.m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
-http://laticiabwerleya.s3.amazonaws.com/mopnzo.m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs Las Vegas Raiders
-http://laticiabwerleya.s3.amazonaws.com/lbrdrp.m8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", NFL Redzone
+http://masionete.azureedge.net/hls/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Atlanta Falcons vs Kansas City Chiefs
+http://masionete.azureedge.net/hls/chiefs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Cleveland Browns vs New York Jets
+http://masionete.azureedge.net/hls/jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Indianapolis Colts vs Pittsburgh Steelers
+http://masionete.azureedge.net/hls/steelers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Carolina Panthers vs Washington
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-http://d1i3f35s86o13.cloudfront.net/mystream/nfl.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
-http://d1i3f35s86o13.cloudfront.net/mystream/49ers.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs Las Vegas Raiders
-http://d207csbfea6pq5.cloudfront.net/stream/dolphins_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Chicago Bears vs Jacksonville Jaguars
+http://masionete.azureedge.net/hls/jaguars/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Giants vs Baltimore Ravens
+http://masionete.azureedge.net/hls/ravens/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Cincinnati Bengals vs Houston Texans
+http://masionete.azureedge.net/hls/texans/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-https://b9a38c56f6af.us-east-1.playback.live-video.net/api/video/v1/us-east-1.935354648677.channel.3SOGKOq2LkjL.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-http://vip.ustvnow.live/live/Buccaneers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
-http://sv1.ustvnow.live/live/49ers/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/t9oc0g8hw411.m3u8?s=97e-jbHD0xvRo1eUB_zqLQ&e=1609025307
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
-https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-6&anvsid=i178782968-neb719a8c-9ece-41cc-bc62-f19d35098f42&ts=1609015315&anvtrid=wa6645f7fc60a492d3aec2a8873f1f54
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/2wfv1q4hq.m3u8?s=ydUKWCqQC6PuvRW4dmmA2A&e=1609025815
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Arizona Cardinals
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/2wfv1q4hq.m3u8?s=pAH7pphgXMwSJ5ok-gqa7g&e=1609036684
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tampa Bay Buccaneers vs Detroit Lions
-https://cdn101.thatisme.xyz/hls/nfl1/index.m3u8?st=J4BSV_uCeAAigm98VOnnWw&e=1609015459
-
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Atlanta Hawks
-http://d1i3f35s86o13.cloudfront.net/mystream/grizzlies_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Oklahoma City Thunder
-http://d207csbfea6pq5.cloudfront.net/stream/thunder_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Oklahoma City Thunder
-http://d207csbfea6pq5.cloudfront.net/stream/thunder_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Cleveland Cavaliers
-http://d207csbfea6pq5.cloudfront.net/stream/cavaliers_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Washington Wizards vs Orlando Magic
-http://d207csbfea6pq5.cloudfront.net/stream/wizards_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Philadelphia 76ers
-http://d207csbfea6pq5.cloudfront.net/stream/76ers_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Indiana Pacers
-http://d207csbfea6pq5.cloudfront.net/stream/bulls_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  San Antonio Spurs vs Toronto Raptors
-http://d207csbfea6pq5.cloudfront.net/stream/raptors_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Minnesota Timberwolves
-http://d207csbfea6pq5.cloudfront.net/stream/timberwolves_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Houston Rockets
-http://d207csbfea6pq5.cloudfront.net/stream/rockets_720p30.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Sacramento Kings vs Phoenix Suns
-http://d207csbfea6pq5.cloudfront.net/stream/kings_720p30.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Atlanta Hawks
-http://vip.ustvnow.live/live/Hawks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Oklahoma City Thunder
-http://vip.ustvnow.live/live/Thunder/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Oklahoma City Thunder
-http://vip.ustvnow.live/live/Thunder/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Cleveland Cavaliers
-http://vip.ustvnow.live/live/Cavaliers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Washington Wizards vs Orlando Magic
-http://vip.ustvnow.live/live/Magic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Philadelphia 76ers
-http://vip.ustvnow.live/live/76ers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Indiana Pacers
-http://vip.ustvnow.live/live/76ers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  San Antonio Spurs vs Toronto Raptors
-http://vip.ustvnow.live/live/Raptors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Minnesota Timberwolves
-http://vip.ustvnow.live/live/Timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Houston Rockets
-http://vip.ustvnow.live/live/Rockets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Sacramento Kings vs Phoenix Suns
-http://vip.ustvnow.live/live/Suns/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Atlanta Hawks
-https://4493deesbnfe5uen.ezcdn483.net:8443/hls/ju4dx80zzg.m3u8?s=g7XSHXNYndoG5BNaRcumEA&e=1609041285
