@@ -504,6 +504,18 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", NFL Redzone
+http://lynellehduchanea.s3.amazonaws.com/vfbtbe.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Atlanta Falcons vs Kansas City Chiefs
+http://lynellehduchanea.s3.amazonaws.com/eewhli.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cleveland Browns vs New York Jets
+http://lynellehduchanea.s3.amazonaws.com/qzrnhv.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Indianapolis Colts vs Pittsburgh Steelers
+http://lynellehduchanea.s3.amazonaws.com/efqtqo.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Carolina Panthers vs Washington
+http://lynellehduchanea.s3.amazonaws.com/bdfixq.m8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Denver Broncos vs Los Angeles Chargers
+http://lynellehduchanea.s3.amazonaws.com/rrtuzz.m8
 
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", NFL Redzone
 http://masionete.azureedge.net/hls/redzone/playlist.m3u8
@@ -529,4 +541,7 @@ http://d207csbfea6pq5.cloudfront.net/stream/stream_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
 http://vip.ustvnow.live/live/Mavericks/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
+https://4493deesbnfe5uen.ezcdn483.net:8443/hls/bnurwvig3i.m3u8?s=FXSkRNoF60Utarcc-FkZdA&e=1609120872
 
