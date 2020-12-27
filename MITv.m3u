@@ -542,7 +542,10 @@ http://masionete.azureedge.net/hls/texans/playlist.m3u8
 http://sv7.ustvnow.live/live/Broncos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Carolina Panthers vs Washington
 http://sv8.ustvnow.live/live/Panthers/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Dallas Cowboys
+http://sv1.ustvnow.live/live/Rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Los Angeles Rams vs Seattle Seahawks
+http://sv1.ustvnow.live/live/Rams/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
 http://d207csbfea6pq5.cloudfront.net/stream/stream_720p30.m3u8
