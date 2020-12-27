@@ -537,6 +537,9 @@ http://masionete.azureedge.net/hls/jaguars/playlist.m3u8
 http://masionete.azureedge.net/hls/ravens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Cincinnati Bengals vs Houston Texans
 http://masionete.azureedge.net/hls/texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Denver Broncos vs Los Angeles Chargers
+http://saeedvida.azureedge.net/hls/chargers/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Denver Broncos vs Los Angeles Chargers
 http://sv7.ustvnow.live/live/Broncos/playlist.m3u8
