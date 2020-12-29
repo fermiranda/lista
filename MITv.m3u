@@ -522,3 +522,9 @@ http://azurii.azureedge.net/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Memphis Grizzlies
 http://azurii.azureedge.net/hls/nets/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Detroit Pistons
+http://192.166.246.122/hls/ovostreamss.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Memphis Grizzlies
+http://192.166.246.122/hls/ovo2.m3u8
+
+
