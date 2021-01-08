@@ -505,10 +505,19 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
 http://d13ezxi1rbl3j6.cloudfront.net/hls/pistons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
+http://d13ezxi1rbl3j6.cloudfront.net/hls/celtics/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
 https://8fb093013f2a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.990732025760.channel.qFrxLdsC4rbz.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
+https://2f87fe667d3b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.990732025760.channel.xjwIDVIpwppP.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
 http://vip1.ustvnow.live/live/Suns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
+http://vip2.ustvnow.live/live/Wizards/playlist.m3u8
+
 
