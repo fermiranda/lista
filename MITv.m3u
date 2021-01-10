@@ -503,38 +503,22 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
-http://d13ezxi1rbl3j6.cloudfront.net/hls/pistons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
-http://d13ezxi1rbl3j6.cloudfront.net/hls/celtics/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Oklahoma City Thunder
-http://d13ezxi1rbl3j6.cloudfront.net/hls/knicks/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Charlotte Hornets
-http://d13ezxi1rbl3j6.cloudfront.net/hls/pelicans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Orlando Magic
-http://d13ezxi1rbl3j6.cloudfront.net/hls/rockets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Brooklyn Nets
-http://d13ezxi1rbl3j6.cloudfront.net/hls/grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Utah Jazz
-http://d13ezxi1rbl3j6.cloudfront.net/hls/bucks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Los Angeles Clippers
-http://d13ezxi1rbl3j6.cloudfront.net/hls/warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Chicago Bulls
-http://d13ezxi1rbl3j6.cloudfront.net/hls/lakers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Toronto Raptors
-http://d13ezxi1rbl3j6.cloudfront.net/hls/kings/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
-https://8fb093013f2a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.990732025760.channel.qFrxLdsC4rbz.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
-https://2f87fe667d3b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.990732025760.channel.xjwIDVIpwppP.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
-http://vip1.ustvnow.live/live/Suns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
-http://vip2.ustvnow.live/live/Wizards/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Oklahoma City Thunder
-http://45.134.21.230/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+http://shaunglowackya.s3.amazonaws.com/vcduvz.m8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+http://sescvnmhyxza.azureedge.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+https://446aec68b5f2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.821587266083.channel.IviDWyeEmVjN.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+http://wp.highstream.club/edge/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+http://vip1.ustvnow.live/live/Ravens/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+http://acoustics.freeddns.org/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/s913qnlygtjwje.m3u8?s=XO4tykoFUS_bbyEiIRPWQA&e=1610331377
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/s913qnlygtjwje.m3u8?s=nAQAJDA7Yr-FCe7Gd9RZKA&e=1610331625
+#EXTINF:-1 tvg-logo="https://bestbetusa.com/wp-content/uploads/2021/01/nfl-wild-card-week-2021.jpg" group-title="NFL",  Baltimore Ravens vs Tennessee Titans
+https://content.uplynk.com/channel/236dcea6fe0c46ccbb5ed07ea26930dd.m3u8?cqs=w36Di-b4FxmZfkNj8fsFN55VW5dOIKlHWRvPDE92qizPawNSCrJHtfco0lgykkRdJ8Uz3Rq-w9CfvllpdgEDqPUa9gH9UYCAmc0lWmXiO97fyVOtBRBvMrRH_3MHQ_EMg6YzaAZL95aQMwMOCMhfsbgP4b4xk8-vuCvRyw24c5rQvWxuEEqaG6jF7Er9hz-rSz0p5MS9wCnvOFmg9i3sH0vDX-uq7j-Eu1IV9pMc9B2Nh-9xc-boq89FwWSCBe_7Flr5Qk9p5NdzLbu7zC_p--Mx31gTuyT_HXa1oSKM_KlHYyyDKMcmAGeZ8KiLACsnHTUazlDWgBVVSY5dz-prfYWU4kJQGSbq0d1z3K3UqULb1WXiz076b7SdqtUFllQ2DGaWx2QIfI2gdJmX54tq4NufdRquagKg4wMfYkMxcrSHKi7SYrNVADhoKNKn6DQCMKn52hSJHGKh94xDITiVmtufJG1RIug3oTsq8EuWtJWw6QbiUjwMEsSKo4Z191TdrdnfRKpHbHcAHKD7ublof_XSxeA97uXBV2jObgXRzLfzV02RD0JcwAcpBXQ1w65ZWABDgwWYcuhFyR0If3hliWZJl3X7WgvSONrw-qxAuvMDC92D_8qrjpPLapXfUg4RKKAyIdalUJC5ZscyTGXPqFxoF7ZADysNLWyiKILD8RLjtwHnihAYmlyAoCYwWLJmsCcULmZ8PbgJkNH_8-_Yd8jQcU_bqB3Oqoqfqrh46Q5CpARP_ZtA_9sOtoOxJS26JuMZjHdEGzK8Ellw7NItiO8IfT8uCSo8Pp4QglpJGdBoGwE80VnQcdnBtSZGTgzrGGPGIaUHx5q6R1CbXWL9JLHy4rn_5m9q_3ju1Iy2P0jM5mBMkPOxNgQ7DuWyeGWrhjRJR86klQpq-r-9NQfEiSHCv-D_dqwjX7sWNaZ8G0Ih1Gg3Kc6B6GNZi4mq-YtYzEoEwyeF-MVZAzd3auWlTeQmP3wF7Rp4m-VDkeQ1HZtXauUzCYzi929IX781KcBeljvYBbeoB6ZTn05ox1bINfhIfdSTeVoqjzEXKC2es9Od6ShMYnysZM__3Vx_t_iCX2WaBtWfD8PQj01Ufw9tRoLXTWy5eEui33QJ0v6uoGV1viRspMyGGpMnLSpNNtSsoioKqQHxyR9ilLfcZ1lX-bnWJu_XzA5YF0msKxSYiBEWvLjAxKzCxNZ0HK6O5yUeX-p0gjrL_gMwXsQiOTEKwmS3x3P6NVeErrLDhaB4ZMx2_wLr3FkVAYaoRpP_JpmCpqJnhX5cLX6XyBzB-Kbr-7N6xIrX9LDioWdK603PoEeqM7pD-6JNrCZH3zpOPGUx4-51lO7bM1IeB81jV7v15qP8GTKbU8wal4Z4G5wGoUa4Ow-E1wCRlgyum67aN5WekpXIzdd-8MJJXnaDwwKygEVqHxzOu8yjdL0bC9-UH5n0c3TeU3d0wvKcUiA6oiiUNw4EU_-uzwSOeiug-kN9NVoki5TMFuYzzKzTgaqMIhhgpz-KyeXZrFTKNAHqWSo9_IBsd5IktBWCn2H8zSBjSw==&kid=c5ffa5db2af24c8f8a4925ff25dd1341
 
