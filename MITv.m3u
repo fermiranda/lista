@@ -529,6 +529,10 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Dallas Mavericks
+http://d2035scmfcgw1h.cloudfront.net/stream/hornets_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Milwaukee Bucks
+http://d2035scmfcgw1h.cloudfront.net/stream/pistons_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Dallas Mavericks
 https://0962afc091c4.us-west-2.playback.live-video.net/api/video/v1/us-west-2.829389993721.channel.Frvu7pys2e0z.m3u8
