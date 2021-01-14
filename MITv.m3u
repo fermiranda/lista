@@ -545,6 +545,12 @@ https://6e04eff08487.us-east-1.playback.live-video.net/api/video/v1/us-east-1.82
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Oklahoma City Thunder vs Los Angeles Lakers
 https://6e04eff08487.us-east-1.playback.live-video.net/api/video/v1/us-east-1.829389993721.channel.rR7yMtjUQgc8.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Dallas Mavericks
+http://vip1.ustvnow.live/live/Mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Milwaukee Bucks
+http://vip2.ustvnow.live/live/Bucks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Brooklyn Nets
+http://vip1.ustvnow.live/live/Nets/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Philadelphia Flyers vs Pittsburgh Penguins
 https://hockey.shub23.net/nhl/5a611e513ca6d31abb2ad04e3c1f4696.m3u8
