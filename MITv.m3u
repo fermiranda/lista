@@ -478,6 +478,8 @@ https://cbsn-pit-cedexis.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/08/KERO-23-ABC.png" group-title="USA", ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 https://content.uplynk.com/ext/0985b030a3cd48dc92f31734a3cbd19f/201203_035948_1_wtae.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
