@@ -537,6 +537,10 @@ http://wp.highstream.club/edge/NBA11/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs New York Knicks
 http://supergame.azureedge.net/hls/celtics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs New York Knicks
+https://1fa3bd94c88c.us-west-2.playback.live-video.net/api/video/v1/us-west-2.506957380403.channel.337w3mGvnWmJ.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Pittsburgh Penguins vs Washington Capitals
 https://hockey.shub23.net/nhl/cbf1fbadb40e17abb95df7d2e28ad9cf.m3u8
