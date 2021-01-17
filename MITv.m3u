@@ -510,7 +510,14 @@ https://0b6689ca5389.us-west-2.playback.live-video.net/api/video/v1/us-west-2.04
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
-
+#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
+http://maryjaneawkia.s3.amazonaws.com/ikjmiy.m8
+#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
+http://supergame.azureedge.net/hls/chiefs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
+http://vip1.ustvnow.live/live/Browns/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
+http://f.highstream.club/live/cbs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1
 http://wp.highstream.club/edge/NBA1/chunks.m3u8
