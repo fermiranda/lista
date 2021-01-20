@@ -514,33 +514,7 @@ https://0b6689ca5389.us-west-2.playback.live-video.net/api/video/v1/us-west-2.04
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-http://maryjaneawkia.s3.amazonaws.com/ikjmiy.m8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-http://supergame.azureedge.net/hls/chiefs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-http://vip1.ustvnow.live/live/Browns/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-http://f.highstream.club/live/cbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-https://d2k8koqq4hkt2k.cloudfront.net/out/v1/32b2202be08d46268ab9cd06a267ff7b/nflconfrence.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-http://89.105.203.90:8081/0/y1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
-https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/2wfv1q4hq.m3u8?s=3UY_leripEltV7ZPKByJzw&e=1610932725
 
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-http://maryjaneawkia.s3.amazonaws.com/ppvaej.m8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-http://supergame.azureedge.net/hls/saints/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-http://f.highstream.club/live/fox/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-http://maryjaneawkia.s3.amazonaws.com/ppvaej.m8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-https://86a3f7304a11.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.506957380403.channel.Yu7D5wjmMiXH.m3u8
-#EXTINF:-1 tvg-logo="https://www.usasportsbooksites.com/wp-content/uploads/2018/01/nfl-divisional-playoffs.png" group-title="NFL", Tampa Bay Buccaneers vs New Orleans Saints
-http://vip2.ustvnow.live/live/Buccaneers/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1
@@ -565,27 +539,4 @@ http://wp.highstream.club/edge/NBA9/chunks.m3u8
 http://wp.highstream.club/edge/NBA10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 11
 http://wp.highstream.club/edge/NBA11/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs New York Knicks
-http://supergame.azureedge.net/hls/celtics/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs New York Knicks
-https://1fa3bd94c88c.us-west-2.playback.live-video.net/api/video/v1/us-west-2.506957380403.channel.337w3mGvnWmJ.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Pittsburgh Penguins vs Washington Capitals
-https://hockey.shub23.net/nhl/cbf1fbadb40e17abb95df7d2e28ad9cf.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Pittsburgh Penguins vs Washington Capitals
-https://s07.quest123.top:8088/stream/shd2472333/playlist.m3u8?id=10203&pk=235810dd6d27b93360706bbf400c5e2876779241a1af68e5a6c3c8161553140a
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Pittsburgh Penguins vs Washington Capitals
-http://denvernhl.xyz/nhl/cbf1fbadb40e17abb95df7d2e28ad9cf.m3u8
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Florida Panthers vs Chicago Blackhawks
-https://hockey.shub23.net/nhl/5a9e2955dd473451c1bb0a6edb55ac4d.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Florida Panthers vs Chicago Blackhawks
-http://denvernhl.xyz/nhl/5a9e2955dd473451c1bb0a6edb55ac4d.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Florida Panthers vs Chicago Blackhawks
-http://45.134.21.230/hls/T1.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Florida Panthers vs Chicago Blackhawks
-http://144.126.197.65/hls/A-1/playlist.m3u8
 
