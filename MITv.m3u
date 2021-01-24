@@ -533,7 +533,14 @@ https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/lrm5vk77p9c.m3u8?s=NUcXObn3qfmOde
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://cdn4.hhdstreams.club/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDExOjI2OjQ2IFBNJmhhc2hfdmFsdWU9QlFaOEg5R0cvM2REUXFDaGFuVmxCdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjY5LjU1LjY4JnN0cm1fbGVuPTU=
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
+http://bronwynjacobsmaa.s3.amazonaws.com/kghroa.m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
+http://sahimnazb.azureedge.net/hls/packers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
+https://5c3ef346c7b8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.866242572109.channel.5wreqw49gCN1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
+http://f.highstream.club/live/fox/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1
 http://wp.highstream.club/edge/NBA1/chunks.m3u8
