@@ -466,6 +466,8 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo
 https://miap.xyz/151/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://converus.com/wp-content/uploads/2017/12/20171106-WWCP-TV-FOX-8-logo-300dpi-Johnstown-Altoona-PA.png" group-title="USA", FOX 8 WWCP
+https://cdn008.teleuptv.net/o8XVqW4mQw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="USA", FOX 11 LA
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami
@@ -533,44 +535,6 @@ https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/lrm5vk77p9c.m3u8?s=NUcXObn3qfmOde
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://cdn4.hhdstreams.club/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDExOjI2OjQ2IFBNJmhhc2hfdmFsdWU9QlFaOEg5R0cvM2REUXFDaGFuVmxCdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjY5LjU1LjY4JnN0cm1fbGVuPTU=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-http://bronwynjacobsmaa.s3.amazonaws.com/vimvpd.m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-http://sahimnazb.azureedge.net/hls/buccaneers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://5c3ef346c7b8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.866242572109.channel.5wreqw49gCN1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-http://f.highstream.club/live/fox/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-http://vip2.ustvnow.live/live/Buccaneers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/bw4tn.m3u8?s=UstrfvrYwu5yjajUgbJAAg&e=1611537504
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/cocxkxsf.m3u8?s=Xy8p1h27rLRvZL4b8iJf5A&e=1611537607
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/bw4tn.m3u8?s=z5oxLtf1XD1Son6lgfI8fA&e=1611537668
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://cdn008.teleuptv.net/o8XVqW4mQw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Nfc_championship_logo.svg/1200px-Nfc_championship_logo.svg.png" group-title="NFL", TB Vs GB
-https://cdn103.thatisme.xyz:8443/hls/ch01/index.m3u8?st=WgOBYvzZmuVKSBtHawZpzQ&e=1611526998
-
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://bronwynjacobsmaa.s3.amazonaws.com/feboem.m8
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://sahimnazb.azureedge.net/hls/chiefs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://bronwynjacobsmaa.s3.amazonaws.com/uhcfpk_chiefs_hd_3000_pc.m8
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://f.highstream.club/live/cbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://vip1.ustvnow.live/live/Bills/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/md3y99o15vrpcv.m3u8?s=3B0nrEdGlyHM5EanugpgIg&e=1611551219
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-https://uzf6rk4c9hb5qszp.ezcdn462.net:8443/hls/md3y99o15vrpcv.m3u8?s=nu_bAcP-1pVjtVaBS-jWIA&e=1611552454
-#EXTINF:-1 tvg-logo="https://www.razon.com.mx/wp-content/uploads/2019/01/1200px-NFL_playoffs_logo_new.svg_.png" group-title="NFL",  BUF Vs KC
-http://192.166.246.125/hls/y2.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1
@@ -595,29 +559,5 @@ http://wp.highstream.club/edge/NBA9/chunks.m3u8
 http://wp.highstream.club/edge/NBA10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 11
 http://wp.highstream.club/edge/NBA11/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Chicago Blackhawks vs Detroit Red Wings
-https://hockey.shub23.net/nhl/89cf658fbc1b4085a3cbb155605d0915.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Washington Capitals vs Buffalo Sabres
-https://hockey.shub23.net/nhl/ed9e26655cca21c7611e2d6f7141c187.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Calgary Flames vs Toronto Maple Leafs
-https://hockey.shub23.net/nhl/12e1faa8a6c73564c7113f74949510ec.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Arizona Coyotes vs Vegas Golden Knights
-https://hockey.shub23.net/nhl/2a9a4f52093fe217d10cf80026b87034.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", New Jersey Devils vs New York Islanders
-https://hockey.shub23.net/nhl/03dcd101c785db59481530431ed43d16.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Pittsburgh Penguins vs New York Rangers
-https://hockey.shub23.net/nhl/f48124385363495dccf3f6d5f6debb49.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Anaheim Ducks vs Colorado Avalanche
-https://hockey.shub23.net/nhl/e7391866b01ad336a2993ef009f34005.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", St. Louis Blues vs Los Angeles Kings
-https://hockey.shub23.net/nhl/74bf212178acd798b7f3c25cb070f83f.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Minnesota Wild vs San Jose Sharks
-https://hockey.shub23.net/nhl/4d5a82d78ef4a59b2f88e341c638ae45.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Dallas Stars vs Nashville Predators
-https://hockey.shub23.net/nhl/4d34e508c0c9498da58f1bbe1795d525.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Winnipeg Jets vs Edmonton Oilers
-https://hockey.shub23.net/nhl/7395bf8a4e62658aeb97ef0eeaad6dd3.m3u8
-
 
 
