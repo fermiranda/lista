@@ -575,5 +575,7 @@ http://perman.azureedge.net/hls/suns/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Pittsburgh Penguins
 http://cdn2.cyclingstreams.xyz/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Pittsburgh Penguins
+https://hockey.shub23.net/nhl/338d0cf0d6bca5a8eb5175bd3bed22ae.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Buffalo Sabres vs New York Rangers
 http://cdn2.cyclingstreams.xyz/hls/T2.m3u8
