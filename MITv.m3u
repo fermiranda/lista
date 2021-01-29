@@ -574,8 +574,27 @@ http://perman.azureedge.net/hls/suns/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Pittsburgh Penguins
-http://cdn2.cyclingstreams.xyz/hls/T1.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Pittsburgh Penguins
 https://hockey.shub23.net/nhl/338d0cf0d6bca5a8eb5175bd3bed22ae.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Pittsburgh Penguins
+http://cdn2.cyclingstreams.xyz/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Buffalo Sabres vs New York Rangers
+https://hockey.shub23.net/nhl/85ae950e152acc0457baa9a260fa2519.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Buffalo Sabres vs New York Rangers
 http://cdn2.cyclingstreams.xyz/hls/T2.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  New Jersey Devils vs Philadelphia Flyers
+https://hockey.shub23.net/nhl/94335d1134f59bcfaea70242fd3b7ec9.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  New Jersey Devils vs Philadelphia Flyers
+http://178.128.3.108/hls/B-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Washington Capitals vs New York Islanders
+https://hockey.shub23.net/nhl/d150805fb4f1d3b1f9ded4812f8842df.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Washington Capitals vs New York Islanders
+http://144.126.197.65/hls/A-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Tampa Bay Lightning
+https://hockey.shub23.net/nhl/46595bb243ff34c372bd61db159b6899.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Tampa Bay Lightning
+http://144.126.197.65/hls/A-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Columbus Blue Jackets vs Florida Panthers
+https://hockey.shub23.net/nhl/71ae0fd189d9cc41391a0bbe7fd6f189.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Columbus Blue Jackets vs Florida Panthers
+http://144.126.197.65/hls/A-3/playlist.m3u8
+
