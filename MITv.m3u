@@ -590,4 +590,15 @@ http://rmailoto.azureedge.net/hls/spurs/playlist.m3u8
 http://rmailoto.azureedge.net/hls/nuggets/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  New York Rangers vs Pittsburgh Penguins
+https://hockey.shub23.net/nhl/6aed4d8795dd054d2391975062a30db4.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Washington Capitals vs Boston Bruins
+https://hockey.shub23.net/nhl/15a21db23a80f6e212ea494807116cbf.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning vs Nashville Predators
+https://hockey.shub23.net/nhl/ed902580f0aa036406c106eddcbe394c.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Vancouver Canucks
+https://hockey.shub23.net/nhl/ec825b5727bbe5f062c23629da686da0.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Winnipeg Jets vs Calgary Flames
+https://hockey.shub23.net/nhl/792b19915907bad976f2231f6f8f2641.m3u8
+
 
