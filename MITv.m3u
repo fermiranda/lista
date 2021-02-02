@@ -589,6 +589,11 @@ http://rmailoto.azureedge.net/hls/spurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Detroit Pistons 
 http://rmailoto.azureedge.net/hls/nuggets/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Los Angeles Lakers
+http://cdn4.hhdstreams.club/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MTE6MjkgQU0maGFzaF92YWx1ZT1FUkphYnVIbEtMazExS2tqMEF6dHpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNS41MCZzdHJtX2xlbj01
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Charlotte Hornets
+http://cdn6.hhdstreams.club/live/abr_ch11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjEgMTA6MTU6MDQgUE0maGFzaF92YWx1ZT1sSFVZeHVFSElLdncrVWsxcHJNeWhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNzIuNjkuNTUuMjYmc3RybV9sZW49NQ==
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  New York Rangers vs Pittsburgh Penguins
 https://hockey.shub23.net/nhl/6aed4d8795dd054d2391975062a30db4.m3u8
