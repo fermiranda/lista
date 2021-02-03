@@ -542,10 +542,7 @@ http://192.166.246.122/hls/ovostreams7.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
-#EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2020/05/11/img20200511wa0093_1.jpg" group-title="Serie del Caribe", GAMEDAY
-https://blackaddon.com/black/th.php?channel=sbsportsmediapr&f=.m3u8
-#EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2020/05/11/img20200511wa0093_1.jpg" group-title="Serie del Caribe", GAMEDAY
-https://blackaddon.com/black/th.php?channel=purakuratv&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2020/05/11/img20200511wa0093_1.jpg" group-title="Serie del Caribe", GAMEDAY
 https://blackghost.live/get/wigistream-pg3.php?id=55&f=.m3u8
 
@@ -582,34 +579,4 @@ http://d3tyrecuwxfony.cloudfront.net/NBA10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 11
 http://d3tyrecuwxfony.cloudfront.net/edge/NBA11/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Memphis Grizzlies
-http://rmailoto.azureedge.net/hls/pacers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Toronto Raptors
-http://rmailoto.azureedge.net/hls/magic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Los Angeles Clippers
-http://rmailoto.azureedge.net/hls/nets/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards Portland Trail Blazers
-http://rmailoto.azureedge.net/hls/wizards/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Detroit Pistons
-http://rmailoto.azureedge.net/hls/jazz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Boston Celtics 
-http://rmailoto.azureedge.net/hls/warriors/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Columbus Blue Jackets vs Dallas Stars
-https://hockey.shub23.net/nhl/35b8326185d0903881e9342d37521eba.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Vancouver Canucks
-https://hockey.shub23.net/nhl/4b1ce1f4f4586833d1861d0e6b7bb778.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Chicago Blackhawks vs Carolina Hurricanes
-https://hockey.shub23.net/nhl/3a4a4030169cbe9654c131c7c0686b7f.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  St. Louis Blues vs Arizona Coyotes
-https://hockey.shub23.net/nhl/8db4b52344989bc7e2e26bde75c5815b.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Winnipeg Jets vs Calgary Flames
-https://hockey.shub23.net/nhl/4bc892b8d5bb1a205f53decb11238b1e.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Colorado Avalanche vs Minnesota Wild
-https://hockey.shub23.net/nhl/b03ab7f3b3f5782f96fd4bb14f6b60b7.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Los Angeles Kings vs Anaheim Ducks
-https://hockey.shub23.net/nhl/85a19947db021c4fe84d56a25305b8fe.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Edmonton Oilers vs Ottawa Senators
-https://hockey.shub23.net/nhl/c7151190650a8cf4bb6a227b962527e1.m3u8
 
