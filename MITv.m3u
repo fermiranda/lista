@@ -468,22 +468,14 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&reba
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-#EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo
-https://miap.xyz/151/serverkey.m3u8
 #EXTINF:-1 tvg-logo="https://converus.com/wp-content/uploads/2017/12/20171106-WWCP-TV-FOX-8-logo-300dpi-Johnstown-Altoona-PA.png" group-title="USA", FOX 8 WWCP
 https://cdn008.teleuptv.net/o8XVqW4mQw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="USA", FOX 11 LA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496.m3u8
 #EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/05/KDKA_CBS_Pittsburgh_logo_web_black.png" group-title="USA", CBS KDKA PITT WEB
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230219760257896449/bRaX7o7t_400x400.jpg" group-title="USA", CBS KDKA PITT WEB
 https://cbsn-pit-cedexis.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO Web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/08/KERO-23-ABC.png" group-title="USA", ABC
@@ -495,15 +487,15 @@ https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932750132294115336/JIZUc950_400x400.jpg" group-title="USA", WPXI PITT WEB
 https://d3mza9xaqch9ab.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10080_5bbd927e-ae15-4732-b72d-5231d7a0056c_LE/in/cmg-wpxitv-hls-v3/live.m3u8?aws.sessionId=ab5bd890-4e33-4166-8656-1bf013685d71
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
-http://190.80.3.28/CW/CW.isml/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW HD
 https://jcstream.teleuptv.net/WPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW Web
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", USA Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="USA", TNT HD
-http://tv.masterplaytv.xyz:25461/live/LTN737/7647385926/35811.m3u8
+
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="NBA", TNT GAMETIME
 http://d1g76vlgc8rkj.cloudfront.net/edge/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
