@@ -542,7 +542,10 @@ http://192.166.246.122/hls/ovostreams7.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
-
+#EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2020/05/11/img20200511wa0093_1.jpg" group-title="Serie del Caribe", Dominican Republic vs. Panama
+http://d1g76vlgc8rkj.cloudfront.net/edge/NBA10/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2020/05/11/img20200511wa0093_1.jpg" group-title="Serie del Caribe", Puerto Rico vs. Mexico 
+http://d1g76vlgc8rkj.cloudfront.net/edge/NBA10/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1
 http://d1g76vlgc8rkj.cloudfront.net/edge/NBA1/chunks.m3u8
@@ -581,3 +584,11 @@ http://rmailoto.azureedge.net/hls/jazz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Boston Celtics 
 http://rmailoto.azureedge.net/hls/warriors/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Columbus Blue Jackets vs Dallas Stars
+https://hockey.shub23.net/nhl/35b8326185d0903881e9342d37521eba.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Vancouver Canucks
+https://hockey.shub23.net/nhl/4b1ce1f4f4586833d1861d0e6b7bb778.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Chicago Blackhawks vs Carolina Hurricanes
+https://hockey.shub23.net/nhl/3a4a4030169cbe9654c131c7c0686b7f.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  St. Louis Blues vs Arizona Coyotes
+https://hockey.shub23.net/nhl/8db4b52344989bc7e2e26bde75c5815b.m3u8
