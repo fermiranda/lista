@@ -591,3 +591,8 @@ http://rmailoto.azureedge.net/hls/pelicans/chunks.m3u8
 http://rmailoto.azureedge.net/hls/kings/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning vs Detroit Red Wings
+https://hockey.shub23.net/nhl/07356f21f3dd2094997ed7908602d709.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Philadelphia Flyers vs Boston Bruins
+https://hockey.shub23.net/nhl/5f914e549ac21a1ee9078625554cbe80.m3u8
+
