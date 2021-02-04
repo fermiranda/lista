@@ -622,4 +622,9 @@ https://blackghost.live/get/wigistream-pg3.php?id=43&f=.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Philadelphia Flyers vs Boston Bruins
 https://blackghost.live/get/wigistream-pg3.php?id=43&f=.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Tigres UANL vs Ulsan
+https://blackghost.live/get/wigistream-pg3.php?id=2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Tigres UANL vs Ulsan
+http://blackghost.live/get/wigiagenda.php?canal=23&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Tigres UANL vs Ulsan
+http://blackghost.live/get/wigiagenda.php?canal=11&file=.m3u8
