@@ -609,10 +609,10 @@ http://89.105.203.90:8081/-/n10/playlist.m3u8
 http://89.105.203.90:8081/-/n11/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards vs Toronto Raptors
-http://wpartym.azureedge.net/hls/wizards/playlist.m3u8
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards vs Toronto Raptors
+http://d1ie1usb7bvy5k.cloudfront.net/stream/wizards_720p30.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Atlanta Hawks
-http://wpartym.azureedge.net/hls/mavericks/playlist.m3u8
+http://d1ie1usb7bvy5k.cloudfront.net/stream/mavericks_720p30.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Indiana Pacers
 http://wpartym.azureedge.net/hls/nets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Charlotte Hornets
