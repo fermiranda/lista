@@ -662,3 +662,14 @@ https://blackghost.live/get/wigistream-pg3.php?id=9&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Bayern München vs Tigres UANL
 http://blackghost.live/play/ftvall-208.php?c=1873&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Bayern München vs Tigres UANL
+http://blackghost.live/get/wigiagenda.php?canal=26&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", Bayern München vs Tigres UANL
+http://blackghost.live/get/wigiagenda.php?canal=11&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", 
+https://blackghost.live/get/wistream3.php?canal=hd5&cat=hd&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", 
+https://blackghost.live/get/wistream3.php?canal=hd3&cat=hd&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FIFA_Club_World_Cup.png" group-title="Mundial de Clubes", 
+https://blackghost.live/get/wistream3.php?canal=br1&cat=bra&file=.m3u8
+
