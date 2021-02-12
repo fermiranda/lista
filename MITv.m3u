@@ -638,6 +638,17 @@ http://89.105.203.90:8081/-/n10/playlist.m3u8
 http://89.105.203.90:8081/-/n11/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Miami Heat
+http://bulkymediz.azureedge.net/hls/rockets/playlist.m3u8
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Toronto Raptors
+http://bulkymediz.azureedge.net/hls/celtics/playlist.m3u8
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Indiana Pacers
+http://bulkymediz.azureedge.net/hls/pistons/playlist.m3u8
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Orlando Magic
+http://bulkymediz.azureedge.net/hls/warriors/playlist.m3u8
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Philadelphia 76ers
+http://bulkymediz.azureedge.net/hls/blazers/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Miami Heat
 https://blackghost.live/get/wigistream-pg3.php?id=56&f=.m3u8
 EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Toronto Raptors
 https://blackghost.live/get/wigistream-pg3.php?id=2&f=.m3u8
