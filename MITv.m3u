@@ -181,6 +181,16 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 http://blackghost.live/play/ftvall-208.php?c=1849&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
+ http://blackghost.live/play/ftvall-208.php?c=1784&k=b1ack-gh0st&file=.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos",GALAVISION
+ http://blackghost.live/play/ftvall-208.php?c=1756&k=b1ack-gh0st&file=.m3u8
+ #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
+ http://blackghost.live/play/ftvall-208.php?c=1849&k=b1ack-gh0st&file=.m3u8
+ #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN 
+ http://blackghost.live/play/ftvall-208.php?c=47&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"group-title="Internacionales Latinos",Caracol Tv
+ http://blackghost.live/play/ftvall-208.php?c=74&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE
 https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/chunklist_w1693738655.m3u8
 #EXTINF:-1 tvg-name="weather Channel" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA", Weather Channel
