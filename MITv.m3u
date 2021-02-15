@@ -643,37 +643,3 @@ http://web.savefiless.xyz/edge/NBA10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 11
 http://web.savefiless.xyz/edge/NBA11/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 1 op2
-http://89.105.203.90:8081/-/n1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 2 op2
-http://89.105.203.90:8081/-/n2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 3 op2
-http://89.105.203.90:8081/-/n3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 4 op2
-http://89.105.203.90:8081/-/n4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 5 op2
-http://89.105.203.90:8081/-/n5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 6 op2
-http://89.105.203.90:8081/-/n6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 7 op2
-http://89.105.203.90:8081/-/n7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 8 op2
-http://89.105.203.90:8081/-/n8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 9 op2
-http://89.105.203.90:8081/-/n9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 10 op2
-http://89.105.203.90:8081/-/n10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  GAME 11 op2
-http://89.105.203.90:8081/-/n11/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Philadelphia 76ers
-http://zuchumalenge.azureedge.net/hls/suns/playlist.m3u8
-EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Indiana Pacers
-http://zuchumalenge.azureedge.net/hls/hawks/playlist.m3u8
-EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Houston Rockets
-http://zuchumalenge.azureedge.net/hls/knicks/playlist.m3u8
-EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Brooklyn Nets
-http://zuchumalenge.azureedge.net/hls/warriors/playlist.m3u8
-EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Miami Heat
-http://zuchumalenge.azureedge.net/hls/jazz/playlist.m3u8
-
