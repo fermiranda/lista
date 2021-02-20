@@ -202,29 +202,41 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=75766
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO
 http://blackghost.live/play/ftvall-219.php?c=1467&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/03sky-logo-HBO.jpg" group-title="ENTRETENIMIENTO", HBO HD
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35837
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/02sky-logo-HBO2.jpg" group-title="ENTRETENIMIENTO", HBO 2 
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=75767
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/02sky-logo-HBO2.jpg" group-title="ENTRETENIMIENTO", HBO 2 
 http://blackghost.live/play/ftvall-219.php?c=1555&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/02sky-logo-HBO2.jpg" group-title="ENTRETENIMIENTO", HBO 2 HD
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35795
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS
 http://blackghost.live/play/ftvall-219.php?c=1557&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=75768
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-HBOPLUSE.jpg" group-title="ENTRETENIMIENTO", HBO PLUS HD
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35793
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=75770
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 http://blackghost.live/play/ftvall-219.php?c=1500&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35794
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=75769
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature
 http://blackghost.live/play/ftvall-219.php?c=229&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/07sky-logo-HBOSignature.jpg" group-title="ENTRETENIMIENTO", HBO Signature HD
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35792
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 http://blackghost.live/play/ftvall-219.php?c=1536&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-
+https://blackghost.live/219/tvx.php?opcion=xtv28&c=35836
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 http://blackghost.live/play/ftvall-219.php?c=1855&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://southimagesservice.mtvnimages.com/images/default/PCH-default.jpg" group-title="ENTRETENIMIENTO", Paramount Channel HD
@@ -655,32 +667,6 @@ http://web.savefiless.xyz/edge/NBA11/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Denver Nuggets
-https://blackghost.live/get/wigistream-pg3.php?id=2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Golden State Warriors
-https://blackghost.live/get/wigistream-pg3.php?id=3&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Chicago Bulls
-https://blackghost.live/get/wigistream-pg3.php?id=44&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Atlanta Hawks
-https://blackghost.live/get/wigistream-pg3.php?id=4&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Detroit Pistons
-https://blackghost.live/get/wigistream-pg3.php?id=5&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Oklahoma City Thunder
-https://blackghost.live/get/wigistream-pg3.php?id=6&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Phoenix Suns
-https://blackghost.live/get/wigistream-pg3.php?id=7&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Dallas Mavericks
-https://blackghost.live/get/wigistream-pg3.php?id=44&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Dallas Mavericks
-https://blackghost.live/get/wigistream-pg3.php?id=36&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Dallas Mavericks
-https://blackghost.live/get/wigistream-pg3.php?id=38&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Toronto Raptors
-https://blackghost.live/get/wigistream-pg3.php?id=8&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Utah Jazz
- https://blackghost.live/get/wigistream-pg3.php?id=44&f=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Utah Jazz
-https://blackghost.live/get/wigistream-pg3.php?id=9&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Carolina Hurricanes vs Chicago Blackhawks
@@ -701,12 +687,4 @@ https://s03.quest123.top:8088/adfree/shd2472334/playlist.m3u8?id=11273&pk=d2a246
 
 
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Carolina Hurricanes vs Chicago Blackhawks
-https://blackghost.live/get/wigistream-pg3.php?id=10&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Detroit Red Wings vs Florida Panthers
-https://blackghost.live/get/wigistream-pg3.php?id=11&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Calgary Flames vs Edmonton Oilers
-https://blackghost.live/get/wigistream-pg3.php?id=12&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv", Vancouver Canucks vs Winnipeg Jets
-https://blackghost.live/get/wigistream-pg3.php?id=10&f=.m3u8
 
