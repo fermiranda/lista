@@ -589,8 +589,8 @@ https://sn01.quest123.top:8088/adfree/shd2472334/playlist.m3u8?id=11273&pk=d2a24
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 http://blackghost.live/get/wigiagenda.php?canal=29&file=.m3u8
-#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Network HD
-
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Elimination Chamber
+https://blackghost.live/get/wigistream-pg3.php?id=51&f=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", BT SPORTS 1
 http://d17dqsyl5uypr0.cloudfront.net/edge/BTS1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", BT SPORTS 1
@@ -672,6 +672,10 @@ http://77.247.109.92:8081/hls/X-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
 https://sn01.quest123.top:8088/adfree/shd2470013/playlist.m3u8?id=11277&pk=d2a246cc219a0e7ee33137de6099b432442a397807130676529d38971a01c27a
 
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
+https://hls.raino.xyz/nba/celtics.m3u8
 
 
 
