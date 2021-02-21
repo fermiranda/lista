@@ -664,7 +664,8 @@ http://web.savefiless.xyz/edge/NBA10/chunks.m3u8
 http://web.savefiless.xyz/edge/NBA11/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
+http://77.247.109.92:8081/hls/X-1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Washington Capitals vs New York Rangers
