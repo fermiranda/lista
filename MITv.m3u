@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Tijuana-en-vivo-Online.png" group-title="NACIONALES", Televisa Tijuana
-https://www.youtube.com/watch?v=yRdTzRQb9TU&ab_channel=TelevisaTijuanaOficial
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Televisa-Mexicali-en-vivo-Online-1.png" group-title="NACIONALES", Televisa Mexicali
-https://www.youtube.com/watch?v=vYYriwochEs&ab_channel=TelevisaMexicaliOficial
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-66-Mexicali-en-vivo-Online.png" group-title="NACIONALES", Canal 66 MXL
-https://www.youtube.com/watch?v=a-aIOm_zxyQ&ab_channel=Canal66
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Sintesis-TV-en-vivo-Online.png" group-title="NACIONALES", Sintesis Tv
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpkFyIvgF3xJMWcl3S41bgY5zwZbL5ZBnCxWWqMrq8ZRd-GS9HEtbbSpO0OxETrKnSo-6IzVr1HQnC20msF209H5DaiKWOIpyNSP__gU0gUWp7yUVLNxe4CGEPZGVrA-KXS6kF1SQxVbhRRHeQjFGmEqPOe_Cxxy4gPgZpk-a1_z61IwA6shoqGDfY1Rj21I9kl_mLw8B0HXkTZZzxF3fjqTxzXk321b_6mXAsFajpIfyVcDXUp_OtBIkUE8X6riaHI3hRu_l7qTn3Kpev21hI_ZVJyEd_63Iql9aNSAQx0dP-zmtrZz3dIIIwNFZH2kTYw4aZ4qVhW7kdyYZzp7HEtDDK3giu8gA8I10aSGIxsFXy2qEIxrE-Kb201z43njiobrWLHZ_tG3AWto0aKXyr3uzeUabfd5jRWXjO7Y37UEXt_mPEJ6qBDRMKvP0GPHDutwTDIcvaWizLUcwZ8IUllR5giGbJeESCUlkiMTPGZvcgG2CCp4ewEYdQxURGp60j-B7MLDknKv6_vTA8OZSo8cmKmx60yI7mFKkOPbqYAGpi9hQZsQ1_HyivWJicSP2bKHH9yplpbhBgAwD0MnGZVorlJrX5YNd1UikRh85FXHH6Vok0JDP1V70JrMOH1WY8MdoiWxUW4zn7glb4ASZPqDSp7-1txCz01bRVtwNhMcNWn6xGdhWuIyzZMPgHZPYUyC6AFCSdSBtPi61gLO6QZakGW1Gr1bOoLCGAQTgesJrDBJ94glMvnNNIEAig0J7VwUg0WvHunrS-l5uU-LmWd84wBNs22SYSsS1P-gzSCrMY9nYPJxHO9e4QXWSppxBIsyq-AAVDpcfl06h_Yh8B7-m3yHzun6LjTP7WFjgy3PjE6U1WUVDNVrEt0SEB17wKw5I7NmPRuPJIkG2YEaDIXED51BGWRFs55B4g.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara
-https://www.youtube.com/watch?v=UAZhfKolqK8
-#EXTINF:-1 tvg-name="QuieroTv GDL" tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Senal-Informativa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Noti Gdl
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY Web
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Laguna Web
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios GDL Web
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios CDMX Web
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Puebla Web
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Bajio Web
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Cd. Juarez Web
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Saltillo Web
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://blackghost.live/play/ftvall-219.php?c=135&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -109,14 +69,44 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8 
 #EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="NACIONALES", ADN 40 HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8 
-#EXTINF:-1 tvg-name="Canal 66" tvg-logo="http://canal66.tv/wp-content/uploads/2018/10/logo-med-web.png" group-title="NACIONALES", CANAL 66 MXL
-https://59802217c6db4.streamlock.net/canal66/videocanal66/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara
+https://www.youtube.com/watch?v=UAZhfKolqK8
+#EXTINF:-1 tvg-name="QuieroTv GDL" tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Senal-Informativa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Noti Gdl
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY Web
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Laguna Web
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios GDL Web
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios CDMX Web
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Puebla Web
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Bajio Web
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Cd. Juarez Web
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Saltillo Web
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="NACIONALES", TVCUATRO 4.2
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="NACIONALES", TVCUATRO 4.3
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
+https://5f1af61612fb5.streamlock.net:443/tv43/videotv43/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="NACIONALES", TVP Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="NACIONALES", TVP Obregon
