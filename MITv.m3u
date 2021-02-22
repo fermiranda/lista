@@ -133,6 +133,8 @@ https://tv.teleclub.xyz/alan/envivo-canal?server1=H2_HD&format=.m3u8
 https://blackghost.live/222/tvx.php?opcion=xtv31&c=2176
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://blackghost.live/222/tvx.php?opcion=xtv28&c=4970
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+https://blackghost.live/222/tvx.php?opcion=xtv28&c=75806
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
 http://blackghost.live/play/ftvall-222.php?c=1508&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD
@@ -595,7 +597,7 @@ https://sn01.quest123.top:8088/adfree/shd2472334/playlist.m3u8?id=11273&pk=d2a24
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
-http://blackghost.live/get/wigiagenda.php?canal=29&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Elimination Chamber
 https://blackghost.live/get/wigistream-pg3.php?id=3&f=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", BT SPORTS 1
