@@ -614,8 +614,10 @@ https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
 https://tv.teleclub.xyz/alan/envivo-canal?server1=NBATV_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 https://blackghost.live/play/tvghd-220.php?c=125_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES*", NHL Network HD
+http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=154_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Elimination Chamber
-https://blackghost.live/get/wigistream-pg3.php?id=3&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", BT SPORTS 1
 http://d17dqsyl5uypr0.cloudfront.net/edge/BTS1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", BT SPORTS 1
