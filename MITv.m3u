@@ -188,7 +188,7 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=62_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
  http://blackghost.live/play/ftvall-225.php?c=1784&k=b1ack-gh0st&file=.m3u8
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
- http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=64_&f=.m3u8
+ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=64_&f=.m3u8
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
  http://blackghost.live/play/ftvall-225.php?c=1756&k=b1ack-gh0st&file=.m3u8
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
@@ -463,7 +463,7 @@ https://blackghost.live/play/wistream-225.php?cat=latinos&ch=tudn&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 https://blackghost.live/get/wigistream-pg3.php?id=66&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN HD
-http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=205_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=205_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 http://blackghost.live/play/ftvall-225.php?c=1837&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="ESPN MX HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTES", ESPN MX HD
@@ -658,7 +658,7 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="USA Latinos", Telemundo
 http://blackghost.live/play/ftvall-225.php?c=1779&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="USA Latinos", Telemundo
-http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=48_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=48_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://converus.com/wp-content/uploads/2017/12/20171106-WWCP-TV-FOX-8-logo-300dpi-Johnstown-Altoona-PA.png" group-title="USA", FOX 8 WWCP
 https://blackghost.live/225/tvx.php?opcion=xtv35&c=272
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
@@ -749,7 +749,7 @@ http://d3nabnjexxih2r.cloudfront.net/edge/BTS3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
 http://d3nabnjexxih2r.cloudfront.net/edge/LLTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
-http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=350_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=350_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", PREMIER SPORTS 1
 http://d3nabnjexxih2r.cloudfront.net/edge/PS1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", PREMIER SPORTS 2
