@@ -435,7 +435,9 @@ https://blackghost.live/225/tvx.php?opcion=xtv35&c=379
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 
 https://blackghost.live/225/tvx.php?opcion=xtv34&c=517 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BeIN Sports 
-https://blackghost.live/225/tvx.php?opcion=xtv35&c=56 
+https://blackghost.live/225/tvx.php?opcion=xtv35&c=56
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
+https://blackghost.live/225/tvx.php?opcion=xtv33&c=1655
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png" group-title="DEPORTES", BeIN Sports La Liga 
 https://blackghost.live/225/tvx.php?opcion=xtv35&c=57
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", MOVISTAR LIGA CAMPEONES HEVC 
@@ -660,9 +662,9 @@ http://ipeteve.com/php/SR_REGIO220221/smartv.php?c=48_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://converus.com/wp-content/uploads/2017/12/20171106-WWCP-TV-FOX-8-logo-300dpi-Johnstown-Altoona-PA.png" group-title="USA", FOX 8 WWCP
 https://blackghost.live/225/tvx.php?opcion=xtv35&c=272
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
-https://blackghost.live/225/tvx.php?opcion=xtv35&c=270 
+https://blackghost.live/225/tvx.php?opcion=xtv34&c=533 
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX 5 NY
-https://blackghost.live/225/tvx.php?opcion=xtv35&c=262
+https://blackghost.live/225/tvx.php?opcion=xtv34&c=539
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO Web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
@@ -728,6 +730,8 @@ https://blackghost.live/225/tvx.php?opcion=xtv35&c=354
 https://tv.teleclub.xyz/alan/envivo-canal?server1=NBATV_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 https://blackghost.live/play/tvghd-225.php?c=125_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+https://blackghost.live/225/tvx.php?opcion=xtv34&c=600
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 https://blackghost.live/225/tvx.php?opcion=xtv35&c=312
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
