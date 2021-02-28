@@ -87,6 +87,8 @@ https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
 https://blackghost.live/229/tvx.php?opcion=xtv29&c=17
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY
@@ -107,6 +109,8 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Saltillo Web
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="NACIONALES", TVCUATRO 4.2
@@ -204,15 +208,17 @@ http://blackghost.live/play/ftvall-229.php?c=1849&k=b1ack-gh0st&file=.m3u8
  #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
  http://blackghost.live/play/ftvall-229.php?c=1849&k=b1ack-gh0st&file=.m3u8
  #EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
- https://blackghost.live/229/tvx.php?opcion=xtv34&c=697
- #EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
- https://estrellatv-roku.amagi.tv/playlist.m3u8
- #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
- https://blackghost.live/229/tvx.php?opcion=xtv31&c=2310
- #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN 
- http://blackghost.live/play/ftvall-229.php?c=47&k=b1ack-gh0st&file=.m3u8
+https://blackghost.live/229/tvx.php?opcion=xtv34&c=697
+#EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
+https://blackghost.live/229/tvx.php?opcion=xtv31&c=2310
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN 
+http://blackghost.live/play/ftvall-229.php?c=47&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"group-title="Internacionales Latinos",Caracol Tv
- http://blackghost.live/play/ftvall-229.php?c=74&k=b1ack-gh0st&file=.m3u8
+http://blackghost.live/play/ftvall-229.php?c=74&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE
 https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/chunklist_w1693738655.m3u8
 #EXTINF:-1 tvg-name="weather Channel" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA", Weather Channel
