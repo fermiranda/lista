@@ -767,6 +767,26 @@ https://blackghost.live/229/tvx.php?opcion=xtv34&c=758
 http://blackghost.live/play/ftvall-229.php?c=1856&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 https://blackghost.live/play/gt-229.php?c=1198
+#EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" group-title="USA", HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="USA", HBO (West)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852441292cinimaxeast.png" group-title="USA", Cinemax (East)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852517909cinimaxwest.png" group-title="USA", Cinemax (West)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1567774561929ShowtimeEast.png" group-title="USA", Showtime (East)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/s/Showtime_West.png" group-title="USA", Showtime (West)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Starz_West_1994.png" group-title="USA", STARZ (West)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5d/Starz_East_1994.png" group-title="USA", STARZ (East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/epix-logo-2019.png" group-title="USA", Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="USA", Epix 2 (East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
 https://blackghost.live/play/gt-229.php?c=1166
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
