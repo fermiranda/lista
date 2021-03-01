@@ -956,6 +956,14 @@ https://hls.raino.xyz/nba/pacers.m3u8
 https://hls.raino.xyz/nba/jazz.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
+http://cdn.maskamr.xyz/live/NBA1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Indiana Pacers
+http://cdn.maskamr.xyz/live/NBA2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Utah Jazz
+http://cdn.maskamr.xyz/live/NBA3/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
 https://s07.quest123.top:8088/adfree/shd2472334/playlist.m3u8?id=11273&pk=f5bebaba9929642d268e8376c0028d76c3da3e193a7272fba19f6b94cd8abc11
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Indiana Pacers
 https://s07.quest123.top:8088/adfree/shd2472612/playlist.m3u8?id=11275&pk=f5bebaba9929642d268e8376c0028d76c3da3e193a7272fba19f6b94cd8abc11
