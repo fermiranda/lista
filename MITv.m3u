@@ -568,11 +568,15 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
+https://blackghost.live/302/tvx.php?opcion=xtv29&c=215
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=75766
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://blackghost.live/play/ftvall-302.php?c=1467&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=35837
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+https://blackghost.live/302/tvx.php?opcion=xtv29&c=216
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=75767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 
@@ -580,11 +584,15 @@ http://blackghost.live/play/ftvall-302.php?c=1555&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=35795
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
+https://blackghost.live/302/tvx.php?opcion=xtv29&c=218
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 http://blackghost.live/play/ftvall-302.php?c=1557&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=75768
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS HD
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=35793
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
+https://blackghost.live/302/tvx.php?opcion=xtv29&c=217
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=75770
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -597,6 +605,8 @@ https://blackghost.live/302/tvx.php?opcion=xtv28&c=75769
 http://blackghost.live/play/ftvall-302.php?c=229&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature HD
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=35792
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+https://blackghost.live/302/tvx.php?opcion=xtv29&c=219
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 https://blackghost.live/302/tvx.php?opcion=xtv28&c=35783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
