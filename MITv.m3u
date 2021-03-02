@@ -530,7 +530,11 @@ https://blackghost.live/302/tvx.php?opcion=xtv31&c=3667
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/220px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Arab
 https://live-ng-01.more.tv/hls/UFC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 
-https://blackghost.live/302/tvx.php?opcion=xtv34&c=517 
+https://blackghost.live/302/tvx.php?opcion=xtv34&c=517
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="DEPORTES", BEIN SPORTS Ñ
+https://blackghost.live/play/tlvall-302.php?c=1844&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="DEPORTES", BEIN SPORTS HD
+https://blackghost.live/play/tlvall-302.php?c=1844&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BeIN Sports 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
