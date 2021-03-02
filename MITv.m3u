@@ -195,10 +195,12 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 #EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="MVS TV SD" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV 6.4
+#EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-name="MVS TV SD" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV 6.4
+#EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
+https://blackghost.live/play/tlvall-302.php?c=129&f=.m3u8
 #EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
 https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOAqmr3wza3uf0TyfwzcgK34T4-8PP-4u3CamaTqW6uDL)/p/dm/3/x6t7n6t/live.m3u8
 #EXTINF:-1 tvg-name="Cananl 21" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="NACIONALES", Canal 21.1
