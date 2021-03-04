@@ -513,12 +513,20 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=185&f=HLSAD&s=zec
 https://blackghost.live/302/tvx.php?opcion=xtv31&c=2571
 #EXTINF:-1 tvg-name="ExcelsiorTv" tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv
 http://blackghost.live/play/ftvall-302.php?c=237&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-name="Milenio SD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
+#EXTINF:-1 tvg-name="ExcelsiorTv" tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-name="Milenio" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-name="Milenio" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
 #EXTINF:-1 tvg-name="Teleformula" tvg-logo="http://1.bp.blogspot.com/-gXlkdRL4J-Y/UBNVnUzx8OI/AAAAAAAANhM/HidV4reyALY/s71/teleformula.PNG" group-title="NOTICIAS", Teleformula Web
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 #EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
@@ -526,7 +534,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLSAD&s=ze
 #EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
 https://blackghost.live/play/tlvall-302.php?c=129&f=.m3u8
 #EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
-https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOAqmr3wza3uf0TyfwzcgK34T4-8PP-4u3CamaTqW6uDL)/p/dm/3/x6t7n6t/live.m3u8
+https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPyXRr48OcouqVyuDECgDz2pfH-A2FvZZMHBr1JN9k8R)/p/dm/3/x6t7n6t/live.m3u8
 #EXTINF:-1 tvg-name="Cananl 21" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="NACIONALES", Canal 21.1
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="Cananl 22.1" tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="NACIONALES", Canal 22.1
