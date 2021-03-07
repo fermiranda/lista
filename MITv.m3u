@@ -875,6 +875,8 @@ http://blackghost.live/play/ftvall-305.php?c=83&k=b1ack-gh0st&file=.m3u8
 https://blackghost.live/305/tvx.php?opcion=xtv34&c=616 
 #EXTINF:-1 tvg-logo="http://media.ufc.tv/generated_images_sorted/NewsArticle/U/ufc-network-senal-abierta-2-3-4-de-octubre/ufc-network-senal-abierta-2-3-4-de-octubre_563180_OpenGraphImage.png" group-title="DEPORTES", UFC NETWORK USA 
 https://blackghost.live/305/tvx.php?opcion=xtv34&c=1122
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
+http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass FHD
@@ -1075,10 +1077,12 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 https://blackghost.live/305/tvx.php?opcion=xtv27&c=1269
-#EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) Multi
+#EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA)
 https://blackghost.live/305/tvx.php?opcion=xtv34&c=520
+#EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA)
+http://164.68.124.111/fs2.m3u8?token:null
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
-
+http://164.68.124.111/espn2.m3u8?token=null
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
