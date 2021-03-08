@@ -1590,11 +1590,11 @@ http://d30tanlvqcri6.cloudfront.net/stream/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://futbolete.com/fanaticadas/wp-content/uploads/2021/03/nba-all-stars.png" group-title="NBA", NBA ALL-STARS GAME
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idh7zq2id42h/b/bucket-20210227-1637/o/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://futbolete.com/fanaticadas/wp-content/uploads/2021/03/nba-all-stars.png" group-title="NBA", NBA ALL-STARS GAME
-http://89.248.170.107:8081/hls/S-1_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjEgMTE6MTA6MTYgUE0maGFzaF92YWx1ZT12MUEzSzl5K0xBaUFUTzI5N21YV2xBPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTEy
-#EXTINF:-1 tvg-logo="https://futbolete.com/fanaticadas/wp-content/uploads/2021/03/nba-all-stars.png" group-title="NBA", NBA ALL-STARS GAME
 http://stream.nbaweb.xyz/hls/F1.m3u8
 #EXTINF:-1 tvg-logo="https://futbolete.com/fanaticadas/wp-content/uploads/2021/03/nba-all-stars.png" group-title="NBA", NBA ALL-STARS GAME
 http://dougmaingi.azureedge.net/hls/tnt/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://futbolete.com/fanaticadas/wp-content/uploads/2021/03/nba-all-stars.png" group-title="NBA", NBA ALL-STARS GAME
+http://89.248.170.107:8081/hls/S-1_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjEgMTE6MTA6MTYgUE0maGFzaF92YWx1ZT12MUEzSzl5K0xBaUFUTzI5N21YV2xBPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTEy
 
 
 
