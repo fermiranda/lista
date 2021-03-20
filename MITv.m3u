@@ -1271,7 +1271,25 @@ https://blackghost.live/get/wistream7.php?canal=14&file=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs San Antonio Spurs
-http://d1m31bdfm9ntr9.cloudfront.net/mylive/cavaliers_720p30.m3u8
+http://kotelnikovartem.azureedge.net/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Sacramento Kings
+http://kotelnikovartem.azureedge.net/hls/celtics/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Indiana Pacers
+http://kotelnikovartem.azureedge.net/hls/heat/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Brooklyn Nets
+http://kotelnikovartem.azureedge.net/hls/magic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Utah Jazz
+http://kotelnikovartem.azureedge.net/hls/raptors/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Detroit Pistons
+http://kotelnikovartem.azureedge.net/hls/rockets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Golden State Warriors
+http://kotelnikovartem.azureedge.net/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Chicago Bulls
+http://kotelnikovartem.azureedge.net/hls/nuggets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Minnesota Timberwolves
+http://kotelnikovartem.azureedge.net/hls/suns/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Dallas Mavericks
+http://kotelnikovartem.azureedge.net/hls/blazers/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs San Antonio Spurs
