@@ -284,6 +284,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
+https://blackaddon.com/play/play-318.php?c=a01g&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 https://blackghost.live/play/wistream-318.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 http://38.18.237.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -337,6 +339,8 @@ https://blackghost.live/318/tvx.php?opcion=xtv33&c=1544
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel 
 https://blackghost.live/play/tlvall-318.php?c=1543&f=.m3u8
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
+https://blackaddon.com/play/play-318.php?c=a006&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
 https://blackghost.live/play/tlvall-318.php?c=146&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
@@ -369,8 +373,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=zec
 https://blackghost.live/318/tvx.php?opcion=xtv33&c=1548
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal HD
 https://blackghost.live/play/wistream-318.php?cat=latinos&ch=studiouniversal&k=black-ghost&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
+https://blackaddon.com/play/play-318.php?c=a041&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT FHD
 https://blackghost.live/318/tvx.php?opcion=xtv31&c=953
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT FHD
