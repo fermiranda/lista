@@ -1281,7 +1281,18 @@ https://sn03.quest123.top:8088/adfree/shd2472423/playlist.m3u8?id=11274&pk=f5beb
 https://sn03.quest123.top:8088/adfree/shd2472612/playlist.m3u8?id=11275&pk=f5bebaba9929642d268e8376c0028d76c3da3e193a7272fba19f6b94cd8abc11
 
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Denver Nuggets
+http://manatiback.azureedge.net/hls/magic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Washington Wizards
+http://manatiback.azureedge.net/hls/knicks/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Los Angeles Lakers
+http://manatiback.azureedge.net/hls/pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Phoenix Suns
+http://manatiback.azureedge.net/hls/heat/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Philadelphia 76ers
+http://manatiback.azureedge.net/hls/warriors/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Brooklyn Nets
+http://manatiback.azureedge.net/hls/blazers/chunks.m3u8
 
 
 
