@@ -754,6 +754,8 @@ https://blackghost.live/325/tvx.php?opcion=xtv34&c=651
 https://blackghost.live/325/tvx.php?opcion=xtv34&c=542
 #EXTINF:-1 tvg-name="ACTION SPORTS" tvg-logo="https://media.merchantcircle.com/8046455/action%20logo%20jpeg_full.jpeg" group-title="DEPORTES", ACTION SPORTS
 https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/16x9/full/180/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-medium16x9_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png" group-title="DEPORTES", 380|EDGE Sport 
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-name="ADSPORTS 1" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/93/69/69/936969b91a00ab6fc520e7b5b7630e21.jpg" group-title="DEPORTES", ADSPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-name="ADSPORTS 2" tvg-logo="https://pbs.twimg.com/media/DFbiT91XoAArm0_.png" group-title="DEPORTES", ADSPORTS 2
