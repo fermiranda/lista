@@ -883,8 +883,8 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 https://blackghost.live/325/tvx.php?opcion=xtv34&c=732
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC Miami HD
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603.m3u8
-#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Dallas
-
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC 
+https://blackghost.live/325/tvx.php?opcion=xtv34&c=601
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
 https://blackghost.live/play/gt-325.php?c=1190
 #EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="USA Latinos",Telemundo San Diego
