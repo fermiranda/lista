@@ -965,8 +965,10 @@ https://blackghost.live/play/gt-328.php?c=1208
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758.m3u8
-#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", USA Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 http://blackghost.live/play/ftvall-328.php?c=1856&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
+https://blackghost.live/328/tvx.php?opcion=xtv31&c=381
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 https://blackghost.live/play/gt-328.php?c=1198
 #EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" group-title="USA", HBO (East)
