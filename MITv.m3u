@@ -25,14 +25,14 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2246&f=HLSAD&s=ze
 http://23.237.22.162:8081/live/CANAL-5/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 https://blackghost.live/328/tvx.php?opcion=xtv34&c=681
-#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 HD
-http://blackghost.live/play/ftvall-328.php?c=134&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5*
+http://23.237.54.42/hls/CANAL5MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 http://23.237.29.98:2095/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE HD
 https://blackghost.live/328/tvx.php?opcion=xtv34&c=719
-#EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
-http://blackghost.live/play/ftvall-328.php?c=1541&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE*
+http://23.237.54.42/hls/CANAL9MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2248&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
@@ -53,8 +53,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1870&f=HLSAD&s=ze
 https://blackghost.live/328/tvx.php?opcion=xtv31&c=2328
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 https://blackghost.live/328/tvx.php?opcion=xtv34&c=678
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-http://blackghost.live/play/ftvall-328.php?c=136&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno*
+http://23.237.54.42/hls/AZTECA1MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD
@@ -67,16 +67,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1931&f=HLSAD&s=ze
 http://38.18.238.35:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
-http://blackghost.live/play/ftvall-328.php?c=1877&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7*
+http://23.237.54.42/hls/AZTECA7MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV HD
 
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8  
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
-http://blackghost.live/play/ftvall-328.php?c=130&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV*
+http://23.237.54.42/hls/IMAGENTVMX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+ Noroeste
@@ -389,8 +389,8 @@ https://blackghost.live/328/tvx.php?opcion=xtv31&c=953
 https://blackghost.live/328/tvx.php?opcion=xtv32&c=1760
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT*
+http://23.237.54.42/hls/TNTMX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://blackghost.live/play/ftvall-328.php?c=1472&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES 
