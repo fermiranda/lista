@@ -1244,19 +1244,21 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", MLB 746 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Colorado Rockies vs Los Angeles Dodgers MLB.tv USA (CH-6)
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Miami Marlins vs Tampa Bay Rays*
 https://blackghost.live/play/daddy-330.php?canal=6&file=.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Los Angeles Angels vs Chicago White Sox NBCS Chicago (CH-15)
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Colorado Rockies vs Los Angeles Dodgers*
+https://blackghost.live/play/daddy-330.php?canal=6&file=.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Los Angeles Angels vs Chicago White Sox*
 https://blackghost.live/play/daddy-330.php?canal=15&file=.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Oakland Athletics vs Houston Astros beIN SPORTS English 3 (CH-46)
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Oakland Athletics vs Houston Astros*
 https://blackghost.live/play/daddy-330.php?canal=46&file=.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Seattle Mariners vs San Francisco Giants NBCS Bay Area (CH-22)
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Seattle Mariners vs San Francisco Giants*
 https://blackghost.live/play/daddy-330.php?canal=22&file=.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", San Diego Padres vs Arizona Diamondbacks AFN Sports USA (CH-23)
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", San Diego Padres vs Arizona Diamondbacks*
 https://blackghost.live/play/daddy-330.php?canal=23&file=.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Miami Marlins vs Tampa Bay Rays
+https://blackghost.live/330/tvx.php?opcion=xtv34&c=736
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Colorado Rockies vs Los Angeles Dodgers  
 https://blackghost.live/330/tvx.php?opcion=xtv34&c=736
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Los Angeles Angels vs Chicago White Sox 
