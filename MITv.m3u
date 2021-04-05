@@ -28,11 +28,11 @@ https://blackghost.live/400/tvx.php?opcion=xtv34&c=681
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5*
 http://23.237.54.42/hls/CANAL5MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
-http://23.237.29.98:2095/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE HD
 https://blackghost.live/400/tvx.php?opcion=xtv34&c=719
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE*
-http://23.237.29.98:2095/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://23.237.54.42/hls/CANAL9MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2248&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
@@ -70,7 +70,7 @@ http://38.18.238.35:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7*
 http://23.237.54.42/hls/AZTECA7MX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV HD
-https://blackghost.live/play/17-400.php?c=194099
+
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8  
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
@@ -499,10 +499,12 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=foxmovies&k=black-g
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=golden&k=black-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS 
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=goldenplus&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS
+https://blackghost.live/play/25-400.php?c=61944
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE 
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=goldenedge&k=black-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier HD
-
+https://blackghost.live/play/25-400.php?c=61945
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
