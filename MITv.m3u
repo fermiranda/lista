@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-http://38.18.238.42:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://blackghost.live/play/ftvall-400.php?c=135&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -16,7 +16,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
 http://23.237.54.42/hls/LASESTRELLASMX.m3u8|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-http://38.18.238.42:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -64,7 +64,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=317&f=HLSAD&s=zec
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1931&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
-http://38.18.238.35:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7*
@@ -158,9 +158,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://38.18.238.35:2095/andromeda/HISTORY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-http://38.18.238.20:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://blackghost.live/400/tvx.php?opcion=xtv35&c=235063550
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -176,7 +176,7 @@ https://blackghost.live/400/tvx.php?opcion=xtv32&c=9958
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
 http://blackghost.live/play/wistream-400.php?cat=latinos&ch=history2&k=black-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://38.18.238.35:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://blackaddon.com/play/play-400.php?c=a03m&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
@@ -188,7 +188,7 @@ https://blackghost.live/400/tvx.php?opcion=xtv31&c=2143
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO FHD
 https://blackghost.live/400/tvx.php?opcion=xtv31&c=2133
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
-http://38.18.238.20:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
@@ -248,7 +248,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 http://38.18.238.35:2095/0000/CH=%C2%A0PR-WLII/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
-http://38.18.238.35:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
@@ -256,15 +256,15 @@ https://blackghost.live/400/tvx.php?opcion=xtv34&c=668
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
 http://blackghost.live/play/ftvall-400.php?c=1784&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
-http://38.18.238.35:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
 https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
-http://38.18.238.35:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
-http://38.18.238.35:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO East
 https://blackghost.live/400/tvx.php?opcion=xtv30&c=16234
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO West
@@ -294,13 +294,13 @@ https://blackghost.live/play/25-400.php?c=61946
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 https://blackghost.live/play/wistream-400.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
-http://38.18.237.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 https://blackghost.live/play/25-400.php?c=61977
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD
 https://blackghost.live/400/tvx.php?opcion=xtv32&c=1744
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-http://38.18.238.35:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 
 http://23.237.22.162:8081/live/la-HBO-2/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 
@@ -308,7 +308,7 @@ https://blackghost.live/play/25-400.php?c=61947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 https://blackghost.live/400/tvx.php?opcion=xtv32&c=1745
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
-http://38.18.238.35:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 https://blackghost.live/400/tvx.php?opcion=xtv32&c=1747
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
@@ -316,7 +316,7 @@ https://blackghost.live/play/25-400.php?c=61970
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS HD
 https://blackghost.live/play/codeplus1-400.php?c=634|User-Agent=grupotelegrancruel
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 https://blackghost.live/play/codeplus1-400.php?c=35162|User-Agent=grupotelegrancruel
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -428,7 +428,7 @@ http://blackghost.live/play/ftvall-400.php?c=142&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
 http://blackghost.live/play/ftvall-400.php?c=177&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
-http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 http://blackghost.live/play/ftvall-400.php?c=432&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
@@ -444,7 +444,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=2b6
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax 
 http://23.237.22.162:8081/live/la-cinemax/playlist.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax 
-http://38.18.238.35:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 https://blackghost.live/play/25-400.php?c=61968
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
@@ -456,7 +456,7 @@ https://blackghost.live/play/wistream-400.php?cat=latinos&ch=cinecanal&k=black-g
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://blackghost.live/play/ftvall-400.php?c=1482&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
-http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal FHD
 https://blackghost.live/play/25-400.php?c=61937
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal FHD
@@ -1363,24 +1363,6 @@ http://cdn.maskamr.xyz/live/NBA10/chunks.m3u8
 http://cdn.maskamr.xyz/live/NBA11/chunks.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Orlando Magic
-http://daniel.azureedge.net/hls/nuggets/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Orlando Magic*
-https://blackghost.live/play/daddy-400.php?canal=23&file=.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Calgary Flames vs Toronto Maple Leafs (TSN4 Canada ) 
-https://blackghost.live/play/daddy-400.php?canal=5&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Winnipeg Jets vs Vancouver Canucks (TSN3 Canada ) 
-https://blackghost.live/play/daddy-400.php?canal=7&file=.m3u8
 
 
 
