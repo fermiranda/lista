@@ -195,6 +195,27 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecp
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel HD
 
+
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2012/05/01/cropped/696/696/center/dvd-la-chica-del-dragon-tatuado.jpg" group-title="PELICULAS" , La Chica Del Dragon Tatuado 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Suspenso/La%20Chica%20Del%20Dragon%20Tatuado.mp4
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  VIAJE 2: LA ISLA MISTERIOSA 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Aventura/VIAJE%202:%20LA%20ISLA%20MISTERIOSA.mkv 
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  VOLVER AL FUTURO 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Aventura/VOLVER%20AL%20FUTURO.mkv 
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  VOLVER AL FUTURO III 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Aventura/VOLVER%20AL%20FUTURO%20III.mkv
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  Harry Potter y las reliquias de la muerte - Parte I 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Aventura/Harry%20Potter%20y%20las%20reliquias%20de%20la%20muerte%20-%20Parte%20I.mkv
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  Harry Potter y las reliquias de la muerte - Parte II 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Aventura/Harry%20Potter%20y%20las%20reliquias%20de%20la%20muerte%20-%20Parte%20II.mkv
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  8 Minutos Antes De Morir 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Suspenso/8%20Minutos%20Antes%20De%20Morir.mp4
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  INFRAMUNDO 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/INFRAMUNDO.mkv
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS",  INFRAMUNDO: EL DESPERTAR 
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/INFRAMUNDO:%20EL%20DESPERTAR.mkv
+
+
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", CINE WMS
