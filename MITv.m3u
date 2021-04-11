@@ -1187,7 +1187,12 @@ http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://icelz.s3.amazonaws.com/espn/espn.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Chicago Cubs @ Pittsburgh Pirates
+http://152.89.62.111:8080/live/Duff/Duff/219441.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB BG", MLB 720 
 https://blackghost.live/402/tvx.php?opcion=xtv34&c=570
