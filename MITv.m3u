@@ -565,8 +565,8 @@ http://45.71.202.210:50000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
 http://blackghost.live/play/ftvall-405.php?c=431&k=b1ack-gh0st&file=.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="PRUEBA", MARQUEE SPORTS NETWORK
+http://yt.findsports.stream/ustv.php?ch=marquee
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Prelims
 https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Main
