@@ -565,8 +565,7 @@ http://45.71.202.210:50000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
 http://blackghost.live/play/ftvall-405.php?c=431&k=b1ack-gh0st&file=.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="PRUEBA", MARQUEE SPORTS NETWORK
-http://yt.findsports.stream/ustv.php?ch=marquee
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Prelims
 https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Main
@@ -1190,8 +1189,7 @@ http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", San Diego Padres @ Pittsburgh Pirates
-http://152.89.62.111:8080/live/Duff/Duff/219865.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", MLB 720 
@@ -1412,413 +1410,296 @@ http://cdn.maskamr.xyz/live/NBA10/chunks.m3u8
 http://cdn.maskamr.xyz/live/NBA11/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Los Angeles Lakers
-http://crack.azzcrackstream.xyz/streams/Knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Philadelphia 76ers
-http://crack.azzcrackstream.xyz/streams/Mavericks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs San Antonio Spurs
-http://crack.azzcrackstream.xyz/streams/Magic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Brooklyn Nets
-http://crack.azzcrackstream.xyz/streams/Timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Chicago Bulls
-http://crack.azzcrackstream.xyz/streams/Grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Sacramento Kings
-http://crack.azzcrackstream.xyz/streams/Pelicans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Washington Wizards
-http://crack.azzcrackstream.xyz/streams/Jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Denver Nuggets
-http://crack.azzcrackstream.xyz/streams/Warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Houston Rockets
-http://crack.azzcrackstream.xyz/streams/Suns/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Los Angeles Lakers*
-https://blackghost.live/play/daddy-405.php?canal=14&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Philadelphia 76ers*
-https://blackghost.live/play/daddy-405.php?canal=82&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs San Antonio Spurs*
-https://blackghost.live/play/daddy-405.php?canal=15&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Brooklyn Nets*
-https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Chicago Bulls*
-https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Sacramento Kings*
-https://blackghost.live/play/daddy-405.php?canal=18&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Washington Wizards*
-https://blackghost.live/play/daddy-405.php?canal=19&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Denver Nuggets*
-https://blackghost.live/play/daddy-405.php?canal=44&file=.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Houston Rockets*
-https://blackghost.live/play/daddy-405.php?canal=20&file=.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Detroit Red Wings
-https://hockey.shub23.net/nhl/a037c5d6670392aa1ee3ce324184bd9c.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Toronto Maple Leafs
-https://hockey.shub23.net/nhl/f00681b571fec31f6efead3af2866668.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Ottawa Senators vs Winnipeg Jets
-https://hockey.shub23.net/nhl/5b65dd2e892a4a4904385530567821f0.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Chicago Blackhawks vs Columbus Blue Jackets
-https://hockey.shub23.net/nhl/7331bfbfaf3a58fc00293e5c36463cce.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Minnesota Wild vs St. Louis Blues PPD
-https://hockey.shub23.net/nhl/0.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Colorado Avalanche vs Arizona Coyotes
-https://hockey.shub23.net/nhl/6f4defa833dc9321e7b3c5405c44cbad.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Edmonton Oilers vs Vancouver Canucks
-https://hockey.shub23.net/nhl/-.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Los Angeles Kings vs Vegas Golden Knights
-https://hockey.shub23.net/nhl/8890376ce45eb4154e34dc9822156366.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  San Jose Sharks vs Anaheim Ducks
-https://hockey.shub23.net/nhl/411404f3fb8dc428c433b8c9643239e0.m3u8
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Detroit Red Wings
-https://blackghost.live/play/daddy-405.php?canal=21&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Toronto Maple Leafs
-https://blackghost.live/play/daddy-405.php?canal=22&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Ottawa Senators vs Winnipeg Jets
-https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Minnesota Wild vs St. Louis Blues PPD
-https://blackghost.live/play/daddy-405.php?canal=24&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Colorado Avalanche vs Arizona Coyotes
-https://blackghost.live/play/daddy-405.php?canal=25&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Edmonton Oilers vs Vancouver Canucks
-https://blackghost.live/play/daddy-405.php?canal=26&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Los Angeles Kings vs Vegas Golden Knights
-https://blackghost.live/play/daddy-405.php?canal=27&file=.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  San Jose Sharks vs Anaheim Ducks
-https://blackghost.live/play/daddy-405.php?canal=28&file=.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monday 12th April 2021- Schedule
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Tuesday 13th April 2021- Schedule Time UK GMT+1
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Soccer
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   CAF Confederation Cup : Salitas vs ASC Diaraf beIN Sports HD 4  
-https://blackghost.live/play/daddy-405.php?canal=94&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Super Lig : Kasımpaşa vs Yeni Malatyaspor beIN SPORTS 1 Turkey  
-https://blackghost.live/play/daddy-405.php?canal=62&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   1South Africa DStv Premiership : Chippa United vs Mamelodi Sundowns SuperSport PSL 
-https://blackghost.live/play/daddy-405.php?canal=1&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Romania Liga I : CSMS Iaşi vs Hermannstadt Digi Sport 1 Romania  
-https://blackghost.live/play/daddy-405.php?canal=2&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Palestine West Bank League - Jabal El Mokaber vs Mosaset AL Bireh Palestine Sport  
-https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Super Lig : Alanyaspor vs Denizlispor beIN SPORTS 2 Turkey  
-https://blackghost.live/play/daddy-405.php?canal=63&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Super Lig : Fenerbahçe vs Gaziantepspor beIN SPORTS USA  
-https://blackghost.live/play/daddy-405.php?canal=3&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Super Lig : Fenerbahçe vs Gaziantepspor  beIN SPORTS 1 Turkey  
-https://blackghost.live/play/daddy-405.php?canal=62&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Super Lig : Fenerbahçe vs Gaziantepspor  Sport TV2 Portugal  
-https://blackghost.live/play/daddy-405.php?canal=74&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Super Lig : Fenerbahçe vs Gaziantepspor  Sport Klub HD Serbia  
-https://blackghost.live/play/daddy-405.php?canal=55&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bosnia and Herzegovina Premijer Liga : Velež vs Sarajevo Arena Sport 2 Croatia  
-https://blackghost.live/play/daddy-405.php?canal=4&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Poland Ekstraklasa : Piast Gliwice vs Górnik Zabrze Canal+ Sport Poland  
-https://blackghost.live/play/daddy-405.php?canal=48&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Russia Premier League : CSKA Moskva vs Rotor Volgograd Match Premier Russia  
-https://blackghost.live/play/daddy-405.php?canal=5&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Greece Super League : PAS Giannina vs Lamia NovaSports 1 Greece HD  
-https://blackghost.live/play/daddy-405.php?canal=25&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bulgaria Parva Liga : Beroe vs Etar Diema Sport Bulgaria  
-https://blackghost.live/play/daddy-405.php?canal=6&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Portugal LigaPro : Academico Viseu vs Vizela Sport TV3 Portugal  
-https://blackghost.live/play/daddy-405.php?canal=7&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany 3. Liga : Meppen vs Wehen Wiesbaden Magenta Sport  
-https://blackghost.live/play/daddy-405.php?canal=8&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Denmark Super Liga : Lyngby vs AaB TV3 Denmark 
-https://blackghost.live/play/daddy-405.php?canal=9&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton NBCSN  
-https://blackghost.live/play/daddy-405.php?canal=43&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  Sky Sports Main Event 
-https://blackghost.live/play/daddy-405.php?canal=38&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  beIN SPORTS English 1 
-https://blackghost.live/play/daddy-405.php?canal=61&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  Sky Sport 2 HD Germany 
-https://blackghost.live/play/daddy-405.php?canal=10&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  Sport TV1 Portugal 
-https://blackghost.live/play/daddy-405.php?canal=49&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  CANAL+ Sport 2 Poland 
-https://blackghost.live/play/daddy-405.php?canal=73&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  Sport Klub 1 Serbia 
-https://blackghost.live/play/daddy-405.php?canal=101&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : West Bromwich Albion vs Southampton  beIN Sports Premium 1 
-https://blackghost.live/play/daddy-405.php?canal=98&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Israel Ligat Ha'Al : Ashdod vs Maccabi Haifa Sport 5 Israel HD 
-https://blackghost.live/play/daddy-405.php?canal=26&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Romania Liga I : Viitorul vs Gaz Metan Mediaş Digi Sport 1 Romania  
-https://blackghost.live/play/daddy-405.php?canal=2&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Netherlands - Eerste Divisie : MVV vs Roda JC ESPN 1 NL 
-https://blackghost.live/play/daddy-405.php?canal=11&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bundesliga : Hoffenheim vs Bayer Leverkusen BT Sport 1 UK  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Australia A-League : Newcastle Jets vs Perth Glory BT Sport 1 UK 
 https://blackghost.live/play/daddy-405.php?canal=31&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bundesliga : Hoffenheim vs Bayer Leverkusen  DAZN Germany  
-https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bundesliga : Hoffenheim vs Bayer Leverkusen  CANAL+ Family Poland  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Turkey 1. Lig : Tuzlaspor vs Eskişehirspor beIN Sports Max 1 Turkey 
 https://blackghost.live/play/daddy-405.php?canal=1&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo SuperSport Football  
-https://blackghost.live/play/daddy-405.php?canal=56&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo  Sky Sport Serie A IT  
-https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo  Sport TV2 Portugal  
-https://blackghost.live/play/daddy-405.php?canal=74&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo  Eleven Sports 2 Poland  
-https://blackghost.live/play/daddy-405.php?canal=72&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo  beIN SPORTS 4 Turkey  
-https://blackghost.live/play/daddy-405.php?canal=67&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Italy Serie A : Benevento vs Sassuolo  beIN SPORTS 3 HD 
-https://blackghost.live/play/daddy-405.php?canal=93&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Belgium First Division A : Mouscron-Péruwelz vs Antwerp Eleven Pro League 1  
-https://blackghost.live/play/daddy-405.php?canal=14&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   France Ligue 2 : Guingamp vs Toulouse beIN Sports 1 France  
-https://blackghost.live/play/daddy-405.php?canal=15&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   France Ligue 2 : Guingamp vs Toulouse  beIN SPORTS 3 Turkey 
-https://blackghost.live/play/daddy-405.php?canal=64&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain Segunda Division : Alcorcón vs Castellón Movistar Laliga  
-https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla LaLigaTV UK  
-https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla  Gol Spain  
-https://blackghost.live/play/daddy-405.php?canal=18&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla  CANAL+ Sport 2 Poland  
-https://blackghost.live/play/daddy-405.php?canal=73&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla  FOX Sports 1 Brasil  
-https://blackghost.live/play/daddy-405.php?canal=85&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla  Sport Klub 3 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=103&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain La Liga : Celta de Vigo vs Sevilla  beIN SPORTS 1 HD  
-https://blackghost.live/play/daddy-405.php?canal=91&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton NBCSN  
-https://blackghost.live/play/daddy-405.php?canal=43&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  Sky Sports Main Event 
-https://blackghost.live/play/daddy-405.php?canal=38&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  beIN SPORTS English 1 
-https://blackghost.live/play/daddy-405.php?canal=61&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  Sky Sport 2 HD Germany 
-https://blackghost.live/play/daddy-405.php?canal=10&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  Sport TV1 Portugal 
-https://blackghost.live/play/daddy-405.php?canal=49&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  ESPN Brasil 
-https://blackghost.live/play/daddy-405.php?canal=81&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  Sport Klub 1 Serbia 
-https://blackghost.live/play/daddy-405.php?canal=101&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Premier League : Brighton & Hove Albion vs Everton  beIN Sports Premium 1 
-https://blackghost.live/play/daddy-405.php?canal=98&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Ecuador Primera A : Orense vs Mushuc Runa GOLTV Ecuador 
-https://blackghost.live/play/daddy-405.php?canal=3&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Argentina Primera B Metropolitana : Los Andes vs Villa San Carlos TyC Sports Argentina 
-https://blackghost.live/play/daddy-405.php?canal=4&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Peru Primera Division : Melgar vs Ayacucho Gol Peru 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Czech First League : FK Pardubice vs Slovácko ČT Sport Czech Republic 
 https://blackghost.live/play/daddy-405.php?canal=2&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Argentina Primera División : Huracán vs Sarmiento Fox Sports Premium Argentina
-https://blackghost.live/play/daddy-405.php?canal=5&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Argentina Primera División : Lanús vs Newell's Old Boys TNT Sports Argentina 
-https://blackghost.live/play/daddy-405.php?canal=1&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Ecuador Primera A : Barcelona vs Aucas GOLTV USA
-https://blackghost.live/play/daddy-405.php?canal=10&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Paraguay Primera Division : Guaraní vs River Plate Tigo Sports Paraguay )
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bulgaria Second League : Sportist Svoge vs Hebar 1918 Diema Sport Bulgaria  
+https://blackghost.live/play/daddy-405.php?canal=6&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Slovak Cup: 1/4 Final: Zlate Moravce vs Žilina Sport Klub 3 Serbia  
+https://blackghost.live/play/daddy-405.php?canal=103&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Romania Liga II : Csikszereda vs FC U Craiova 1948 Digi Sport 1 Romania  
+https://blackghost.live/play/daddy-405.php?canal=30&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : Germany vs Norway NRK2 Norway  
 https://blackghost.live/play/daddy-405.php?canal=3&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Brazil Campeonato Paulista A1 : São Paulo vs RB Bragantino Sportv Brasil 
-https://blackghost.live/play/daddy-405.php?canal=78&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Argentina Primera B Nacional : Almirante Brown vs Nueva Chicago TyC Sports Argentina 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Women's Euro Qualifying : Russia vs Portugal Match Premier Russia 
 https://blackghost.live/play/daddy-405.php?canal=4&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Argentina Primera División : Atlético Tucumán vs Vélez Sarsfield Fox Sports Premium Argentina 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Women's Euro Qualifying : Russia vs Portugal  Canal 11 Portugal  
 https://blackghost.live/play/daddy-405.php?canal=5&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Colombia Primera A : Deportes Tolima vs Atlético Bucaramanga Win Sports+ 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Schweitzer Pokal : Lugano vs Luzern RSI LA 2 Switzerland  
+https://blackghost.live/play/daddy-405.php?canal=8&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Bulgarian Cup : Slavia Sofia vs Arda Diema Sport Bulgaria  
+https://blackghost.live/play/daddy-405.php?canal=6&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Turkey 1. Lig : Altınordu vs Adana Demirspor beIN Sports Max 2 Turkey  
+https://blackghost.live/play/daddy-405.php?canal=9&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Turkey 1. Lig : Giresunspor vs Keçiörengücü beIN Sports Max 1 Turkey 
 https://blackghost.live/play/daddy-405.php?canal=1&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Liga MX : Pachuca vs Puebla TUDN USA 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Cupa Romaniei : Astra vs Dinamo Bucureşti Digi Sport 1 Romania  
+https://blackghost.live/play/daddy-405.php?canal=30&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Austria 2. Liga : Amstetten vs Austria Klagenfurt ORF Sport Plus 
+https://blackghost.live/play/daddy-405.php?canal=7&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Championship : Huddersfield Town vs AFC Bournemouth iFollow 
+https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : Poland vs Sweden  TVP Sport Poland  
+https://blackghost.live/play/daddy-405.php?canal=59&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Crewe Alexandra vs Portsmouth iFollow 
+https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Wigan Athletic vs Sunderland iFollow 
+https://blackghost.live/play/daddy-405.php?canal=14&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Championship : Sheffield Wednesday vs Swansea City iFollow 
+https://blackghost.live/play/daddy-405.php?canal=15&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : Spain vs Mexico TUDN Mexico  
+https://blackghost.live/play/daddy-405.php?canal=68&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Scottish Championship : Dunfermline Athletic vs Dundee BBC Scotland 
+https://blackghost.live/play/daddy-405.php?canal=69&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   TV Show | Champions League | pre-game tv show Polsat Sport Premium 1 Poland  
+https://blackghost.live/play/daddy-405.php?canal=11&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Morecambe vs Scunthorpe United iFollow  
+https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : AFC Wimbledon vs Ipswich Town iFollow  
+https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Blackpool vs Accrington Stanley iFollow 
+https://blackghost.live/play/daddy-405.php?canal=18&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Doncaster Rovers vs Burton Albion iFollow  
+https://blackghost.live/play/daddy-405.php?canal=19&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Lincoln City vs Milton Keynes Dons iFollow  
+https://blackghost.live/play/daddy-405.php?canal=20&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Oxford United vs Shrewsbury Town iFollow  
+https://blackghost.live/play/daddy-405.php?canal=21&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League One : Rochdale vs Swindon Town iFollow  
+https://blackghost.live/play/daddy-405.php?canal=22&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Barrow vs Exeter City iFollow  
+https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Bradford City vs Crawley Town iFollow  
+https://blackghost.live/play/daddy-405.php?canal=24&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Harrogate Town vs Leyton Orient iFollow  
+https://blackghost.live/play/daddy-405.php?canal=25&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Newport County vs Carlisle United iFollow  
+https://blackghost.live/play/daddy-405.php?canal=26&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Salford City vs Bolton Wanderers iFollow  
+https://blackghost.live/play/daddy-405.php?canal=27&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England League Two : Walsall vs Tranmere Rovers iFollow  
+https://blackghost.live/play/daddy-405.php?canal=28&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   England Championship : Rotherham United vs Queens Park Rangers iFollow  
+https://blackghost.live/play/daddy-405.php?canal=29&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Women's Euro Qualifying : Switzerland vs Czech Republic ČT Sport Czech Republic 
+https://blackghost.live/play/daddy-405.php?canal=2&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : England vs Canada BBC Four UK  
+https://blackghost.live/play/daddy-405.php?canal=76&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Peru Primera Division : Cusco vs Sport Boys Gol Peru  
+https://blackghost.live/play/daddy-405.php?canal=77&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   TV Show | Champions League | pre-game tv show Polsat Sport Premium 2 Poland  
+https://blackghost.live/play/daddy-405.php?canal=5&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Austria 2. Liga : Dornbirn vs Austria Lustenau ORF Sport Plus 
+https://blackghost.live/play/daddy-405.php?canal=7&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto BT Sport 2 UK  
+https://blackghost.live/play/daddy-405.php?canal=32&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto  beIN Sports English 1  
+https://blackghost.live/play/daddy-405.php?canal=61&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto  beIN Sports English 2  
+https://blackghost.live/play/daddy-405.php?canal=90&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto  Movistar Liga de Campeones 1 
+https://blackghost.live/play/daddy-405.php?canal=4&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto  Galavision 
+https://blackghost.live/play/daddy-405.php?canal=6&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : Chelsea vs Porto  beIN Sports Premium 2  
+https://blackghost.live/play/daddy-405.php?canal=99&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : PSG vs Bayern München BT Sport 3 UK  
+https://blackghost.live/play/daddy-405.php?canal=33&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : PSG vs Bayern München Movistar Liga de Campeones  
+https://blackghost.live/play/daddy-405.php?canal=9&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : PSG vs Bayern München  TUDN USA  
 https://blackghost.live/play/daddy-405.php?canal=66&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Champions League : PSG vs Bayern München  beIN Sports Premium 1 
+https://blackghost.live/play/daddy-405.php?canal=98&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : France vs USA ESPN2 USA
+https://blackghost.live/play/daddy-405.php?canal=45&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Women's Friendly : France vs USA  beIN Sports HD 3  
+https://blackghost.live/play/daddy-405.php?canal=93&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Kuwait Premier League : Al Arabi vs Al Kuwait KTV Sport HD 
+https://blackghost.live/play/daddy-405.php?canal=30&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Portugal LigaPro : Mafra vs Casa Pia Canal 11 Portugal  
+https://blackghost.live/play/daddy-405.php?canal=51&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Ecuador Primera A : Nueve de Octubre vs Guayaquil City GOLTV Ecuador 
+https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Brazil Copa do Brasil : Cianorte vs Santa Cruz SporTV Brazil  
+https://blackghost.live/play/daddy-405.php?canal=78&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Peru Primera Division : Binacional vs Alianza Universidad Gol Peru  
+https://blackghost.live/play/daddy-405.php?canal=77&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   TV Show | Champions League | Highlights Show Polsat Sport Premium 1 Poland  
+https://blackghost.live/play/daddy-405.php?canal=11&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   CONCACAF Champions League : Atlanta United vs Alajuelense Fox Sports 1 USA  
+https://blackghost.live/play/daddy-405.php?canal=39&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Brazil Copa do Brasil : Paysandu vs CRB SporTV Brazil  
+https://blackghost.live/play/daddy-405.php?canal=78&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Liga de Expansión MX : Tlaxcala vs Mineros de Zacatecas Claro Sports 
+https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Ecuador Primera A : Olmedo vs Deportivo Cuenca GOLTV Ecuador 
+https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Argentina Primera B Nacional : San Martín Tucumán vs Chacarita Juniors TyC Sports Argentina  
+https://blackghost.live/play/daddy-405.php?canal=1&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Peru Primera Division : Sporting Cristal vs Deportivo Municipal GOLTV USA  
+https://blackghost.live/play/daddy-405.php?canal=77&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Brazil Campeonato Paulista A1 : Santo André vs São Bento Sportv3 Brasil 
+https://blackghost.live/play/daddy-405.php?canal=80&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   CONCACAF Champions League : Portland Timbers vs Marathón Fox Sports 1 USA 
+https://blackghost.live/play/daddy-405.php?canal=39&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Copa Libertadores : Santos vs San Lorenzo beIN SPORTS USA  
+https://blackghost.live/play/daddy-405.php?canal=3&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Brazil Copa do Brasil : CSA vs Remo SporTV Brazil 
+https://blackghost.live/play/daddy-405.php?canal=78&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Copa Sudamericana : Peñarol vs Cerro Largo  beIN Sports HD 4  
+https://blackghost.live/play/daddy-405.php?canal=94&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Colombia Primera A : Patriotas Boyacá vs Once Caldas Win Sports+ 
+https://blackghost.live/play/daddy-405.php?canal=4&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   CONCACAF Champions League : Cruz Azul vs Arcahaie Fox Sports 1 USA  
+https://blackghost.live/play/daddy-405.php?canal=39&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Liga de Expansión MX : Cimarrones de Sonora vs Correcaminos UAT Claro Sports  
+https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Cricket
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Twenty20 : South Africa vs Pakistan Sky Sports Cricket HD 
-https://blackghost.live/play/daddy-405.php?canal=69&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   IPL : Rajasthan Royals vs Kings XI Punjab Astro SuperSport  
-https://blackghost.live/play/daddy-405.php?canal=65&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   IPL : Rajasthan Royals vs Kings XI Punjab beIN Sports English 3  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   IPL : Kolkata Knight Riders vs Mumbai Indians  beIN Sports English 3  
 https://blackghost.live/play/daddy-405.php?canal=46&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   IPL : Rajasthan Royals vs Kings XI Punjab Star Sports 1 Hindi  
-https://blackghost.live/play/daddy-405.php?canal=84&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Tennis
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monte Carlo-ATP Early Rounds Tennis Channel 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monte Carlo-ATP Early Rounds Tennis Channel  
 https://blackghost.live/play/daddy-405.php?canal=40&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monte Carlo-ATP Early Rounds  Sport Klub 1 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=101&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monte Carlo-ATP Early Rounds  beIN Sports HD 5  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Monte-Carlo Masters, 1st & 2nd Round  beIN Sports HD 5  
 https://blackghost.live/play/daddy-405.php?canal=95&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   ATP Monte Carlo Polsat Sport Extra Poland  
-https://blackghost.live/play/daddy-405.php?canal=50&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   ATP Monte Carlo  ESPN VIVO  
-https://blackghost.live/play/daddy-405.php?canal=82&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Charleston-WTA Early Rounds  Sport Klub 2 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=102&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Motorsport
-https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Arged Malesa TŻ Ostrovia Ostrów Wielkopolski - Aforti Start Gniezno nSport+ Poland 
-https://blackghost.live/play/daddy-405.php?canal=75&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Charleston-WTA Early Rounds Tennis Channel  
+https://blackghost.live/play/daddy-405.php?canal=40&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   WWE
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   WWE Monday Night Raw BT Sport 1 UK  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Live: WWE NXT BT Sport 1 UK  
 https://blackghost.live/play/daddy-405.php?canal=31&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   WWE Monday Night Raw FOX Sports 2 Brasil  
-https://blackghost.live/play/daddy-405.php?canal=86&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Futsal
-https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    UEFA Futsal EURO Qualif Group 2 - Russia vs Georgia Match! TV Russia 
-https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   UEFA Futsal EURO Qualif, Group 6 - Spain vs Switzerland Teledeporte Spain  
-https://blackghost.live/play/daddy-405.php?canal=27&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Baseball
-https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Boston Red Sox vs Minnesota Twins MLB Network USA  
-https://blackghost.live/play/daddy-405.php?canal=19&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Boston Red Sox vs Minnesota Twins  beIN Sports 2 English HD  
-https://blackghost.live/play/daddy-405.php?canal=90&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : San Diego Padres vs Pittsburgh Pirates AT&T SportsNet Pittsburgh 
-https://blackghost.live/play/daddy-405.php?canal=6&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Seattle Mariners vs Baltimore Orioles Root Sports NW  
-https://blackghost.live/play/daddy-405.php?canal=7&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : New York Yankees vs Toronto Blue Jays BT Sport ESPN 
-https://blackghost.live/play/daddy-405.php?canal=34&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Texas Rangers vs Tampa Bay Rays MLB Feed 
-https://blackghost.live/play/daddy-405.php?canal=8&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Chicago Cubs vs Milwaukee Brewers FOX Sports 1 USA  
-https://blackghost.live/play/daddy-405.php?canal=39&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Chicago Cubs vs Milwaukee Brewers  ESPN 2 VIVO  
-https://blackghost.live/play/daddy-405.php?canal=83&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Washington Nationals vs St. Louis Cardinals MASN2 USA  
-https://blackghost.live/play/daddy-405.php?canal=2&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Los Angeles Angels vs Kansas City Royals MLB Feed 
-https://blackghost.live/play/daddy-405.php?canal=9&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Detroit Tigers vs Houston Astros AT&T Sportsnet SW Houston 
-https://blackghost.live/play/daddy-405.php?canal=11&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Cleveland Indians vs Chicago White Sox NBCS Chicago  
-https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Oakland Athletics vs Arizona Diamondbacks MLB Feed 
-https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Basketball
-https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Romania Liga Nationala - Cso Voluntari vs BC Timisoara Look Sport 2 Romania
-https://blackghost.live/play/daddy-405.php?canal=13&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Türkiye Basketbol 1. Ligi : Balikesir vs Merkezefendi TRT Spor 2 Turkey 
-https://blackghost.live/play/daddy-405.php?canal=20&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Romania Liga Nationala - Abc Athletic Constanta vs CSM CSU Oradea Look Sport 3 Romania 
-https://blackghost.live/play/daddy-405.php?canal=27&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Serbia Super League - KK Vojvodina vs KK Mladost Zemun Arena Sport 2 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=28&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Süper Ligi : Anadolu Efes vs Tofas Tivibu Spor 2 Turkey 
-https://blackghost.live/play/daddy-405.php?canal=21&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Euroleague : Zenit Petersburg vs Panathinaikos beIN Sports 3 Turkey  
-https://blackghost.live/play/daddy-405.php?canal=94&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Euroleague : Zenit Petersburg vs Panathinaikos  Polsat Sport News Poland  
-https://blackghost.live/play/daddy-405.php?canal=22&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Euroleague : Zenit Petersburg vs Panathinaikos  Sport Klub 3 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=103&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Croatia Premijer Liga - Kk Split vs KK Cibona Arena Sport 1 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=29&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Israeli League: Hapoel Jerusalem vs Maccabi Sport Klub HD Serbia 
-https://blackghost.live/play/daddy-405.php?canal=55&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : New York Knicks vs Los Angeles Lakers Spectrum SportsNet 
-https://blackghost.live/play/daddy-405.php?canal=14&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : New York Knicks vs Los Angeles Lakers Sportv3 Brasil  
-https://blackghost.live/play/daddy-405.php?canal=80&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Dallas Mavericks vs Philadelphia 76ers ESPN USA  
-https://blackghost.live/play/daddy-405.php?canal=44&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Dallas Mavericks vs Philadelphia 76ers  ESPN VIVO  
-https://blackghost.live/play/daddy-405.php?canal=82&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Orlando Magic vs San Antonio Spurs Bally Sports Florida  
-https://blackghost.live/play/daddy-405.php?canal=15&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Minnesota Timberwolves vs Brooklyn Nets Bally Sports North+  
-https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Memphis Grizzlies vs Chicago Bulls NBC Sports Chicago  
-https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : New Orleans Pelicans vs Sacramento Kings NBC Sports California 
-https://blackghost.live/play/daddy-405.php?canal=18&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Utah Jazz vs Washington Wizards NBCS Washington  
-https://blackghost.live/play/daddy-405.php?canal=19&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets ESPN USA 
-https://blackghost.live/play/daddy-405.php?canal=44&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets  beIN Sports 2 English HD  
-https://blackghost.live/play/daddy-405.php?canal=90&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets  Sky Sports Arena  
-https://blackghost.live/play/daddy-405.php?canal=36&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets  Sky Sports Main Event  
-https://blackghost.live/play/daddy-405.php?canal=38&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets  ESPN VIVO  
-https://blackghost.live/play/daddy-405.php?canal=82&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Golden State Warriors vs Denver Nuggets  beIN Sports Premium 3  
-https://blackghost.live/play/daddy-405.php?canal=100&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Phoenix Suns vs Houston Rockets Fox Sport Arizona  
-https://blackghost.live/play/daddy-405.php?canal=20&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Handball
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Hungarian Cup: FINALS TEAM TBA!! Sport Klub 4 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=104&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Cycling
-https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Tour of Turkey | Ad-Free Stage 2, Konya - Konya (144.9km) Eurosport 1 UK  
-https://blackghost.live/play/daddy-405.php?canal=41&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Tour of Turkey | Ad-Free Stage 2, Konya - Konya (144.9km)  Eurosport 1 Poland  
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   SEHA League Group A - RK Pelister vs HC PPD Zagreb Arena Sport 1 Croatia  
+https://blackghost.live/play/daddy-405.php?canal=52&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Spain Asobal - FC Barcelona vs Bidasoa Irun Gol TV Spain  
+https://blackghost.live/play/daddy-405.php?canal=53&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   EHF European League - Chekhovskie Medvedi vs Rhein-Neckar Lowen Arena Sport 3 Croatia
+https://blackghost.live/play/daddy-405.php?canal=54&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   EHF European League - GOG Handbold vs Wisla Plock SSA Arena Sport 2 Croatia  
+https://blackghost.live/play/daddy-405.php?canal=60&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   EHF European League - IFK Kristianstad vs SC Magdeburg Arena Sport 1 Croatia 
+https://blackghost.live/play/daddy-405.php?canal=52&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   EHF European League | Wisla Plock vs Sporting Eurosport 1 Poland 
 https://blackghost.live/play/daddy-405.php?canal=57&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Ice Hockey
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   EHF European League - Montpellier Handball vs Fuchse Berlin Arena Sport 1 Croatia
+https://blackghost.live/play/daddy-405.php?canal=52&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Baseball
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany DEL - Krefeld Pinguine vs Wild Wings Magentasport  
-https://blackghost.live/play/daddy-405.php?canal=59&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany DEL - Thomas Sabo Ice Tigers vs Dusseldorfer EG Magentasport  
-https://blackghost.live/play/daddy-405.php?canal=68&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany DEL - Grizzlys Wolfsburg vs ERC Ingolstadt Magentasport  
-https://blackghost.live/play/daddy-405.php?canal=69&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Sweden SHL Playoffs - Skelleftea AIK vs Lulea Hockey C More Live Sweden 
-https://blackghost.live/play/daddy-405.php?canal=76&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Sweden SHL Playoffs - Leksands IF vs HC Orebro C More Live 2 Sweden  
-https://blackghost.live/play/daddy-405.php?canal=77&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Sweden SHL Playoffs - Brynas IF vs HV 71 TV 12 Sweden 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Boston Red Sox vs Minnesota Twins NESN USA 
 https://blackghost.live/play/daddy-405.php?canal=79&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany DEL - Pinguins Bremerhaven vs Red Bull München Magentasport  
-https://blackghost.live/play/daddy-405.php?canal=80&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Team Adidas vs. Team Women's Sports Foundation NBCSN  
-https://blackghost.live/play/daddy-405.php?canal=43&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    NHL : Carolina Hurricanes vs Detroit Red Wings BSSO  
-https://blackghost.live/play/daddy-405.php?canal=21&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Montreal Canadiens vs Toronto Maple Leafs Premier Sports UK  
-https://blackghost.live/play/daddy-405.php?canal=22&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Montreal Canadiens vs Toronto Maple Leafs  Sport Klub 1 Serbia  
-https://blackghost.live/play/daddy-405.php?canal=101&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Ottawa Senators vs Winnipeg Jets TSN3 Canada  
-https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Minnesota Wild vs St. Louis Blues BSMW  
-https://blackghost.live/play/daddy-405.php?canal=24&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Colorado Avalanche vs Arizona Coyotes BSAZ  
-https://blackghost.live/play/daddy-405.php?canal=25&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Edmonton Oilers vs Vancouver Canucks Sportsnet Ontario  
-https://blackghost.live/play/daddy-405.php?canal=26&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Los Angeles Kings vs Vegas Golden Knights Premier Sports UK  
-https://blackghost.live/play/daddy-405.php?canal=27&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : San Jose Sharks vs Anaheim Ducks NBCS California  
-https://blackghost.live/play/daddy-405.php?canal=28&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Netball
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Oakland Athletics vs Arizona Diamondbacks MLB Network USA 
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Superleague : Wasps W vs Saracens W Sky Sports Mix  
-https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Superleague : Leeds W vs Manchester W Sky Sports Mix  
-https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Volleyball
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : San Diego Padres vs Pittsburgh Pirates AT&T SportsNet Pittsburgh 
 https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Serbia Superliga Playoffs : OK Partizan Beograd vs Ok Vojvodina Novi Sad Arena Sport 3 Serbia 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Seattle Mariners vs Baltimore Orioles Root Sports NW  
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : New York Yankees vs Toronto Blue Jays Sportsnet One 
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Philadelphia Phillies vs New York Mets ESPN USA  
+https://blackghost.live/play/daddy-405.php?canal=44&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Philadelphia Phillies vs New York Mets BT Sport ESPN  
+https://blackghost.live/play/daddy-405.php?canal=34&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Texas Rangers vs Tampa Bay Rays Longhorn Network  
+https://blackghost.live/play/daddy-405.php?canal=8&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Miami Marlins vs Atlanta Braves Fox Sports South  
+https://blackghost.live/play/daddy-405.php?canal=9&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Chicago Cubs vs Milwaukee Brewers Marquee Sports Network  
+https://blackghost.live/play/daddy-405.php?canal=10&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Washington Nationals vs St. Louis Cardinals MASN2 USA  
+https://blackghost.live/play/daddy-405.php?canal=11&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Cleveland Indians vs Chicago White Sox NBCS Chicago  
+https://blackghost.live/play/daddy-405.php?canal=14&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Detroit Tigers vs Houston Astros AT&T Sportsnet SW Houston  
+https://blackghost.live/play/daddy-405.php?canal=15&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Los Angeles Angels vs Kansas City Royals MLB League Feed  
+https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Cincinnati Reds vs San Francisco Giants BT Sport ESPN  
+https://blackghost.live/play/daddy-405.php?canal=34&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   MLB : Colorado Rockies vs Los Angeles Dodgers Sportsnet One  
+https://blackghost.live/play/daddy-405.php?canal=12&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Basketball
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   China CBA - Shandong Heroes vs Nanjing Monkey Kings Sport Klub Poland HD  
+https://blackghost.live/play/daddy-405.php?canal=16&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   China CBA - Qingdao Eagles vs Beijing Royal Fighters Sport Klub HD Serbia  
+https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Germany BBL - Tele. Baskets Bonn vs Bayern Munich Sport1 Germany  
+https://blackghost.live/play/daddy-405.php?canal=88&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Energa Basket Liga : Zielona Gora - Slask Wroclaw Polsat Sport Extra Poland  
+https://blackghost.live/play/daddy-405.php?canal=50&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   ACB : Real Madrid vs Tenerife nSport+ Poland  
+https://blackghost.live/play/daddy-405.php?canal=75&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Indiana Pacers vs Los Angeles Clippers TNT USA  
+https://blackghost.live/play/daddy-405.php?canal=56&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Indiana Pacers vs Los Angeles Clippers  beIN Sports English 2  
+https://blackghost.live/play/daddy-405.php?canal=90&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Indiana Pacers vs Los Angeles Clippers  Sky Sports Arena  
+https://blackghost.live/play/daddy-405.php?canal=36&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Indiana Pacers vs Los Angeles Clippers  Sportv2 Brasil  
+https://blackghost.live/play/daddy-405.php?canal=79&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Indiana Pacers vs Los Angeles Clippers  beIN Sports Premium 3 
+https://blackghost.live/play/daddy-405.php?canal=100&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Toronto Raptors vs Atlanta Hawks TSN3 Canada  
+https://blackghost.live/play/daddy-405.php?canal=17&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Charlotte Hornets vs Los Angeles Lakers Astro SuperSport 4  
 https://blackghost.live/play/daddy-405.php?canal=18&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Playoff Final Women Game 3, Viteos NUC - TS Volley Düdingen SRF Info Switzerland 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Utah Jazz vs Oklahoma City Thunder AT&T SportsNet RM Utah 
+https://blackghost.live/play/daddy-405.php?canal=19&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Phoenix Suns vs Miami Heat Bally Sports Sun  
+https://blackghost.live/play/daddy-405.php?canal=20&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NBA : Portland Trail Blazers vs Boston Celtics TNT USA  
+https://blackghost.live/play/daddy-405.php?canal=56&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Handball
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Nimes vs Nantes - Handball French Stars League 2020/21 beIN Sports HD 7  
+https://blackghost.live/play/daddy-405.php?canal=97&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Cycling
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Tour of Turkey | Ad-Free Stage 3, Beysehir - Alanya (212.6km) Eurosport 1 UK  
+https://blackghost.live/play/daddy-405.php?canal=41&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Ice Hockey
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Russia KHL Playoffs - HK Avangard Omsk vs AK Bars Kazan Sport Klub 4 Serbia  
+https://blackghost.live/play/daddy-405.php?canal=104&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Boston Bruins vs Buffalo Sabres NESN USA 
+https://blackghost.live/play/daddy-405.php?canal=21&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Washington Capitals vs Philadelphia Flyers NBCSN  
+https://blackghost.live/play/daddy-405.php?canal=43&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : New Jersey Devils vs New York Rangers MSG Syracuse  
+https://blackghost.live/play/daddy-405.php?canal=22&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    NHL : Toronto Maple Leafs vs Calgary Flames Sportsnet Ontario  
+https://blackghost.live/play/daddy-405.php?canal=23&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Nashville Predators vs Tampa Bay Lightning BSSUN  
 https://blackghost.live/play/daddy-405.php?canal=24&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Superliga de Vôlei Masculino: Itapetininga x Minas (semifinal, jogo 3 se necessário) SporTV2 Brazil 
-https://blackghost.live/play/daddy-405.php?canal=79&file=.m3u8
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Superliga de Vôlei Masculino: Taubaté x Campinas (semifinal, jogo 3 se necessário) SporTV2 Brazil 
-https://blackghost.live/play/daddy-405.php?canal=79&file=.m3u8
-
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   NHL : Dallas Stars vs Florida Panthers BSFL  
+https://blackghost.live/play/daddy-405.php?canal=25&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Volleyball
+https://blackghost.live/play/daddy-405.php?canal=0&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Orlen Liga Women : Chemik Police W vs Rzeszow W. Polsat Sport Poland  
+https://blackghost.live/play/daddy-405.php?canal=47&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Division 1 Women : Vakifbank W vs Fenerbahce W TRT Spor 2 Turkey  
+https://blackghost.live/play/daddy-405.php?canal=80&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",    Turkish League (Women): Playoff - FINALE (G2): Vakifbank vs Fenerbahce Sport Klub 3 Serbia 
+https://blackghost.live/play/daddy-405.php?canal=103&file=.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO",   Orlen Liga Women : LKS Lodz W vs Radom W Polsat Sport Poland  
+https://blackghost.live/play/daddy-405.php?canal=47&file=.m3u8
 
 
