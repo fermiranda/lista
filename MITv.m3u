@@ -1409,9 +1409,21 @@ http://cdn.maskamr.xyz/live/NBA10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbaleaguepass.png" group-title="NBA", GAME 11*
 http://cdn.maskamr.xyz/live/NBA11/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Brooklyn Nets
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/a86165b7036a430d82085c05b92438a7/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs San Antonio Spurs
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/89f0cd4983ef4eaa81d6f7e1e9924ce8/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Los Angeles Clippers
+https://8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com/out/v1/bbbfe136fdb94b258d8e2900ccfdfc53/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Orlando Magic
+https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/c3cfbe9bcfb947c3a218beda7ccae227/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Milwaukee Bucks
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs New York Knicks
+https://3c4c9b44ef3215e3.mediapackage.us-west-1.amazonaws.com/out/v1/e58bbdcf1fdd48b6aed2b1920b279311/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Indiana Pacers
+https://3c4c9b44ef3215e3.mediapackage.us-west-1.amazonaws.com/out/v1/e58bbdcf1fdd48b6aed2b1920b279311/index.m3u8
 
 
 
