@@ -618,8 +618,20 @@ https://blackghost.live/play/tlvall-505.php?c=93&f=.m3u8
 http://45.71.202.210:50000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
 https://blackghost.live/play/tlvall-505.php?c=431&f=.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/sat/daddy-505.php?canal=3&k=blackgh00st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+https://blackghost.live/sat/sportzone-505.php?canal=hd8&cat=hd&k=blackgh00st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/sat/wigilive-505.php?canal=108&k=blackgh00st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/sat/wigilive-505.php?canal=18&k=blackgh00st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/play/zona-505.php?id=15&f=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/play/zona-505.php?id=14&f=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fdbplus.com/wp-content/uploads/2019/04/Canelo-vs-Jacobs-poster-Golden-Boy-Promotions.jpg" group-title="EVENTO EN VIVO", BOX CANELO
+http://blackghost.live/play/zona2-505.php?id=13&f=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Prelims
 https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Main
