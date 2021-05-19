@@ -679,13 +679,13 @@ https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Main
 https://paramount-network.akamaized.net/hls/live/599582/bellator-main/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Web*
-https://tve-live.mlb.com/1621065544_250e41d80cb0f450ffaf99e762bf801f90d3b7bebc22b1b8d3646e8cb211ab86/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1621492855_7db97e7fc47e8fa56c5edf22db4607b777b8f4b9eb5d6ebbe63c6b04974dbab5/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Web
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://cdn.maskamr.xyz/live/MLB/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network HD
-http://31.42.187.248:8080/live/Gerry/123456/222992.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 https://blackghost.live/play/tlvall-518.php?c=337&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD-
