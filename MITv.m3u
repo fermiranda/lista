@@ -47,8 +47,12 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV SD TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8 
+
+
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
+https://blackghost.live/play/wistream-bglve-522.php?cat=latinos&ch=azteca&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2203&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno Tj" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP
@@ -95,6 +99,8 @@ https://blackghost.live/play/cinedarktv-522.php?c=4|user-agent=ajajajaja
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+
 https://blackghost.live/play/cinedarktv-522.php?c=11|user-agent=ajajajaja
+#EXTINF:-1 tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+
+https://blackghost.live/play/wistream-bglve-522.php?cat=latinos&ch=aztecamas&f=.m3u8
 #EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+ Noroeste
 
 #EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+ Noroeste TP
@@ -176,7 +182,7 @@ https://blackghost.live/play/tlvall-522.php?c=645&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 https://blackghost.live/play/cinedarktv-522.php?c=78|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-
+https://blackghost.live/play/wistream-bglve-522.php?cat=latinos&ch=history&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
 https://blackghost.live/play/tlvall-522.php?c=575&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
@@ -184,7 +190,7 @@ http://blackghost.live/play/gnula-522.php?c=78034|User-Agent=j9mgtkd1m6jedmjxi23
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-
+https://blackghost.live/play/wistream-bglve-522.php?cat=latinos&ch=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
@@ -1146,9 +1152,9 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
-
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15527.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
-
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15527
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 https://blackghost.live/play/tlvall-522.php?c=1856&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
