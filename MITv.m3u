@@ -1330,7 +1330,8 @@ http://blackghost.live/sat/daddy-522.php?canal=31&k=blackgh0o0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180619/krg/kisspng-one-championship-sport-kickboxing-mixed-martial-ar-champion-logo-5b28a306a0fe18.6410626215293898306594.jpg" group-title="EVENTO EN VIVO", ONE CHAMPIONSHIP FIGHTS
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN", SCHEDULE
+http://209.222.98.26:8080/live/lanes/lanes/113120.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  CANAL 1
 http://209.222.98.26:8080/live/lanes/lanes/113058.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  CANAL 2
@@ -1434,7 +1435,12 @@ http://blackghost.live/sat/daddy-522.php?canal=1&k=blackgh0o0st&file=.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Baltimore Orioles vs Minnesota Twins
 http://23.237.173.90:8080/live/lanes/lanes/113060.m3u8?token=T0dRB0NfRFwbU1RZUAEGDgENBQNfUQUNUVoABAdSAFoDBg4AVAMEXwBDHhoQRUZcWFlvDAIXDwQFClVTBk9BF0cASzlZU0RcG1AKDFEIFhUbQFkIAxcPBRgbFQxSQVlABlMJVwQVSkRcGUZdEV9VVWZQVRMPVlAXDlcQCVpPQQ1aOl0DXVYIAhtbEAhBHRZQSkQSX0RhUFlRXwoLWRBDBlEJGShfRQkDShVXGDAfdRcZUFVFJRtjGxYVRwdfFxEDQAAbXBIEX1ALQx4aAF5BV01GSUdcF3htFhVHAE4XBgxHDFYIEg1ECwoUChpPE11KZkZVFhJHUFRZXBdHDEFTQBhHVAdIaAUJVw9XWxdYW1dKFgpHUxcZF1lWCwxCDBE9RAxdRAoVUlUKUxBF
-
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", St. Louis Cardinals vs Chicago White Sox
+http://23.237.173.90:8080/live/lanes/lanes/113063.m3u8?token=T0dRB0NfRFwbUQdeU1dQDAAAAlJSVAUHUFtdVQ8AWlQDVFxVAgAEAFxDHhoQRUZcWFlvDAIXDwQFClVTBU9BF0cASzlZU0RcG1AKDFEIFhUbQFkIAxcPBRgbFQxSQVlABVUPUQkVSkRcGUZdEV9VVWZQVRMPVlAXDlcQCVpPQQ1aOl0DXVYIAhtbEAhBHRZQSkQSX0RhUFlRXwoLWRBDBlEJGShfRQkDShVXGDAfdRcZUFVFJRtjGxYVRwdfFxEDQAAbXBIEX1QMQx4aAF5BV01GSUdcF3htFhVHAE4XBgxHDFYIEg1ECwoUChpPE11KZkZVFhJHUFRZXBdHDEFTQBhHVAdIaAUJVw9XWxdYW1dKFgpHUxcZF1lWCwxCDBE9RAxdRAoVUlUOVRBF
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Seattle Mariners vs Oakland Athletics
+http://23.237.173.90:8080/live/lanes/lanes/113077.m3u8?token=T0dRB0NfRFwbWQANBgBSAA1QAlYEUwIMUlhXXVNVUVYBBAsCUg8FUw5DHhoQRUZcWFlvDAIXDwQFClVSAU9BF0cASzlZU0RcG1AKDFEIFhUbQFkIAxcPBRgbFQxSQVlAA1MOUxIbRANBFVdKDVBYZl1RRgwFUBcPWkwJCRpBDAxrAVwLUVkCRANDAhpPE11KSRYKRzJQWVBSVgsKRUMHB1hFdwlCWAMVTQQSa01wGhldURAmSGMbFxgbBwxCEQIWUUcDRAMOVFMbTRBbDERaTUtNEl9EeG0XGBsAHUIGDRFdCldEChULVUxZEBRBWEdmS1FDERRQVFhRS0dfFFNBThYIWB5vVAkIVwRRTApeWkobDhJQRBkXWFtXDBFZETwSXQEbXBIDU1MOQ08=
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Texas Rangers vs Los Angeles Angels 
+http://23.237.173.90:8080/live/lanes/lanes/113085.m3u8?token=T0dRB0NfRFwbVQRcVVQGDggHBFYDBw0EB10BUQdbVFFXXApVVVMHUQxDHhoQRUZcWFlvDAIXDwQFClVdA09BF0cASzlZU0RcG1AKDFEIFhUbQFkIAxcPBRgbFQxSQVlABlAAVgQVSkRcGUZdEV9VVWZQVRMPVlAXDlcQCVpPQQ1aOl0DXVYIAhtbEAhBHRZQSkQSX0RhUFlRXwoLWRBDBlEJGShfRQkDShVXGDAfdRcZUFVFJRtjGxYVRwdfFxEDQAAbXBIEX1QMQx4aAF5BV01GSUdcF3htFhVHAE4XBgxHDFYIEg1ECwoUChpPE11KZkZVFhJHUFRZXBdHDEFTQBhHVAdIaAUJVw9XWxdYW1dKFgpHUxcZF1lWCwxCDBE9RAxdRAoVUlABVxBF
 
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbaleaguepass.png" group-title="NBA", GAME 1
