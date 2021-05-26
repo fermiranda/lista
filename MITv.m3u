@@ -696,6 +696,8 @@ https://tve-live.mlb.com/1621840017_5db9eb7d5fcba5e03c2c629ac027123f721040031145
 http://51.222.43.170:36995/Tvsmart1245/3S68bCJZdC/1280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network HD
 http://51.222.43.170:36995/live/Tvsmart1245/3S68bCJZdC/1280.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network^
+http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/39093.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 https://blackghost.live/play/tlvall-522.php?c=337&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD-
