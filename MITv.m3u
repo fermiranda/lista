@@ -812,6 +812,8 @@ https://blackghost.live/play/tlvall-530.php?c=600&f=.m3u8
 http://blackghost.live/play/ftvall-530.php?c=espndep&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES FHD
 
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/images/espn-mexico_q62ig7oj.png" group-title="DEPORTES", ESPN MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=espn1mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/images/espn-mexico_q62ig7oj.png" group-title="DEPORTES", ESPN MX
 http://blackghost.live/play/ftvall-530.php?c=espn1-mx&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/images/espn-mexico_q62ig7oj.png" group-title="DEPORTES", ESPN MX-
@@ -826,14 +828,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=2b6
 https://blackghost.live/play/cinedarktv-530.php?c=132|user-agent=ajajajaja
 #EXTINF:-1 tvg-name="ESPN2 MX FHD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX
 http://blackghost.live/play/ftvall-530.php?c=espn2-mx&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX HD
-https://blackghost.live/play/25-530.php?c=61919
+#EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=espn2mx&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX
 https://blackghost.live/play/tlvall-530.php?c=1869&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX
 https://blackghost.live/play/totalp1-530.php?c=168&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 tvg-name="ESPN3 MX HD" tvg-logo="http://ragnaroktv.com/logostv/deportes/3.png" group-title="DEPORTES", ESPN3 MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=espn3mx&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN3 MX HD" tvg-logo="http://ragnaroktv.com/logostv/deportes/3.png" group-title="DEPORTES", ESPN3 MX HD
 http://blackghost.live/play/ftvall-530.php?c=espn3-mx&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="ESPN3 MX" tvg-logo="http://ragnaroktv.com/logostv/deportes/3.png" group-title="DEPORTES", ESPN3 MX-
@@ -846,6 +850,8 @@ https://blackghost.live/play/totalp1-530.php?c=345&p=3&k=black&f=.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
 https://blackghost.live/play/totalp1-530.php?c=170&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
@@ -856,6 +862,8 @@ https://blackghost.live/play/cinedarktv-530.php?c=136|user-agent=ajajajaja
 http://blackghost.live/play/ftvall-530.php?c=foxsports1-mx&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 https://blackghost.live/play/totalp1-530.php?c=172&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
@@ -864,6 +872,8 @@ https://blackghost.live/play/tlvall-530.php?c=260&f=.m3u8
 https://blackghost.live/play/cinedarktv-530.php?c=137|user-agent=ajajajaja
 #EXTINF:-1 tvg-name="Fox Sport 2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
 http://blackghost.live/play/ftvall-530.php?c=foxsports2-mx&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX+
+https://blackghost.live/play/wistream-bglve-530.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX-
 https://blackghost.live/play/cinedarktv-530.php?c=138|user-agent=ajajajaja
 #EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX*
