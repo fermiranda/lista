@@ -379,11 +379,11 @@ https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1 tvg-name="Cananl 22.2" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/3cbc2a82-28fc-4ba3-8f0d-95a94169e647-2033x1141-760929368.png" group-title="NACIONALES", Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
-http://38.18.238.35:2095/0000/CH=%C2%A0PR-WLII/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
-http://blackghost.live/play/ftvall-601.php?c=univision&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
+http://blackghost.live/play/ftvall-601.php?c=univ&k=b1ack-gh0st&file=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
+https://blackghost.live/play/tlvall-601.php?c=620&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
@@ -393,12 +393,12 @@ http://blackghost.live/play/ftvall-601.php?c=unimas&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
 https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
-
+https://blackghost.live/play/tlvall-601.php?c=294&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
 http://blackghost.live/play/ftvall-601.php?c=universo&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO East
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO West
 
@@ -721,7 +721,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7873.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network^
 http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/39093.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
-https://blackghost.live/play/tlvall-601.php?c=337&f=.m3u8
+http://blackghost.live/play/ftvall-601.php?c=nfl&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD+
 http://tecnotv.club/j0221/android.php?c=142|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
