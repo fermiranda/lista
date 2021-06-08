@@ -940,6 +940,19 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7893.m3u8
 http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/38483.m3u8
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1621.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1622.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3  
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1623.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4 
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1624.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5 
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1625.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/8007.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
@@ -966,6 +979,64 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&s=ze
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN+ HD
 https://bcovlive-a.akamaihd.net/f1fe983d710642b08c2232d4f5e1bb49/us-east-1/6141518204001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS ARIZONA
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33761.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS ARIZONA PLUS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111014.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS CAROLINAS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111015.m3u8
+#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20Ohio.png" group-title="DEPORTES",BALLY SPORTS CINCINNATI
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109076.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS DETROIT
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33759.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS DETROIT PLUS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111016.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS FLORIDA
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33758.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS FLORIDA (North)
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111017.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS MIDWEST
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33756.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS NEW ORLEANS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36272.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS NORTH
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33755.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS OHIO
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33754.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS OKLAHOMA
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/89131.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOCAL
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36570.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SAN DIEGO
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36279.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SAN DIEGO PLUS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111018.m3u8
+#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/fsohio.png" group-title="DEPORTES",BALLY SPORTS GREAT LAKES
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/91157.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTH
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33751.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTH PLUS
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111019.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33750.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST (North Carolina)
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111020.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST (Tennessee)
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111021.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHWEST
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33749.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHWEST
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36277.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SUN
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33748.m3u8
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/tbt/R5T54R4LKVEWVG7UWF7DTCOQDM.jpg" group-title="DEPORTES",BALLY SPORTS SUN (North Florida)
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111022.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS TENNESSEE
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111023.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS WEST
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33746.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS WISCONSIN
+http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33745.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="DEPORTES", CBSSN HD
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
