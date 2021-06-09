@@ -738,6 +738,18 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7961.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="DEPORTES", SPORTTV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv2-em-direto.png" group-title="DEPORTES", SPORTTV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv3.png" group-title="DEPORTES", SPORTTV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv4.png" group-title="DEPORTES", SPORTTV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv5.png" group-title="DEPORTES", SPORTTV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="DEPORTES", BEIN SPORTS
 https://blackghost.live/play/tlvall-606.php?c=594&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
