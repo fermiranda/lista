@@ -431,10 +431,19 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/master.m3u8
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2
 http://blackghost.live/play/gnula-615.php?c=73754|User-Agent=AXN (MOVIL)?token_mhl1nrai4vdu8scbjhrtl8m81
+#EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2
+http://209.222.98.26:8080/live/lanes/lanes/111880.m3u8
 #EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg" group-title="ESPAÑA", EITB BASQUE
 https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
 http://91.126.141.13:1935/live/51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
+http://209.222.98.26:8080/live/lanes/lanes/111872.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
+http://209.222.98.26:8080/live/lanes/lanes/111876.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=44&format=HLSAD&f=.m3u8
