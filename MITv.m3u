@@ -439,6 +439,8 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
 http://209.222.98.26:8080/live/lanes/lanes/111872.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO SD
+http://91.126.141.13:1935/live/51/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
 http://209.222.98.26:8080/live/lanes/lanes/111876.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
