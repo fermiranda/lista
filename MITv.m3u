@@ -418,8 +418,11 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN 
 https://blackghost.live/play/tlvall-615.php?c=353&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"group-title="Internacionales Latinos",Caracol Tv
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
 https://blackghost.live/play/tlvall-615.php?c=345&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb1_zuzenean.png" group-title="ESPAÑA", EITB 1
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2
