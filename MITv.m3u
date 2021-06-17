@@ -185,17 +185,17 @@ http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/UNICABLE-2.png" group-title="ENTRETENIMIENTO", UNICABLE TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=1499&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TP
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=89&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY*
 https://blackghost.live/play/tlvall-615.php?c=645&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-https://blackghost.live/play/cinedarktv-615.php?c=78|user-agent=ajajajaja
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=history&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY+
 http://tecnotv.club/ju16/android.php?c=77|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=history&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
 https://blackghost.live/play/tlvall-615.php?c=575&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
@@ -211,9 +211,9 @@ https://blackghost.live/play/wistream-615.php?cat=latinos&ch=history2&k=black--g
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2^
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://ipeteve.com/php/SR_REGIO_8585/android.php?c=78|User-Agent=loco2.0
+http://ipeteve.com/php/SR_REGIO_281119/android.php?c=78|User-Agent=loco2.0
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history2&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109946.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -456,7 +456,7 @@ https://blackghost.live/play/tlvall-615.php?c=558&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO+
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=hbo&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboes&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboes&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO-
 http://iptvnow.me:8080/live/dindin-3505/RAp0L4nWBm/21801.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
@@ -474,7 +474,7 @@ https://blackghost.live/play/wistream-615.php?cat=latinos&ch=hbo2&bg=black&serve
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2-
 https://blackghost.live/play/cinedarktv-615.php?c=113|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbo2&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbo2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS*
 https://blackghost.live/play/tlvall-615.php?c=560&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
@@ -484,7 +484,7 @@ https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=hboplus&f=.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS-
 https://blackghost.live/play/cinedarktv-615.php?c=115|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboplus&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboplus&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family*
 https://blackghost.live/play/tlvall-615.php?c=561&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -494,7 +494,7 @@ https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=hbofamily&f=.
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family-
 https://blackghost.live/play/cinedarktv-615.php?c=114|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbofamily&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbofamily&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature*
 https://blackghost.live/play/tlvall-615.php?c=718&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature+
@@ -504,7 +504,7 @@ https://blackghost.live/play/wistream-615.php?cat=latinos&ch=hbosignature&bg=bla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature-
 https://blackghost.live/play/cinedarktv-615.php?c=116|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbosignature&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hbosignature&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme*
 https://blackghost.live/play/tlvall-615.php?c=723&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
@@ -516,7 +516,7 @@ https://blackghost.live/play/cinedarktv-615.php?c=119|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme+
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=maxprime&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Reg
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hboxtreme&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboxtreme&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop*
 https://blackghost.live/play/tlvall-615.php?c=717&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
@@ -622,7 +622,7 @@ https://blackghost.live/play/cinedarktv-615.php?c=103|user-agent=ajajajaja
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD*
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dhe&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=dhe&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax 
@@ -818,7 +818,7 @@ https://blackghost.live/play/tlvall-615.php?c=674&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
 https://blackghost.live/play/tlvall-615.php?c=174&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=afizzionados&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=afizzionados&f=.m3u8
 #EXTINF:-1 tvg-logo="https://latino.dish.com/global/images/logos/zf-logo.png" group-title="DEPORTES", ZONA FUTBOL
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
