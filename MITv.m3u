@@ -198,7 +198,7 @@ http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=history&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
 https://blackghost.live/play/tlvall-615.php?c=575&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109939.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://tecnotv.club/ju16/principal.php?c=h2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
@@ -214,7 +214,7 @@ http://ipeteve.com/php/SR_REGIO_281119/android.php?c=78|User-Agent=loco2.0
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Reg
 http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109946.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20258.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO TP
@@ -432,17 +432,17 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2
 http://blackghost.live/play/gnula-615.php?c=73754|User-Agent=AXN (MOVIL)?token_mhl1nrai4vdu8scbjhrtl8m81
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2
-http://209.222.98.26:8080/live/lanes/lanes/111880.m3u8
+
 #EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg" group-title="ESPAÑA", EITB BASQUE
 https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
-http://209.222.98.26:8080/live/lanes/lanes/111872.m3u8
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO SD
 http://91.126.141.13:1935/live/51/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
-http://209.222.98.26:8080/live/lanes/lanes/111876.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
 http://146.59.187.3:8080/live/Q9VxZawp83/icjSyTQ63d/57906.m3u8
 
@@ -546,7 +546,7 @@ https://blackghost.live/play/totalp2-615.php?c=52&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL+
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=warner&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110024.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E FHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E HD TP
@@ -788,9 +788,9 @@ https://paramount-network.akamaized.net/hls/live/599582/bellator-main/master.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Web*
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-http://209.222.98.26:8080/live/lanes/lanes/1480.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network*
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1389.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7873.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 
@@ -907,11 +907,11 @@ https://blackghost.live/play/tlvall-615.php?c=336&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 http://blackghost.live/play/ftvall-615.php?c=tudn-us&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-http://209.222.98.26:8080/live/lanes/lanes/112192.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/391224.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110794.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 http://tecnotv.club/ju16/android.php?c=130|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES HD
@@ -1032,7 +1032,7 @@ http://blackghost.live/play/ftvall-615.php?c=beines&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7894.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1367.m3u8
+
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
@@ -1040,20 +1040,10 @@ https://blackghost.live/sat/cana-615.php?canal=39&k=blackgh0o0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7893.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/38483.m3u8
+
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1621.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1622.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3  
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1623.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4 
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1624.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5 
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1625.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
@@ -1068,16 +1058,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/8004.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/8003.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1
-http://209.222.98.26:8080/live/lanes/lanes/2031.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
-http://209.222.98.26:8080/live/lanes/lanes/2030.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3
-http://209.222.98.26:8080/live/lanes/lanes/2029.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4
-http://209.222.98.26:8080/live/lanes/lanes/2028.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5
-http://209.222.98.26:8080/live/lanes/lanes/2027.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1
@@ -1095,13 +1076,13 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/2291.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://blackghost.live/play/ftvall-615.php?c=directv&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109890.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20106.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://tecnotv.club/ju16/android.php?c=151|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109891.m3u8
+
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20311.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
@@ -1109,7 +1090,7 @@ http://tecnotv.club/ju16/android.php?c=319|User-Agent=TokenPLProM3UnndNCPyUmmhLR
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109889.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20261.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
@@ -1127,136 +1108,14 @@ http://blackghost.live/play/ftvall-615.php?c=tvcdep-mx&k=b1ack-gh0st&file=.m3u8
  
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes TP
 https://blackghost.live/play/totalp2-615.php?c=2157&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/Altitude.Sports.jpg" group-title="DEPORTES",ALTITUDE SPORTS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111008.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20190305005730/en/683423/23/ATTSN_logo_on_White.jpg" group-title="DEPORTES",AT&T SPORTSNET PITTSBURGH
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110727.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20190305005730/en/683423/23/ATTSN_logo_on_White.jpg" group-title="DEPORTES",AT&T SPORTSNET ROCKY MOUNTAIN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110726.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/USA/attsportsnetsouthwest.png" group-title="DEPORTES",AT&T SPORTSNET SOUTHWEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/96149.m3u8
-#EXTINF:-1 tvg-logo="https://www.marqueesportsnetwork.com/wp-content/uploads/2020/06/Marquee-Sports-Network-logo-red-bkg.jpg" group-title="DEPORTES",MARQUEE SPORTS NETWORK
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/108170.m3u8
-#EXTINF:-1 tvg-logo="https://www.masnsports.com/assets/prod/src/img/template/icons/masn-image-large.png" group-title="DEPORTES",MASN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/97420.m3u8
-#EXTINF:-1 tvg-logo="https://www.masnsports.com/assets/prod/src/img/template/icons/masn-image-large.png" group-title="DEPORTES",MASN 2
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/97421.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/MSG%20Network.png" group-title="DEPORTES",MSG
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33474.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/msgplus.png" group-title="DEPORTES",MSG PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/38593.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/MSG2Logo.png" group-title="DEPORTES",MSG 2
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/100710.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/MSG2Plus.png" group-title="DEPORTES",MSG 2 Plus
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/100711.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/NESN.png" group-title="DEPORTES",NESN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/35508.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/NESN%20PLUS.png" group-title="DEPORTES",NESN PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95016.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/Root.Sports.PNG" group-title="DEPORTES",ROOT SPORTS NORTHWEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110746.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/SPECTRUM%20SPORTSNET.png" group-title="DEPORTES",SPECTRUM SPORTSNET
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/89362.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/SPORTSNET%20LA.png" group-title="DEPORTES",SPORTSNET L.A.
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/59601.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/SNY.png" group-title="DEPORTES",SNY
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/38440.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/YES%20NETWORK.png" group-title="DEPORTES",YES NETWORK
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33762.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="DEPORTES",NBCSN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1396.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="DEPORTES",NBCSN Low
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109183.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSN%20BAY%20AREA.png" group-title="DEPORTES",NBCSN BAY AREA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1730.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSNNE.png" group-title="DEPORTES",NBCSN BOSTON
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1732.m3u8
-#EXTINF:-1 tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="DEPORTES",NBCSN CALIFORNIA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/35437.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSNCH.png" group-title="DEPORTES",NBCSN CHICAGO
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1731.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSN%20CHICAGO.png" group-title="DEPORTES",NBCSN CHICAGO PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110091.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSNNW.png" group-title="DEPORTES",NBCSN NORTH WEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1733.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSNPH.png" group-title="DEPORTES",NBCSN PHILLY
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1734.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/CSNPH.png" group-title="DEPORTES",NBCSN PHILLY PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110090.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="DEPORTES",NBCSN WASHINGTON
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/81822.m3u8
+
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN HD Web
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN+ HD Web
 https://bcovlive-a.akamaihd.net/f1fe983d710642b08c2232d4f5e1bb49/us-east-1/6141518204001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS ARIZONA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33761.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS ARIZONA PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111014.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS CAROLINAS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111015.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20Ohio.png" group-title="DEPORTES",BALLY SPORTS CINCINNATI
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109076.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS DETROIT
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33759.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS DETROIT PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111016.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS FLORIDA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33758.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS FLORIDA (North)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111017.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS MIDWEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33756.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS NEW ORLEANS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36272.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS NORTH
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33755.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS OHIO
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33754.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS OKLAHOMA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/89131.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOCAL
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36570.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SAN DIEGO
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36279.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SAN DIEGO PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111018.m3u8
-#EXTINF:-1 tvg-logo="http://primestreamstv.com/logos/fsohio.png" group-title="DEPORTES",BALLY SPORTS GREAT LAKES
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/91157.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTH
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33751.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTH PLUS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111019.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33750.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST (North Carolina)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111020.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHEAST (Tennessee)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111021.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHWEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33749.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SOUTHWEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36277.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS SUN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33748.m3u8
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/tbt/R5T54R4LKVEWVG7UWF7DTCOQDM.jpg" group-title="DEPORTES",BALLY SPORTS SUN (North Florida)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111022.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS TENNESSEE
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/111023.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS WEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33746.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg" group-title="DEPORTES",BALLY SPORTS WISCONSIN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/33745.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="DEPORTES", CBSSN HD
-https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
-http://blackghost.live/sat/daddy-609.php?canal=43&k=blackgh0o0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN
-http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/816.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1396.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
-http://209.222.98.26:8080/live/lanes/lanes/7469.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
 https://blackghost.live/play/tlvall-615.php?c=612&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
@@ -1267,9 +1126,9 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110727.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
-http://209.222.98.26:8080/live/lanes/lanes/75608.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/1280px-NBC_Sports_California.png" group-title="DEPORTES", NBCSPORTS CALIFORNIA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1024px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES", NBCSPORTS CHICAGO 
@@ -1318,7 +1177,7 @@ http://cghabfg.azureedge.net/streams/ESPN/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 https://marjoriekinziea.s3.amazonaws.com/zaqxvm.m8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1262.m3u8
+
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
@@ -1336,7 +1195,7 @@ http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95868.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA)*
@@ -1344,9 +1203,9 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896.m3u8
 #EXTINF:-1 tvg-name="ESPNU (USA)" tvg-logo="https://img2.freepng.es/20180616/gei/kisspng-espnu-television-espn-inc-espnews-espn-2-5b2509af62a397.123202481529153967404.jpg" group-title="DEPORTES", ESPNU(USA) HD
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-name="ESPNU (USA)" tvg-logo="https://img2.freepng.es/20180616/gei/kisspng-espnu-television-espn-inc-espnews-espn-2-5b2509af62a397.123202481529153967404.jpg" group-title="DEPORTES", ESPNU(USA) HD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1274.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png" group-title="DEPORTES", ESPN NEWS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1275.m3u8
+
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
@@ -1427,7 +1286,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148171.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109605.m3u8
+
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC 
 
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
@@ -1451,7 +1310,7 @@ http://blackghost.live/sat/daddy-609.php?canal=54&k=blackgh0o0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_EliFBb_400x400.jpg" group-title="USA", FOX 5 SD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/56474.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/31645.m3u8
+
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 http://134.19.182.131:8080/vdg10_2.m3u8?h=b4d3c41ece0297f7b1cab6e0a2da78f8
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
@@ -1470,17 +1329,17 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/3275.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA",  NBC 39  San Diego  (KNSD)
 http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/3437.m3u8
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA",FOX (KSWB) San Diego CA
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109509.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148127.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/109413.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS EAST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/36594.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS WEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/31644.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA
@@ -1492,7 +1351,7 @@ http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/31644.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1022px-American_Broadcasting_Company_Logo.svg.png" group-title="USA", ABC WEST
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1022px-American_Broadcasting_Company_Logo.svg.png" group-title="USA", ABC WEST
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/34340.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC
 http://blackghost.live/sat/daddy-615.php?canal=51&k=blackgh0o0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC MIAMI
@@ -1504,7 +1363,7 @@ https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148093.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110984.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
 http://my.streamerstv.com:25461/live/Bob123/Bob123/720.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932750132294115336/JIZUc950_400x400.jpg" group-title="USA", WPXI PITT WEB
@@ -1528,9 +1387,9 @@ https://jcstream.teleuptv.net/WPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="USA", Starz Encore
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1272.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
-http://209.222.98.26:8080/live/lanes/lanes/1214.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15527
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
@@ -1538,9 +1397,9 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/875.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/898.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/1449.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network West
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/38623.m3u8
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 
 #EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" group-title="USA", HBO (East)
@@ -1578,7 +1437,7 @@ http://77.247.109.94/hls/n1.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 http://77.247.109.115/hls/n1.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
-http://209.222.98.26:8080/live/lanes/lanes/1211.m3u8
+
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
@@ -1586,7 +1445,7 @@ http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME FHD
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/102142.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_for_Spectrum_SportsNet_LA.jpg" group-title="NBA",Sportsnet LA
@@ -1600,9 +1459,9 @@ http://tecnotv.club/ju16/android.php?c=142|User-Agent=TokenPLProM3UnndNCPyUmmhLR
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
 http://crack.azzcrackstream.xyz/streams/NBATV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
-http://209.222.98.26:8080/live/lanes/lanes/7475.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/102143.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/100-1002591_nba-tv-canada-nba-tv-canada-logo.png" group-title="DEPORTES", NBA TV CA
 
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
@@ -1712,21 +1571,11 @@ http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://bhauik.azureedge.net/edge/NBA1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110708.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT 
-https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT*
-https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT+
 http://tecnotv.club/ju16/principal.php?c=staraction&f=.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
@@ -1744,205 +1593,8 @@ http://tecnotv.club/ju16/principal.php?c=staraction&f=.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180619/krg/kisspng-one-championship-sport-kickboxing-mixed-martial-ar-champion-logo-5b28a306a0fe18.6410626215293898306594.jpg" group-title="EVENTO EN VIVO", ONE CHAMPIONSHIP FIGHTS
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  431
-http://209.222.98.26:8080/live/lanes/lanes/113119.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  432
-http://209.222.98.26:8080/live/lanes/lanes/113120.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  433
-http://209.222.98.26:8080/live/lanes/lanes/113121.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  434
-http://209.222.98.26:8080/live/lanes/lanes/113122.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  435
-http://209.222.98.26:8080/live/lanes/lanes/113123.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  439
-http://209.222.98.26:8080/live/lanes/lanes/113124.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  437
-http://209.222.98.26:8080/live/lanes/lanes/113125.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  438
-http://209.222.98.26:8080/live/lanes/lanes/113126.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  439
-http://209.222.98.26:8080/live/lanes/lanes/113127.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  440
-http://209.222.98.26:8080/live/lanes/lanes/113128.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  441
-http://209.222.98.26:8080/live/lanes/lanes/113129.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/New_Logo_for_MLB_Extra_Innings.png" group-title="MLB XTRA INN",  442
-http://209.222.98.26:8080/live/lanes/lanes/113130.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 1 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92944.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 1 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92943.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 2 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92942.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 2 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92941.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 3 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92940.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 3 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92939.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 4 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/92938.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 4 (Home)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95060.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 5 (Away)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95059.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 5 (Home)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95058.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 6 (Away)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95057.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 6 (Home)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95056.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 7 (Away)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95055.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 7 (Home)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95054.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 8 (Away)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95053.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 8 (Home)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95052.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 9 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95051.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 9 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95050.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 10 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95049.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 10 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95048.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 11 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95047.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 11 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95046.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 12 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95045.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 12 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95044.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 13 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95043.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 13 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95042.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 14 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95041.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 14 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95040.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 15 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95039.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 15 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95038.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 16 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95037.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 16 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95036.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 17 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95035.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 17 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95034.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 18 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95033.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 18 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95032.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 19 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95031.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 19 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95030.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 20 (AWAY)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/95029.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH",MLB GAME 20 (HOME)
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110793.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1200px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png" group-title="MLB MATCH",MLB: Arizona Diamondbacks
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114247.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/f/f2/Atlanta_Braves.svg/1280px-Atlanta_Braves.svg.png" group-title="MLB MATCH",MLB: Atlanta Braves
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114248.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1200px-Baltimore_Orioles_cap.svg.png" group-title="MLB MATCH",MLB: Baltimore Orioles
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114249.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1200px-RedSoxPrimary_HangingSocks.svg.png" group-title="MLB MATCH",MLB: Boston Red Sox
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114250.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1200px-Chicago_Cubs_logo.svg.png" group-title="MLB MATCH",MLB: Chicago Cubs
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114251.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/1200px-Chicago_White_Sox.svg.png" group-title="MLB MATCH",MLB: Chicago White Sox
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114252.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1200px-Cincinnati_Reds_Logo.svg.png" group-title="MLB MATCH",MLB: Cincinnati Reds
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114253.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Cleveland_Indians_logo.svg/175px-Cleveland_Indians_logo.svg.png" group-title="MLB MATCH",MLB: Cleveland Indians
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114254.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/1200px-Colorado_Rockies_logo.svg.png" group-title="MLB MATCH",MLB: Colorado Rockies
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114255.m3u8
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/1200px-Detroit_Tigers_logo.svg.png" group-title="MLB MATCH",MLB: Detroit Tigers
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114256.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/1200px-Houston-Astros-Logo.svg.png" group-title="MLB MATCH",MLB: Houston Astros
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114257.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kansas_City_Royals_Insignia.svg/1200px-Kansas_City_Royals_Insignia.svg.png" group-title="MLB MATCH",MLB: Kansas City Royals
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114258.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/1200px-Los_Angeles_Angels_of_Anaheim.svg.png" group-title="MLB MATCH",MLB: Los Angeles Angels
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114259.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg/1200px-Los_Angeles_Dodgers_logo_%28low_res%29.svg.png" group-title="MLB MATCH",MLB: Los Angeles Dodgers
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114260.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/1200px-Marlins_team_logo.svg.png" group-title="MLB MATCH",MLB: Miami Marlins
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114261.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1200px-Milwaukee_Brewers_logo.svg.png" group-title="MLB MATCH",MLB: Milwaukee Brewers
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114262.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1200px-Minnesota_Twins_logo_%28low_res%29.svg.png" group-title="MLB MATCH",MLB: Minnesota Twins
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114263.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1200px-New_York_Mets.svg.png" group-title="MLB MATCH",MLB: New York Mets
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114264.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/1200px-NewYorkYankees_PrimaryLogo.svg.png" group-title="MLB MATCH",MLB: New York Yankees
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114265.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" group-title="MLB MATCH",MLB: Oakland Athletics
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114266.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Philadelphia_Phillies_%282019%29_logo.svg/1200px-Philadelphia_Phillies_%282019%29_logo.svg.png" group-title="MLB MATCH",MLB: Philiadelphia Phillies
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114267.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/1200px-Pittsburgh_Pirates_logo_2014.svg.png" group-title="MLB MATCH",MLB: Pittsburgh Pirates
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114268.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SD_Logo_Brown.svg/1200px-SD_Logo_Brown.svg.png" group-title="MLB MATCH",MLB: San Diego Padres
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114269.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1200px-San_Francisco_Giants_Logo.svg.png" group-title="MLB MATCH",MLB: San Francisco Giants
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114270.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1200px-Seattle_Mariners_logo_%28low_res%29.svg.png" group-title="MLB MATCH",MLB: Seattle Mariners
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114271.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/1200px-St._Louis_Cardinals_logo.svg.png" group-title="MLB MATCH",MLB: St Louis Cardinals
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114272.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Tampa_Bay_Rays.svg/1200px-Tampa_Bay_Rays.svg.png" group-title="MLB MATCH",MLB: Tampa Bay Rays
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114273.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png" group-title="MLB MATCH",MLB: Texas Rangers
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114274.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Toronto_Blue_Jays_cap.svg/1200px-Toronto_Blue_Jays_cap.svg.png" group-title="MLB MATCH",MLB: Toronto Blue Jays
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114275.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1200px-Washington_Nationals_logo_%28low_res%29.svg.png" group-title="MLB MATCH",MLB: Washington Nationals
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/114276.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 721
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110728.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 722
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110729.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 723
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110730.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 724
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110731.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 725
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110732.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 726
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110733.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 727
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110734.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 728
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110735.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 729
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110736.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 730
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110737.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 731
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110738.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 732
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110739.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 733
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110740.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 734
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110741.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 735
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110742.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 736
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110743.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB MATCH", 737
-http://optimustv.xyz:826/live/beberodri/uy94DeZPBK/110744.m3u8
+
 
 
 
@@ -1970,25 +1622,25 @@ http://blackghost.live/sat/daddy-615.php?canal=8&k=blackgh0o0st&file=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Baltimore Orioles vs Cleveland Indians
-http://209.222.98.26:8080/live/lanes/lanes/111199.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/56452.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Arizona Diamondbacks vs San Francisco Giants
-http://209.222.98.26:8080/live/lanes/lanes/4591.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/56451.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  New York Yankees vs Toronto Blue Jays
-http://209.222.98.26:8080/live/lanes/lanes/1477.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/56450.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Chicago Cubs vs New York Mets
-http://209.222.98.26:8080/live/lanes/lanes/51582.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52896.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  St. Louis Cardinals vs Atlanta Braves
-http://209.222.98.26:8080/live/lanes/lanes/2001.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52887.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Chicago White Sox vs Houston Astros
-http://209.222.98.26:8080/live/lanes/lanes/7477.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52885.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Cincinnati Reds vs San Diego Padres
-http://209.222.98.26:8080/live/lanes/lanes/4586.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52884.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Milwaukee Brewers vs Colorado Rockies
-http://209.222.98.26:8080/live/lanes/lanes/4589.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Detroit Tigers vs Los Angeles Angels (MLB League Feed ) 
-http://209.222.98.26:8080/live/lanes/lanes/4581.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Tampa Bay Rays vs Seattle Mariners (Bally Sports Sun ) 
-http://209.222.98.26:8080/live/lanes/lanes/4588.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52882.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Detroit Tigers vs Los Angeles Angels
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52883.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Tampa Bay Rays vs Seattle Mariners
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52886.m3u8
 
 
 
