@@ -567,6 +567,8 @@ https://blackghost.live/play/totalp2-617.php?c=57&p=3&k=black&f=.m3u8
 https://blackghost.live/play/tlvall-617.php?c=76&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20242.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=universal&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP
 https://blackghost.live/play/totalp2-617.php?c=132&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal
@@ -1078,7 +1080,7 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/2291.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://blackghost.live/play/ftvall-617.php?c=directv&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
-
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20106.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
@@ -1092,7 +1094,7 @@ http://tecnotv.club/j22/android.php?c=319|User-Agent=TokenPLProM3UnndNCPyUmmhLRc
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
-
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directvplus&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20261.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
