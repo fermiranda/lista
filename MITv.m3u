@@ -219,7 +219,7 @@ http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=history2&f=.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20258.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO TP
 https://blackghost.live/play/totalp2-620.php?c=91&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO*
 https://blackghost.live/play/tlvall-620.php?c=579&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD
 
@@ -374,7 +374,7 @@ https://blackghost.live/play/totalp2-620.php?c=25&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp2-620.php?c=2149&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV Tp2
 https://blackghost.live/play/totalp2-620.php?c=2149&p=3&k=black&f=.m3u8 
-#EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV
+#EXTINF:-1 tvg-name="MVS TV" tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV*
 https://blackghost.live/play/tlvall-620.php?c=19&f=.m3u8
 #EXTINF:-1 tvg-name="MVS Noticias" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias
 https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPyXRr48OcouqVyuDECgDz2pfH-A2FvZZMHBr1JN9k8R)/p/dm/3/x6t7n6t/live.m3u8
@@ -388,21 +388,21 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 http://blackghost.live/play/ftvall-620.php?c=univ&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION*
 https://blackghost.live/play/tlvall-620.php?c=620&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS*
 https://blackghost.live/play/tlvall-620.php?c=1784&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
 http://blackghost.live/play/ftvall-620.php?c=unimas&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS
 https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION*
 https://blackghost.live/play/tlvall-620.php?c=294&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
 
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO*
 http://blackghost.live/play/ftvall-620.php?c=universo&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
 
@@ -416,10 +416,14 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 
-#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN 
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN* 
 https://blackghost.live/play/tlvall-620.php?c=353&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN
+http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=rcn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv*
 https://blackghost.live/play/tlvall-620.php?c=345&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
