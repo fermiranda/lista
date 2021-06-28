@@ -1799,11 +1799,11 @@ http://mains.services:2086/live/mikekoot/1757909/50127.m3u8
 http://mains.services:2086/live/mikekoot/1757909/50126.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/100px-Minnesota_Twins_logo_%28low_res%29.svg.png" group-title="USA MLB",US : MLB MINNESOTA TWINS
 http://mains.services:2086/live/mikekoot/1757909/50125.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/mlb_prospects.png" group-title="USA TV",US : MLB NETWORK
+#EXTINF:-1 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/mlb_prospects.png" group-title="DEPORTES", MLB NETWORK
 http://mains.services:2086/live/mikekoot/1757909/160.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87687/mlbnetworktv.png" group-title="USA FULL HD",US : MLB NETWORK FHD 1080
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87687/mlbnetworktv.png" group-title="DEPORTES", NETWORK FHD 1080
 http://mains.services:2086/live/mikekoot/1757909/64091.m3u8
-#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/2400x2400_1578/Source/20785/mlb_strikezone_color_dark_light_2400.png" group-title="USA MLB",US : MLB NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)
+#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/2400x2400_1578/Source/20785/mlb_strikezone_color_dark_light_2400.png" group-title="DEPORTES", MLB NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)
 http://mains.services:2086/live/mikekoot/1757909/14871.m3u8
 #EXTINF:-1 tvg-logo="http://mains.vip:2086/images/850fd93ed3f209400ed5b08cd69f6868.png" group-title="USA MLB",US : MLB NEW YORK METS
 http://mains.services:2086/live/mikekoot/1757909/50124.m3u8
