@@ -218,7 +218,7 @@ http://ipeteve.com/php/SR_REGIO_303033/android.php?c=78|User-Agent=loco2.0
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Reg
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153669.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO TP
@@ -426,10 +426,12 @@ https://blackghost.live/play/tlvall-621.php?c=353&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=rcn&f=.m3u8
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN
 http://tecnotv.club/j28/smartsport.php?c=rcn&f=.m3u8
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/6494.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv*
 https://blackghost.live/play/tlvall-621.php?c=345&f=.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/6491.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
@@ -643,6 +645,8 @@ http://tecnotv.club/j28/android2.php?c=31|User-Agent=megapro
 http://tecnotv.club/j28/principal.php?c=dhe&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=dhe&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
+http://watch-myjokertv.xyz:8080/live/tommy/tommy/242783.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
 https://blackghost.live/play/totalp2-621.php?c=158&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax 
@@ -1103,22 +1107,40 @@ http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=directv&f=.m3u8
 http://tecnotv.club/j28/smartsport.php?c=directv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports
 http://tecnotv.club/j28/android.php?c=151|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/57850.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/116168.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153573.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153588.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153589.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153590.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=directv2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
 http://tecnotv.club/j28/android.php?c=319|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2
-
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2 SD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153585.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2 HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153586.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2 FHD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153587.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=directvplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
 http://tecnotv.club/j28/smartsport.php?c=directvplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
 http://tecnotv.club/j28/android.php?c=320|User-Agent=TokenPLProM3UnndNCPyUmmhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfggLsanndNCPyUmq1mhLRcGnJGSwnSDtmecMfsBxkYurhNByYNoqntiiilsCvIZFkUIbSwFEiwYSpEWMxoOntOYkaBtdvQzSjKtsKhDmfjHqkHqkahauggLsanndNCP7yUmmedhLRcGnJGSwnSDtmecMfsBQajzjoaoiayqjqjoak9877AkHqkIgaosbqikAXd
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="DEPORTES", DIRECTV Sports+
-
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+ SD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153612.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+ HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/153611.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/winsports-hd.jpg" group-title="DEPORTES", WIN SPORTS
 http://blackghost.live/play/ftvall-621.php?c=winsports&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/winsports-hd.jpg" group-title="DEPORTES", WIN SPORTS
