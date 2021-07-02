@@ -1958,7 +1958,7 @@ http://g.givemenbastreams.com/hls/yankees/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Milwaukee Brewers vs Pittsburgh Pirates
 http://g.givemenbastreams.com/hls/pirates/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Tampa Bay Rays vs Toronto Blue Jays
-http://g.givemenbastreams.com/hls/bluejays/chunks.m3u8
+http://g.givemenbastreams.com/hls/jays/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Chicago Cubs vs Cincinnati Reds
 http://g.givemenbastreams.com/hls/reds/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Houston Astros vs Cleveland Indians
@@ -2015,7 +2015,14 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/1251.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   San Diego Padres vs Philadelphia Phillies
+http://204.188.215.210:8880/live/mYaESHd3Zf/3BbeDHHvtu/744.m3u8?token=SkZRB0VbFVxABQEDBQBUBQRWVVMEVlQAUlRcA1UGDVADBw1XBVBTVgMQHUQXEEJUBAlrWAJECgJXAUhAEBBQQ24NXUQMEQZfUgYBVkZIEkUMCVETXFYcFxNcAEBfQQYABlYBRBoRUh4WV0MIBQhvVQASXVIDRApbFlkITkcMW25VAVQHWFcVXEADE0pGDUNBR15aRAoKHBcBXBAQBBdQEwtGDFIPCxVKQFFeEwoQQkhHXhZ8PkQcFwZNEAcLEFxeX0YDRFsAQl5AHhMPFztCVBYQRlQHC1VHQQ9GUkdPF1xQHGYFWV1ZAwFGWAkKFxILR1AWHUQLX1sKQQsQOhNcVRNeG1AHAgNEHw==
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Los Angeles Dodgers vs Washington Nationals
+http://204.188.215.210:8880/live/mYaESHd3Zf/3BbeDHHvtu/2484.m3u8?token=SkZRB0VbFVxAAlVfBVdRB1xXAgVfVggGVVQBWlFbAAIDVQFSB1cEB1QQHUQXEEJUBAlrWAJECgdXDVBORxZGVEM7UAIUCRVXWwIFVlRGHBMRDVlURFwAGUFFDQZHWRcCB1INUxQfFQMaRlQUCgVcbgEBQlgFAxIPDUAIDklBWl9uAFwLV11TRFgQAERIRllCFUYOXxMKXBlBVw0WFwJBVBNeG1ICBg9EThBSCREKREMcRg4TKz4SGUFQHBYADUZYXgobXBReBBNaEB1EDRdvQwAXQEMDB11QERdeQFVBGRNcBUE5VVxZCAdRRQ8LCkMTX0YAE0pEXVoNXBANFzxFWFVGA0QEBgNeUxBM
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   New York Mets vs New York Yankees
+http://204.188.215.210:8880/live/mYaESHd3Zf/3BbeDHHvtu/2457.m3u8?token=SkZRB0VbFVxABVJRBlNSUANSAwYAUgRXBQVWB1IFBVADUwwEUFcGBFUQHUQXEEJUBAlrWAJECgdXAFNORxZGVEM7UAIUCRVXWwIFVlRGHBMRDVlURFwAGUFFDQZHWRcCCFcPVRQfFQMaRlQUCgVcbgEBQlgFAxIPDUAIDklBWl9uAFwLV11TRFgQAERIRllCFUYOXxMKXBlBVw0WFwJBVBNeG1QABwREThBSCREKREMcRg4TKz4SGUFQHBYADUZYXgobXBReBBNaEB1EDRdvQwAXQEMDB11QERdeQFVBGRNcBUE5VVxZCAdRRQ8LCkMTX0YAE0pEXVoNXBANFzxFWFVGA0QFCgRSUxBM
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Milwaukee Brewers vs Pittsburgh Pirates
+http://204.188.215.210:8880/live/mYaESHd3Zf/3BbeDHHvtu/750.m3u8?token=SkZRB0VbFVxAB1JQBwFWU1FUA1VSVAcFV1EFAFIABwVQAFpXU1AFVVIQHUQXEEJUBAlrWAJECgJWBUhAEBBQQ24NXUQMEQZfUgYBVkZIEkUMCVETXFYcFxNcAEBfQQQJB1wPRBoRUh4WV0MIBQhvVQASXVIDRApbFlkITkcMW25VAVQHWFcVXEADE0pGDUNBR15aRAoKHBcBXBAQBBdQEwtGD1YFBhVKQFFeEwoQQkhHXhZ8PkQcFwZNEAcLEFxeX0YDRFsAQl5AHhMPFztCVBYQRlQHC1VHQQ9GUkdPF1xQHGYFWV1ZAwFGWAkKFxILR1AWHUQLX1sKQQsQOhNcVRNeG1cPAANTQE8=
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Copa-america-2021-verticalnegro.png" group-title="COPA AMERICA", PARTIDO  
