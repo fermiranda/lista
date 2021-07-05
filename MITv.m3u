@@ -1955,6 +1955,31 @@ http://mains.services:2086/live/mikekoot/1757909/50112.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   St. Louis Cardinals vs San Francisco Giants
+http://g.givemenbastreams.com/hls/giants/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Los Angeles Dodgers vs Miami Marlins
+http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Atlanta Braves vs Pittsburgh Pirates
+http://g.givemenbastreams.com/hls/pirates/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Cleveland Indians vs Tampa Bay Rays
+http://g.givemenbastreams.com/hls/rays/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Chicago White Sox vs Minnesota Twins
+http://g.givemenbastreams.com/hls/twins/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Milwaukee Brewers vs New York Mets
+http://g.givemenbastreams.com/hls/mets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Detroit Tigers vs Texas Rangers
+http://g.givemenbastreams.com/hls/rangers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Philadelphia Phillies vs Chicago Cubs
+http://g.givemenbastreams.com/hls/cubs/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Cincinnati Reds vs Kansas City Royals
+http://g.givemenbastreams.com/hls/royals/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Boston Red Sox vs Los Angeles Angels
+http://g.givemenbastreams.com/hls/angels/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Washington Nationals vs San Diego Padres
+http://g.givemenbastreams.com/hls/padres/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MLB | 15 BOSTON RED SOX @ LA ANGELS 9:30PM ET" tvg-logo="" group-title="MLB Games",MLB | 15 BOSTON RED SOX @ LA ANGELS 9:30PM ET
