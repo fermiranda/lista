@@ -457,6 +457,18 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO SD
 http://91.126.141.13:1935/live/51/1800-def.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="http://latiniptv.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="ESPAÑA", CUATRO
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="http://latiniptv.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="ESPAÑA", CUATRO HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD" tvg-logo="http://latiniptv.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="ESPAÑA", CUATRO FHD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="http://latiniptv.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="ESPAÑA", TELECINCO
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="http://latiniptv.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="ESPAÑA", TELECINCO HD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD" tvg-logo="http://latiniptv.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="ESPAÑA", TELECINCO FHD
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/150210.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
 http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
@@ -484,6 +496,8 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/2490.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO FHD
 http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/6469.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/57662.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 https://blackghost.live/play/wistream-701.php?cat=latinos&ch=hbo&bg=black&server=adicto&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2*
 https://blackghost.live/play/tlvall-701.php?c=559&f=.m3u8
@@ -499,6 +513,8 @@ http://tecnotv.club/j0307/principal.php?c=hbo2&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hbo2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 FHD
 http://latiniptv.vip:8080/live/VICTORCHILE12MESES/OSVALDOPRO0902/6412.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS*
 https://blackghost.live/play/tlvall-701.php?c=560&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
