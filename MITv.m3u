@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas+
-
+http://tecnotv.club/8julio21/smartv.php?c=canalestrellas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
 https://blackghost.live/play/tlvall-711.php?c=500&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Tp2
@@ -12,7 +12,7 @@ https://blackghost.live/play/totalp1-711.php?c=1784&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP
 https://blackghost.live/play/totalp2-711.php?c=17&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-http://tecnotv.club/8julio21/principal.php?c=eldos&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 https://blackghost.live/play/wistream-bglve-711.php?cat=latinos&ch=canalestrellas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
@@ -34,7 +34,7 @@ https://blackghost.live/play/totalp2-711.php?c=1785&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 
 
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5-
-http://tecnotv.club/8julio21/principal.php?c=elcinco&f=.m3u8
+
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE*
 https://blackghost.live/play/tlvall-711.php?c=16&f=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Tp2
@@ -76,7 +76,7 @@ http://blackghost.live/play/ftvall-711.php?c=aztecauno&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno-
-http://tecnotv.club/8julio21/principal.php?c=aztecauno&f=.m3u8
+http://tecnotv.club/8julio21/smartv.php?c=azteca&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
@@ -212,7 +212,7 @@ http://tecnotv.club/8julio21/smartv.php?c=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
 https://blackghost.live/play/wistream-bglve-711.php?cat=latinos&ch=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
-
+https://spinoff.link/8julio21/mega.php?c=55
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
 https://blackghost.live/play/wistream-711.php?cat=latinos&ch=history2&k=black--gh0st&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2^
@@ -842,7 +842,7 @@ https://paramount-network.akamaized.net/hls/live/599582/bellator-main/master.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://bazarhd.online:80/live/307210575557/307210575557/81349.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
+https://spinoff.link/8julio21/mega.php?c=349
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
