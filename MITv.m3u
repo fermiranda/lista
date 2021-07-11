@@ -1657,6 +1657,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/374.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/1641.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
+http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
@@ -1677,10 +1679,12 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/587.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6680.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/259.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
-
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
-
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", PREMIER SPORTS 1
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", PREMIER SPORTS 2
@@ -2061,36 +2065,6 @@ http://mains.services:2086/live/mikekoot/1757909/50112.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Toronto Blue Jays vs Tampa Bay Rays
-http://g.givemenbastreams.com/hls/rays/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Detroit Tigers vs Minnesota Twins
-http://g.givemenbastreams.com/hls/twins/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Washington Nationals vs San Francisco Giants
-http://g.givemenbastreams.com/hls/giants/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Oakland Athletics vs Texas Rangers
-http://g.givemenbastreams.com/hls/rangers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Chicago White Sox vs Baltimore Orioles
-http://g.givemenbastreams.com/hls/orioles/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Pittsburgh Pirates vs New York Mets
-http://g.givemenbastreams.com/hls/mets/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Philadelphia Phillies vs Boston Red Sox
-http://g.givemenbastreams.com/hls/redsox/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Atlanta Braves vs Miami Marlins
-http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Kansas City Royals vs Cleveland Indians
-http://g.givemenbastreams.com/hls/indians/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   St. Louis Cardinals vs Chicago Cubs
-http://g.givemenbastreams.com/hls/cubs/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   New York Yankees vs Houston Astros
-http://g.givemenbastreams.com/hls/astros/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Cincinnati Reds vs Milwaukee Brewers
-http://g.givemenbastreams.com/hls/brewers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Arizona Diamondbacks vs Los Angeles Dodgers
-http://g.givemenbastreams.com/hls/dodgers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Colorado Rockies vs San Diego Padres
-http://g.givemenbastreams.com/hls/padres/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",   Los Angeles Angels vs Seattle Mariners
-http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
 
 
 
@@ -2102,14 +2076,7 @@ http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Copa-america-2021-verticalnegro.png" group-title="COPA AMERICA", PARTIDO  
-http://blackghost.live/play/ftvall-709.php?c=directv&k=b1ack-gh0st&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Copa-america-2021-verticalnegro.png" group-title="COPA AMERICA", PARTIDO
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Copa-america-2021-verticalnegro.png" group-title="COPA AMERICA", PARTIDO
-http://blackghost.live/sat/wow-709.php?c=11&k=blackgh0o0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Copa-america-2021-verticalnegro.png" group-title="COPA AMERICA", PARTIDO
-https://blackghost.live/sat/w-709.php?url=https://v7.sportzonline.to/channels/hd/hd6.php&k=blackgh0o0st&file=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.4flush.com/wp-content/uploads/2017/05/NBA-Finals.png" group-title="NBA Finals",  Phoenix Suns vs Milwaukee Bucks 
