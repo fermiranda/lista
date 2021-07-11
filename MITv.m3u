@@ -1527,7 +1527,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/871.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="USA", HBO (West)
 
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852441292cinimaxeast.png" group-title="USA", Cinemax (East)
-
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852517909cinimaxwest.png" group-title="USA", Cinemax (West)
 
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1567774561929ShowtimeEast.png" group-title="USA", Showtime (East)
@@ -1546,8 +1546,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/871.m3u8
 http://we.caughtyousnooping.club/live/mYaESHd3Zf/3BbeDHHvtu/886.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT*
 https://blackghost.live/play/14-709.php?c=26031|User-Agent=high.quality1/4.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
+http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
 http://blackghost.live/sat/daddy-609.php?canal=56&k=blackgh0o0st&file=.m3u8 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
