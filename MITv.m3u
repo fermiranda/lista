@@ -1499,15 +1499,17 @@ https://jcstream.teleuptv.net/WPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW Web
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/210/810/png-clipart-starz-encore-starz-distribution-logo-television-others-television-angle.png" group-title="USA", Starz
-
+http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/800px-Starz_Edge_logo.svg.png" group-title="USA", Starz Edge
+http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/827/324/997/tv-channel-icons-pack-starz-comedy-color-png-icon.jpg" group-title="USA", Starz Comedy
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/464/1022/330/tv-channel-icons-pack-starz-cinema-color-png-icon.jpg" group-title="USA", Starz Cinema
-
+http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="USA", Starz Encore
-
+http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
-
+http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
@@ -1519,7 +1521,7 @@ http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/898.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/871.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network West
-
+http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 
 #EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" group-title="USA", HBO (East)
@@ -1541,6 +1543,21 @@ http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/epix-logo-2019.png" group-title="USA", Epix (East)
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="USA", Epix 2 (East)
+
+
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesactionnadventure.jpg" group-title="UK",  Sky Movies Action & Adventure
+http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescomedy.jpg" group-title="UK",  Sky Movies Comedy 
+http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescrimenthriller.jpg" group-title="UK",  Sky Movies Crime & Thriller
+http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg" group-title="UK",  Sky Movies Disney
+http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesfamily.jpg" group-title="UK",  Sky Movies Family
+http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
 http://we.caughtyousnooping.club/live/mYaESHd3Zf/3BbeDHHvtu/886.m3u8
