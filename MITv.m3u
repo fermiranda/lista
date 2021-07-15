@@ -1307,9 +1307,11 @@ http://g.givemenbastreams.com/hls/espn/playlist.m3u8
 http://streaming-cdn-5.sp0n.io/live/n1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 
-#EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
+#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 
-#EXTINF:-1 tvg-name="ESPN(USA)" tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
+#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
+http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/3859.m3u8
+#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/872.m3u8
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA) HD
 https://gma2.blab.email/fs2.m3u8
@@ -1323,7 +1325,9 @@ http://164.68.124.111/fs2.m3u8
 http://164.68.124.111/fs2.m3u8?token:null
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="DEPORTES", ESPN(USA)
 https://blackghost.live/play/14-713.php?c=25793|User-Agent=high.quality1/4.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
+#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
+http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/3860.m3u8
+#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (USA)" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 https://gma2.blab.email/espn2.m3u8
