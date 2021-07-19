@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas+
 http://tecnotv.club/1821/smartv.php?c=canalestrellas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
-http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/1918.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Tp2
 https://blackghost.live/play/totalp2-756.php?c=1784&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP
@@ -15,8 +15,8 @@ https://blackghost.live/play/totalp2-756.php?c=17&p=3&k=black&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_180721/regiotv2.php?c=145|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 https://blackghost.live/play/wistream-bglve-756.php?cat=latinos&ch=canalestrellas&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Rg
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
+http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/1918.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas- -2Hrs.
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas- -2Hrs.
@@ -790,8 +790,7 @@ https://blackghost.live/play/tlvall-756.php?c=532&f=.m3u8
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
 http://tecnotv.club/1821/smartv.php?c=clarocinema&f=.m3u8
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
-https://blackghost.live/play/tlvall-756.php?c=431&f=.m3u8
-
+http://blackghost.live/play/futvall-756.php?id=clarosports&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="http://apk.islandtv.tk/Picons/USA/showtime.png" group-title="USA".,Showtime
 http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/180.m3u8
 #EXTINF:-1 tvg-logo="http://apk.islandtv.tk/Picons/USA/showtime.png" group-title="USA".,Showtime 2
