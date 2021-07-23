@@ -1261,7 +1261,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="DEPORTES", WWE Network
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/5184.m3u8
-
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:DAZN_Logo.png" group-title="DEPORTES", DZNA 
+https://blackghost.live/play/14-755.php?c=26694|User-Agent=high.quality1/4.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 http://g.givemenbastreams.com/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
