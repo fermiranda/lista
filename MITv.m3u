@@ -1394,6 +1394,8 @@ https://blackghost.live/play/14-725.php?c=27219|User-Agent=high.quality1/4.0 (Li
 https://blackghost.live/play/14-725.php?c=27262|User-Agent=high.quality1/4.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 http://my.streamerstv.com:25461/Mark123/Mark123/829
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC
+http://my.streamerstv.com:25461/live/Bob123/Bob123/821.m3u8?SBN
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC 
 http://blackghost.live/play/futvall-719.php?id=nbcsn&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
@@ -1725,8 +1727,8 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LIGA MX
 
-
-
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="OLIMPIADAS", CANAL 1
+https://link.zozotv.xyz:443/live/Freemium1/unlimited99/318.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
