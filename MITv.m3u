@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas+
 http://tecnotv.club/23ju/smartv.php?c=canalestrellas&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Fv
 http://blackghost.live/play/futvall-725.php?id=eldos&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Tp2
 https://blackghost.live/play/totalp2-725.php?c=1784&p=3&k=black&f=.m3u8  
@@ -33,9 +33,9 @@ http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canal5televisa&f=.m
 http://ipeteve.com/php/SR_REGIO_250721/regiotv2.php?c=144|User-Agent=megaplayer
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5-
 http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/7769.m3u8
-#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Fv
 http://blackghost.live/play/futvall-725.php?id=elcinco&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Fv
 http://blackghost.live/play/futvall-725.php?id=elcincohd&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE*
 http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/1929.m3u8
@@ -71,7 +71,7 @@ https://blackghost.live/play/totalp2-725.php?c=2051&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp2-725.php?c=1870&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno*
 http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/1923.m3u8
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Fv
 http://blackghost.live/play/futvall-725.php?id=aztecauno&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
@@ -95,9 +95,9 @@ https://blackghost.live/play/totalp2-725.php?c=1931&p=3&k=black&f=.m3u8
 http://disfruta.net:80/live/vBpJPxSpU9/VVG4CP12gs/1930.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7-
 http://blackghost.live/play/futvall-719.php?id=azteca7&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7*
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
 http://blackghost.live/play/futvall-725.php?id=azteca7&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7+
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
 http://blackghost.live/play/futvall-725.php?id=azteca7hd&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 FHD
 http://my.streamerstv.com:25461/Mark123/Mark123/363
