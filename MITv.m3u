@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 1
 http://tecnotv.club/23ju/smartv.php?c=canalestrellas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 2
-http://tecnotv.club/23ju/smartv.php?c=canalestrellas
+http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55435.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Fv
 http://blackghost.live/play/futvall-725.php?id=eldos&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Tp2
@@ -12,7 +12,7 @@ https://blackghost.live/play/totalp1-725.php?c=1784&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP2
 https://blackghost.live/play/totalp2-725.php?c=17&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-https://blackghost.live/play/14-725.php?c=13400
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 https://blackghost.live/play/wistream-bglve-725.php?cat=latinos&ch=canalestrellas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
@@ -944,7 +944,7 @@ https://blackghost.live/play/14-725.php?c=16657|User-Agent=high.quality1/4.0 (Li
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 https://blackghost.live/play/totalp1-725.php?c=169&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/32979.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://blackghost.live/play/totalp2-725.php?c=169&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX-
