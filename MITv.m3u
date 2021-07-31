@@ -1332,6 +1332,8 @@ https://blackghost.live/play/totalp2-718.php?c=334&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA", MTV Classics
 
+#EXTINF:-1 tvg-logo="-" group-title="MUSICA", RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/79/795c8ef824bdb6f8d509c3d80bf22dd8.png" group-title="MUSICA",MTV USA
