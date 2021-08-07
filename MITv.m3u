@@ -206,10 +206,10 @@ https://blackghost.live/play/wistream-bglve-808.php?cat=latinos&ch=history&f=.m3
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 14
 https://blackghost.live/play/14-808.php?c=25465|User-Agent=high.quality1/4.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://tv.nstvlatino.com:8080/live/Primo123/Primo123/4005.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
 https://blackghost.live/play/wistream-bglve-808.php?cat=latinos&ch=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
@@ -220,8 +220,8 @@ https://blackghost.live/play/wistream-808.php?cat=latinos&ch=history2&k=black--g
 https://blackghost.live/play/wistream-bglve-808.php?cat=latinos&ch=history2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 x
 http://my.streamerstv.com:25461/Mark123/Mark123/411
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 38
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/55429
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://bazarhd.online:80/live/307210575557/307210575557/86941.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 XD
@@ -1697,6 +1697,39 @@ http://161.35.82.161/live/ovo1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180619/krg/kisspng-one-championship-sport-kickboxing-mixed-martial-ar-champion-logo-5b28a306a0fe18.6410626215293898306594.jpg" group-title="EVENTO EN VIVO", ONE CHAMPIONSHIP FIGHTS
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas ", Olimpic Channel (en-01) 
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-02) 
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-03) 
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-04) 
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-05) 
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-06) 
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-07) 
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-08) 
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-09) 
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-10) 
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-11) 
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-12) 
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-13) 
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-14) 
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-15) 
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPCNlol.png" tvg-logo="https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020#/media/Archivo:2020_Summer_Olympics_text_logo.svg.png" group-title=" Olimpiadas Olimpic Channel (en-16) 
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8 
 
 
 
