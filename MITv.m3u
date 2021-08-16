@@ -816,7 +816,7 @@ http://daletvplay.xyz:8080/live/VP611X3SS/fnKGMYBNHG/85337.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 http://blackghost.live/play/futvall-888.php?id=nfl&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD+
-
+http://stream2.grandma.fit/fox.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
@@ -1818,43 +1818,34 @@ https://blackghost.live/play/14-888.php?c=17327|User-Agent=high.quality1/4.0 (Li
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Cincinnati Reds vs Philadelphia Phillies
+
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Los Angeles Angels vs New York Yankees
+http://g.givemenbastreams.com/hls/yankees/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Chicago Cubs vs Cincinnati Reds
 http://g.givemenbastreams.com/hls/reds/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Atlanta Braves vs Washington Nationals
-http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Milwaukee Brewers vs Pittsburgh Pirates
-http://g.givemenbastreams.com/hls/brewers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Baltimore Orioles vs Boston Red Sox
-http://g.givemenbastreams.com/hls/redsox/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Cleveland Indians vs Detroit Tigers
-http://g.givemenbastreams.com/hls/tigers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Los Angeles Dodgers vs New York Mets
-http://g.givemenbastreams.com/hls/mets/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Chicago Cubs vs Miami Marlins
-http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Oakland Athletics vs Texas Rangers
-http://g.givemenbastreams.com/hls/athletics/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  St. Louis Cardinals vs Kansas City Royals
-http://g.givemenbastreams.com/hls/royals/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Tampa Bay Rays vs Minnesota Twins
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Baltimore Orioles vs Tampa Bay Rays
 http://g.givemenbastreams.com/hls/rays/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Houston Astros vs Los Angeles Angels
-http://g.givemenbastreams.com/hls/angels/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  San Diego Padres vs Arizona Diamondbacks 
-http://g.givemenbastreams.com/hls/diamondbacks/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Colorado Rockies vs San Francisco Giants
-http://g.givemenbastreams.com/hls/gians/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Toronto Blue Jays vs Seattle Mariners
-http://g.givemenbastreams.com/hls/mariners/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Atlanta Braves vs Miami Marlins
+http://g.givemenbastreams.com/hls/marlins/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Houston Astros vs Kansas City Royals
+http://g.givemenbastreams.com/hls/royals/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Cleveland Indians vs Minnesota Twins
+http://g.givemenbastreams.com/hls/twins/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Oakland Athletics vs Chicago White Sox
+http://g.givemenbastreams.com/hls/whitesox/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  San Diego Padres vs Colorado Rockies
+http://g.givemenbastreams.com/hls/rockies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  New York Mets vs San Francisco Giants
+http://g.givemenbastreams.com/hls/mets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB",  Pittsburgh Pirates vs Los Angeles Dodgers
+http://g.givemenbastreams.com/hls/dodgers/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Carolina Panthers vs Indianapolis Colts
-http://stream2.grandma.fit/fox.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Carolina Panthers vs Indianapolis Colts
-https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-2&anvsid=i178782242-nfb3737bc-3604-4ae0-8cb4-f350179754a0&ts=1629048521&anvtrid=5e66942a5d7ec0fa78cffbeb345c1525
+
 
 
 
