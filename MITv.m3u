@@ -671,8 +671,8 @@ https://blackghost.live/play/totalp2-819.php?c=138&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM-
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE*
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE TTv
+http://tecnotv.club/1721ago/smartv.php?c=dhe
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 24
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 38
@@ -810,7 +810,7 @@ http://tvplaymundo.com:80/live/test0/test0/4749.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
+http://tecnotv.club/1721ago/sport.php?c=nfl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
 http://blackghost.live/play/futvall-819.php?id=nfl&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD+
@@ -935,15 +935,15 @@ http://teslaiptv.com:8080/live/hannaxhanna/es576457/86616.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
-http://ultrontv.xyz:80/live/vincent2021/vincent2021/4672.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES HD
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/54126.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/14050.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 http://blackghost.live/play/futvall-819.php?id=espndep&k=b1ack-gh0st&file=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES TTv
+http://tecnotv.club/1721ago/sport.php?c=espndep
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX*
 https://blackghost.live/play/wistream-bglve-819.php?cat=latinos&ch=espn1mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
