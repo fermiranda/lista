@@ -1816,9 +1816,9 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-
+http://134.19.182.131:8080/vdg3.m3u8?h=76ca861ba41da9d0431af5aa1af52c4f
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-
+http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEwOjQ3Cjo0NAogUE0maGFzaF92YWx1ZT03RHgrSFlLL05qR2dOS00rdlp2QkhnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuOTguNDcmc3RybV9sZW49NA==
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT+
@@ -1960,6 +1960,8 @@ http://185.53.89.183/hls/nfl.m3u8
 http://11q.mooo.com/hls/mfln21.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
 https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-7&anvsid=i178782247-nc825347d-4687-4cdd-9ae9-f668b3dda07d&ts=1629584678&anvtrid=48a348fcc8e2bca61a2ccbb5b6fbe5a2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
+http://77.247.109.111/hls/T1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEwOjUyCjo0NwogUE0maGFzaF92YWx1ZT1xZzlJYjd0ZFBYYjJsSFprN1U0QXNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMjM5LjE5OS4xNTcmc3RybV9sZW49NA==
 
 
 
