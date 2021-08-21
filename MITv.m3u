@@ -1246,6 +1246,9 @@ http://blackghost.live/play/futvall-827.php?id=directv2&k=blaaccckghost&file=.m3
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
 https://blackghost.live/play/wistream-bglve-827.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/winsports-hd.jpg" group-title="DEPORTES", WIN SPORTS
 http://blackghost.live/play/futvall-827.php?id=winsports&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/winsports-hd.jpg" group-title="DEPORTES", WIN SPORTS
