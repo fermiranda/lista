@@ -986,10 +986,17 @@ http://blackghost.live/play/futvall-827.php?id=afizzionados&k=blaaccckghost&file
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55292.m3u8
 #EXTINF:-1 tvg-logo="https://latino.dish.com/global/images/logos/zf-logo.png" group-title="DEPORTES", ZONA FUTBOL
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", Empoli - Lazio
-http://77.247.109.92/hls/W3.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", Bayer Leverkusen - Borussia Monchegadbach
 https://aws29.varcdn1.ru/m3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", Empoli - Lazio
+http://77.247.109.92/hls/W3.m3u8
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", Torino - Atalanta
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png" group-title="DEPORTES",  Sky Sports 24 HD 
