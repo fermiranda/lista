@@ -938,8 +938,8 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521187950_IC-292.png" group-title="DEPORTES", Sony Six FHD
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="DEPORTES", BEIN SPORTS
-
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="DEPORTES", BEIN SPORTS 1 Premium
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
