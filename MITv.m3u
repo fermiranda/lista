@@ -1908,6 +1908,12 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9LukC5WYAUH_Pz?format=jpg" group-title="Tennis", WTA
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Buffalo Bills vs Chicago Bears
+http://11q.mooo.com/hls/chi-buf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Buffalo Bills vs Chicago Bears
+https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-7&anvsid=i178782247-ne78e7c99-25af-4349-9e8a-495b697e13a3&ts=1629575422&anvtrid=095f3436177ea4348b44dde58fc66ce2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  New York Jets vs Green Bay Packers
+https://kimberliloezaa.s3.amazonaws.com/onafep.m8
 
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
