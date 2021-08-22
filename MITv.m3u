@@ -994,6 +994,10 @@ http://blackghost.live/play/futvall-827.php?id=afizzionados&k=blaaccckghost&file
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55292.m3u8
 #EXTINF:-1 tvg-logo="https://latino.dish.com/global/images/logos/zf-logo.png" group-title="DEPORTES", ZONA FUTBOL
 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Teledeporte#/media/Archivo:Teledeporte.svg.png" group-title="DEPORTES", TDP
+http://91.126.141.13:1935/live/91/1400-def.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-pptvhd-36-1608-300x225.jpg" group-title="DEPORTES", PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_1.png" group-title="DEPORTES", Arena Sports 1 FHD
