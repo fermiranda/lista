@@ -996,6 +996,17 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55292.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-pptvhd-36-1608-300x225.jpg" group-title="DEPORTES", PPTV HD
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_1.png" group-title="DEPORTES", Arena Sports 1 FHD
+http://93.157.62.180:80/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_2.png" group-title="DEPORTES", Arena Sports 2 FHD
+http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png" group-title="DEPORTES", Arena Sports 3 HD
+http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_4.png" group-title="DEPORTES", Arena Sports 4 HD
+http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_5.png" group-title="DEPORTES", Arena Sports 5 HD
+http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", Bayer Leverkusen - Borussia Monchegadbach
 https://aws29.varcdn1.ru/m3/tracks-v1a1/mono.m3u8
