@@ -1102,6 +1102,8 @@ https://blackghost.live/play/totalp1-827.php?c=169&p=3&k=black&f=.m3u8
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/32979.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://blackghost.live/play/totalp2-827.php?c=169&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN ARG
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/27553.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
@@ -1118,8 +1120,8 @@ https://blackghost.live/play/totalp1-827.php?c=168&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp2-827.php?c=168&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 ARG
 http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 ARG
+http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES",  ESPN3 MX*
 https://blackghost.live/play/wistream-bglve-827.php?cat=latinos&ch=espn3mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX HD
