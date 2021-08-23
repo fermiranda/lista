@@ -776,7 +776,7 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55011.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55010.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 17
-https://blackghost.live/play/megaplay-827.php?c=31&token=fptxI6W0AG&play=espro|User-Agent=espro
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
 https://blackghost.live/play/totalp2-827.php?c=158&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax 
@@ -1957,38 +1957,6 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9LukC5WYAUH_Pz?format=jpg" group-title="Tennis", WTA
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Buffalo Bills vs Chicago Bears
-http://11q.mooo.com/hls/chi-buf.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Buffalo Bills vs Chicago Bears
-https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-7&anvsid=i178782247-ne78e7c99-25af-4349-9e8a-495b697e13a3&ts=1629575422&anvtrid=095f3436177ea4348b44dde58fc66ce2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  New York Jets vs Green Bay Packers
-https://kimberliloezaa.s3.amazonaws.com/onafep.m8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  New York Jets vs Green Bay Packers
-https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-7&anvsid=i178782247-ndc05690e-8b19-47da-aafd-8a2f11dba0f4&ts=1629576045&anvtrid=10dbdfeec13f2f7a42daf0116e1ebb83
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  New York Jets vs Green Bay Packers
-http://11q.mooo.com/hls/mfln21.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Atlanta Falcons vs Miami Dolphins
-https://kimberliloezaa.s3.amazonaws.com/pwncfi.m8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Atlanta Falcons vs Miami Dolphins
-http://11q.mooo.com/hls/atl-mia.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Atlanta Falcons vs Miami Dolphins
-http://185.53.89.183/hls/nfl.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Baltimore Ravens vs Carolina Panthers
-https://kimberliloezaa.s3.amazonaws.com/jqqcaj.m8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Baltimore Ravens vs Carolina Panthers
-http://11q.mooo.com/hls/bal-car.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Baltimore Ravens vs Carolina Panthers
-http://31.220.41.88:8081/live/nfl.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
-https://kimberliloezaa.s3.amazonaws.com/xluxiv.m8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
-http://185.53.89.183/hls/nfl.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
-http://11q.mooo.com/hls/mfln21.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
-https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-7&anvsid=i178782247-nc825347d-4687-4cdd-9ae9-f668b3dda07d&ts=1629584678&anvtrid=48a348fcc8e2bca61a2ccbb5b6fbe5a2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/7c/14/717c14c2d2de983f9bddffea12746ec8.jpg" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
-http://77.247.109.111/hls/T1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEwOjUyCjo0NwogUE0maGFzaF92YWx1ZT1xZzlJYjd0ZFBYYjJsSFprN1U0QXNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMjM5LjE5OS4xNTcmc3RybV9sZW49NA==
 
 
 
