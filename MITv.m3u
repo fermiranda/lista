@@ -966,8 +966,10 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/263px-Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA FHD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 
+http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 2
+http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="DEPORTES", MOVISTAR GOLF HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTES", MOVISTAR FORMULA 1 HD
@@ -1160,6 +1162,8 @@ https://blackghost.live/play/totalp2-827.php?c=178&p=3&k=black&f=.m3u8
 http://blackghost.live/play/futvall-827.php?id=foxsports3-mx&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 
+#EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
+https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 http://tecnotv.club/20ago21/smartv3.php?c=26&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
