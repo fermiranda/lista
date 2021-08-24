@@ -439,8 +439,15 @@ http://dl.dropbox.com/s/m3wcoh2jrej23i5/Mortal%20K.mp4
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Mortal%20Kombat%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="PELICULAS",Mortal Kombat (2021)
 http://archive.org/download/mkombt-021/mkombt-021.mp4
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS", Infinitos
+http://iptvcanales.gq/canales/series/gN7KuXx5krL8yKE/playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS", 
 
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS", 
 
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS", 
+
+#EXTINF:-1 tvg-logo="-" group-title="PELICULAS", 
 
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -793,8 +800,8 @@ http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57183.m3u8
 http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57182.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55011.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55010.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
+http://iptvcanales.gq/canales/live/245/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
@@ -1524,6 +1531,8 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 http://blackghost.live/play/futvall-827.php?id=nbcsn&f=.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC 
 http://blackghost.live/play/futvall-827.php?id=nbcsn&k=blaaccckghost&file=.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC
+http://iptvcanales.gq/canales/rojo/93843/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
 
 #EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="USA Latinos",Telemundo San Diego
@@ -1571,10 +1580,10 @@ https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS EAST
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS
 http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS WEST
-
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS
+http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS
 https://skorpion.selfip.net:443/play/6mWTY5NPOyBS3N0qXG09EIc4_1NLZHWXFLBfOUOgT_CY2U1FjGf9b9khwZktyDWl/ts
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA
@@ -1612,7 +1621,7 @@ http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1022px-American_Broadcasting_Company_Logo.svg.png" group-title="USA", ABC WEST
 http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC
-
+http://iptvcanales.gq/canales/rojo/93841/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC MIAMI
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
