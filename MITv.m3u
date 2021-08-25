@@ -3,6 +3,8 @@
 http://iptvcanales.gq/canales/live/226/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2021/05/Canal45.png" group-title="NACIONALES", Canal 45 Tij
 http://iptvcanales.gq/canales/live/230/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
+https://live-streams-notusa.televisa.com/channel01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 22
 http://blackghost.live/play/futvall-833.php?id=eldos&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Fv
@@ -52,7 +54,7 @@ https://blackghost.live/play/totalp2-833.php?c=2248&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Multi Web
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP
 https://blackghost.live/play/totalp2-833.php?c=4&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV SD TP
@@ -1098,6 +1100,8 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL Fv
 http://blackghost.live/play/futvall-833.php?id=skysportspl&k=blaaccckghost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Web
+https://live-streams-notusa.televisa.com/channel03/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
 https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 2
