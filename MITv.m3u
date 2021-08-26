@@ -630,8 +630,8 @@ http://195.181.163.39/ARG_HBO/index.m3u8
 http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 30
 http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57250.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1744.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+http://tecnotv.club/ago24/smartv3.php?c=688&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/45651.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 38
@@ -648,8 +648,8 @@ http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
 http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57402.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 38
 http://tv.iptv5latino.cl:8080/live1wilmaru/mvzsGgWzmk/55431.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1745.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+http://tecnotv.club/ago24/smartv3.php?c=636&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 http://195.181.163.39/ARG_HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS 30
@@ -661,7 +661,7 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1747.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family*
 http://195.181.163.39/ARG_HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-https://blackghost.live/play/wistream-833.php?cat=latinos&ch=hbofamily&bg=black&server=adicto&f=.m3u8
+http://tecnotv.club/ago24/smartv3.php?c=632&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 https://blackghost.live/play/wistream-bglve-833.php?cat=latinos&ch=hbofamily&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -671,7 +671,7 @@ http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature+
 https://blackghost.live/play/wistream-bglve-833.php?cat=latinos&ch=hbosignature&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-https://blackghost.live/play/wistream-833.php?cat=latinos&ch=hbosignature&bg=black&server=adicto&f=.m3u8
+http://tecnotv.club/ago24/smartv3.php?c=1169&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1748.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme*
@@ -1252,6 +1252,23 @@ https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8
 http://tecnotv.club/ago24/smartv3.php?c=12790&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 http://tecnotv.club/ago24/smartv3.php?c=16596&file=playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg
+http://tecnotv.club/ago24/smartv3.php?c=455&file=playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg
+http://iptvcanales.gq/canales/cable/kqfqxg/playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
+
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
+
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
+
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Chile
+http://tecnotv.club/ago24/smartv3.php?c=244&file=playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
+
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports 3 Chile
+http://tecnotv.club/ago24/smartv3.php?c=676&file=playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports
 https://blackghost.live/play/totalp2-833.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports-
