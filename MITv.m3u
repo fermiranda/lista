@@ -17,10 +17,12 @@ https://blackghost.live/play/totalp1-833.php?c=1784&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp2-833.php?c=17&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TTv
 http://tecnotv.club/ago24/smartv.php?c=eldos
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas HD TTv
+http://tecnotv.club/ago24/smartv3.php?c=1582&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
-https://blackghost.live/play/megaplay-833.php?c=375&token=fptxI6W0AG&play=espro|User-Agent=espro
+http://tecnotv.club/ago24/smartv3.php?c=11006&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2Hrs.
 http://iptvcanales.gq/canales/live/272/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 HD TTv
@@ -114,7 +116,9 @@ http://blackghost.live/play/futvall-833.php?id=azteca7&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV 
 http://iptvcanales.gq/canales/total/2298/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV TTv
-http://tecnotv.club/ago24/smartv3.php?c=1582&file=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
+http://iptvcanales.gq/canales/tvfree/65/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV TP
 https://blackghost.live/play/totalp2-833.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV TP
