@@ -1051,7 +1051,7 @@ https://tv2.tructiep.space/live/2a7017ad9444e3a8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
 http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="DEPORTES", LALIGATV BAR 1 
-http://77.247.109.101/hls/A1.m3u8
+http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/263px-Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA FHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 
@@ -1118,6 +1118,8 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/640px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports Football
 http://iptvcanales.gq/canales/live/60/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/640px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports Football
+http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/sky-sports-football.jpg" group-title="DEPORTES",  Sky Sports La Liga
 http://iptvcanales.gq/canales/televall/741/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL
