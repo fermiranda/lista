@@ -115,8 +115,8 @@ http://tecnotv.club/29ago21/smartv3.php?c=3459&file=playlist.m3u8
 http://blackghost.live/play/futvall-817.php?id=azteca7&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV 
 http://iptvcanales.gq/canales/total/2298/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV TTv
-https://blackghost.live/play/megaplay-817.php?c=154&token=ui9oVAYdW4&play=fupro|User-Agent=fupro
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV HD
+http://balancer1.iptvmx.com:8081/tecno/imagen.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV
 http://iptvcanales.gq/canales/tvfree/65/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/12sky-logo-Imagen.jpg" group-title="NACIONALES", Imagen TV TP
@@ -215,8 +215,8 @@ http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/master.m3u8
 https://blackghost.live/play/totalp2-817.php?c=1499&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TP
 https://blackghost.live/play/totalp2-817.php?c=89&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/15565.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
+http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TTV
 http://tecnotv.club/29ago21/smartv.php?c=history
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TTv An2
@@ -573,8 +573,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN FHD
 https://blackghost.live/play/codeplus2-817.php?c=RCN&f=.m3u8
-#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN
-
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN HD
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN HD
 http://iptvcanales.gq/canales/tvfree/417/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png"group-title="Internacionales Latinos",RCN
@@ -838,6 +838,8 @@ https://blackghost.live/play/totalp2-817.php?c=138&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM-
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE TTv
 http://tecnotv.club/29ago21/smartv.php?c=dhe
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 22
@@ -848,12 +850,8 @@ https://blackghost.live/play/codeplus2-817.php?c=DHE&f=.m3u8
 http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57183.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 http://daletvplay.xyz:8080/live/9ThR5zqwvN/XPHBz4lboa/57182.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55011.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 http://iptvcanales.gq/canales/live/245/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 11
 http://200.107.234.74:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
@@ -1217,8 +1215,8 @@ https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=espn1mx&f=.m3
 http://blackghost.live/play/futvall-817.php?id=espn1-mx&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/32979.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
+http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://blackghost.live/play/totalp1-817.php?c=169&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
@@ -1233,8 +1231,8 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/27553.m3u8
 http://blackghost.live/play/futvall-817.php?id=espn2-mx&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX*
 https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX HD
+http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
@@ -1251,8 +1249,8 @@ https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=espn3mx&f=.m3
 http://blackghost.live/play/futvall-817.php?id=espn3-mx&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/15766.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX HD
+http://balancer1.iptvmx.com:8081/tecno/Espn3.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 https://blackghost.live/play/totalp1-817.php?c=345&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX TP
@@ -1265,8 +1263,8 @@ https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=fox-sports1mx
 https://blackghost.live/play/totalp1-817.php?c=170&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX-
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX HD
+http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://blackghost.live/play/futvall-817.php?id=foxsports1-mx&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP
@@ -1277,8 +1275,8 @@ http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 https://blackghost.live/play/totalp1-817.php?c=172&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX HD
+http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX-
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
@@ -1289,8 +1287,8 @@ http://blackghost.live/play/futvall-817.php?id=foxsports2-mx&k=blaaccckghost&fil
 https://blackghost.live/play/wistream-bglve-817.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX*
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX HD
+http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 https://blackghost.live/play/totalp1-817.php?c=178&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX TP
