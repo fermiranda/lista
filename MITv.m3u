@@ -813,11 +813,11 @@ http://tecnotv.club/ago31/smartv3.php?c=306&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT TTv
 http://tecnotv.club/ago31/smartv.php?c=tnt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT TTv TP
-
+http://tecnotv.club/ago31/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP
 https://blackghost.live/play/totalp2-817.php?c=71&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES 
-
+http://tecnotv.club/ago31/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 http://tecnotv.club/ago31/smartv3.php?c=307&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
@@ -828,8 +828,8 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/33355.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="USA", AMC
 http://tecnotv.club/ago31/smartv3.php?c=1740&file=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD 
-
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TTv TP 
+http://tecnotv.club/ago31/geomex.php?c=330&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TP
 https://blackghost.live/play/totalp2-817.php?c=330&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
