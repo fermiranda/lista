@@ -1125,15 +1125,15 @@ http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/263px-Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA FHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 
-http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
+http://31.220.41.90:8081/live/es-movistar-deportes.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 2
-http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8
+http://31.220.41.90:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="DEPORTES", MOVISTAR GOLF HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTES", MOVISTAR FORMULA 1 HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", EUROSPORT 1 
-
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="DEPORTES", EUROSPORT 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1280px-Movistar_Deportes_1.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 1 (SOLO EVENTOS)
@@ -1141,7 +1141,7 @@ http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Movistar_LaLiga#/media/Archivo:Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA 1 Fv
 http://blackghost.live/play/futvall-817.php?id=mlaliga&k=blaaccckghost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png" group-title="DEPORTES", BeIN Sports La Liga 
-
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", MOVISTAR LIGA CAMPEONES
 http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", MOVISTAR LIGA CAMPEONES
@@ -1156,6 +1156,8 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55292.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Teledeporte#/media/Archivo:Teledeporte.svg.png" group-title="DEPORTES", TDP
 http://91.126.141.13:1935/live/91/1400-def.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Teledeporte#/media/Archivo:Teledeporte.svg.png" group-title="DEPORTES", TDP
+http://91.126.141.13:1935/live/91/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-pptvhd-36-1608-300x225.jpg" group-title="DEPORTES", PPTV HD
