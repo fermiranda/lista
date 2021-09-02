@@ -2018,6 +2018,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6680.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/259.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", SKY SPORTS FOOTBALL
+http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
