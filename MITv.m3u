@@ -1722,8 +1722,8 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
 
-#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC Miami HD
-
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC
+http://31.220.41.88:8081/live/us-nbc.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
