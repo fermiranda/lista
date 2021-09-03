@@ -584,19 +584,19 @@ https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
 http://iptvcanales.gq/canales/hls/SIvlK2VmTsqL_hgyKeFIPg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
 
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
 http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
 http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="USA Latinos",NBC UNIVERSO
-
-#EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Fv
+http://blackghost.live/play/futvall-900.php?id=universo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV
 https://blackghost.live/play/zufree-900.php?c=40977
-#EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV
 
-#EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://listinusa.net/wp-content/uploads/2017/10/estrella-TV-logo.png" group-title="USA Latinos",ESTRELLA TV San Diego
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV San Diego
 http://iptvcanales.gq/canales/live/223/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 
@@ -1430,6 +1430,8 @@ http://blackghost.live/play/futvall-900.php?id=claro4&k=blaaccckghost&file=.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", A Y M SPORTS
 https://blackghost.live/play/totalp2-900.php?c=180&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/las.png" group-title="DEPORTES", LAS Deportes
+http://blackghost.live/play/futvall-900.php?id=las&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports
 https://canal01gt.pxt.onl/out/v1/88e67fc9be954233a769f97bada38a56/index_33.m3u8
