@@ -1169,6 +1169,10 @@ https://tv2.tructiep.space/live/2a7017ad9444e3a8/playlist.m3u8
 http://iptvcanales.gq/canales/cable/659emi1n06e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
 http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga 1 Fv
+http://blackghost.live/play/futvall-900.php?id=mlaliga&k=blaaccckghost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga 1 Fv
+http://blackghost.live/play/futvall-900.php?id=mlaliga-mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="DEPORTES", LALIGATV BAR 1 
 http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="DEPORTES", LALIGATV BAR
@@ -1189,8 +1193,7 @@ http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1280px-Movistar_Deportes_1.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 1 (SOLO EVENTOS)
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Movistar_LaLiga#/media/Archivo:Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA 1 Fv
-http://blackghost.live/play/futvall-900.php?id=mlaliga&k=blaaccckghost&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png" group-title="DEPORTES", BeIN Sports La Liga 
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", MOVISTAR LIGA CAMPEONES
