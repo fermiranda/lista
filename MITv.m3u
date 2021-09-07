@@ -1248,8 +1248,8 @@ EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" grou
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
+http://89.187.185.100/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png" group-title="DEPORTES",  Sky Sports 24 HD 
