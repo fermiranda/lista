@@ -657,51 +657,61 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 http://146.59.187.3:8080/live/Q9VxZawp83/icjSyTQ63d/57906.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO
 
-#EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE TP
+#EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE TP Bg
 https://blackghost.live/play/totalp1-903.php?c=44&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-name="Tv Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE
+#EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-name="weather Channel" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA", Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO 25
 https://blackghost.live/play/25-903.php?c=74|user-agent=vBWJfqOL1cmvjy6B6bw0GM2j9PrjIPjCY9pSTdEI4GWNYXNYs7eMjcZluZ5wPR4ewssut82pSTZ1gJhitSY2Z1HBKm3sCKsNLFGZukkuFt95YUKNwUFhUYSIZbXs9rWwXlmK25wVHLd4uJTTbADatTCxri7PAJgKZA007Jvx2rkAAiKZVSyv9tovNmulQuMx8wuBcL4gI6KRROnRUglduPPHND0jESI2Y9x0au2W0gl3eghCwl8qLROxzULHxujTAy5pbxJYMvxz2ZvWfGyJuI05hFcjvzigB9jJ1JyHbuUjprNKqHDFhVuPDayOgB1yZ01PcXBC57fnHlBFyQCP1AU93fPnaTMMBuuSBN291C9XJvfjV3cVTvx1uyacuMLzDhwNL6KITzEtE8CRx4qoMGUY1EAPtam6DtcoFP8YDHRt0w9wTGoanMskrjSDjThX2Q0pASMVBHfB7BCMcLYe2ukEfyPCCf6vEiBwIbGlNNRoHTIju8UT2oR3Zmf9OEd7Sn5CNpUCY4JAmUIRWXwkVo4wDDKV6yMUd1DgRLkwrdHw8L2p7Y9aGh2kJG1L02WLzWzKQKq8j5hjyVWMtj59Ni5r
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg
 https://blackghost.live/play/zufree-903.php?c=40979
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg
 https://blackghost.live/play/5-903.php?c=HBO&t=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Tc
 https://tv.teleclub.xyz/live/1/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TB
 http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 31
 http://qqtv.nl:8080/live/Bradley1/Bradley123/20083.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TTv S3
 http://tecnotv.club/06sep/smartv3.php?c=688&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/45651.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/33362.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO Ca
+http://iptvcanales.gq/canales/cable/lbqtn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO Ca
+http://iptvcanales.gq/canales/tvfree/31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO Ca
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2*
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TTv An1
 http://tecnotv.club/06sep/android.php?c=75|User-Agent=vBWJfqOL1cmvjy6B6bw0GM2j9PrjIPjCY9pSTdEI4GWNYXNYs7eMjcZluZ5wPR4ewssut82pSTZ1gJhitSY2Z1HBKm3sCKsNLFGZukkuFt95YUKNwUFhUYSIZbXs9rWwXlmK25wVHLd4uJTTbADatTCxri7PAJgKZA007Jvx2rkAAiKZVSyv9tovNmulQuMx8wuBcL4gI6KRROnRUglduPPHND0jESI2Y9x0au2W0gl3eghCwl8qLROxzULHxujTAy5pbxJYMvxz2ZvWfGyJuI05hFcjvzigB9jJ1JyHbuUjprNKqHDFhVuPDayOgB1yZ01PcXBC57fnHlBFyQCP1AU93fPnaTMMBuuSBN291C9XJvfjV3cVTvx1uyacuMLzDhwNL6KITzEtE8CRx4qoMGUY1EAPtam6DtcoFP8YDHRt0w9wTGoanMskrjSDjThX2Q0pASMVBHfB7BCMcLYe2ukEfyPCCf6vEiBwIbGlNNRoHTIju8UT2oR3Zmf9OEd7Sn5CNpUCY4JAmUIRWXwkVo4wDDKV6yMUd1DgRLkwrdHw8L2p7Y9aGh2kJG1L02WLzWzKQKq8j5hjyVWMtj59Ni5r
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TB
 http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg
 https://blackghost.live/play/5-903.php?c=Hbo2&t=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
+http://iptvcanales.gq/canales/cable/x5r58d0omlmqph/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
+http://iptvcanales.gq/canales/tvfree/32/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 38
 http://tv.iptv5latino.cl:8080/live1wilmaru/mvzsGgWzmk/55431.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TTv S3
 http://tecnotv.club/06sep/smartv3.php?c=636&file=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg
 https://blackghost.live/play/5-903.php?c=HboPlus&t=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 
