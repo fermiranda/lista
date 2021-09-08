@@ -1170,7 +1170,7 @@ http://5.yaciaptk.xyz/live/6151278887/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
-
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
@@ -1370,8 +1370,10 @@ https://blackghost.live/play/totalp1-903.php?c=170&p=3&k=black&f=.m3u8
 http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX HD
 http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Fv
 http://blackghost.live/play/futvall-903.php?id=foxsports1-mx&k=blaaccckghost&file=.m3u8
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Fv
+http://blackghost.live/play/futvall-903.php?id=foxsports1-mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP
 https://blackghost.live/play/totalp1-903.php?c=372&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
@@ -1382,12 +1384,12 @@ https://blackghost.live/play/wistream-bglve-903.php?cat=latinos&ch=fox-sports2mx
 https://blackghost.live/play/totalp1-903.php?c=172&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX HD
 http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX-
-
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Fv
+http://blackghost.live/play/futvall-903.php?id=foxsports2-mx&f=.m3u8
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Fv
+http://blackghost.live/play/futvall-903.php?id=foxsports2-mx&k=blaackghost&file=.m3u8
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Fv
 http://blackghost.live/play/futvall-903.php?id=foxsports2-mx&k=blaaccckghost&file=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX+
-
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 https://blackghost.live/play/wistream-bglve-903.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
@@ -1395,13 +1397,13 @@ http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX HD
 http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-https://blackghost.live/play/totalp1-903.php?c=178&p=3&k=black&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX TP
 https://blackghost.live/play/totalp1-903.php?c=178&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX Fv
 http://blackghost.live/play/futvall-903.php?id=foxsports3-mx&k=blaaccckghost&file=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX Fv
+http://blackghost.live/play/futvall-903.php?id=foxsports3-mx&f=.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
