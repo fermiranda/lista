@@ -65,8 +65,8 @@ https://blackghost.live/play/totalp1-933.php?c=19&p=3&k=black&f=.m3u8
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
-
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno HD
+http://181.114.57.158:4000/play/58dFWWcfhqYLW6vT/index.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tp Bg
 https://blackghost.live/play/totalp1-933.php?c=2045&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tp Bg
@@ -89,6 +89,8 @@ http://blackghost.live/play/futvall-933.php?id=aztecauno&f=.m3u8
 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD
+http://181.114.57.158:4000/play/gasbaCNSrU9tAMqS/index.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD TP Bg
 https://blackghost.live/play/totalp1-933.php?c=317&p=3&k=black&f=.m3u8 
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD TP Bg
