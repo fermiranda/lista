@@ -153,7 +153,7 @@ http://blackghost.live/play/futvall-933.php?id=amas&k=blaaccckghost&file=.m3u8
 http://tecnotv.club/08sep21/smartv.php?c=amas
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Noroeste
 
-#EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/768px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", A+ Noroeste TP
+#EXTINF:-1 tvg-name="A+ NOR" tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Noroeste TP
 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 Web
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -935,10 +935,10 @@ http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/17334.m3u8
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1726.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
 https://blackghost.live/play/totalp1-933.php?c=129&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-http://todos.aesat.com:38953/LIVE/esteban2405/71446451/55801.M3U8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Bg 22
+http://blackghost.live/play/futvall-933.php?id=space&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE HD
+http://181.114.57.158:4000/play/zjx9bEK79XPCRMMF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/55016.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action
