@@ -782,7 +782,7 @@ http://tecnotv.club/08sep21/smartv.php?c=multipremier
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Ca
 http://iptvcanales.gq/canales/tvfree/81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Ca
-http://iptvcanales.gq/canales/cable/j5uwhfb7w5c/playlist.m3u8
+http://iptvcanales.gq/canales/cable/j5uwhfb7w5c/playlist.m3u8TP 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD TP Bg
 https://blackghost.live/play/totalp1-933.php?c=52&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Ca
@@ -822,16 +822,22 @@ http://iptvcanales.gq/canales/total/57/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL HD
 http://blackghost.live/play/mitv-933.php?id=universal&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-http://tecnotv.club/08sep21/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/08sep21/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 1
+https://tv.teleclub.xyz/live/1/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 2
+https://tv.teleclub.xyz/live/2/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP Bg
 https://blackghost.live/play/totalp1-933.php?c=132&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal 38
-http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/15714.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Ca
+http://iptvcanales.gq/canales/cable/rdz85fjy0wuhhv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP Ca
 http://iptvcanales.gq/canales/total/132/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal HD
 http://181.114.57.158:4000/play/JLwcpeXeh8m37iBt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Bg
 https://blackghost.live/play/zufree-933.php?c=41014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Tc
 https://tv.teleclub.xyz/live/1/TNT.m3u8
