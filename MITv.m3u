@@ -1290,8 +1290,17 @@ EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" grou
 http://89.187.185.100/SKY_SPORTS_MIX/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES",  Sky Sports Action
 http://89.187.185.100/SKY_SPORTS_ACTION/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
+http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6680.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/259.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
 http://89.187.185.100/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
@@ -1672,6 +1681,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 
 #EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="DEPORTES", WWE Network
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/5184.m3u8
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="DEPORTES", WWE Network HD
+http://89.187.185.100/WWE/index.m3u8
 #EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:DAZN_Logo.png" group-title="DEPORTES", DZNA 
 
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
@@ -2144,14 +2155,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/1282.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2513.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="DEPORTES", BT SPORTS ESPN
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/587.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6680.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/259.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", SKY SPORTS MAIN EVENT
-http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", SKY SPORTS FOOTBALL
-http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
