@@ -2377,7 +2377,10 @@ https://d13d85e1ccee.us-east-1.playback.live-video.net/api/video/v1/us-east-1.35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Seattle Seahawks vs Indianapolis Colts
 https://d13d85e1ccee.us-east-1.playback.live-video.net/api/video/v1/us-east-1.352532345719.channel.o46Yxly51MuW.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Los Angeles Chargers vs Washington
-https://6178366b35cb.us-west-2.playback.live-video.net/api/video/v1/us-west-2.352532345719.channel.2iuqDZjZ8dm2.m3u8
+https://6178366b35cb.us-west-2.playback.live-video.net/api/video/v1/us-west-2.352532345719.channel.2iuqDZjZ8dm2.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Los Angeles Chargers vs Washington
+http://77.247.109.93/hls/y7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Los Angeles Chargers vs Washington
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/5c2o6ummn7v6q3.m3u8?s=er0t9YOSgHg4DTaRaQpCAg&e=1631496092
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Carolina Panthers
 https://6178366b35cb.us-west-2.playback.live-video.net/api/video/v1/us-west-2.352532345719.channel.cri7iQZPZvfp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jacksonville Jaguars vs Houston Texans
