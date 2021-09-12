@@ -1286,9 +1286,9 @@ http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
 
-#EXTINF:-1 tvg-logo="-" group-title="DEPORTES",  Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="DEPORTES",  Sky Sports Mix
 http://89.187.185.100/SKY_SPORTS_MIX/index.m3u8
-#EXTINF:-1 tvg-logo="-" group-title="DEPORTES",  Sky Sports Action
+#EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="DEPORTES",  Sky Sports Action
 http://89.187.185.100/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
 http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
