@@ -1280,14 +1280,16 @@ http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", Bayer Leverkusen - Borussia Monchegadbach
-https://aws29.varcdn1.ru/m3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", Empoli - Lazio
-http://77.247.109.92/hls/W3.m3u8
-EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", Torino - Atalanta
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
 
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
+
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES",  Sky Sports Mix
+http://89.187.185.100/SKY_SPORTS_MIX/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES",  Sky Sports Action
+http://89.187.185.100/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
 http://89.187.185.100/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
@@ -2387,7 +2389,14 @@ https://i6utj01uju0u40js.azcdn728.net:8443/hls/5c2o6ummn7v6q3.m3u8?s=er0t9YOSgHg
 https://6178366b35cb.us-west-2.playback.live-video.net/api/video/v1/us-west-2.352532345719.channel.cri7iQZPZvfp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jacksonville Jaguars vs Houston Texans
 https://d13d85e1ccee.us-east-1.playback.live-video.net/api/video/v1/us-east-1.352532345719.channel.iATaqS7MlBIk.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cleveland Browns vs Kansas City Chiefs
+https://e3586733b01a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.717035797031.channel.t12DuqsHzUPs.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs New England Patriots
+https://e41427cd0b84.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.352532345719.channel.aSCWKKfWndGD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Green Bay Packers vs New Orleans Saints
+https://e41427cd0b84.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.352532345719.channel.20P8f62Gn5IC.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Denver Broncos vs New York Giants
+https://e41427cd0b84.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.352532345719.channel.20P8f62Gn5IC.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL YOUTUBE", NFL RedZone NFL
