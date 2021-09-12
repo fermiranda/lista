@@ -2456,13 +2456,17 @@ https://e3586733b01a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.71
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
 http://streaming-cdn-5.sp0n.io/live/y14/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
+http://31.220.41.88:8081/live/us-nbc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
+http://181.114.57.158:4000/play/xvZBWYMBhS67Fn6T/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/c2kxuno.m3u8?s=UO3t9zjOZ2GWbLVIlP6tqQ&e=1631512309
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
-
-#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams
-
+http://blackghost.live/play/futvall-911.php?id=nbcsn&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNzMxOTU2NjU1MTg2/snfjpg.jpg" group-title="NFL SNF", Chicago Bears vs Los Angeles Rams (youtu.be)
 https://www.youtube.com/watch?v=g6JUSpWqk4A&ab_channel=DofuSports
+
+
 
 
 
