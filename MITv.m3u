@@ -1965,6 +1965,8 @@ http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="USA", Starz Encore
 http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="USA", FX
+http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
