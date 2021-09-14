@@ -1560,7 +1560,22 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3049.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3050.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/69379
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/69380
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/69381
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/69382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN4 HD Blackout
+http://new-pro.tv:8080/Hotel-2021/Allroom/122103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/69383
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN5 Blackout
+http://new-pro.tv:8080/Hotel-2021/Allroom/122104
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN5 HD Blackout 2
+http://new-pro.tv:8080/Hotel-2021/Allroom/122105
 
 
 
