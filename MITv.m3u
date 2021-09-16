@@ -68,6 +68,8 @@ http://iptvcanales.gq/canales/live/227/playlist.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Web
 https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=700&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=4&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP Bg
 https://blackghost.live/play/totalp1-928.php?c=4&p=3&k=black&f=.m3u8
@@ -186,6 +188,10 @@ http://tecnotv.club/sep14/smartv.php?c=amas
 https://blackghost.live/play/totalp1-928.php?c=2316&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 Web
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=184&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=40&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TP Bg
 https://blackghost.live/play/totalp1-928.php?c=40&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 HD TP Bg
@@ -964,8 +970,10 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
 https://blackghost.live/play/totalp1-928.php?c=138&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM Ca
 http://iptvcanales.gq/canales/cable/jpizlg1osqocv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
-
+#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=138&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=332&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD BPK
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg 2
@@ -986,9 +994,9 @@ http://iptvcanales.gq/canales/live/245/playlist.m3u8
 http://200.107.234.74:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg 20
 https://blackghost.live/play/owly-928.php?c=313|User-Agent=gZx6xSTG5pAgjHYtRYE9PZJQatwdHmGwhWDNtG9Lg7yHaF8FZjTFw45kEL9RYVjfbA2YVgiXLRLjp4bgxYkQNqwyGAYdhmg8yYWZ4UTeQYQSK4wuZQ7kSdYKLTg7ALZLcHhdfQUrFaQRJthEVE6u6wMnNucR4KLXgPA8DVf3TftCRiCVaiMZJzFgVS6Jmanfxrparn7CWGt5iqMzUxrihLAyTB8xZWgiCVTu9WUvNFZvHY52RA3
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg 2
-https://blackghost.live/play/megapro-928.php?c=171&token=PR6HBEPqwT&play=realplayer|User-Agent=realplayer
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=158&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP Bg
 https://blackghost.live/play/totalp1-928.php?c=158&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg Fv
 http://blackghost.live/play/futvall-928.php?id=cinemax&f=.m3u8
@@ -996,10 +1004,10 @@ http://blackghost.live/play/futvall-928.php?id=cinemax&f=.m3u8
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/17335.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/1727.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP Bg
 https://blackghost.live/play/totalp1-928.php?c=149&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Bg 2
-https://blackghost.live/play/megapro-928.php?c=19&token=PR6HBEPqwT&play=realplayer|User-Agent=realplayer
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=149&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal FHD
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/17334.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
@@ -1009,11 +1017,11 @@ https://blackghost.live/play/totalp1-928.php?c=129&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Bg 22
 http://blackghost.live/play/futvall-928.php?id=space&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE HD
-http://181.114.57.158:4000/play/zjx9bEK79XPCRMMF/index.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=129&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=336&format=HLSAD&f=.m3u8
 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=336&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=-&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Bg 2
 https://blackghost.live/play/megapro-928.php?c=89&token=PR6HBEPqwT&play=realplayer|User-Agent=realplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action
