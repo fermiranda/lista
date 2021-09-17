@@ -2440,7 +2440,12 @@ https://cdn.raino.xyz/nfl/giants-version1/rainostream.m3u8
 https://cdn.raino.xyz/nfl/giants.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", New York Giants vs Washington
 http://cstr-69ak-hls.castr.io/edge/live_7a817f50164e11ec9382734e665d2826/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", New York Giants vs Washington
+https://dcs-live.apis.anvato.net/server/play/ln0MaPp5CZs480qP/rendition.m3u8?track=video-3&anvsid=i178784353-na92051b8-fd47-4c13-ab80-088c4e72f112&ts=1631835749&anvtrid=wb768a31c306d33ff075096e2113d137
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", New York Giants vs Washington
+http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="NFL TNF", New York Giants vs Washington
+http://89.187.185.100/SKY_SPORTS_MAIN_EVENT/index.m3u8
 
 
 
