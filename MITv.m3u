@@ -1359,7 +1359,7 @@ http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", Tottenham 🆚 Rennais
-https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
 
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
@@ -1372,6 +1372,8 @@ http://89.187.185.100/SKY_SPORTS_ACTION/index.m3u8
 http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+http://89.187.185.100/SKY_SPORTS_MAIN_EVENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6680.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
@@ -1400,6 +1402,8 @@ http://iptvcanales.gq/canales/televall/741/playlist.m3u8
 http://31.220.41.90:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL Fv
 http://blackghost.live/play/futvall-928.php?id=skysportspl&k=blaaccckghost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL Fv
+http://blackghost.live/play/futvall-928.php?id=skysportspl&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Web
 https://live-streams-notusa.televisa.com/channel03/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
