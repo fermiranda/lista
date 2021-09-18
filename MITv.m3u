@@ -156,6 +156,8 @@ http://iptvcanales.gq/canales/total/2298/playlist.m3u8
 http://balancer1.iptvmx.com:8081/tecno/imagen.TecnoByte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV Ca
 http://iptvcanales.gq/canales/tvfree/65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV Ca Tlv
+http://iptvcanales.gq/canales/televall/7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV TP Bg
 https://blackghost.live/play/totalp1-928.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV TP1 Bg
@@ -1206,9 +1208,9 @@ http://blackghost.live/play/futvall-928.php?id=nfl&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1000px-Fight_network_logo.svg.png" group-title="DEPORTES", FIGHT NETWORK
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass 
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/12520.m3u8
+http://iptvcanales.gq/canales/tvfree/398/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass FHD
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/12479.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 1
