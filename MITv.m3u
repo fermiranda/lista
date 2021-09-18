@@ -1436,8 +1436,12 @@ http://181.114.57.158:4000/play/p278Bj634hgjgYI76DFf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fv
 http://blackghost.live/play/futvall-928.php?id=tudn-us&k=blaackkkghost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fv
+http://blackghost.live/play/futvall-928.php?id=tudn-us-hd&k=blaackkkghost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Bg 22
 http://blackghost.live/play/futvall-928.php?id=tudn-us&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Bg 22
+http://blackghost.live/play/futvall-928.php?id=tudn-us-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fv
 http://blackghost.live/play/futvall-928.php?id=univdep&k=blaackkkghost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Tl
