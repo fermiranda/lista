@@ -1910,7 +1910,7 @@ https://blackghost.live/play/totalp1-928.php?c=211&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YNcfn34/ar-mtv-hits-m.png" group-title="MUSICA",MTV Hits
+#EXTINF:-1 tvg-logo="-" group-title="MUSICA", 
 
 #EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
 
@@ -1918,8 +1918,12 @@ https://blackghost.live/play/totalp1-928.php?c=211&p=3&k=black&f=.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=214&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif", VH1 Classics
 https://blackghost.live/play/totalp1-928.php?c=214&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="MUSICA",
 
-
+#EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/mtv80s.jpg" group-title="MUSICA", MTV 80's
+http://iptvcanales.gq/canales/televall/146/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/exatv.jpg" group-title="MUSICA", EXATv Ca Tlv
+http://iptvcanales.gq/canales/televall/601/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD
 https://blackghost.live/play/totalp1-928.php?c=334&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1
