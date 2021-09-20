@@ -259,6 +259,14 @@ https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="NACIONALES", TVCUATRO 4.3 Web
 https://5f1af61612fb5.streamlock.net:443/tv43/videotv43/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zYe-Yo_BaPw/XB7N1ndZXnI/AAAAAAAABqI/o_JJeANuRZAXacFWE8UtgbEKfCBeZClhACLcBGAs/s200/canal-4-monclova.jpg" group-title="NACIONALES", NRT Canal 4 Monclova
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.ftij3-1.fna.fbcdn.net/v/t1.18169-9/522950_306757999406017_1418140036_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=6e5ad9&_nc_ohc=ZgEeAS7u9HMAX-hAgCx&_nc_ht=scontent.ftij3-1.fna&oh=b4118e9fefdcbce1b905641913aa0631&oe=616F8EDF" group-title="NACIONALES", NRT Canal 6 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQU5XlaqZUw2MtHw4qoSWu1sMuHlPK2_8Y9IO3w=s88-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", NRT Canal 10 Sabinas
+https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98xA3s0GIC-APNR2ph7oV_I3tN9ZUHbz1cA&usqp=CAU" group-title="NACIONALES", NRT Canal 24 Eagle Pass, Tx.
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="NACIONALES", TVP Mochis Web
 https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="NACIONALES", TVP Obregon Web
