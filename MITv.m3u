@@ -1811,9 +1811,9 @@ http://iptvcanales.gq/canales/rojo/94093/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
-http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2181538.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
-http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1161213.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/1280px-NBC_Sports_California.png" group-title="DEPORTES", NBCSPORTS CALIFORNIA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1024px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES", NBCSPORTS CHICAGO 
@@ -2081,9 +2081,9 @@ http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="USA Regionals"  CBS 2 PITTSBURGH HD
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA Regionals", KDKA CBS 2 Pittsburgh
-http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1058978.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA Regionals", KDKA CBS 2 Pittsburgh
-http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170640.m3u8
+
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="USA Regionals", NBC 11 PITTSBURGH HD
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="USA Regionals", NBC 11 PITTSBURGH HD
@@ -2496,28 +2496,6 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-https://darnellobriogb.s3.amazonaws.com/vlyenk_6_packers_rendition
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-https://8434b2fa94bb.us-east-1.playback.live-video.net/api/video/v1/us-east-1.364179726280.channel.sFu5SW97HKGF.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-https://cdn.raino.xyz/nfl/lions-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-https://d37hiufkm76i4x.cloudfront.net/out/v1/479c9187d3364ca78ec46a548741dd91/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://cdn.addressingethernet.xyz/hls/101.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://blackghost.live/play/futvall-945.php?id=espn1-mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://blackghost.live/play/futvall-945.php?id=espn1-mx&k=blaackkkghost&file=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://blackghost.live/play/futvall-945.php?id=espndep&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-http://blackghost.live/play/futvall-945.php?id=espndep&k=blaackkkghost&file=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Detroit Lions vs Green Bay Packers
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=169&format=HLSAD&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
