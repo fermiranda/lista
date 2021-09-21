@@ -2349,11 +2349,11 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://198.144.159.43/ff45/playlist.m3u8?h=c337272f5ad050256b5345722dfaf001
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 https://cdn.raino.xyz/mma/stream1-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://yiwrjzqyfrevtsdw.wzcdn431.net:8443/hls/f2s41vu1evpyi2.m3u8?s=RSAE4W9puRXoEg6vGc8QBg&e=1632023178
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT+
 http://185.53.89.183/hls/mma.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
@@ -2454,36 +2454,6 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Colorado Rockies vs Washington Nationals
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Cleveland Indians vs New York Yankees
-http://198.144.159.43/ff25/playlist.m3u8?h=4ae96a21a75fb0243bcd2ece64280e0a
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Minnesota Twins vs Toronto Blue Jays
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Baltimore Orioles vs Boston Red Sox
-http://198.144.159.43/ff26/playlist.m3u8?h=261610ff5b4a840b6fc9d2e1c47f33c6
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Los Angeles Dodgers vs Cincinnati Reds
-http://198.144.159.43/ff29/playlist.m3u8?h=a0b55a8cedd52d6bcbac3544acc9f472
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Detroit Tigers vs Tampa Bay Rays
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Philadelphia Phillies vs New York Mets
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Pittsburgh Pirates vs Miami Marlins
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Chicago White Sox vs Texas Rangers
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Arizona Diamondbacks vs Houston Astros
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Seattle Mariners vs Kansas City Royals
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Chicago Cubs vs Milwaukee Brewers
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  San Diego Padres vs St. Louis Cardinals
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Oakland Athletics vs Los Angeles Angels
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Atlanta Braves vs San Francisco Giants
-
 
 
 
@@ -2501,8 +2471,8 @@ http://198.144.159.43/ff29/playlist.m3u8?h=a0b55a8cedd52d6bcbac3544acc9f472
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9LukC5WYAUH_Pz?format=jpg" group-title="Tennis", WTA
 
 
-#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", UCF Knights @ Louisville Cardinals
-http://134.19.182.131:8080/vdg3.m3u8?h=6b5bc0c3febdfa4a48180be6468f5ad4
+#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", 
+
 #EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", 
 
 #EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", 
