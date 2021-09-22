@@ -321,8 +321,8 @@ http://iptvcanales.gq/canales/televall/686/playlist.m3u8
 http://tecnotv.club/sep21/smartv.php?c=h2
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/158.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 16
+https://blackghost.live/play/wistream-bglive-945.php?cat=latinos&ch=history2&k=blaackkkghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
 https://blackghost.live/play/codeplus4-945.php?c=86788
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 31
@@ -985,6 +985,8 @@ http://blackghost.live/play/mitv-945.php?id=universal&f=.m3u8
 http://tecnotv.club/sep21/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Cl
 http://tv.cablelatino.xyz/hls/DUDA/UNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Bg 16
+https://blackghost.live/play/wistream-bglive-945.php?cat=latinos&ch=universalchannel&k=blaackkkghost&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 1
 https://tv.teleclub.xyz/live/1/STUDIOUNIVERSAL.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 2
@@ -1726,6 +1728,8 @@ http://blackghost.live/play/futvall-945.php?id=tycsportsarg&f=.m3u8
 http://blackghost.live/play/futvall-945.php?id=tycsportsarg&k=blaackkkghost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/tyc_sports_2.jpg" group-title="DEPORTES", TyC Sports Ca Tlv
 http://iptvcanales.gq/canales/televall/641/playlist.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg Bg 16
+https://blackghost.live/play/wistream-bglive-945.php?cat=latinos&ch=tnt-sports&k=blaackkkghost&f=.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg TTv S3
 http://tecnotv.club/sep21/smartv3.php?c=455&file=playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg Ca
