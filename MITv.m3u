@@ -165,6 +165,8 @@ http://iptvcanales.gq/canales/total/2298/playlist.m3u8
 http://tvstarlife.com:25461/Yann/Yann/5151
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV FHD
 http://tvstarlife.com:25461/Yann/Yann/5131
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV 
+http://blackghost.live/play/gnula-945.php?c=101714|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV HD TB
 http://balancer1.iptvmx.com:8081/tecno/imagen.TecnoByte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", Imagen TV Ca
@@ -770,10 +772,14 @@ ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl
 http://tv.cablelatino.xyz/hls/DUDA/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg
-
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
+http://blackghost.live/play/gnula-945.php?c=101099|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
+http://blackghost.live/play/gnula-945.php?c=101100|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
+http://blackghost.live/play/gnula-945.php?c=101101|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
+http://blackghost.live/play/gnula-945.php?c=101102|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Tc
 https://tv.teleclub.xyz/live/1/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TB
@@ -804,6 +810,14 @@ http://iptvcanales.gq/canales/cable/x5r58d0omlmqph/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/85.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 13
+http://blackghost.live/play/gnula-945.php?c=101103|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 13
+http://blackghost.live/play/gnula-945.php?c=101104|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 13
+http://blackghost.live/play/gnula-945.php?c=101105|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 13
+http://blackghost.live/play/gnula-945.php?c=101106|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/87.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Ca
@@ -814,10 +828,26 @@ http://iptvcanales.gq/canales/tvfree/33/playlist.m3u8
 http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Cl
 http://tv.cablelatino.xyz/hls/DUDA/HBOPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
+http://blackghost.live/play/gnula-945.php?c=101111|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
+http://blackghost.live/play/gnula-945.php?c=101112|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
+http://blackghost.live/play/gnula-945.php?c=101113|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
+http://blackghost.live/play/gnula-945.php?c=101114|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Cl
 http://tv.cablelatino.xyz/hls/DUDA/HBOFAMILY.m3u8
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/86.3u8
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 13
+http://blackghost.live/play/gnula-945.php?c=101107|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 13
+http://blackghost.live/play/gnula-945.php?c=101108|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 13
+http://blackghost.live/play/gnula-945.php?c=101109|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 13
+http://blackghost.live/play/gnula-945.php?c=101110|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
 http://iptvcanales.gq/canales/cable/mfobze65eqg/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Tc
@@ -826,6 +856,12 @@ https://tv.teleclub.xyz/live/1/HBOFAMILY.m3u8
 http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg
 http://tvstarlife.com:25461/live/Yann/Yann/89.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 13
+http://blackghost.live/play/gnula-945.php?c=101115|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 13
+http://blackghost.live/play/gnula-945.php?c=101116|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 13
+http://blackghost.live/play/gnula-945.php?c=101117|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TB
 http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ca
@@ -842,6 +878,12 @@ http://tvstarlife.com:25461/live/Yann/Yann/90.m3u8
 http://iptvcanales.gq/canales/tvfree/35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg
 https://blackghost.live/play/zufree-945.php?c=41018
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 13
+http://blackghost.live/play/gnula-945.php?c=101123|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 13
+http://blackghost.live/play/gnula-945.php?c=101124|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 13
+http://blackghost.live/play/gnula-945.php?c=101125|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Cl
 http://tv.cablelatino.xyz/hls/DUDA/HBOXTREME.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl
