@@ -714,9 +714,9 @@ http://iptvcanales.gq/canales/live/223/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 http://blackghost.live/play/gnula-945.php?c=102389|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
-
+http://blackghost.live/play/gnula-945.php?c=101664|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
-
+http://blackghost.live/play/gnula-945.php?c=101665|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
 http://cdn.boxter.live:8081/regional/RCN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN HD Bg
@@ -729,15 +729,30 @@ http://iptvcanales.gq/canales/tvfree/417/playlist.m3u8
 http://iptvcanales.gq/canales/televall/658/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 22
 http://blackghost.live/play/mitv-945.php?id=rcn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 13
+http://blackghost.live/play/gnula-945.php?c=101616|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 13
+http://blackghost.live/play/gnula-945.php?c=101617|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 13
+http://blackghost.live/play/gnula-945.php?c=101618|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD Bg
 http://blackghost.live/play/mitv-945.php?id=caracol&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD
 http://cdn.boxter.live:8081/regional/CARACOL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
-
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv Bg 13
+http://blackghost.live/play/gnula-945.php?c=101612|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv Bg 13
+http://blackghost.live/play/gnula-945.php?c=101613|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv Bg 13
+http://blackghost.live/play/gnula-945.php?c=101614|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Int. Tv Bg 13
+http://blackghost.live/play/gnula-945.php?c=101615|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Web
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Bg 13
+http://blackghost.live/play/gnula-945.php?c=101552|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Bg 13
+http://blackghost.live/play/gnula-945.php?c=101553|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb1_zuzenean.png" group-title="ESPAÑA", EITB 1 HD Web
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2 HD Web
