@@ -1342,27 +1342,27 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_1_355/5/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/lig.png" group-title="DEPORTES", SuperSports La Liga
 
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga 
 http://77.247.109.92/hls/W1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://cdn99.one:80/bruno123/bruno1234/124461.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://116.203.143.191/video/movistar_laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://x00.so/live/Marc1234/1234Marc/124446.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://azure2.mazystreams.xyz:80/live/7/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 https://blackghost.live/sat/vcdn-945.php?c=ch5&k=blaackkkghost&f=index.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 http://blackghost.live/sat/wow-945.php?c=5&k=blaackkkghost&file=.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 https://blackghost.live/sat/vcdn-945.php?c=ch8&k=blaackkkghost&f=index.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga : Real Madrid vs Mallorca
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", La Liga
 
 
 
@@ -2634,36 +2634,30 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Pittsburgh Pirates vs Cincinnati Reds
-https://cdn.raino.xyz/mlb/reds-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Chicago White Sox vs Detroit Tigers
-https://cdn.raino.xyz/mlb/tigers-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Toronto Blue Jays vs Tampa Bay Rays
-https://cdn.raino.xyz/mlb/rays-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Kansas City Royals vs Cleveland Indians
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Chicago White Sox vs Cleveland Indians (Game-1)
 https://cdn.raino.xyz/mlb/indians-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Washington Nationals vs Miami Marlins
-https://cdn.raino.xyz/mlb/marlins-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Baltimore Orioles vs Philadelphia Phillies
-https://cdn.raino.xyz/mlb/phillies-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Texas Rangers vs New York Yankees
-https://cdn.raino.xyz/mlb/yankees-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   New York Mets vs Boston Red Sox
-https://cdn.raino.xyz/mlb/redsox-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Minnesota Twins vs Chicago Cubs
-https://cdn.raino.xyz/mlb/cubs-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Chicago White Sox vs Cleveland Indians (Game-2)
+https://cdn.raino.xyz/mlb/indians-version0/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   St. Louis Cardinals vs Milwaukee Brewers
 https://cdn.raino.xyz/mlb/brewers-version0/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Los Angeles Dodgers vs Colorado Rockies
 https://cdn.raino.xyz/mlb/rockies-version0/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Houston Astros vs Los Angeles Angels
-https://cdn.raino.xyz/mlb/angels-version0/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Seattle Mariners vs Oakland Athletics
 https://cdn.raino.xyz/mlb/athletics-version0/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Atlanta Braves vs Arizona Diamondbacks
 https://cdn.raino.xyz/mlb/diamondbacks-version0/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   San Francisco Giants vs San Diego Padres
 https://cdn.raino.xyz/mlb/padres-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Washington Nationals vs Cincinnati Reds
+https://cdn.raino.xyz/mlb/reds-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Texas Rangers vs Baltimore Orioles
+https://cdn.raino.xyz/mlb/orioles-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Pittsburgh Pirates vs Philadelphia Phillies
+https://cdn.raino.xyz/mlb/phillies-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Toronto Blue Jays vs Minnesota Twins
+https://cdn.raino.xyz/mlb/twins-version0/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",   Houston Astros vs Los Angeles Angels
+https://cdn.raino.xyz/mlb/angels-version0/rainostream.m3u8
 
 
 
