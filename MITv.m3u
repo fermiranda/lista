@@ -397,10 +397,7 @@ http://blackghost.live/play/mitv-945.php?id=id&f=.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=135&format=HLSAD&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT TP Bg
 https://blackghost.live/play/totalp1-945.php?c=135&p=3&k=black&f=.m3u8
-#EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO, Lifetime TP
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=94&format=HLSAD&f=.m3u8
-#EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO, Lifetime TP Bg
-https://blackghost.live/play/totalp1-945.php?c=94&p=3&k=black&f=.m3u8
+
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=2378&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet Bg
@@ -1037,6 +1034,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5x
 http://tv.cablelatino.xyz/hls/DUDA/TNTSERIES.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Ca Tlv
 http://iptvcanales.gq/canales/televall/528/playlist.m3u8
+#EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=94&format=HLSAD&f=.m3u8
+#EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime TP Bg
+https://blackghost.live/play/totalp1-945.php?c=94&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Ca Tlv
 http://iptvcanales.gq/canales/televall/624/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TP
