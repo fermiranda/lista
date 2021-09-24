@@ -1134,16 +1134,20 @@ http://iptvcanales.gq/canales/televall/433/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP Bg
 https://blackghost.live/play/totalp1-945.php?c=158&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP TTv
+http://tecnotv.club/sep21/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg Fv
 http://blackghost.live/play/futvall-945.php?id=cinemax&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Tlv
 http://iptvcanales.gq/canales/televall/534/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Cl
 http://tv.cablelatino.xyz/hls/CASA/CINEMAX.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP Bg
-https://blackghost.live/play/totalp1-945.php?c=149&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=149&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP Bg
+https://blackghost.live/play/totalp1-945.php?c=149&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP TTv
+http://tecnotv.club/sep21/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Tlv
 http://iptvcanales.gq/canales/televall/80/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Cl
@@ -1151,19 +1155,23 @@ http://tv.cablelatino.xyz/hls/CASA/CINECANAL.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TTv An2
 https://spinoff.link/sep21/ssiptv2.php?c=19|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=129&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP Ca
+http://iptvcanales.gq/canales/televall/544/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP Bg
 https://blackghost.live/play/totalp1-945.php?c=129&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP TTv
+http://tecnotv.club/sep21/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Bg 22
 http://blackghost.live/play/futvall-945.php?id=space&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=129&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
-http://iptvcanales.gq/canales/televall/544/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Bg 13
+http://blackghost.live/play/gnula-945.php?c=101140|User-Agent=foo49887=tokenrxvjl59xx2lqzep2w28x=v52
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Cl
 http://tv.cablelatino.xyz/hls/CASA/SPACE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=336&format=HLSAD&f=.m3u8
-
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z2jx361g77zrefy&lchId=-&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Bg 13
+http://blackghost.live/play/gnula-945.php?c=101059|User-Agent=foo49887=tokenrxvjl59xx2lqzep2w28x=v52
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Tlv
 http://iptvcanales.gq/canales/televall/99/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Cl
