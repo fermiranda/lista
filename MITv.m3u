@@ -298,7 +298,7 @@ https://blackghost.live/play/totalp1-950.php?c=89&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD TB
 http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Cl
-http://tv.cablelatino.xyz/hls/TORO/HISTORY.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Ca Tlv
 http://iptvcanales.gq/canales/televall/645/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY 31
@@ -330,7 +330,7 @@ http://tecnotv.club/sep21/smartv.php?c=h2
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/158.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Cl
-http://tv.cablelatino.xyz/hls/TORO/H2.m3u8
+http://tv.cablelatino.xyz/hls/TEST/H2.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
 https://blackghost.live/play/codeplus4-950.php?c=86788
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 31
@@ -661,7 +661,7 @@ http://blackghost.live/play/gnula-950.php?c=100719|User-Agent=foo40920=tokenilt7
 #EXTINF:-1 tvg-logo="https://eltecolote.mx/wp-content/uploads/2020/10/animaniacs-hulu-trailer-wakko-yakko-dot-social.png" group-title="24/7", ANIMANIACS
 http://blackghost.live/play/gnula-950.php?c=100720|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="https://eltecolote.mx/wp-content/uploads/2020/10/animaniacs-hulu-trailer-wakko-yakko-dot-social.png" group-title="24/7", ANIMANIACS
-http://tv.cablelatino.xyz/hls/TORO/247_ANIMANIATICS.m3u8
+
 #EXTINF:-1 tvg-name="CNÑ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ Bg TP
 https://blackghost.live/play/totalp1-950.php?c=187&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="CNÑ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
@@ -831,7 +831,7 @@ ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl
-http://tv.cablelatino.xyz/hls/TORO/HBO.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
 http://blackghost.live/play/gnula-950.php?c=101099|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
@@ -861,7 +861,7 @@ http://tvstarlife.com:25461/Yann/Yann/126
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Cl
-http://tv.cablelatino.xyz/hls/TORO/HBO2.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBO2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TB
 http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg
@@ -895,7 +895,7 @@ http://iptvcanales.gq/canales/tvfree/33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS TB
 http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Cl
-http://tv.cablelatino.xyz/hls/TORO/HBOPLUS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBOPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
 http://blackghost.live/play/gnula-950.php?c=101111|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 13
@@ -907,7 +907,7 @@ http://blackghost.live/play/gnula-950.php?c=101114|User-Agent=foo40920=tokenilt7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg TTv An2
 https://spinoff.link/sep21/ssiptv2.php?c=59|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Cl
-http://tv.cablelatino.xyz/hls/TORO/HBOFAMILY.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBOFAMILY.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/86.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD Bg 12
@@ -943,7 +943,7 @@ http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ca
 http://iptvcanales.gq/canales/cable/g05mnm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Cl
-http://tv.cablelatino.xyz/hls/TORO/HBOSIGNATURE.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBOSIGNATURE.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TTv An2
 https://spinoff.link/sep21/ssiptv2.php?c=61|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg
@@ -965,11 +965,11 @@ http://blackghost.live/play/gnula-950.php?c=101124|User-Agent=foo40920=tokenilt7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 13
 http://blackghost.live/play/gnula-950.php?c=101125|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Cl
-http://tv.cablelatino.xyz/hls/TORO/HBOXTREME.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBOXTREME.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TTv An2
 https://spinoff.link/sep21/ssiptv2.php?c=132|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl
-http://tv.cablelatino.xyz/hls/TORO/HBOPOP.m3u8
+http://tv.cablelatino.xyz/hls/TEST/HBOPOP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TB
 http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ca
@@ -991,7 +991,7 @@ http://iptvcanales.gq/canales/televall/542/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Ca
 http://iptvcanales.gq/canales/tvfree/83/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Cl
-http://tv.cablelatino.xyz/hls/TORO/PARAMOUNT.m3u8
+http://tv.cablelatino.xyz/hls/TEST/PARAMOUNT.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER TTv S1
@@ -1013,7 +1013,7 @@ http://iptvcanales.gq/canales/total/52/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Ca Tlv
 http://iptvcanales.gq/canales/televall/77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Cl
-http://tv.cablelatino.xyz/hls/TORO/WARNER.m3u8
+http://tv.cablelatino.xyz/hls/TEST/WARNER.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=62&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E HD TP
@@ -1023,7 +1023,7 @@ http://tecnotv.club/sep21/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E Ca Tlv
 http://iptvcanales.gq/canales/televall/520/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E Cl
-http://tv.cablelatino.xyz/hls/TORO/AYE.m3u8
+http://tv.cablelatino.xyz/hls/TEST/AYE.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN HD Ca Tlv
 http://iptvcanales.gq/canales/televall/428/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN HD TP
@@ -1035,7 +1035,7 @@ http://tecnotv.club/sep21/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN TP Ca
 http://iptvcanales.gq/canales/total/64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN TP Cl
-http://tv.cablelatino.xyz/hls/TORO/AXN.m3u8
+http://tv.cablelatino.xyz/hls/TEST/AXN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=207&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
@@ -1053,7 +1053,7 @@ http://blackghost.live/play/mitv-950.php?id=universal&k=blaacckkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP TTv
 http://tecnotv.club/sep21/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Cl
-http://tv.cablelatino.xyz/hls/TORO/UNIVERSAL.m3u8
+http://tv.cablelatino.xyz/hls/TEST/UNIVERSAL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Bg 13
 http://blackghost.live/play/gnula-950.php?c=101155|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 1
@@ -1071,7 +1071,7 @@ http://iptvcanales.gq/canales/total/132/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Ca Tlv
 http://iptvcanales.gq/canales/televall/743/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Cl
-http://tv.cablelatino.xyz/hls/TORO/STUDIOUNIVERSAL.m3u8
+http://tv.cablelatino.xyz/hls/TEST/STUDIOUNIVERSAL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Bg
 https://blackghost.live/play/zufree-950.php?c=41014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Tc
@@ -1095,7 +1095,7 @@ http://tecnotv.club/sep21/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Ca Tlv
 http://iptvcanales.gq/canales/televall/548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Cl
-http://tv.cablelatino.xyz/hls/TORO/TNT.m3u8
+http://tv.cablelatino.xyz/hls/TEST/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP Bg
 https://blackghost.live/play/totalp1-950.php?c=71&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP TTv
@@ -1103,7 +1103,7 @@ http://tecnotv.club/sep21/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=71&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Cl
-http://tv.cablelatino.xyz/hls/TORO/TNTSERIES.m3u8
+http://tv.cablelatino.xyz/hls/TEST/TNTSERIES.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Ca Tlv
 http://iptvcanales.gq/canales/televall/528/playlist.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime TP
@@ -1115,7 +1115,7 @@ http://iptvcanales.gq/canales/televall/624/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=330&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Cl
-http://tv.cablelatino.xyz/hls/TORO/AMC.m3u8
+http://tv.cablelatino.xyz/hls/TEST/AMC.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TTv TP 
 http://tecnotv.club/sep21/geomex.php?c=330&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TP Bg
@@ -1127,7 +1127,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=201&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP Cl
-http://tv.cablelatino.xyz/hls/TORO/FOX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP Ca
 http://iptvcanales.gq/canales/total/201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TTv TP 
@@ -1143,9 +1143,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX TP
 https://blackghost.live/play/totalp1-950.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX Cl
-http://tv.cablelatino.xyz/hls/TORO/FX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FX.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
-http://tv.cablelatino.xyz/hls/TORO/FXM.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FXM.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM HD Bpk
 https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM Bg TP
@@ -1184,6 +1184,8 @@ https://tv.teleclub.xyz/live/3/DHE.m3u8
 http://iptvcanales.gq/canales/live/245/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg Ca Tlv
 http://iptvcanales.gq/canales/televall/433/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Cl
+https://cablelatino.xyz/hls/TEST/DHE.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP Bg
@@ -1195,7 +1197,7 @@ http://blackghost.live/play/futvall-950.php?id=cinemax&k=blaacckkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Tlv
 http://iptvcanales.gq/canales/televall/534/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Cl
-http://tv.cablelatino.xyz/hls/TORO/CINEMAX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CINEMAX.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=149&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP Bg
@@ -1205,7 +1207,7 @@ http://tecnotv.club/sep21/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Tlv
 http://iptvcanales.gq/canales/televall/80/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Cl
-http://tv.cablelatino.xyz/hls/TORO/CINECANAL.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CINECANAL.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TTv An2
 https://spinoff.link/sep21/ssiptv2.php?c=19|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
@@ -1221,7 +1223,7 @@ http://blackghost.live/play/futvall-950.php?id=space&k=blaacckkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Bg 13
 http://blackghost.live/play/gnula-950.php?c=101140|User-Agent=foo40920=tokenilt7njj6jfoomke1msul=v52
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Cl
-http://tv.cablelatino.xyz/hls/TORO/SPACE.m3u8
+http://tv.cablelatino.xyz/hls/TEST/SPACE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=336&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Bg 13
@@ -1229,7 +1231,7 @@ http://blackghost.live/play/gnula-950.php?c=101059|User-Agent=foo40920=tokenilt7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Tlv
 http://iptvcanales.gq/canales/televall/99/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXACTION.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXACTION.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Bg 22
 http://blackghost.live/play/futvall-950.php?id=staraction&k=blaacckkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Bg Fv
@@ -1243,7 +1245,7 @@ http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="ENTRETENIMIENTO", STAR Fun Tlv
 http://iptvcanales.gq/canales/televall/554/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="ENTRETENIMIENTO", STAR Fun Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXFAMILY.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXFAMILY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="ENTRETENIMIENTO", STAR Life TP
 https://blackghost.live/play/totalp1-950.php?c=77&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="ENTRETENIMIENTO", STAR Life
@@ -1251,9 +1253,9 @@ https://blackghost.live/play/totalp1-950.php?c=77&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits TP
 https://blackghost.live/play/totalp1-950.php?c=146&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXMOVIES.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXMOVIES.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN Cl
-http://tv.cablelatino.xyz/hls/TORO/GOLDEN.m3u8
+http://tv.cablelatino.xyz/hls/TEST/GOLDEN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN 
 http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
@@ -1281,13 +1283,13 @@ https://blackghost.live/play/totalp1-950.php?c=124&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=124&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Cl
-http://tv.cablelatino.xyz/hls/TORO/GOLDENPREMIER.m3u8
+http://tv.cablelatino.xyz/hls/TEST/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier HD
 http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Ca Tlv
 http://iptvcanales.gq/canales/televall/715/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA Cl
-http://tv.cablelatino.xyz/hls/TORO/DEPELICULA.m3u8
+http://tv.cablelatino.xyz/hls/TEST/DEPELICULA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA Bg TP
 https://blackghost.live/play/totalp1-950.php?c=335&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
@@ -1716,7 +1718,7 @@ https://blackghost.live/play/totalp1-950.php?c=169&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=169&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX Cl
-http://tv.cablelatino.xyz/hls/TORO/ESPN_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/ESPN_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN ARG
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX Bg
@@ -1728,7 +1730,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX HD
 http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX Cl
-http://tv.cablelatino.xyz/hls/TORO/ESPN2_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/ESPN2_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 https://blackghost.live/play/totalp1-950.php?c=168&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX TP
@@ -1738,7 +1740,7 @@ https://blackghost.live/play/totalp1-950.php?c=168&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 ARG
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES",  ESPN3 MX Cl
-http://tv.cablelatino.xyz/hls/TORO/ESPN3_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/ESPN3_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX Fv
 http://blackghost.live/play/futvall-950.php?id=espn3-mx&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX TP
@@ -1752,7 +1754,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+ TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=esg4smm01z8yo99&lchId=167&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+ Cl
-http://tv.cablelatino.xyz/hls/TORO/ESPNPLUS_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/ESPNPLUS_MEX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES", ESPN XTRA
 http://cdn.boxter.live:8081/ssl/8978/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX TP Bg
@@ -1764,7 +1766,7 @@ https://blackghost.live/play/totalp1-950.php?c=170&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXSPORT_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXSPORT_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Fv
 http://blackghost.live/play/futvall-950.php?id=foxsports1-mx&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Fv
@@ -1772,7 +1774,7 @@ http://blackghost.live/play/futvall-950.php?id=foxsports1-mx&k=blaacckkghoost&f=
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP Bg
 https://blackghost.live/play/totalp1-950.php?c=372&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXSPORT2_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXSPORT2_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP 
@@ -1786,7 +1788,7 @@ http://blackghost.live/play/futvall-950.php?id=foxsports2-mx&k=blaacckkghoost&fi
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Fv
 http://blackghost.live/play/futvall-950.php?id=foxsports2-mx&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX Cl
-http://tv.cablelatino.xyz/hls/TORO/FOXSPORT3_MEX.m3u8
+http://tv.cablelatino.xyz/hls/TEST/FOXSPORT3_MEX.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX HD
@@ -1824,17 +1826,17 @@ http://iptvcanales.gq/canales/cable/kqfqxg/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg Cl
-http://tv.cablelatino.xyz/hls/TORO/AR_TNTSPORTS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/AR_TNTSPORTS.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Chile Cl
-http://tv.cablelatino.xyz/hls/TORO/CL_TNTSPORTS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CL_TNTSPORTS.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports 2 Chile
-http://tv.cablelatino.xyz/hls/TORO/CL_TNTSPORTS2.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CL_TNTSPORTS2.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
 
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
 
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports 3 Chile
-http://tv.cablelatino.xyz/hls/TORO/CL_TNTSPORTS3.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CL_TNTSPORTS3.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports TP
@@ -1844,7 +1846,7 @@ https://blackghost.live/play/totalp1-950.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports Cl
 http://blackghost.live/play/futvall-950.php?id=clarosports&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports Fv
-http://tv.cablelatino.xyz/hls/TORO/CLAROSPORT.m3u8
+http://tv.cablelatino.xyz/hls/TEST/CLAROSPORT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sport Web
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/images/canal2-claro_hcidlvdk.jpg" group-title="DEPORTES", Claro Sports 2 Fv
@@ -1876,13 +1878,13 @@ http://blackghost.live/play/futvall-950.php?id=las&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports Ca
 http://iptvcanales.gq/canales/tvfree/201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports Cl
-http://tv.cablelatino.xyz/hls/TORO/PY_TIGOSPORTS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/PY_TIGOSPORTS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports +
-http://tv.cablelatino.xyz/hls/TORO/PY_TIGOSPORTSPLUS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/PY_TIGOSPORTSPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports Guat
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector.png" group-title="DEPORTES", GOLTV
-http://tv.cablelatino.xyz/hls/TORO/GOLTV.m3u8
+http://tv.cablelatino.xyz/hls/TEST/GOLTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1024px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", BEIÑ SPORTS Fv
 http://blackghost.live/play/futvall-950.php?id=beines&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
@@ -1944,7 +1946,7 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/122105
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports Cl
-http://tv.cablelatino.xyz/hls/TORO/DIRECTV_SPORT.m3u8
+http://tv.cablelatino.xyz/hls/TEST/DIRECTV_SPORT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports Fv
 http://blackghost.live/play/futvall-950.php?id=directv&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV Sports Bg 22
@@ -1960,11 +1962,11 @@ http://blackghost.live/play/futvall-950.php?id=directv2&k=blaacckkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2 Fv
 http://blackghost.live/play/futvall-950.php?id=directv2&k=blaacckkghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" group-title="DEPORTES", DIRECTV Sports 2 Cl
-http://tv.cablelatino.xyz/hls/TORO/DIRECTV_SPORT2.m3u8
+http://tv.cablelatino.xyz/hls/TEST/DIRECTV_SPORT2.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+ Ca
 http://iptvcanales.gq/canales/tvfree/22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+ Cl
-http://tv.cablelatino.xyz/hls/TORO/DIRECTV_SPORTPLUS.m3u8
+http://tv.cablelatino.xyz/hls/TEST/DIRECTV_SPORTPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+ SD
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/DirecTV_Sports%2B#/media/Archivo:DirecTV_Sports+_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV Sports+
@@ -2720,36 +2722,7 @@ http://g.givemenbastreams.com/hls/nationals/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  St. Louis Cardinals vs Chicago Cubs
-http://cdn.raino.xyz/mlb/cardinals-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Pittsburgh Pirates vs Philadelphia Phillies
-http://cdn.raino.xyz/mlb/pirates-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Houston Astros vs Oakland Athletics
-http://cdn.raino.xyz/mlb/astros-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  New York Yankees vs Boston Red Sox
-http://cdn.raino.xyz/mlb/yankees-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Kansas City Royals vs Detroit Tigers
-http://cdn.raino.xyz/mlb/royals-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Miami Marlins vs Tampa Bay Rays
-http://cdn.raino.xyz/mlb/marlins-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Texas Rangers vs Baltimore Orioles
-http://cdn.raino.xyz/mlb/rangers-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Washington Nationals vs Cincinnati Reds
-http://cdn.raino.xyz/mlb/nationals-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Toronto Blue Jays vs Minnesota Twins
-http://cdn.raino.xyz/mlb/jays-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  New York Mets vs Milwaukee Brewers
-http://cdn.raino.xyz/mlb/mets-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Atlanta Braves vs San Diego Padres
-http://cdn.raino.xyz/mlb/braves-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Cleveland Indians vs Chicago White Sox
-http://cdn.raino.xyz/mlb/indians-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Los Angeles Dodgers vs Arizona Diamondbacks
-http://cdn.raino.xyz/mlb/dodgers-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  San Francisco Giants vs Colorado Rockies
-http://cdn.raino.xyz/mlb/giants-version1/rainostream.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB 2",  Seattle Mariners vs Los Angeles Angels
-http://cdn.raino.xyz/mlb/mariners-version1/rainostream.m3u8
+
 
 
 
