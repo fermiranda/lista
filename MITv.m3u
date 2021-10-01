@@ -1284,9 +1284,9 @@ https://blackghost.live/play/totalp1-990.php?c=77&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits TP
 https://blackghost.live/play/totalp1-990.php?c=146&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits Cl
-http://tv.cablelatino.xyz/hls/TEST/FOXMOVIES.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN Cl
-http://tv.cablelatino.xyz/hls/TEST/GOLDEN.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN 
 http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
@@ -1309,6 +1309,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 http://iptvcanales.gq/canales/televall/713/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
+https://cablelatino.xyz/hls/EURO/GEDGE.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE TP
 https://blackghost.live/play/totalp1-990.php?c=124&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE TP
@@ -1793,7 +1795,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+ TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=167&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+ Cl
-http://tv.cablelatino.xyz/hls/TEST/ESPNPLUS_MEX.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES", ESPN XTRA
 http://cdn.boxter.live:8081/ssl/8978/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX TP Bg
