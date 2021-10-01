@@ -2889,31 +2889,27 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Nashville Predators Vs Tampa Bay Lightning
-https://nhlclubstream.akamaized.net/hls/live/2022223/nsh/master.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Buffalo Sabres Vs Detroit Red Wings
-https://nhlclubstream.akamaized.net/hls/live/1000672/det/master.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Philadelphia Flyers Vs Boston Bruins
-https://hockey.shub23.net/nhl/d0ef2a0f5c1e0ba865dd0af2ea6b4ad6.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Minnesota Wild Vs Colorado Avalanche
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633071953/ei/8V5WYez3KdWIkgbgnqaQDw/ip/2806%3A1000%3A8005%3A8f67%3A906d%3A1bd3%3Ad11a%3A7347/id/3GzKJ8x_MTQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANrr3ZFWC7k2Kzkqw9khCGvl-tzsKaHe8WSOyioa-j-7AiEA9Ts_zFWzFO1s9anKxShiFZBW1TYp09eInpk54xhOD9I%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   San Jose Sharks Vs Anaheim Ducks
-https://hockey.shub23.net/nhl/0f7b9662db20ced5da5e448a18d017ca.m3u8 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Vegas Golden Knights Vs Los Angeles King
-https://hockey.shub23.net/nhl/d0e0812b949b8d3751bc902b22ce7502.m3u8
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Nashville Predators Vs Tampa Bay Lightning
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Montreal Canadiens Vs Ottawa Senators
+http://cdn.raino.xyz/nhl/senators.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Dallas Stars Vs Florida Panthers
+http://cdn.raino.xyz/nhl/phanthers.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Carolina Hurricanes Vs Tampa Bay Lightning
 http://cdn.raino.xyz/nhl/lightning.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Buffalo Sabres Vs Detroit Red Wings
-http://cdn.raino.xyz/nhl/wings.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Philadelphia Flyers Vs Boston Bruins
-http://cdn.raino.xyz/nhl/bruins.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Minnesota Wild Vs Colorado Avalanche
-http://cdn.raino.xyz/nhl/avalanche.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   San Jose Sharks Vs Anaheim Ducks
-http://cdn.raino.xyz/nhl/ducks.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Vegas Golden Knights Vs Los Angeles King
-http://cdn.raino.xyz/nhl/kings.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Pittsburgh Penguins Vs Buffalo Sabres
+http://cdn.raino.xyz/nhl/sabres.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   New York Rangers Vs New Jersey Devils
+http://cdn.raino.xyz/nhl/devils.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   St. Louis Blues Vs Chicago Blackhawks
+http://cdn.raino.xyz/nhl/blackhawks.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Vancouver Canucks Vs Calgary Flames
+http://cdn.raino.xyz/nhl/flames.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Edmonton Oilers Vs Seattle Kraken
+http://cdn.raino.xyz/nhl/kraken.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Los Angeles Kings Vs Vegas Golden Knights
+http://cdn.raino.xyz/nhl/knights.m3u8
 
 
 
