@@ -2898,6 +2898,12 @@ http://nhlclubstream.akamaized.net/hls/live/1000685/pit/master.m3u8
 http://nhlclubstream.akamaized.net/hls/live/2022226/stl/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Montreal Canadiens Vs Ottawa Senators
+https://hockey.shub23.net/nhl/0fb2c4a66c04814c5f9bcd93b48f4a41.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   New York Rangers Vs New Jersey Devils
+https://hockey.shub23.net/nhl/3f38814559bb4da6d1781b5c4b8e86ab.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv RN",   Montreal Canadiens Vs Ottawa Senators
 http://cdn.raino.xyz/nhl/senators.m3u8
