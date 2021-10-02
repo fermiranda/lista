@@ -329,8 +329,8 @@ http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Ca Tlv
 http://iptvcanales.gq/canales/televall/645/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY 31
-http://qqtv.nl:8080/live/Bradley1/Bradley123/20236.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TC
 https://tv.teleclub.xyz/live/1/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TC
@@ -361,8 +361,8 @@ http://tvstarlife.com:25461/live/Yann/Yann/158.m3u8
 https://cablelatino.xyz/hls/OWEN/H2.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
 https://blackghost.live/play/codeplus4-102.php?c=86788
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 31
-http://qqtv.nl:8080/live/Bradley1/Bradley123/20258.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 13
 http://blackghost.live/play/gnula-102.php?c=100924|User-Agent=foo46450=tokengnuf6ehsj0immn6xqe4k=v52
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 13
@@ -625,8 +625,7 @@ http://archive.org/download/bc-1aygdyfd/Bc2agdudgh.mp4
 
 #EXTINF:-1 tvg-logo="-" group-title="PELICULAS",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="PELICULAS", Snake Eyes (Eng)
-http://qqtv.nl:8080/movie/Bradley1/Bradley123/414364.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="PELICULAS", Snake Eyes
 
 
 
@@ -895,8 +894,8 @@ http://lapusqeria.ddns.net:2052/live/Carlos/Carlos/186891.m3u8
 https://tv.teleclub.xyz/live/1/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TB
 http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO 31
-http://qqtv.nl:8080/live/Bradley1/Bradley123/20083.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 12
 http://tvstarlife.com:25461/live/Yann/Yann/84.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
@@ -2189,7 +2188,7 @@ https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-name=" ACCN ESPN (USA)" tvg-logo="https://theacc.com/images/2018/11/30/ACCN_Launch.png" group-title="DEPORTES", ACCN ESPN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png" group-title="DEPORTES", BTN
-http://qqtv.nl:8080/live/Bradley1/Bradley123/15531.m3u8
+
 #EXTINF:-1 tvg-name="FS NEWS AU (USA)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="DEPORTES", FOX SPORTS NEWS AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="FREE SPORTS" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="DEPORTES", FREE SPORTS
