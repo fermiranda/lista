@@ -1525,26 +1525,22 @@ http://blackghost.live/sat/w-102.php?url=http://starlive.xyz/embed.php?id=live1m
 
 
 
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 1
-http://azure2.mazystreams.xyz:80/live/1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 2
-http://azure2.mazystreams.xyz:80/live/2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 3
-http://azure2.mazystreams.xyz:80/live/3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 4
-http://azure2.mazystreams.xyz:80/live/4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 5
-http://azure2.mazystreams.xyz:80/live/5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 6
-http://azure2.mazystreams.xyz:80/live/6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 7
-http://azure2.mazystreams.xyz:80/live/7/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 8
-http://azure2.mazystreams.xyz:80/live/8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 9
-http://azure2.mazystreams.xyz:80/live/9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Futbol en Vivo 10
-http://azure2.mazystreams.xyz:80/live/10/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 1
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 2
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 3
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 4
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 5
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 6
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 7
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL RN", CANAL 8
+http://cdn.raino.xyz:80/soccer/soccer2-version1/rainostream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
@@ -1603,7 +1599,7 @@ http://77.247.109.111/hls/T2.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv Fv
 http://blackghost.live/play/futvall-102.php?id=laliga&k=blaacckkghooost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
-https://tv2.tructiep.space/live/2a7017ad9444e3a8/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
 http://116.203.143.191/video/movistar_laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
