@@ -2886,8 +2886,26 @@ https://641cd5082bae.us-east-1.playback.live-video.net/api/video/v1/us-east-1.06
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Kansas City Chiefs vs Philadelphia Eagles
 https://415a2a359733.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.065784127701.channel.66HR12GUSRPL.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Redzone
 https://d1t1m2exdxyzcv.cloudfront.net/media/redzone_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Washington vs Atlanta Falcons
+https://d1t1m2exdxyzcv.cloudfront.net/media/falcons_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Houston Texans vs Buffalo Bills
+https://d1t1m2exdxyzcv.cloudfront.net/media/bills_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Detroit Lions vs Chicago Bears
+https://d1t1m2exdxyzcv.cloudfront.net/media/bears_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Carolina Panthers vs Dallas Cowboys
+https://d1t1m2exdxyzcv.cloudfront.net/media/cowboys_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Indianapolis Colts vs Miami Dolphins
+https://d1t1m2exdxyzcv.cloudfront.net/media/dolphins_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Cleveland Browns vs Minnesota Vikings
+https://d1t1m2exdxyzcv.cloudfront.net/media/vikings_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  New York Giants vs New Orleans Saints
+https://d1t1m2exdxyzcv.cloudfront.net/media/saints_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Tennessee Titans vs New York Jets
+https://d1t1m2exdxyzcv.cloudfront.net/media/jets_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Kansas City Chiefs vs Philadelphia Eagles
+https://d1t1m2exdxyzcv.cloudfront.net/media/eagles_1080p30.m3u8
 
 
 
