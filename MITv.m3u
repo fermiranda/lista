@@ -2835,33 +2835,33 @@ http://cdn.raino.xyz/mlb/nationals-version1/rainostream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Redzone
-https://cdn.raino.xyz/nfl/redzone-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/redzone-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Washington vs Atlanta Falcons
-https://cdn.raino.xyz/nfl/team-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/team-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Houston Texans vs Buffalo Bills
-https://cdn.raino.xyz/nfl/texans-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/texans-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Detroit Lions vs Chicago Bears
-https://cdn.raino.xyz/nfl/lions-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/lions-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Carolina Panthers vs Dallas Cowboys
-https://cdn.raino.xyz/nfl/panthers-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/panthers-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Indianapolis Colts vs Miami Dolphins
-https://cdn.raino.xyz/nfl/colts-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/colts-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Cleveland Browns vs Minnesota Vikings
-https://cdn.raino.xyz/nfl/browns-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/browns-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", New York Giants vs New Orleans Saints
-https://cdn.raino.xyz/nfl/giants-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/giants-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Tennessee Titans vs New York Jets
-https://cdn.raino.xyz/nfl/titans-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/titans-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Kansas City Chiefs vs Philadelphia Eagles
-https://cdn.raino.xyz/nfl/chiefs-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/chiefs-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Arizona Cardinals vs Los Angeles Rams
-https://cdn.raino.xyz/nfl/cardinals-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/cardinals-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Seattle Seahawks vs San Francisco 49ers
-https://cdn.raino.xyz/nfl/seahawks-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/seahawks-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Baltimore Ravens vs Denver Broncos
-https://cdn.raino.xyz/nfl/ravens-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/ravens-version1/rainostream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Pittsburgh Steelers vs Green Bay Packers
-https://cdn.raino.xyz/nfl/steelers-version1/rainostream.m3u8
+http://cdn.raino.xyz/nfl/steelers-version1/rainostream.m3u8
 
 
 
@@ -2906,6 +2906,14 @@ https://d14l1bvdfhgks1.cloudfront.net/media/saints_1080p30.m3u8
 https://d14l1bvdfhgks1.cloudfront.net/media/jets_1080p30.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Kansas City Chiefs vs Philadelphia Eagles
 https://d14l1bvdfhgks1.cloudfront.net/media/eagles_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Arizona Cardinals vs Los Angeles Rams
+https://d14l1bvdfhgks1.cloudfront.net/media/rams_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Seattle Seahawks vs San Francisco 49ers
+https://d14l1bvdfhgks1.cloudfront.net/media/49ers_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Baltimore Ravens vs Denver Broncos
+https://d14l1bvdfhgks1.cloudfront.net/media/broncos_1080p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP",  Pittsburgh Steelers vs Green Bay Packers 
+https://d14l1bvdfhgks1.cloudfront.net/media/packers_1080p30.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP TS",  Redzone
