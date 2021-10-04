@@ -330,9 +330,7 @@ http://iptvcanales.gq/canales/televall/645/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TC
-https://tv.teleclub.xyz/live/1/HISTORY.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TC
-https://tv.teleclub.xyz/live/2/HISTORY.m3u8
+https://tv.teleclub.xyz/live/hls_1/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TTv An2
 https://spinoff.link/1oct/ssiptv2.php?c=56|User-Agent=megapro
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg 13
@@ -370,11 +368,7 @@ https://spinoff.link/1oct/ssiptv2.php?c=55|User-Agent=megapro
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TTv An3
 https://spinoff.link/1oct/ssiptv3.php?c=55|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TC
-https://tv.teleclub.xyz/live/1/H2.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TC
-https://tv.teleclub.xyz/live/2/H2.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 ZTv
-http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnfvfvfvfjsnfdvfdvdjvnsdjnjsdnkjdnjknddfdfdfdjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjk/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/54585
+https://tv.teleclub.xyz/live/hls_1/H2.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
 http://iptvcanales.gq/canales/cable/ypxvs0nyn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
@@ -439,13 +433,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet Bg 22
 http://blackghost.live/play/mitv-102.php?id=anima&k=blaacckkgho5t&f=.m3u8
 
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE Tc
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE BgTc
 https://blackghost.live/play/teleclub-102.php?c=DISCOVERY-SCIENCE&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery CIVILIZATION TTv An2
 http://tecnotv.club/1oct/android2.php?c=325|User-Agent=megapro
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER Bg
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER Bg Tc
 https://blackghost.live/play/teleclub-102.php?c=DISCOVERY-THEATER-HD&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery WORLD Bg
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery WORLD Bg Tc
 https://blackghost.live/play/teleclub-102.php?c=DISCOVERY-WORLD-HD&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/food-network_thumb_8zjr5dg0.png" group-title="MUNDO Y CULTURA", FOOD Network
 
@@ -889,7 +883,7 @@ http://blackghost.live/play/gnula-102.php?c=101102|User-Agent=foo46450=tokengnuf
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 21
 http://lapusqeria.ddns.net:2052/live/Carlos/Carlos/186891.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Tc
-https://tv.teleclub.xyz/live/1/HBO.m3u8
+https://tv.teleclub.xyz/live/hls_1/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TB
 http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
@@ -971,7 +965,7 @@ http://blackghost.live/play/gnula-102.php?c=101110|User-Agent=foo46450=tokengnuf
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
 http://iptvcanales.gq/canales/cable/mfobze65eqg/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Tc
-https://tv.teleclub.xyz/live/1/HBOFAMILY.m3u8
+https://tv.teleclub.xyz/live/hls_1HBOFAMILY.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TB
 http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TTv An2
@@ -1103,9 +1097,9 @@ http://tecnotv.club/1oct/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Bg 13
 http://blackghost.live/play/gnula-102.php?c=101155|User-Agent=foo46450=tokengnuf6ehsj0immn6xqe4k=v52
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 1
-https://tv.teleclub.xyz/live/1/STUDIOUNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Tc 2
-https://tv.teleclub.xyz/live/2/STUDIOUNIVERSAL.m3u8
+https://tv.teleclub.xyz/live/hls_1/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal 
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=132&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP Bg
@@ -1121,9 +1115,9 @@ http://iptvcanales.gq/canales/televall/743/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Bg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Tc
-https://tv.teleclub.xyz/live/1/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Tc
-https://tv.teleclub.xyz/live/2/TNT.m3u8
+https://tv.teleclub.xyz/live/hls_1/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT HD Ca
 http://iptvcanales.gq/canales/club/LAT_TNT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT TTv
@@ -1225,7 +1219,7 @@ http://blackghost.live/play/gnula-102.php?c=101042|User-Agent=foo46450=tokengnuf
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg 13(Dual Audio)
 http://blackghost.live/play/gnula-102.php?c=101043|User-Agent=foo46450=tokengnuf6ehsj0immn6xqe4k=v52
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE TC
-https://tv.teleclub.xyz/live/3/DHE.m3u8
+https://tv.teleclub.xyz/live/hls_2/DHE.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Ca
 http://iptvcanales.gq/canales/live/245/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg Ca Tlv
@@ -1430,22 +1424,22 @@ http://iptvcanales.gq/canales/rojo/97839/playlist.m3u8
 http://appleiptv.com:25461/live/1819/1819/27576.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Fv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Bg 22
 http://blackghost.live/play/futvall-102.php?id=mlb&k=blaacckkgho5t&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Fv
-http://blackghost.live/play/futvall-102.php?id=mlb&k=blaacckkghooost&file=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Bg 1
-https://blackghost.live/play/zutv-102.php?c=41494.ts|User-agent=XCIPTV-v5.0.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network T
-http://wagmaott.com:8080/live/azaro_frCkq9RQiHt3/USwsyAq8Yz/30507.m3u8
+http://blackghost.live/play/futvall-102.php?id=mlb&k=blaacckkgho5t&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Ad
 https://blackghost.live/play/codeplus4-102.php?c=29688
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network TTv An2
 http://tecnotv.club/1oct/android2.php?c=349|User-Agent=megapro
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network ZuTv
-http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnfvfvfvfjsnfdvfdvdjvnsdjnjsdnkjdnjknddfdfdfdjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjk/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41494
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Networ
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://ottactive.cx:80/live/A6C3812C3F36/099535D27732/30426.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/02/25/pluto-mlb-image_4H0sy8F.jpg" group-title="DEPORTES", PLUTO TV MLB Channel
