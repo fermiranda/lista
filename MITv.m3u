@@ -795,12 +795,16 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV San Diego Ca
 http://iptvcanales.gq/canales/live/223/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv Cl
+https://cablelatino.xyz/hls/ELIF/EC_OROMAR.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv Bg 13
 http://blackghost.live/play/gnula-102.php?c=102389|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv Bg 13
 http://blackghost.live/play/gnula-102.php?c=101664|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv Bg 13
 http://blackghost.live/play/gnula-102.php?c=101665|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Cl
+https://cablelatino.xyz/hls/ELIF/CO_RNC.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bxt
 http://cdn.boxter.live:8081/regional/RCN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN HD Bg
@@ -819,6 +823,8 @@ http://blackghost.live/play/gnula-102.php?c=101616|User-Agent=foo41107=tokenwu8c
 http://blackghost.live/play/gnula-102.php?c=101617|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 13
 http://blackghost.live/play/gnula-102.php?c=101618|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
+#EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD Cl
+https://cablelatino.xyz/hls/ELIF/CO_CARACOL.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD Bg 22
 http://blackghost.live/play/mitv-102.php?id=caracol&k=blaacckkgho5t&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD Bxr
