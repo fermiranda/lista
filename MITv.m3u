@@ -630,6 +630,8 @@ http://iptvcanales.gq/canales/live/278/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/3a1a07364091e7ad5788133aaf260faa/content/6033fb4c9e282010f8cc968b/2c018034069dbf13c7e1c7d1828380ff/img.jpg", group-title="24/7", Alienigenas Ancestrales
 http://blackghost.live/play/gnula-102.php?c=100507|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/71/343f7180ff6f615d4ac8a03253aba692.jpg" group-title="24/7", Cine Momias HD
+http://blackghost.live/play/gnula-102.php?c=100999|User-Agent=foo46277=tokeneh38n8kny0ldk87sjn58=v52
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", CINE WMS
@@ -640,8 +642,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/54/51/75/54517514b7e9c8c21cb1526176c30732.jpg" group-title="24/7", CINEMA TV
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/71/343f7180ff6f615d4ac8a03253aba692.jpg" group-title="24/7", Cine Momias HD
-http://blackghost.live/play/gnula-102.php?c=100999|User-Agent=foo46277=tokeneh38n8kny0ldk87sjn58=v52
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/71/343f7180ff6f615d4ac8a03253aba692.jpg" group-title="24/7", Cine Navidad Caricaturas HD
 http://blackghost.live/play/gnula-102.php?c=100992|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/71/343f7180ff6f615d4ac8a03253aba692.jpg" group-title="24/7", Cine Navidad Familiar HD
@@ -873,8 +874,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl*
-https://cablelatino.xyz/hls/LEIA/HBO.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
 http://blackghost.live/play/gnula-102.php?c=101099|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
@@ -883,6 +883,8 @@ http://blackghost.live/play/gnula-102.php?c=101100|User-Agent=foo41107=tokenwu8c
 http://blackghost.live/play/gnula-102.php?c=101101|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 13
 http://blackghost.live/play/gnula-102.php?c=101102|User-Agent=foo41107=tokenwu8ciqxwju5xwh0bjpdu=v52
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl*
+https://cablelatino.xyz/hls/LEIA/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 21
 http://lapusqeria.ddns.net:2052/live/Carlos/Carlos/186891.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Tc
