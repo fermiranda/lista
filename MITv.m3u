@@ -690,8 +690,12 @@ https://cablelatino.xyz/hls/NAEL/247_ANIMANIATICS.m3u8
 http://tecnotv.club/oc5/24.php?c=352
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/acwAAOSwwxRevgvW/s-l300.png" group-title="24/7", DRAGON BALL 1984
 http://tecnotv.club/oc5/24.php?c=345
+
+
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/7VgAAOSwAfhd~qnB/s-l500.jpg" group-title="24/7", DRAGON BALL GT 1996
 http://tecnotv.club/oc5/24.php?c=346
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/7VgAAOSwAfhd~qnB/s-l500.jpg" group-title="24/7", DRAGON BALL GT
+http://iptvcanales.gq/canales/view/dragonballgt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sWx68PH7L.__AC_SX300_SY300_QL70_FMwebp_.jpg" group-title="24/7", DRAGON BALL Z 1989
 http://tecnotv.club/oc5/24.php?c=347
 
@@ -2415,8 +2419,8 @@ http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 http://tecnotv.club/oc5/smartv3.php?c=2552&file=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Ca
+http://iptvcanales.gq/canales/ok/TBS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
