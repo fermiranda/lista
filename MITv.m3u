@@ -2126,8 +2126,8 @@ http://g.givemenbastreams.com/hls/espn/playlist.m3u8
 http://streaming-cdn-5.sp0n.io/live/n1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-http://134.19.182.131:8080/vdg8_2.m3u8?h=cadd4467ebc85729e3b4376f1d756274
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD*
+http://stream2.grandma.fit/espn.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD 
 http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
@@ -2146,7 +2146,7 @@ http://164.68.124.111/fs2.m3u8
 http://164.68.124.111/fs2.m3u8?token:null
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 http://tecnotv.club/oc5/smartv3.php?c=2536&file=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
+#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD*
 https://stream2.grandma.fit/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pohttp://185.59.223.82:8080/espn/index.m3u8s-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://164.68.124.111/espn2.m3u8
