@@ -2740,14 +2740,16 @@ http://nhlclubstream.akamaized.net/hls/live/1000685/pit/master.m3u8
 http://g.givemenbastreams.com/hls/astros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
 http://g.givemenbastreams.com/hls/brewers/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Tampa Bay Rays vs Boston Red Sox
+http://g.givemenbastreams.com/hls/redsox/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
 https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.432633290415.channel.jCx9V1poWsbN.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
 https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.432633290415.channel.qpoR1Bp9hbr0.m3u8
-
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Tampa Bay Rays vs Boston Red Sox
+https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.432633290415.channel.gP6zDGCSNo8I.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
 http://134.19.182.131:8080/jbb.m3u8?c=71192580739
