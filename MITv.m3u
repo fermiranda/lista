@@ -2736,6 +2736,11 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv D", Pittsburgh Penguins
 http://nhlclubstream.akamaized.net/hls/live/1000685/pit/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
+http://g.givemenbastreams.com/hls/astros/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
+http://g.givemenbastreams.com/hls/brewers/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
@@ -2743,5 +2748,14 @@ https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.43
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
 http://blackghost.live/sat/cri-106.php?canal=http://cricfree.live/livetv/btespn.php&k=blaacckkgho5t&file=.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
+http://blackghost.live/play/futvall-106.php?id=foxsports2-mx&k=blaacckkgho5t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
+http://blackghost.live/play/futvall-106.php?id=espn1-mx&k=blaacckkgho5t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Tampa Bay Rays vs Boston Red Sox
+http://blackghost.live/play/futvall-106.php?id=foxsports2-mx&k=blaacckkgho5t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Los Angeles Dodgers vs San Francisco Giants
+http://blackghost.live/play/futvall-106.php?id=espn1-mx&k=blaacckkgho5t&f=.m3u8
 
 
