@@ -2717,7 +2717,10 @@ http://g.givemenbastreams.com/hls/brewers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Los Angeles Dodgers vs San Francisco Giants
 http://g.givemenbastreams.com/hls/dodgers/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
+https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.aPM9ia94dfuq.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Los Angeles Dodgers vs San Francisco Giants
+https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.aPM9ia94dfuq.m3u8
 
 
 
