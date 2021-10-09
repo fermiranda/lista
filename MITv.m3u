@@ -2753,6 +2753,8 @@ https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.43
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Tampa Bay Rays vs Boston Red Sox
 https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.432633290415.channel.gP6zDGCSNo8I.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Houston Astros vs Chicago White Sox
 http://134.19.182.131:8080/jbb.m3u8?c=71192580739
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",   Milwaukee Brewers vs Atlanta Braves
@@ -2785,6 +2787,11 @@ https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.43
 https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.ko7QCcSMeDNL.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",   San Antonio Spurs vs Miami Heat
 https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.kmNLl5IlR0Ro.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",   Denver Nuggets vs Minnesota Timberwolves
+https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.BWt81ZUej526.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",   Golden State Warriors vs Los Angeles Lakers
+https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.fcSYcGvhtPAq.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",   Cleveland Cavaliers vs Indiana Pacers
