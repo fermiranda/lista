@@ -2818,7 +2818,20 @@ https://f3d4def8911d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.26
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", New York Jets vs Atlanta Falcons
 http://broadcast.c2agora.com/live/jet4/chunklist_w850300053.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Green Bay Packers vs Cincinnati Bengals
+http://broadcast.c2agora.com/live/y61/chunklist_w1075485766.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Detroit Lions vs Minnesota Vikings
+http://broadcast.c2agora.com/live/y71/chunklist_w585689582.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Denver Broncos vs Pittsburgh Steelers
+http://broadcast.c2agora.com/live/y81/chunklist_w469534846.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Miami Dolphins vs Tampa Bay Buccaneers
+http://broadcast.c2agora.com/live/y31/chunklist_w151605380.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", New Orleans Saints vs Washington
+http://broadcast.c2agora.com/live/y41/chunklist_w1645579074.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Philadelphia Eagles vs Carolina Panthers
+http://broadcast.c2agora.com/live/y51/chunklist_w2048469695.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Tennessee Titans vs Jacksonville Jaguars
+http://broadcast.c2agora.com/live/y21/chunklist_w534953356.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Atlanta Falcons
 http://tthsjgnjdfhgj.rvdbsfrhs.xyz/17/8.m3u8
