@@ -2800,7 +2800,14 @@ https://2ef91537068f.us-east-1.playback.live-video.net/api/video/v1/us-east-1.26
 https://f3d4def8911d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.264403849556.channel.SuQce7VIITTX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", New England Patriots vs Houston Texans
 https://f3d4def8911d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.264403849556.channel.D0JLwQF3xP8K.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", Chicago Bears vs Las Vegas Raiders
+https://f3d4def8911d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.264403849556.channel.Lt2qNK82lGdR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", Cleveland Browns vs Los Angeles Chargers
+https://2ef91537068f.us-east-1.playback.live-video.net/api/video/v1/us-east-1.264403849556.channel.iJzbBrZ3ZV20.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", New York Giants vs Dallas Cowboys
+https://2ef91537068f.us-east-1.playback.live-video.net/api/video/v1/us-east-1.264403849556.channel.GJ3YWXu4rX8j.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", San Francisco 49ers vs Arizona Cardinals
+https://41244f6ee0d9.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.264403849556.channel.xKhqhdjvQjGU.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL BF",  Redzone
