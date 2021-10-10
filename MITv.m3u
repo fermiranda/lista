@@ -2738,28 +2738,20 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BT",    Boston Celtics vs Toronto Raptors
-https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.EJYuORgJ5Wyt.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BT",    Washington Wizards vs New York Knicks
-https://807a6a24ea06.us-east-1.playback.live-video.net/api/video/v1/us-east-1.432633290415.channel.WXTBkvQwxfia.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BT",    Memphis Grizzlies vs Atlanta Hawks
-https://50a33b32c105.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.432633290415.channel.E43gd3bRe9DW.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN",    Boston Celtics vs Toronto Raptors
-http://cdn.raino.xyz/nba/raptors.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN",    Washington Wizards vs New York Knicks
-http://cdn.raino.xyz/nba/knicks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN",    Memphis Grizzlies vs Atlanta Hawks
-http://cdn.raino.xyz/nba/hawks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", New York Jets vs Atlanta Falcons
+https://41244f6ee0d9.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.264403849556.channel.xKhqhdjvQjGU.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",    Boston Celtics vs Toronto Raptors
-http://broadcast.c2agora.com/live/n1109/chunklist_w63669233.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",    Washington Wizards vs New York Knicks
-http://broadcast.c2agora.com/live/n2109/chunklist_w266050402.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",    Memphis Grizzlies vs Atlanta Hawks
-http://broadcast.c2agora.com/live/n3109/chunklist_w357477056.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Atlanta Falcons
+http://broadcast.c2agora.com/live/jet4/chunklist_w850300053.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Atlanta Falcons
+http://tthsjgnjdfhgj.rvdbsfrhs.xyz/17/8.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs Atlanta Falcons
+http://185.53.89.183/hls/nfl.m3u8
 
 
 
