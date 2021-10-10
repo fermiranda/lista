@@ -2775,8 +2775,24 @@ http://cdn.raino.xyz/nfl/giants.m3u8
 http://cdn.raino.xyz/nfl/49ers.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",   Redzone
+https://d7hi1u858ph26.cloudfront.net/out/v1/4e840a9d18034d67ba9a439f741d06ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Green Bay Packers vs Cincinnati Bengals
+https://d3ibb7jpwvvbe8.cloudfront.net/out/v1/4985b4b9f26348799bd8a7616de65d16/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Detroit Lions vs Minnesota Vikings
+https://d3l67dd7t3ovy1.cloudfront.net/out/v1/55801c39cfbe4a2dadf909d5ff98fbf9/index.m3u8
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Denver Broncos vs Pittsburgh Steelers
 https://dckg03g5m48pi.cloudfront.net/out/v1/b13b17f0389a4bfaab1befc19cc18366/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Miami Dolphins vs Tampa Bay Buccaneers
+https://d3k2clklxpiaal.cloudfront.net/out/v1/fdbc0e07fba445869ad8cff050646590/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  New Orleans Saints vs Washington
+https://d2u0uf8yuadsve.cloudfront.net/out/v1/615b251dfd9c4e72b476f95cfe91ae44/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Philadelphia Eagles vs Carolina Panthers
+https://d16uha195ike3w.cloudfront.net/out/v1/e616e4b5493e4e159ffb63b32fcadbf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  Tennessee Titans vs Jacksonville Jaguars
+https://dvn6cc2hsiz7n.cloudfront.net/out/v1/b03c0412b21549d3ae74d940d7a0963a/index.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET",  New England Patriots vs Houston Texans
+https://dpoqknjpwl5s6.cloudfront.net/out/v1/d845e58f831d4d8dad90772e57f4595c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", New York Jets vs Atlanta Falcons
 https://41244f6ee0d9.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.264403849556.channel.xKhqhdjvQjGU.m3u8
