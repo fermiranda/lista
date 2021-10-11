@@ -2727,7 +2727,8 @@ http://134.19.182.131:8080/jbb.m3u8?c=83880241658
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Boston Red Sox vs Tampa Bay Rays
 https://433aa5154cf5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.273886089355.channel.VqEHWReOYN6n.m3u8
-
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_American_League_Division_Series#/media/File:2021_American_League_Division_Series_logo.png" group-title="MLB",  Chicago White Sox vs Houston Astros 
+http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/1274.m3u8
 
 
 
