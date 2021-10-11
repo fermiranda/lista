@@ -2745,6 +2745,16 @@ http://g.givemenbastreams.com/hls/redsox/playlist.m3u8
 http://g.givemenbastreams.com/hls/dodgers/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Indianapolis Colts vs Baltimore Ravens
+http://134.19.182.131:8080/vdg3.m3u8?m=s54QlCKoY1xiKxaAAU3nfg&c=3&p=3138392e3232332e33352e3230&e=1634024721
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Indianapolis Colts vs Baltimore Ravens
+http://broadcast.c2agora.com/live/mnf-1/chunklist_w1687274653.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF", Indianapolis Colts vs Baltimore Ravens
+http://cdn.raino.xyz/nfl/colts.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
