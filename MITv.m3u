@@ -2770,7 +2770,10 @@ http://nhlclubstream.akamaized.net/hls/live/1000685/pit/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Tampa Bay Lightning vs Pittsburgh Penguins
+https://nhl.shub23.net/nhl/ebbbb7ab918fa153aa6e4d8c7a7e2fae.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Vegas Golden Knights vs Seattle Kraken
+https://nhl.shub23.net/nhl/afa8bcd036789125ee5875d6eeb2dd32.m3u8
 
 
 
