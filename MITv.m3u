@@ -618,9 +618,14 @@ https://www59.sbcdnvideo.com/hls/tysxfrfto266j6cdab2rbwiae6ngco6nqmiejk4mqroqwkm
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="PELICULAS", Snake Eyes
 
-
-
-
+#EXTINF:-1 group-title="La Casa de los Famosos",Camara 1
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 group-title="La Casa de los Famosos",Camara 2
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
+#EXTINF:-1 group-title="La Casa de los Famosos",Camara 3
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
+#EXTINF:-1 group-title="La Casa de los Famosos",Camara 4
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 group-title="La Casa de los Famosos",Camara 1
 http://iptvcanales.gq/canales/live/275/playlist.m3u8
 #EXTINF:-1 group-title="La Casa de los Famosos",Camara 2
