@@ -2772,7 +2772,14 @@ https://5924ab328498.us-west-2.playback.live-video.net/api/video/v1/us-west-2.18
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Portland Trail Blazers
 http://185.53.89.183/hls/phxpor.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Dallas Mavericks
+http://broadcast.c2agora.com/live/cha-13/chunklist_w1263238955.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Memphis Grizzlies
+http://broadcast.c2agora.com/live/ind13/chunklist_w1346697621.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Boston Celtics
+http://185.53.89.183/hls/bos13.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Detroit Pistons
+http://broadcast.c2agora.com/live/new13/chunklist_w1288890761.m3u8
 
 
 
