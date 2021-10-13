@@ -2818,7 +2818,10 @@ http://cdn.raino.xyz/nhl/blackhawks.m3u8
 http://cdn.raino.xyz/nhl/canucks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Toronto Maple Leafs vs Montreal Canadiens
+https://snhls-i.akamaihd.net/hls/live/249773/internal_live/master.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Washington Capitals vs New York Rangers
+http://198.144.159.43/x_cP2ftVKADeBjWAKMNTAg/1634198120/3138392e3232332e33352e3230/ff9/playlist.m3u8
 
 
 
