@@ -2808,7 +2808,10 @@ http://cdn.raino.xyz/nhl/penguins.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Vegas Golden Knights vs Seattle Kraken
 http://cdn.raino.xyz/nhl/kraken.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Tampa Bay Lightning vs Pittsburgh Penguins
+https://5924ab328498.us-west-2.playback.live-video.net/api/video/v1/us-west-2.183268471409.channel.a4jYZ0b8mGEr.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Vegas Golden Knights vs Seattle Kraken
+https://5924ab328498.us-west-2.playback.live-video.net/api/video/v1/us-west-2.183268471409.channel.a4jYZ0b8mGEr.m3u8
 
 
 
