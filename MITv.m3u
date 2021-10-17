@@ -2584,9 +2584,10 @@ http://blackghost.live/sat/mac-121.php?url=https://macron.xyz/player/3/99&k=blaa
 https://d2gj5jkdx19o81.cloudfront.net/out/v1/272649f1d1af4da296a19ec9ca2144d2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL RN", Miami Dolphins vs Jacksonville Jaguars
-http://cdn.raino.xyz/nfl/dolphins.m3u8
+http:////us.raino.xyz/hls/stream16.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", Miami Dolphins vs Jacksonville Jaguars
+https://7cf348b1dcc2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.183268471409.channel.CBlhy72sYQu5.m3u8
 
 
 
