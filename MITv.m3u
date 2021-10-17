@@ -2589,6 +2589,12 @@ http:////us.raino.xyz/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Bk", Miami Dolphins vs Jacksonville Jaguars
 https://7cf348b1dcc2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.183268471409.channel.CBlhy72sYQu5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL ACE", Miami Dolphins vs Jacksonville Jaguars
+http://35.203.69.161/live/y1-4/chunklist_w2007220660.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL BF", Miami Dolphins vs Jacksonville Jaguars
+https://m01.quest123.top:8088/live/sportsfix8000/playlist.m3u8?id=114599&pk=a8c665c203062b7d7f26c5505276797aea603be9e6bf796881d0d731b37c8d18
+
 
 
 
