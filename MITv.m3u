@@ -25,8 +25,8 @@ http://tecnotv.club/octu11/smartv.php?c=eldos
 http://201.168.205.12:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Ca Tlv
 http://iptvcanales.gq/canales/televall/500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Lat Bpk
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2Hrs. Ca
@@ -51,8 +51,8 @@ https://blackghost.live/play/totalp1-129.php?c=1785&p=3&k=black&f=.m3u8
 http://blackghost.live/play/futvall-129.php?id=elcinco&k=blaaackkkghost&f=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ Ca
 http://iptvcanales.gq/canales/live/222/playlist.m3u8
-#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TB
-http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/playlist.m3u
+#EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg Fv
 http://blackghost.live/play/futvall-129.php?id=elcinco&k=blaaackkkghost&file=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Ca Tlv
@@ -63,8 +63,8 @@ http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Tp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1783&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TB
-http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/playlist.m3u8
+#EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Tp Bg
 https://blackghost.live/play/totalp1-129.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE 
@@ -2552,28 +2552,7 @@ http://198.144.159.40/394gg8BRZZAycdrbw3T95w/1634457585/3138392e3232332e33352e32
 
 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://stream.raino.xyz/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://g.givemenbastreams.com/hls/dodgers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://g.givemenbastreams.com/hls/dodgers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/286.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-https://0defc1b166d7.us-east-1.playback.live-video.net/api/video/v1/us-east-1.996186489321.channel.bSdBOrSPcwsw.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://blackghost.live/sat/mac-129.php?url=https://macron.xyz/player/1/100&k=blaaackkkghost&f=.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://blackghost.live/sat/mac-129.php?url=https://macron.xyz/player/2/100&k=blaaackkkghost&f=.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/2021_National_League_Division_Series#/media/File:2021_National_League_Division_Series_logo.png" group-title="MLB",  Atlanta Braves vs Los Angeles Dodgers
-http://blackghost.live/sat/mac-129.php?url=https://macron.xyz/player/3/100&k=blaaackkkghost&f=.m3u8
 
 
 
