@@ -2629,7 +2629,10 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 https://nhl.shub23.net/nhl/0e0f47f951dc46c828c89f69406897af.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Philadelphia Flyers vs Boston Bruins
+http://51.222.42.17:8080/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Vegas Golden Knights vs St. Louis Blues
+http://51.222.42.17:8080/TNT/index.m3u8
 
 
 
