@@ -314,8 +314,8 @@ http://iptvcanales.gq/canales/televall/686/playlist.m3u8
 http://tecnotv.club//21oct/smartv.php?c=h2
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 ZTv
 http://gratuita.mrzutv.net:8080/advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva/advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva/54585
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 5
+http://181.115.72.65:8099/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
 https://blackghost.live/play/codeplus4-149.php?c=86788
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 FrTv
@@ -788,12 +788,16 @@ http://iptvcanales.gq/canales/cable/lbqtn3/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://201.168.205.12:8000/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 5
+http://181.115.72.65:8099/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO BG 13
 http://blackghost.live/play/gnula-149.php?c=136425|User-Agent=foo49966=tokenwpknsw2ngxcwo1erb783=v52
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Bg 11
 http://odenfull.co:2086/live/142536/142536/108659.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Bg 11
 http://odenfull.co:2086/live/142536/142536/108697.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 5
+http://181.115.72.65:8099/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 10
 https://xc2.gt-app.com:2083/live/GTiptv/KmnUnOxTNauXtFtRoFhVsFvGxNhReKc/44.ts|User-Agent=  GT app
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 13
@@ -805,7 +809,9 @@ http://iptvcanales.gq/canales/tvfree/32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 FrTv
 http://francotv.club:25461/live/FANCNCNCNCNN/bdyuAjMpnc/135.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 10
-https://xc1.gt-app.com:2083/live/GThn/qLzpvNzf04JgYjTwKrPfMbRzLgXfWn/21.ts|User-Agent=  GT app  
+https://xc1.gt-app.com:2083/live/GThn/qLzpvNzf04JgYjTwKrPfMbRzLgXfWn/21.ts|User-Agent=  GT app
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 5
+http://181.115.72.65:8099/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS FrTv
 http://francotv.club:25461/live/FANCNCNCNCNN/bdyuAjMpnc/136.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Ca
@@ -827,8 +833,10 @@ http://blackghost.live/play/gnula-149.php?c=136427|User-Agent=foo49966=tokenwpkn
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 16
 https://blackghost.live/play/wistream-bglive-149.php?cat=canales&ch=hbo-family&k=b1aaackkkghosst&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://181.115.72.65:8099/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 11
 http://odenfull.co:2086/live/142536/142536/108710.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ca
 http://iptvcanales.gq/canales/cable/g05mnm/playlist.m3u8
@@ -843,7 +851,9 @@ http://francotv.club:25461/live/FANCNCNCNCNN/bdyuAjMpnc/139.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ca
 http://iptvcanales.gq/canales/tvfree/35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 10
-https://xc2.gt-app.com:2083/live/GTiptv/KmnUnOxTNauXtFtRoFhVsFvGxNhReKc/51.ts|User-Agent=  GT app 
+https://xc2.gt-app.com:2083/live/GTiptv/KmnUnOxTNauXtFtRoFhVsFvGxNhReKc/51.ts|User-Agent=  GT app
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 5
+http://181.115.72.65:8099/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 http://201.168.205.12:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 11
@@ -874,8 +884,8 @@ http://iptvcanales.gq/canales/tvfree/83/playlist.m3u8
 http://odenfull.co:2086/live/142536/142536/109073.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel FrTv
 http://francotv.club:25461/live/FANCNCNCNCNN/bdyuAjMpnc/140.m3u8
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg 13
-http://blackghost.live/play/gnula-149.php?c=136431|User-Agent=foo49966=tokenwpknsw2ngxcwo1erb783=v52
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg 5
+http://181.115.72.65:8099/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER ZTv
 http://gratuita.mrzutv.net:8080/advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva/advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva/41532
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER FrTv
