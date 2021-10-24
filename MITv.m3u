@@ -2652,7 +2652,10 @@ http://212.102.38.90:8080/mylive/y2/index.m3u8
 http://212.102.38.90:8080/mylive/y5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
 http://212.102.38.90:8080/mylive/y1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Las Vegas Raiders
+http://77.247.109.117/hls/y8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Los Angeles Rams
+http://77.247.109.117/hls/y7.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Charlotte Hornets
 https://af36a585c8c1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.214708128504.channel.4osh6ObAialp.m3u8
