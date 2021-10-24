@@ -2605,3 +2605,21 @@ http://134.19.182.131:8080/vdg2.m3u8?m=YbwEiu7vPGXJMYkg2A41QA&c=2&p=3230312e3137
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
 http://198.144.159.43/Jtm-Ir9-tjkORFhCHz9igg/1635123179/3230312e3137302e3135322e313738/ff5/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
+http://hls.blacktiecdn.xyz/live/CH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington vs Green Bay Packers
+http://hls.blacktiecdn.xyz/live/CH2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Tennessee Titans
+https://0ee19cc2ce3d.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.269587687810.channel.fcJZTZnbWu8t.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Atlanta Falcons vs Miami Dolphins
+https://b116b0bbd258.us-west-2.playback.live-video.net/api/video/v1/us-west-2.269587687810.channel.dypXfMWK7K3S.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs New England Patriots
+https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.269587687810.channel.FEpHPXc7jeMo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Carolina Panthers vs New York Giants
+https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.269587687810.channel.fs5fOb0vmIed.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
+https://b116b0bbd258.us-west-2.playback.live-video.net/api/video/v1/us-west-2.269587687810.channel.Ut3RszqIX1T4.m3u8
+
+
