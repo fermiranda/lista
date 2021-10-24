@@ -2638,3 +2638,7 @@ http://212.102.38.90:8080/mylive/y5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
 http://212.102.38.90:8080/mylive/y1/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Boston Bruins vs San Jose Sharks
+https://nhl.shub23.net/nhl/f3975184ecc0075c5213e47ba0fcf132.m3u8
