@@ -2623,3 +2623,18 @@ https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.26
 https://b116b0bbd258.us-west-2.playback.live-video.net/api/video/v1/us-west-2.269587687810.channel.Ut3RszqIX1T4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
+http://212.102.38.90:8080/mylive/y0/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington vs Green Bay Packers
+http://212.102.38.90:8080/mylive/y4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Tennessee Titans
+http://212.102.38.90:8080/mylive/y3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Atlanta Falcons vs Miami Dolphins
+http://212.102.38.90:8080/mylive/y5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Jets vs New England Patriots
+http://212.102.38.90:8080/mylive/y2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Carolina Panthers vs New York Giants
+http://212.102.38.90:8080/mylive/y4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
+http://212.102.38.90:8080/mylive/y1/index.m3u8
+
