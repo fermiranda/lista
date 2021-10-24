@@ -2619,7 +2619,7 @@ http://198.144.159.43/Jtm-Ir9-tjkORFhCHz9igg/1635123179/3230312e3137302e3135322e
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
-http://hls.blacktiecdn.xyz/live/CH1/index.m3u8
+https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.269587687810.channel.wOMEAuOqcArI.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington vs Green Bay Packers
 http://hls.blacktiecdn.xyz/live/CH2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Kansas City Chiefs vs Tennessee Titans
@@ -2632,6 +2632,10 @@ https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.26
 https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.269587687810.channel.fs5fOb0vmIed.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Cincinnati Bengals vs Baltimore Ravens
 https://b116b0bbd258.us-west-2.playback.live-video.net/api/video/v1/us-west-2.269587687810.channel.Ut3RszqIX1T4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Las Vegas Raiders
+https://b116b0bbd258.us-west-2.playback.live-video.net/api/video/v1/us-west-2.269587687810.channel.Ut3RszqIX1T4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs Los Angeles Rams
+https://e475c4774b43.us-east-1.playback.live-video.net/api/video/v1/us-east-1.269587687810.channel.FEpHPXc7jeMo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Redzone
