@@ -2738,6 +2738,11 @@ http://159.89.180.218/hls/n5.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Memphis Grizzlies
 http://159.89.180.218/hls/n6.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Memphis Grizzlies*
+http://104.224.77.166/live/samuelc/zQ7crLQ87z/1039702.m3u8?token=ShoOVBAJRF5AVAIBXVEEBQNRUwICBwdRXQAGD18CW1JXCQUBUVUHVABEHhBLEBAGVQtuXlAVWAQJVloPVgUUQURLA0c8CAJGWEQGBghVUUEYREVeWVJADwlJQUgPUxpZEw1VB1ZDSkYHHkZXSgoDD2sCVEFdVAcXAwsWVAobGgxfZwJQDgAIAEBcEAIaSEAKRxYTDVpCDlkVRwFREkVZF1QaXBdWVV5XQEoQUVcRDBdGHxMNFmIxFxVHBkASUlYQWFcIF1lDC1cXXhAeGg0RPEYDQkNGUgNYXBdBAkQHGk8TVQdNPAIJCgwDUUZRCwwQFlwTBhYbQFhWCwpMCUVnE1hcRA9BVV5TWlYQTw==
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Memphis Grizzlies*
+http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1039702.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Boston Bruins vs San Jose Sharks
 https://nhl.shub23.net/nhl/f3975184ecc0075c5213e47ba0fcf132.m3u8
