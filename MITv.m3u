@@ -138,12 +138,6 @@ https://blackghost.live/play/totalp1-126.php?c=317&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=322&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 TP Bg
 https://blackghost.live/play/totalp1-126.php?c=21&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 Tij" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana Ca
-http://iptvcanales.gq/canales/live/228/playlist.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 Mty" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1931&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 Mty" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP Bg
-https://blackghost.live/play/totalp1-126.php?c=1931&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
@@ -152,10 +146,18 @@ http://blackghost.live/play/futvall-126.php?id=azteca7&k=b1ackkkghosst&file=.m3u
 http://blackghost.live/play/futvall-126.php?id=azteca7hd&k=b1ackkkghosst&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 TTv S
 http://tecnotv.club/oc26/smartv.php?c=azteca7
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD TTv S
+http://tecnotv.club/oc26/smartv.php?c=azteca7hd
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 22
 http://blackghost.live/play/futvall-126.php?id=azteca7&k=b1ackkkghosst&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 22
 http://blackghost.live/play/futvall-126.php?id=azteca7hd&k=b1ackkkghosst&f=.m3u8
+#EXTINF:-1 tvg-name="Azteca 7 Tij" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana Ca
+http://iptvcanales.gq/canales/live/228/playlist.m3u8
+#EXTINF:-1 tvg-name="Azteca 7 Mty" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1931&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Azteca 7 Mty" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP Bg
+https://blackghost.live/play/totalp1-126.php?c=1931&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web
 https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn5XMZo24bPj_LQ0bEN9MVI)/dm/3/x82z4if/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP1
@@ -180,7 +182,7 @@ https://blackghost.live/play/totalp1-126.php?c=2606&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-126.php?c=2298&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Fv
 http://blackghost.live/play/futvall-126.php?id=imagentv&k=b1ackkkghosst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv SSP
 http://tecnotv.club/oc26/sport.php?c=imagentv
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv S
 http://tecnotv.club/oc26/smartv.php?c=imagentv
