@@ -2497,9 +2497,9 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 https://d38ndhnk9wbbud.cloudfront.net/out/v1/99342dccb79d47d8b627f6a45d058372/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://cdn.raino.xyz/mma/stream1-version1/rainostream.m3u8
+http://cdn.raino.xyz/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://cdn.raino.xyz/mma/stream1.m3u8
+http://134.19.182.131:8080/vdg16.m3u8?m=Y9Zz1_Qpfm77af3C5Y0qFg&c=16&p=3230312e3137302e3135352e313939&e=1635640026
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://185.53.89.183/hls/mma.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
@@ -2588,5 +2588,14 @@ http://134.19.182.131:8080/vdg6.m3u8?m=WnrA50YVDvUoR3eDgwb9Rw&c=6&p=3230312e3137
 http://134.19.182.131:8080/vdg7.m3u8?m=MdngF8jj74678DsoXlOoIg&c=7&p=3230312e3137302e3135352e313939&e=1635639466
 #EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", Rutgers at Illinois
 http://134.19.182.131:8080/vdg8.m3u8?m=ZOR0CSfwH9AR5y4jaDoJ1A&c=8&p=3230312e3137302e3135352e313939&e=1635639555
+#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", UMass at Liberty
+http://134.19.182.131:8080/vdg10.m3u8?m=hbp3rJ5_02riHIndE8nYnA&c=10&p=3230312e3137302e3135352e313939&e=1635640594
+#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", Miami (FL) at 17 Pitt
+http://134.19.182.131:8080/vdg5.m3u8?m=7uJSBdUxlRaJF5i5D68pMQ&c=5&p=3230312e3137302e3135352e313939&e=1635640663
+#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", Bowling Green at Buffalo
+http://198.144.159.43/Hdt6pztei9E6gW29ppYFEQ/1635640771/3230312e3137302e3135352e313939/ff11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", 2 Cincinnati at Tulane
+http://134.19.182.131:8080/vdg4.m3u8?m=yQc2DOBvWwAPlhBJrtKQkg&c=4&p=3230312e3137302e3135352e313939&e=1635640847
+
 
 
