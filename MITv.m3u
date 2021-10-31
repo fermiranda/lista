@@ -2600,6 +2600,30 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Houston Astros vs Atlanta Braves
+https://v-la.mybtv.net/event/166/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/310-3109077_000-mnf-e-logo-flat-01-monday-night.png" group-title="NFL SNF", Dallas Cowboys vs Minnesota Vikings
+https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/310-3109077_000-mnf-e-logo-flat-01-monday-night.png" group-title="NFL SNF", Dallas Cowboys vs Minnesota Vikings
+https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/310-3109077_000-mnf-e-logo-flat-01-monday-night.png" group-title="NFL SNF", Dallas Cowboys vs Minnesota Vikings
+https://v-sd.mybtv.net/event/512/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/310-3109077_000-mnf-e-logo-flat-01-monday-night.png" group-title="NFL SNF", Dallas Cowboys vs Minnesota Vikings
+https://d1r56co4k1lqmx.cloudfront.net/out/v1/6147d97c859949a8a91ba913bf7ad22d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/310-3109077_000-mnf-e-logo-flat-01-monday-night.png" group-title="NFL SNF", Dallas Cowboys vs Minnesota Vikings
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
 https://546c0d1167dd.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.775435207697.channel.uql4mgS2xv4N.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Carolina Panthers vs Atlanta Falcons
