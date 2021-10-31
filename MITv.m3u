@@ -1,10 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Ca
 http://iptvcanales.gq/canales/live/226/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
 https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2021/05/Canal45.png" group-title="NACIONALES", Canal 45 Tij HD
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
+https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
+https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2021/05/Canal45.png" group-title="NACIONALES", Canal 45 Tij FHD
 https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2021/05/Canal45.png" group-title="NACIONALES", Canal 45 Tij HD
+https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2021/05/Canal45.png" group-title="NACIONALES", Canal 45 Tij SD
+https://v-sd.mybtv.net/event/515/764x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP
@@ -91,6 +99,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://blackghost.live/play/totalp1-126.php?c=4&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV SD TP Bg
 https://blackghost.live/play/totalp1-126.php?c=19&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-name="Foro Tv" tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Tijuana
+https://v-sd.mybtv.net/event/762/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -705,10 +715,16 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/NV_App_LandingPage_Icon_20190822-400x395.png" group-title="USA Latinos", Nuestra Vsion Ca
 http://iptvcanales.gq/canales/live/233/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Telexitos.svg/revision/latest/scale-to-width-down/250?cb=20210217221546" group-title="USA Latinos", TeleXitos San Diego
+https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Telexitos.svg/revision/latest/scale-to-width-down/250?cb=20210217221546" group-title="USA Latinos", TeleXitos Ca
 http://iptvcanales.gq/canales/live/231/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Bpk
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. FHD
+https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. HD
+https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. SD
+https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Ca
 http://iptvcanales.gq/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Ca Tlv
