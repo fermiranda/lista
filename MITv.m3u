@@ -2676,6 +2676,16 @@ http://134.19.182.131:8080/vdg4.m3u8?m=lwkByMDbyYHp0RjBHfyhmw&c=4&p=3230312e3137
 
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Dallas Mavericks vs Sacramento Kings
+https://d1osslim6n274a.cloudfront.net/stream/MTUwOQ==/1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Sacramento Kings
+https://storage.googleapis.com/crestheinz1/hls/n1/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Arizona Coyotes
 https://nhl.shub23.net/nhl/321dfe7e3991a996a7e4de982e604f01.m3u8
