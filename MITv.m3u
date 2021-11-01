@@ -2303,7 +2303,8 @@ https://d3mza9xaqch9ab.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW
 
-
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/wipeout-xtra-us.png" group-title="USA", PLUTOTV WIPEOUT 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/wipeout-xtra-us.png" group-title="USA", WIPE OUT XTRA
 https://755722ba28274b2f975329d908c8f586.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_WipeoutXtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1024px-AXS_TV_logo.svg.png" group-title="USA", AXS TV
