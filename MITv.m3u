@@ -761,8 +761,8 @@ http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Bg 22
 http://blackghost.live/play/futvall-126.php?id=universo&k=b1ackkkghoosst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Bg
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Plx
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Rk
@@ -1995,7 +1995,7 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-name="ADSPORTS 2" tvg-logo="https://pbs.twimg.com/media/DFbiT91XoAArm0_.png" group-title="DEPORTES", ADSPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-name="STADIUM SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="DEPORTES", STADIUM SPORTS
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1, tvg-name="Sportsgrid Network" tvg-logo="https://cdn.newswire.com/files/x/0a/7a/5f59b76a6c811cf30d585c5d2ac6.png" group-title="DEPORTES", Sportsgrid Network 
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1, tvg-name="LAX SPORTS NETWORK" tvg-logo="https://xandersreport.files.wordpress.com/2015/11/logo.jpg" group-title="DEPORTES", LAX SPORTS NETWORK 
@@ -2303,8 +2303,14 @@ https://d3mza9xaqch9ab.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW
 
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png" group-title="USA", Unsolved Mysteries
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/wipeout-xtra-us.png" group-title="USA", PLUTOTV WIPEOUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/wipeout-xtra-us.png" group-title="USA", WIPE OUT XTRA
+https://c2b5dda37eac42d18c8250cd9fec7d70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WipeoutXtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/wipeout-xtra-us.png" group-title="USA", WIPE OUT XTRA
 https://755722ba28274b2f975329d908c8f586.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_WipeoutXtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1024px-AXS_TV_logo.svg.png" group-title="USA", AXS TV
