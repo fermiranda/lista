@@ -2448,14 +2448,10 @@ http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
 http://iptvcanales.gq/canales/rojo/4238/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
-http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT HD
- http://181.114.57.158:4000/play/zaa8HV9T2QSRJFXb/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
