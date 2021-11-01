@@ -633,8 +633,10 @@ http://iptvcanales.gq/canales/live/277/playlist.m3u8
 #EXTINF:-1 group-title="La Casa de los Famosos",Camara 4
 http://iptvcanales.gq/canales/live/278/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="24/7", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", CINE WMS
@@ -2143,6 +2145,27 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television" tvg-logo="http://oklivetv.com/wp-content/uploads/media/99bf315400be046eda525c154645f49a.jpeg" group-title="MUSICA", RETROPlusTv
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB320000647_20211027T003713.png" group-title="MUSICA", 80s Flashback
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USBB3200007AK_20211027T003717.png" group-title="MUSICA", 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/USBB2300004KV_20210727T132415.png" group-title="MUSICA", Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/39/USBB2300003JZ_20210727T132419.png" group-title="MUSICA", Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/78/USAJ4800001BL_20210525T051440.png" group-title="MUSICA", Vevo Latino
+https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/USAJ4800002B4_20210525T051442.png" group-title="MUSICA", Vevo R&B
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/22/USAJ4800003J5_20210525T051439.png" group-title="MUSICA", Vevo Hip-Hop
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6a6a4306444efbc3c-samsung/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ4800004PU_20210525T051438.png" group-title="MUSICA", Vevo Country
+https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20210525T051441.png" group-title="MUSICA", Vevo Pop
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USAJ4800005R7_20211027T003721.png" group-title="MUSICA", Vevo Holiday
+https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/05673798-3528-436b-a1df-d31247e62aec-samsung-tv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.garnierpr.com/wp-content/uploads/2019/01/WGN9-Chicago-Logo-458.jpg" group-title="USA", WGN9
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
@@ -2336,6 +2359,30 @@ http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/277-2770653_transparent-starz-png-starz-encore-logo-png-png.png" group-title="USA", Starz Encore
 http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="USA", Hallmark Movies
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="USA", Movie Sphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png" group-title="USA", FilmRise Free Movies
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20210824T091339.png" group-title="USA", FilmRise Action
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png" group-title="USA", Maverick Black Cinema
+https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/USAK3508721A20200730102745.png" group-title="USA", Movie Mix
+https://903199661bbc4c2891427b7b03ff36ff.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MovieMix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="USA", Gravitas Movies
+https://651944d3f0d240738e7d5fa272ac4e24.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GravitasMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="USA", CINEVAULT: 80s
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="USA", CINEVAULT: Westerns
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/65/USBA300005MK_20210209T021417.png" group-title="USA",Pluto TV Westerns
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20210824T091341.png" group-title="USA", FilmRise Western
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisewestern_001.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="USA",
+
 #EXTINF:-1 tvg-logo="-" group-title="USA",
 
 #EXTINF:-1 tvg-logo="-" group-title="USA",
