@@ -24,7 +24,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Bg 22
 http://blackghost.live/play/futvall-111.php?id=eldos&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Fv
-http://blackghost.live/play/futvall-111.php?id=eldos&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=eldos&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Tp Bg
 https://blackghost.live/play/totalp1-111.php?c=1784&p=3&k=black&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP Bg
@@ -66,7 +66,7 @@ http://iptvcanales.gq/canales/live/222/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg Fv
-http://blackghost.live/play/futvall-111.php?id=elcinco&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=elcinco&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Ca Tlv
 http://iptvcanales.gq/canales/televall/494/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Ca Tlv
@@ -83,6 +83,8 @@ https://blackghost.live/play/totalp1-111.php?c=1783&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE 22 Fv
 http://blackghost.live/play/futvall-111.php?id=elnueve&k=b1ackkkghoosstt&f=.m3u8
+#EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Bg 22
+http://blackghost.live/play/futvall-111.php?id=elnueve&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TP Bg
 https://blackghost.live/play/totalp1-111.php?c=2248&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="EL NU9VE" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Ca Tlv
@@ -113,18 +115,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2051&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2045&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
-http://201.168.205.12:8000/play/a0cc/index.m3u8
-
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Ca Tlv
 http://iptvcanales.gq/canales/televall/4/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Fv
-http://blackghost.live/play/futvall-111.php?id=aztecauno&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=aztecauno&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno TTv
 http://tecnotv.club/ha31/smartv.php?c=aztecauno
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno 22
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Bg 22
 http://blackghost.live/play/futvall-111.php?id=aztecauno&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
@@ -163,16 +162,16 @@ https://blackghost.live/play/totalp1-111.php?c=21&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
-http://blackghost.live/play/futvall-111.php?id=azteca7&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=azteca7&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
-http://blackghost.live/play/futvall-111.php?id=azteca7hd&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=azteca7hd&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 TTv S
 http://tecnotv.club/ha31/smartv.php?c=azteca7
 #EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD TTv S
 http://tecnotv.club/ha31/smartv.php?c=azteca7hd
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 22
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Bg 22
 http://blackghost.live/play/futvall-111.php?id=azteca7&k=b1ackkkghoosstt&f=.m3u8
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 22
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Bg 22
 http://blackghost.live/play/futvall-111.php?id=azteca7hd&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca 7 Tij" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana 
 https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
@@ -205,7 +204,7 @@ https://blackghost.live/play/totalp1-111.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD TP Bg
 https://blackghost.live/play/totalp1-111.php?c=2298&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Fv
-http://blackghost.live/play/futvall-111.php?id=imagentv&k=b1ackkkghoosstt&f=.m3u8
+http://blackghost.live/play/futvall-111.php?id=imagentv&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv SSP
 http://tecnotv.club/ha31/sport.php?c=imagentv
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv S
@@ -229,7 +228,7 @@ http://iptvcanales.gq/canales/televall/2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Bg 22
 http://blackghost.live/play/mitv1-111.php?id=amas&k=b1ackkkghoosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Fv
-http://blackghost.live/play/futvall-111.php?id=amas&k=b1ackkkghoosst&file=.m3u8
+http://blackghost.live/play/futvall-111.php?id=amas&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Fv
 http://blackghost.live/play/futvall-111.php?id=amas&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ TTv S1
@@ -738,7 +737,7 @@ http://iptvcanales.gq/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Ca Tlv
 http://iptvcanales.gq/canales/televall/620/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Fv
-http://blackghost.live/play/futvall-111.php?id=univ&k=b1ackkkghoosst&file=.m3u8
+http://blackghost.live/play/futvall-111.php?id=univ&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION 38
 http://tv.iptv5latino.cl:8080/live/1wilmaru/mvzsGgWzmk/16689.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Bg 22
@@ -748,15 +747,15 @@ http://iptvcanales.gq/canales/hls/fQCAqHLkSPeYW0FmDm7aOQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS Ca Tlv
 http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS Fv
-http://blackghost.live/play/futvall-111.php?id=unimas&k=b1ackkkghoosst&file=.m3u8
+http://blackghost.live/play/futvall-111.php?id=unimas&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS Bg 22
 http://blackghost.live/play/futvall-111.php?id=unimas&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION Ca
 http://iptvcanales.gq/canales/hls/SIvlK2VmTsqL_hgyKeFIPg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION Bg 22
 http://blackghost.live/play/futvall-111.php?id=galavision&k=b1ackkkghoosstt&f=.m3u8
-#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Bxr
-http://cdn.boxter.live:8081/ENTRETENIMIENTO/NBC_UNIVERSO/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
+
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Ca
 http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Ca
@@ -938,8 +937,10 @@ http://odenfull.co:2086/live/142536/142536/109073.m3u8
 http://francotv.club:25461/francotv/Q0CO4nX0vo/140
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg 2
 https://blackghost.live/play/mega-111.php?c=129|User-agent=elplayer
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg 22
+http://blackghost.live/play/mitv1-111.php?id=&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER ZTv
-http://gratuita.mrzutv.net:8080/dfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasd/dfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfl/41532
+
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER FrTv
 http://francotv.club:25461/francotv/Q0CO4nX0vo/155
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg 9
@@ -1008,8 +1009,8 @@ http://francotv.club:25461/francotv/Q0CO4nX0vo/144
 http://38.131.11.34:1080/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal
-
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Bg 22
+http://blackghost.live/play/mitv1-111.php?id=studiouniversal&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP
@@ -2227,11 +2228,11 @@ http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/259235.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Fv
-http://blackghost.live/play/futvall-111.php?id=telemundo&k=b1ackkkghoosst&file=.m3u8
+http://blackghost.live/play/futvall-111.php?id=telemundo&k=b1ackkkghoosstt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Fv Bg 22
 http://blackghost.live/play/futvall-111.php?id=telemundo&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Bg 22
-http://blackghost.live/play/mitv1-111.php?id=telemundo&k=b1ackkkghoosst&f=.m3u8
+http://blackghost.live/play/mitv1-111.php?id=telemundo&k=b1ackkkghoosstt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Ca Tlv
 http://iptvcanales.gq/canales/televall/363/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_JUANBb_400x400.jpg" group-title="USA", FOX 5 NY
