@@ -2804,13 +2804,12 @@ https://v-ca.mybtv.net/event/170/1280x720.m3u8?start_time=2021-05-16&end_time=20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
 https://d2w3ormydg01ok.cloudfront.net/stream/MTUzNw==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
-
+http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1058600.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
+http://104.224.77.164/live/samuelc/zQ7crLQ87z/1058600.m3u8?token=ShoOVBAJRF5AUwcBDFFXVFJeVwZVUQNUClEBXQACDlYBW1YEWwcAAANEHhBLEBAGVQtuXlAVWAQJUFsOVgcUQURLA0c8CAJGWEQGBghVUUEYREVeWVJADwlJQUgPUxpZEwpUDVJWREhAA0pGXRYMAlg5VVJCXgFQG18NTQpbFEFeVjlRBgwHCgZECBAJRk5BXRVBFQ5ZF1lVSUFaD0NKAkVdRA9BV1dSVUQeEFsLFw1AFEgVDhU3ZhtJQV0eQ10NQlEJW0FbRAlREwoQFEYLEGsUVERARQdUVAARGlwVCEEdGgtUGz4FCwwIV1FMDQ0NR0QLFQUVThdUCg1RElhKPEFRAhdZQ19RUVEQTw==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2021_World_Series_logo.svg/1200px-2021_World_Series_logo.svg.png" group-title="MLB",  Atlanta Braves vs. Houston Astros 
-
 
 
 
@@ -2821,6 +2820,7 @@ http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1052781.m3u8
 http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1017681.m3u8
 #EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", Toledo vs Eastern Michigan
 http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1052783.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Detroit Pistons vs Milwaukee Bucks
@@ -2850,10 +2850,12 @@ http://gmrs400.azureedge.net/hls/pistons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Miami Heat
 http://cdn.mintstreams.xyz/hls/tnt/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Sacramento Kings
-
+http://cdn.mintstreams.xyz/hls/jazz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs New Orleans Pelicans
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Houston Rockets
+
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Milwaukee Bucks
 https://storage.googleapis.com/irinatarta/hls/n1/index.m3u8
@@ -2865,6 +2867,9 @@ https://storage.googleapis.com/irinatarta2/hls/n3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Houston Rockets
 
+
+
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Milwaukee Bucks
 http://198.144.159.43/yGUGju62_hrcwI8eHhMI_Q/1635920732/3138392e3232332e38322e323531/ff2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Miami Heat
@@ -2875,6 +2880,8 @@ http://198.144.159.43/pUyfmMsY5CgsQ7Ey0owQZQ/1635930155/3138392e3232332e38322e32
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Houston Rockets
 
+
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Milwaukee Bucks
 http://165.227.2.248:8090/hls/n1.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Miami Heat
@@ -2884,6 +2891,8 @@ https://rtmp-eu.loola.tv:8081/hlspush/ZJMmio-Z13zz5Q_n3.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs New Orleans Pelicans
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Houston Rockets
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Toronto Maple Leafs vs Vegas Golden Knights
@@ -2899,8 +2908,8 @@ https://nhl.shub23.net/nhl/3e8973ef85a388ea5ea88838359fb11c.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Calgary Flames vs Nashville Predators
 https://nhl.shub23.net/nhl/da99ca48b2b0b2ab2193853161c6adfa.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Vancouver Canucks vs New York Rangers
-
+https://nhl.shub23.net/nhl/-.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Anaheim Ducks vs New Jersey Devils
-
+https://nhl.shub23.net/nhl/-.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  San Jose Sharks vs Buffalo Sabres
-
+https://nhl.shub23.net/nhl/-.m3u8
