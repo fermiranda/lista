@@ -2574,13 +2574,13 @@ http://iptvcanales.gq/canales/rojo/4238/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
-http://51.222.42.17:8080/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
-http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
+
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME FHD
@@ -2596,13 +2596,13 @@ http://iptvcanales.gq/canales/rojo/97840/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV HD
 http://iptvcanales.gq/canales/tvfree/125/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV ZTv
-http://gratuita.mrzutv.net:8080/dfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasd/dfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfldhlakdklfasldkjfkasddfvfl/41495
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
 http://84.22.33.215/nbatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="NBA", NBA TV GAMETIME
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/100-1002591_nba-tv-canada-nba-tv-canada-logo.png" group-title="DEPORTES", NBA TV CA
 
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
