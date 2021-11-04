@@ -2807,7 +2807,12 @@ https://d2w3ormydg01ok.cloudfront.net/stream/MTU3NA==/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Philadelphia 76ers
 https://storage.googleapis.com/natalaglizenko1/hls/n1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Utah Jazz
+https://storage.googleapis.com/natalaglizenko1/hls/n2/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Boston Celtics
+https://storage.googleapis.com/natalaglizenko2/hls/n3/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Houston Rockets
+https://storage.googleapis.com/natalaglizenko2/hls/n4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Philadelphia 76ers
 https://546c0d1167dd.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.775435207697.channel.8eDfHAj5H1qe.m3u8
