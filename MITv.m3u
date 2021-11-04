@@ -790,6 +790,8 @@ http://blackghost.live/play/mitv1-111.php?id=rcn&k=b1ackkkghoosst&f=.m3u8
 http://blackghost.live/play/mitv1-111.php?id=caracol&k=b1ackkkghoosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Web
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/225px-TvG2.jpg" group-title="ESPAÑA", TvG 2 HD
+https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/recursos/generales/tira_zuzenean_zuria/etb1_zuzenean.png" group-title="ESPAÑA", EITB 1 HD Web
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://images11.eitb.eus/multimedia/images/2018/07/19/2315585/20180719091634_logostreamingetb2970_foto960.jpg" group-title="ESPAÑA", EITB 2 HD Web
@@ -1407,7 +1409,7 @@ http://116.203.143.191/video/movistar_laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
-https://events2-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
