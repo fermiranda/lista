@@ -2550,7 +2550,7 @@ http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/33/332291adb4288db7f8670bf89e23e8a0.jpeg" group-title="USA", HBO (West)
 
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852441292cinimaxeast.png" group-title="USA", Cinemax (East)
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1574852517909cinimaxwest.png" group-title="USA", Cinemax (West)
 
 #EXTINF:-1 tvg-logo="https://iptv.yesnet.tv/files/channels/1567774561929ShowtimeEast.png" group-title="USA", Showtime (East)
@@ -2566,18 +2566,7 @@ http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1618613.png" group-title="USA", Epix 2 (East)
 
 
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesactionnadventure.jpg" group-title="UK",  Sky Movies Action & Adventure
-http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescomedy.jpg" group-title="UK",  Sky Movies Comedy 
-http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviescrimenthriller.jpg" group-title="UK",  Sky Movies Crime & Thriller
-http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg" group-title="UK",  Sky Movies Disney
-http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviesfamily.jpg" group-title="UK",  Sky Movies Family
-http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cartoonthemes.us/WSSv1.7/images/skymoviespremiere.jpg" group-title="UK",  Sky Movies Premiere
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
+
 
 
 
