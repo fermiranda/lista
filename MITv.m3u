@@ -2829,6 +2829,8 @@ https://storage.googleapis.com/natalaglizenko1/hls/n2/index.m3u8
 https://storage.googleapis.com/natalaglizenko2/hls/n3/index.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Houston Rockets
 https://storage.googleapis.com/natalaglizenko1/hls/n1/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Oklahoma City Thunder
+https://storage.googleapis.com/natalaglizenko2/hls/n5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Philadelphia 76ers
 https://546c0d1167dd.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.775435207697.channel.8eDfHAj5H1qe.m3u8
@@ -2838,7 +2840,8 @@ https://93b69b72a092.us-east-1.playback.live-video.net/api/video/v1/us-east-1.77
 https://93b69b72a092.us-east-1.playback.live-video.net/api/video/v1/us-east-1.775435207697.channel.wT9zKVj8Mlpr.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs Houston Rockets
 https://93b69b72a092.us-east-1.playback.live-video.net/api/video/v1/us-east-1.775435207697.channel.wT9zKVj8Mlpr.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Oklahoma City Thunder
+https://13324c67fa06.us-west-2.playback.live-video.net/api/video/v1/us-west-2.775435207697.channel.Tcr54jyRl73o.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Philadelphia 76ers*
 http://sp100.azureedge.net/hls/pistons/playlist.m3u8
