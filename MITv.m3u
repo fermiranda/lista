@@ -2335,6 +2335,15 @@ http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1000114.m3u8
 
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 
+
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
+https://v-la.mybtv.net/event/ 82/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
+https://v-la.mybtv.net/event/ 82/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
+https://v-la.mybtv.net/event/ 82/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
+https://v-la.mybtv.net/event/ 83/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
 https://v-la.mybtv.net/event/164/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles HD
@@ -2343,7 +2352,139 @@ https://v-la.mybtv.net/event/164/1280x720.m3u8?start_time=2021-05-16&end_time=20
 https://v-la.mybtv.net/event/164/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  5.4 TBD. - Los Angeles SD
 https://v-la.mybtv.net/event/254/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-
+#EXTINF:-1 tvg-logo="-" group-title="USA",KABC 7.1 ABC 7 - Los Angeles 88 HD
+https://v-la.mybtv.net/event/ 88/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KABC 7.1 ABC 7 - Los Angeles 88 SD
+https://v-la.mybtv.net/event/ 88/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KABC 7.2 Localish - Los Angeles 89 HD
+https://v-la.mybtv.net/event/ 89/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KABC 7.2 Localish - Los Angeles 89 SD
+https://v-la.mybtv.net/event/ 89/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFLA 8.1 NewsNet - Los Angeles 181 HD
+https://v-la.mybtv.net/event/181/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFLA 8.1 NewsNet - Los Angeles 181 SD
+https://v-la.mybtv.net/event/181/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFLA 8.4 BizTV - Los Angeles 91 SD
+https://v-la.mybtv.net/event/ 91/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFLA 8.8 Diya TV - Los Angeles 724 SD
+https://v-la.mybtv.net/event/724/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.1 TV 9 - Los Angeles 259 FHD
+https://v-la.mybtv.net/event/259/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.1 TV 9 - Los Angeles 259 HD
+https://v-la.mybtv.net/event/259/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.1 TV 9 - Los Angeles 259 SD
+https://v-la.mybtv.net/event/259/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.2 Stadium - Los Angeles 180 SD
+https://v-la.mybtv.net/event/180/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles 166 HD
+https://v-la.mybtv.net/event/166/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles 166 SD
+https://v-la.mybtv.net/event/166/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.3 TheGrio - Los Angeles 256 SD
+https://v-la.mybtv.net/event/256/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles 270 HD
+https://v-la.mybtv.net/event/270/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles 270 SD
+https://v-la.mybtv.net/event/270/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.3 Movies! - Los Angeles 257 SD
+https://v-la.mybtv.net/event/257/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.4 Heroes & Icons - Los Angeles 258 SD
+https://v-la.mybtv.net/event/258/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KPOM 14.3 Khmer - Los Angeles 61 SD
+https://v-la.mybtv.net/event/ 61/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles 298 HD
+https://v-la.mybtv.net/event/298/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles 298 SD
+https://v-la.mybtv.net/event/298/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles 178 FHD
+https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles 178 HD
+https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles 178 SD
+https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.2 UniMas - Los Angeles 168 SD
+https://v-la.mybtv.net/event/168/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.3 Bounce TV - Los Angeles 266 SD
+https://v-la.mybtv.net/event/266/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.4 Crime - Los Angeles 80 SD
+https://v-la.mybtv.net/event/ 80/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles 93 HD
+https://v-la.mybtv.net/event/ 93/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles 93 SD
+https://v-la.mybtv.net/event/ 93/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles 94 HD
+https://v-la.mybtv.net/event/ 94/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles 94 SD
+https://v-la.mybtv.net/event/ 94/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.3 Sky Link 3 - Los Angeles 99 SD
+https://v-la.mybtv.net/event/ 99/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.4 Sky Link 2 - Los Angeles 100 SD
+https://v-la.mybtv.net/event/100/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles 299 HD
+https://v-la.mybtv.net/event/299/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles 299 SD
+https://v-la.mybtv.net/event/299/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFTR 46.5 Quest - Los Angeles 276 SD
+https://v-la.mybtv.net/event/276/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.2 PBS SoCal 2 - Los Angeles 288 SD
+https://v-la.mybtv.net/event/288/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.3 Daystar - Los Angeles 289 SD
+https://v-la.mybtv.net/event/289/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.4 World - Los Angeles 290 SD
+https://v-la.mybtv.net/event/290/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.5 PBS SoCal Kids - Los Angeles 291 SD
+https://v-la.mybtv.net/event/291/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles 267 FHD
+https://v-la.mybtv.net/event/267/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles 267 HD
+https://v-la.mybtv.net/event/267/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles 267 SD
+https://v-la.mybtv.net/event/267/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.2 TeleXitos - Los Angeles 103 SD
+https://v-la.mybtv.net/event/103/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles 268 HD
+https://v-la.mybtv.net/event/268/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles 268 SD
+https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.2 Decades - Los Angeles 269 SD
+https://v-la.mybtv.net/event/269/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles 732 HD
+https://v-la.mybtv.net/event/732/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles 732 SD
+https://v-la.mybtv.net/event/732/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles 107 HD
+https://v-la.mybtv.net/event/107/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles 107 SD
+https://v-la.mybtv.net/event/107/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles 109 HD
+https://v-la.mybtv.net/event/109/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles 109 SD
+https://v-la.mybtv.net/event/109/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles 112 HD
+https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles 112 SD
+https://v-la.mybtv.net/event/112/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles 280 HD
+https://v-la.mybtv.net/event/280/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles 280 SD
+https://v-la.mybtv.net/event/280/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KILM 64.1 Grit - Los Angeles 275 SD
+https://v-la.mybtv.net/event/275/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles 736 HD
+https://v-la.mybtv.net/event/736/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles 736 SD
+https://v-la.mybtv.net/event/736/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 LA36 - Los Angeles 742 SD
+https://v-la.mybtv.net/event/742/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles 743 HD
+https://v-la.mybtv.net/event/743/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles 743 SD
+https://v-la.mybtv.net/event/743/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 City of Pasadena - Los Angeles 755 SD
+https://v-la.mybtv.net/event/755/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 PCC TV - Los Angeles 756 SD
+https://v-la.mybtv.net/event/756/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+3630
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA",CBS San Diego
 
