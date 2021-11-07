@@ -3023,6 +3023,8 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.pngio.com/ncaa-college-football-ncaa-football-logo-png-image-transparent-college-football-logos-png-820_528.png" group-title="NCAAF", ABC
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL redzone",  Redzone
+https://dvr-i-main-nflvideo.akamaized.net/dvr/ff6f55ec-5640-494c-ab71-32c5218db873/ff6f55ec-5640-494c-ab71-32c5218db873.ism/manifest(format=m3u8-aapl-v3,filter=hls)?hdnea=st=1636305976~exp=1636306156~acl=/dvr/ff6f55ec-5640-494c-ab71-32c5218db873/*~data=58256d34-8209-48fa-a75a-b81e1cef8285~hmac=5ab26b82df284b3a5ed79cc5d6dd9e586e7b3d17ea440411122d5a27b66dfc88&hdcore=2.11.3
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
