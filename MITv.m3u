@@ -2119,8 +2119,7 @@ http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1161213.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Fox_College_Sports#/media/File:Fox_Sports_College.png" group-title="DEPORTES", FOX COLLEGE SPORTS CENTRAL 
 
-#EXTINF:-1 tvg-name="ACTION SPORTS" tvg-logo="https://media.merchantcircle.com/8046455/action%20logo%20jpeg_full.jpeg" group-title="DEPORTES", ACTION SPORTS
-https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/16x9/full/180/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-medium16x9_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png" group-title="DEPORTES", 380|EDGE Sport 
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-name="ADSPORTS 1" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/93/69/69/936969b91a00ab6fc520e7b5b7630e21.jpg" group-title="DEPORTES", ADSPORTS 1
@@ -2130,9 +2129,13 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-name="STADIUM SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="DEPORTES", STADIUM SPORTS
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1, tvg-name="Sportsgrid Network" tvg-logo="https://cdn.newswire.com/files/x/0a/7a/5f59b76a6c811cf30d585c5d2ac6.png" group-title="DEPORTES", Sportsgrid Network 
-https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 #EXTINF:-1, tvg-name="LAX SPORTS NETWORK" tvg-logo="https://xandersreport.files.wordpress.com/2015/11/logo.jpg" group-title="DEPORTES", LAX SPORTS NETWORK 
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8
+#EXTINF:-1, tvg-logo="https://spng.pinpng.com/pngs/s/446-4461393_1519835956947-lsn-logo-red-16x9images-lax-sports-network.png" group-title="DEPORTES", LSN SPORTS NETWORK
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v5.m3u8
+
+
 #EXTINF:-1, tvg-name="Horizon Sports" tvg-logo="https://cdn.dribbble.com/users/1590982/screenshots/4650582/horizon.png" group-title="DEPORTES", Horizon Sports 
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8 
 #EXTINF:-1, tvg-name="World Of Free Sports TV" tvg-logo="https://pbs.twimg.com/profile_images/1016343171989671939/yDqKNl19_400x400.jpg" group-title="DEPORTES", World Of Free Sports TV 
@@ -2210,26 +2213,28 @@ https://gma2.blab.email/acc.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="FREE SPORTS" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="DEPORTES", FREE SPORTS
 https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8
+
+
 #EXTINF:-1 tvg-name="Tennis Channel Plus 1" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 2" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 3" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 3
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 4" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 4
-https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 5" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 5
-https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 6" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 6
-https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 7" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 7
-https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 8" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 8
-https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 9" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 9
-https://playoutengine.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
-https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
+https://playoutengine-v2.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="MUSICA", MTV HD
 https://blackghost.live/play/totalp1-142.php?c=212&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MUSICA", MTV Hits
