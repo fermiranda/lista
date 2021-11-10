@@ -2320,19 +2320,21 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC EVERYTHING 80'S
 https://stirr.ott-channels.stingray.com/128/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC EVERYTHING 80'S
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC CLASSIC ROCK
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC GREATEST HITS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC HIT LIST
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC HOT COUNTRY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC KARAOKE
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC SOUL STORM
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC ÉXITOS DEL MOMENTO
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/d7e71382-06c7-4071-bac2-bd7a19510c7f/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1XBjtRL/STINGRAY_CONCIERTOS.png" group-title="MUSICA", STINGRAY CONCIERTOS
