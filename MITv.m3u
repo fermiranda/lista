@@ -279,6 +279,15 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png" group-title="NACIONALES", TELEVISA PUEBLA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2312&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2355&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2050&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2061&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="NACIONALES", CANAL 28 NUEVO LEÓN
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty TP
@@ -346,9 +355,7 @@ http://gratuita.mrzutv.net:8080/kjlhdfjlkfhslkfjlksdhflshdkjfhlkdjflkjsdlkflksdh
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg 11
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/57986
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Tc1
-http://tv.cablelatino.xyz/live/hls_01/H2.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Tc2
-http://tv.cablelatino.xyz/live/hls_02/H2.m3u8
+http://tv.cablelatino.xyz/live/hls_01/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY FrTv
 http://francotv.club:25461/francotv/Q0CO4nX0vo/108
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca Tlv
@@ -363,12 +370,14 @@ https://blackghost.live/play/mega-142.php?c=55|User-agent=elplayer
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/57991
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 FrTv
 http://francotv.club:25461/francotv/Q0CO4nX0vo/109
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Cl1
+http://tv.cablelatino.xyz/live/hls_01/H2.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 9
 https://blackghost.live/play/megapro-142.php?c=55|User-agent=elpro
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Mgs
+http://mags.vip:2086/live/shenzi/shenzi/92566.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Mgs
+http://mags.vip:2086/live/shenzi/shenzi/88765.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg 1
 https://blackghost.live/play/zutv-142.php?c=54585.ts|User-agent=XCIPTV-v5.0.1
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
@@ -406,8 +415,12 @@ http://iptvcanales.gq/canales/cable/kdpyrp6kgiaf2sc/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=86&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel 22
 http://blackghost.live/play/mitv1-142.php?id=discoverych&k=bllackkkghoosstt&f=.m3u8
-#EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization TP  TP Bg
+#EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=99&format=HLSAD&f=.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization TP Bg
+https://blackghost.live/play/totalp1-142.php?c=99&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization Mgs
+http://mags.vip:2086/live/shenzi/shenzi/88713.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLSAD&f=.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids TP Bg
@@ -931,7 +944,7 @@ ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl1
 http://tv.cablelatino.xyz/live/hls_01/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
-
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/142
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Bg 1
 https://blackghost.live/play/zutv-142.php?c=361.ts|User-agent=XCIPTV-v5.0.1
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO ZuTv
@@ -942,8 +955,8 @@ http://francotv.club:25461/francotv/Q0CO4nX0vo/134
 http://iptvcanales.gq/canales/cable/lbqtn3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
 http://iptvcanales.gq/canales/tvfree/31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Mgs
+http://mags.vip:2086/live/shenzi/shenzi/88768.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 4
 http://38.131.11.34:1080/play/a01u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 5
@@ -962,7 +975,7 @@ http://38.131.11.34:1080/play/a00g
 http://186.10.123.146:1080/play/a00g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 1
 https://blackghost.live/play/zutv-142.php?c=362.ts|User-agent=XCIPTV-v5.0.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
 http://iptvcanales.gq/canales/cable/x5r58d0omlmqph/playlist.m3u8
@@ -2103,8 +2116,8 @@ http://iptvcanales.gq/canales/rojo/94093/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
 http://vstreams.tv:2082/live/samuelc/zQ7crLQ87z/1161213.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh Mgs
+http://mags.vip:2086/live/shenzi/shenzi/100058.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/1280px-NBC_Sports_California.png" group-title="DEPORTES", NBCSPORTS CALIFORNIA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1024px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES", NBCSPORTS CHICAGO 
