@@ -2318,6 +2318,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSICA", VEVO LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC EVERYTHING 80'S
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC EVERYTHING 80'S
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MUSICA", STINGRAY MUSIC CLASSIC ROCK
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
