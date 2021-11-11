@@ -3166,7 +3166,7 @@ https://drc8yccmgeq06.cloudfront.net/stream/MTYzNA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Chicago Bulls vs Dallas Mavericks
 https://drc8yccmgeq06.cloudfront.net/stream/MTY1NA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Memphis Grizzlies vs Charlotte Hornets
-
+https://dl6aq28cb02zb.cloudfront.net/stream/MTY1OA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", New Orleans Pelicans vs Oklahoma City Thunder
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", San Antonio Spurs vs Sacramento Kings
@@ -3242,7 +3242,10 @@ http://198.144.159.40/NY93S_NUeFtLdgJ7nbLRaA/1636619771/3138372e3235302e3232332e
 http://198.144.159.40/PdvW53eJfWmETAOK1tEvGQ/1636619860/3138372e3235302e3232332e3633/ff62/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Detroit Pistons
 http://134.19.182.131:8080/pdge2b5e9f39ffead24_2.m3u8?m=M25RyS-nztvvmzBfdPkB2A&c=e2b5e9f39ffead24&p=323830363a313030303a383030353a6435653a366436373a643337353a323766393a62343939&e=1636619902
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Dallas Mavericks
+http://198.144.159.43/0OgiZcnrmVF0nSaw32yXMA/1636622562/3138372e3235302e3232332e3633/ff18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Charlotte Hornets
+http://198.144.159.43/36p5oPFQupOqS7rEmORXzw/1636622606/3138372e3235302e3232332e3633/ff17/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Philadelphia Flyers vs Toronto Maple Leafs
 https://nhl.shub23.net/nhl/1f46aac40ec9b1137711be35d86c0552.m3u8
