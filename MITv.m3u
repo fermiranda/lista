@@ -3363,6 +3363,13 @@ http://ent.gcdn.co/BS23/index.m3u8
 http://ent.gcdn.co/S29/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Indiana Pacers
+http://cdcn.khgffyjm.com/hls/71.m3u8?md5=Emtv5vcqjpq33eNsggZEwQ&expires=1636690161
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Miami Heat
+http://cdcn.khgffyjm.com/hls/83.m3u8?md5=v9qmzDykInsBPoKQOI3B5A&expires=1636690039
+
+
+
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Edmonton Oilers
 https://nhl.shub23.net/nhl/4edab7f2420ad887872df360dcc776e2.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens vs Calgary Flames
