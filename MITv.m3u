@@ -3370,8 +3370,16 @@ http://95.217.18.125/hls/n1_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Milwaukee Bucks
 http://ent.gcdn.co/BS35/index.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs New York Knicks
 http://198.144.159.43/aKrNZUXx_5_dZvkhBQv5vw/1636790593/3138372e3235302e3232332e3633/ff15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Milwaukee Bucks
+http://134.19.182.131:8080/pdgd49f9975ae5de7db.m3u8?m=kZMM-3aOej9rzol_Ojo1pA&c=d49f9975ae5de7db&p=323830363a313030303a383030353a6435653a383930643a386536633a613036393a62616134&e=1636793293
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Detroit Pistons
+http://198.144.159.43/Q7pZ_3o34YVGZqQZHSVzuw/1636793348/3138372e3235302e3232332e3633/ff39/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Buffalo Sabres vs Edmonton Oilers
 https://nhl.shub23.net/nhl/61edef455b8863ac8a8def21ddf6a249.m3u8
