@@ -3339,3 +3339,21 @@ https://dmxgsjxzdt96h.cloudfront.net/stream/MTcxOQ==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL HD",  Tampa Bay Buccaneers vs Washington
 https://d3l538gzkrbshf.cloudfront.net/stream/MTcyMQ==/1080p.m3u8
 
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
+https://storage.googleapis.com/grogoriev4/hls/p0/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs Dallas Cowboys
+https://storage.googleapis.com/grogoriev2/hls/p3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New Orleans Saints vs Tennessee Titans
+https://storage.googleapis.com/grogoriev2/hls/p4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Jacksonville Jaguars vs Indianapolis Colts 
+https://storage.googleapis.com/grogoriev3/hls/p5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Cleveland Browns vs New England Patriots 
+https://storage.googleapis.com/grogoriev4/hls/p7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Buffalo Bills vs New York Jets 
+https://storage.googleapis.com/grogoriev1/hls/p1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Detroit Lions vs Pittsburgh Steelers
+https://storage.googleapis.com/grogoriev3/hls/p6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Washington
+https://storage.googleapis.com/grogoriev1/hls/p2/index.m3u8
+
