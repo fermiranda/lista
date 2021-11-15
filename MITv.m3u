@@ -3482,6 +3482,16 @@ http://ent.gcdn.co/S12/index.m3u8
 https://storage.googleapis.com/grogoriev1/hls/n1/index.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Milwaukee Bucks
 https://storage.googleapis.com/grogoriev1/hls/n2/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Golden State Warriors 
+https://storage.googleapis.com/grogoriev2/hls/n3/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Phoenix Suns
+https://storage.googleapis.com/grogoriev2/hls/n4/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Brooklyn Nets
+https://storage.googleapis.com/grogoriev3/hls/n5/index.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Portland Trail Blazers 
+https://storage.googleapis.com/grogoriev3/hls/n6/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs San Antonio Spurs
 http://198.144.159.40/AmLNZkXtG6TPzB3Yp6S1SA/1636950654/3138372e3235302e3232332e3633/ff30/playlist.m3u8
