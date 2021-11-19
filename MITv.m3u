@@ -3374,9 +3374,9 @@ http://g.givemereddit.stream/hls/ch2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Miami Heat vs Washington Wizards
 http://g.givemereddit.stream/hls/ch1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Memphis Grizzlies vs Los Angeles Clippers
-
+http://g.givemereddit.stream/hls/ch4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Minnesota Timberwolves vs San Antonio Spurs
-
+http://g.givemereddit.stream/hls/ch3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Denver Nuggets vs Philadelphia 76ers
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Utah Jazz vs Toronto Raptors
@@ -3387,9 +3387,9 @@ http://g.givemereddit.stream/hls/ch2_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Washington Wizards
 http://g.givemereddit.stream/hls/ch1_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Los Angeles Clippers
-
+http://g.givemereddit.stream/hls/ch4_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs San Antonio Spurs
-
+http://g.givemereddit.stream/hls/ch3_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Philadelphia 76ers
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Toronto Raptors
@@ -3399,14 +3399,26 @@ http://g.givemereddit.stream/hls/ch1_480p/playlist.m3u8
 https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.aBoDnprDQNY6.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Washington Wizards
 https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.4tZsBgEWy8aW.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Los Angeles Clippers
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.kfT90UpIKSSA.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs San Antonio Spurs
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.aonuq93U7uAQ.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Toronto Raptors
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Golden State Warriors
 http://45.88.148.178:7070/hls/n1.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Washington Wizards
 http://45.88.148.178:7070/hls/n2.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Los Angeles Clippers
+http://45.88.148.178:7070/hls/n3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs San Antonio Spurs
+http://45.88.148.178:7070/hls/n4.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Philadelphia 76ers
+http://45.88.148.178:7070/hls/n5.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Toronto Raptors
+http://45.88.148.178:7070/hls/n6.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Golden State Warriors
 http://198.144.159.43/IL3b0JtMUcY70usuYXw6Lg/1637310119/3138372e3235302e3232332e3633/ff15/playlist.m3u8
