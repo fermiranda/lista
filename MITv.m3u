@@ -3399,9 +3399,9 @@ http://g.givemereddit.stream/hls/ch4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Minnesota Timberwolves vs San Antonio Spurs
 http://g.givemereddit.stream/hls/ch3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Denver Nuggets vs Philadelphia 76ers
-
+http://g.givemereddit.stream/hls/ch5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Utah Jazz vs Toronto Raptors
-
+http://g.givemereddit.stream/hls/ch6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Golden State Warriors
 http://g.givemereddit.stream/hls/ch2_480p/playlist.m3u8
@@ -3412,9 +3412,9 @@ http://g.givemereddit.stream/hls/ch4_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs San Antonio Spurs
 http://g.givemereddit.stream/hls/ch3_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Philadelphia 76ers
-
+http://g.givemereddit.stream/hls/ch5_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Toronto Raptors
-
+http://g.givemereddit.stream/hls/ch6_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Golden State Warriors
 https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.aBoDnprDQNY6.m3u8
@@ -3425,6 +3425,7 @@ https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.52
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs San Antonio Spurs
 https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.aonuq93U7uAQ.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Philadelphia 76ers
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Utah Jazz vs Toronto Raptors
 
 
