@@ -3421,6 +3421,18 @@ http://g.givemereddit.stream/hls/ch8_480p/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Indiana Pacers
+https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.aBoDnprDQNY6.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Golden State Warriors
+https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.4tZsBgEWy8aW.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Los Angeles Lakers
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.kfT90UpIKSSA.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Orlando Magic
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.aonuq93U7uAQ.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Indiana Pacers
 http://77.247.109.117/hls/n1.m3u8
