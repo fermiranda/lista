@@ -3141,8 +3141,9 @@ http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
-http://iptvcanales.gq/canales/rojo/4238/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
+http://iptvcanales.gq/canales/ok/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 http://g.givemereddit.stream/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
