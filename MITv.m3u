@@ -3402,6 +3402,12 @@ https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.52
 
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Golden State Warriors
+http://45.88.148.178:7070/hls/n1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Washington Wizards
+http://45.88.148.178:7070/hls/n2.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",  Buffalo Sabres vs Calgary Flames
