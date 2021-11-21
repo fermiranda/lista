@@ -3398,7 +3398,7 @@ https://dy3j9qentq0g5.cloudfront.net/stream/MTc5NQ==/1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
 http://sp499.azureedge.net/hls/abr_ch1/hls/ch1_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Indianapolis Colts vs Buffalo Bills
 https://d2xjun3p7sn4vs.cloudfront.net/b/ch7_720p60.m3u8
@@ -3419,9 +3419,11 @@ https://d2xjun3p7sn4vs.cloudfront.net/b/ch8_720p60.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Jacksonville Jaguars
 https://d2xjun3p7sn4vs.cloudfront.net/b/ch5_720p60.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Cincinnati Bengals vs Las Vegas Raiders
+http://g.givemereddit.stream/hls/ch5_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Kansas City Chiefs
+http://g.givemereddit.stream/hls/ch2_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Arizona Cardinals vs Seattle Seahawks
-
+http://g.givemereddit.stream/hls/ch3_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
 http://sp499.azureedge.net/hls/abr_ch1/playlist.m3u8
@@ -3444,9 +3446,11 @@ https://d2xjun3p7sn4vs.cloudfront.net/b/ch8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Jacksonville Jaguars
 https://d2xjun3p7sn4vs.cloudfront.net/b/ch5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Cincinnati Bengals vs Las Vegas Raiders
+http://g.givemereddit.stream/hls/ch5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Kansas City Chiefs
+http://g.givemereddit.stream/hls/ch2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Arizona Cardinals vs Seattle Seahawks
-
+http://g.givemereddit.stream/hls/ch3/playlist.m3u8
 
 
 
