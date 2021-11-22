@@ -946,8 +946,8 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once TP Bg
 https://blackghost.live/play/totalp1-120.php?c=25&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once TB
-http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
+
 #EXTINF:-1 tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV Web
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV TP
@@ -3568,6 +3568,7 @@ https://nhl.shub23.net/nhl/5f7276fe0c49ef27b3d24cee11a92dd4.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Boston Bruins vs Calgary Flames
 https://nhl.shub23.net/nhl/faac9bed88353bc30c1806a2be3a62f3.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  New York Islanders vs Toronto Maple Leafs
+https://nhl.shub23.net/nhl/b7d7f395a83b5da25ab7260218108071.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Vancouver Canucks vs Chicago Blackhawks
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Seattle Kraken vs Washington Capitals
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Los Angeles Kings vs Arizona Coyotes
