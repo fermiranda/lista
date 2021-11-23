@@ -1731,20 +1731,28 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_1_355/5/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/lig.png" group-title="DEPORTES", SuperSports La Liga
 
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Multi-Champions
+http://23.88.39.50:80/live/652177700/index.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Multi-Champions
+https://bal.varcdn1.ru/lb/mp/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 1
-http://77.247.109.92/hls/k1.m3u8
+https://d1wnyr7y2olzmt.cloudfront.net:443/out/v1/3d06f12dd92149f59660d0e78c37849c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 2
-http://77.247.109.92/hls/k2.m3u8
+https://d1wnyr7y2olzmt.cloudfront.net/out/v1/3d06f12dd92149f59660d0e78c37849c/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 3
-http://77.247.109.92/hls/k3.m3u8
+https://live-ak.vimeocdn.com/exp=1637700325~acl=%2F20c083ec-ae03-43ab-8677-c0331f2d7ee2%2F%2A~hmac=b85dba3dd1c5323324f26df3e250d7216abca86d50f824ded5931b368b31a79b/20c083ec-ae03-43ab-8677-c0331f2d7ee2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 4
-
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 5
-
+http://cdn2.cyclingnews.live/hls/P2.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 6
-
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
-
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 7
+http://cdn2.cyclingnews.live/hls/P3.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
 http://116.203.143.191/video/movistar_laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego
