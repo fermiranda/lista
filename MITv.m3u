@@ -94,7 +94,9 @@ http://iptvcanales.gq/canales/live/222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2713&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg Fv
-http://blackghost.live/play/futvall-123.php?id=elcinco&k=bllackkkkghoostt&file=.m3u8
+http://blackghost.live/play/futvall-123.php?id=elcinco&k=blackkkkghoostt&file=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 HD Bg Fv
+http://blackghost.live/play/futvall-123.php?id=elcincohd&k=blackkkkghoostt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Ca Tlv
 http://iptvcanales.gq/canales/televall/494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -3400,6 +3402,12 @@ http://ac.ntvlatino.com:8080/moises/moises2021/16135
 http://mags.vip:2086/live/shenzi/shenzi/55075.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",   Pumas UNAM vs América
+http://blackghost.live/play/futvall-123.php?id=elcinco&k=blackkkkghoostt&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",   Pumas UNAM vs América
+http://blackghost.live/play/futvall-123.php?id=elcincohd&k=blackkkkghoostt&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",   Pumas UNAM vs América
+https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",   Pumas UNAM vs América
 http://blackghost.live/play/futvall-123.php?id=univ&k=blackkkkghoostt&file=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",   Pumas UNAM vs América
