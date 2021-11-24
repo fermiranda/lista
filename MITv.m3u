@@ -3409,4 +3409,30 @@ http://g.givemereddit.stream/hls/abr_ch2/playlist.m3u8
 http://g.givemereddit.stream/hls/abr_ch3/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Miami Heat
+http://zoom-f.swagit.com/live/n1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Los Angeles Lakers
+http://zoom-f.swagit.com/live/n2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Denver Nuggets
+http://zoom-f.swagit.com/live/n2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
+http://zoom-f.swagit.com/live/n3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Miami Heat
+http://zoom-f.swagit.com/live/n1/.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Los Angeles Lakers
+http://zoom-f.swagit.com/live/n2/.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Denver Nuggets
+http://zoom-f.swagit.com/live/n2/.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Dallas Mavericks
+http://zoom-f.swagit.com/live/n3/.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",  Tampa Bay Lightning vs Philadelphia Flyers
+https://nhl.shub23.net/nhl/d56689beaef4df0732963b986acdf4aa.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",  Dallas Stars vs Edmonton Oilers
+https://nhl.shub23.net/nhl/3669c46e5e12cf3795a1a37b57559ae3.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",  Calgary Flames vs Chicago Blackhawks
+
 
