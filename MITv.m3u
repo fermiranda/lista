@@ -429,13 +429,15 @@ https://blackghost.live/play/totalp1-123.php?c=89&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD Bg 3
 https://blackghost.live/play/zufree-123.php?c=2412
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Mags
-http://mags.vip:2086/live/shenzi/shenzi/92566.m3u8
+http://mags.vip:2086/live/shenzi/shenzi/88772.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Ca Tlv
 http://iptvcanales.gq/canales/televall/645/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY ZuTv
 http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFH/LFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFHLFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADF/346
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Mags
+http://mags.vip:2086/live/shenzi/shenzi/92567.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Mags
+http://mags.vip:2086/live/shenzi/shenzi/66582.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Tc1
 http://tv.teleclub.xyz/live/hls_01/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY NTvl
@@ -466,6 +468,8 @@ https://blackghost.live/play/zutv-123.php?c=54585.ts|User-agent=XCIPTV-v5.0.1
 http://iptvcanales.gq/canales/tv/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
 http://iptvcanales.gq/canales/tvfree/50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png" group-title="MUNDO Y CULTURA", PLUTO TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/X7q082ZT/wildlife.png" group-title="MUNDO Y CULTURA", SAMSUNG WILD LIFE (Inglés)
@@ -3426,5 +3430,11 @@ http://zoom-f.swagit.com/live/y1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Dallas Cowboys
 http://198.144.159.43/ueeQnWmC2YoAD5yOFwLxmQ/1637905472/3138372e3235302e3232332e3633/ff2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Buffalo Bills vs New Orleans Saints
+http://zoom-f.swagit.com/live/y1/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Buffalo Bills vs New Orleans Saints
+http://ent.gcdn.co/S23/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Buffalo Bills vs New Orleans Saints
+http://zoom-f.swagit.com/live/y1/chunklist.m3u8
 
 
