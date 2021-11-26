@@ -442,6 +442,10 @@ http://mags.vip:2086/live/shenzi/shenzi/66582.m3u8
 http://tv.teleclub.xyz/live/hls_01/HISTORY.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY NTvl
 http://ac.ntvlatino.com:8080/moises/moises2021/3234
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/165.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/-.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca Tlv
 http://iptvcanales.gq/canales/televall/686/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ttv S1
@@ -470,6 +474,8 @@ http://iptvcanales.gq/canales/tv/h2_hls/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Nand
 http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/44.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/164.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png" group-title="MUNDO Y CULTURA", PLUTO TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/X7q082ZT/wildlife.png" group-title="MUNDO Y CULTURA", SAMSUNG WILD LIFE (Inglés)
@@ -1115,6 +1121,8 @@ http://ac.ntvlatino.com:8080/moises/moises2021/3199
 https://blackghost.live/play/zufree-123.php?c=361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Nand
 http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/116.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO FHD Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/345.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD ZuTv
 http://gratuita.mrzutv.net:8080/dklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldldldldldldldklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldld/dklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldldldldldldldklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldld/362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Cl
@@ -1207,6 +1215,8 @@ http://iptvcanales.gq/canales/rojo/288/playlist.m3u8
 https://blackghost.live/play/zufree-123.php?c=1787
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme ZuTv
 http://gratuita.mrzutv.net:8080/dklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldldldldldldldklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldld/dklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldldldldldldldklsfjkljfdhlkfhdjklhkfjhkjdfhkjhfdjkghjkfdhfjkhdjfhjdhfjhdjhfjdhfjhdjfhjdhfjhdjfhjdhfjhdfjhdjfkdkdkdkdkkdkdkkddldlldldldld/1787
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/352.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ntvl
 http://ac.ntvlatino.com:8080/moises/moises2021/44337
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl1
@@ -1215,8 +1225,8 @@ http://tv.teleclub.xyz/live/hls_01/HBOPOP.m3u8
 http://iptvcanales.gq/canales/stream/0076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Bg 3
 https://blackghost.live/play/zufree-123.php?c=1785
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/350.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="ENTRETENIMIENTO", Cinema Estelar Pluto Tv
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO",  Pluto Tv
@@ -3141,6 +3151,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="USA", FX
 http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Nand
+http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/1180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
