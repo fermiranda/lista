@@ -2364,9 +2364,15 @@ http://blackghost.live/play/futvall-123.php?id=tvcdep-mx&k=k=bllackkkkghoostt&f=
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes TP
 https://blackghost.live/play/totalp1-123.php?c=2157&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes TP Ca
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes TP Ca
 http://iptvcanales.gq/canales/total/2157/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1208744581656928256/nMSHTKmZ_400x400.png" group-title="DEPORTES", SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/featuredImage.jpg" group-title="DEPORTES", Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.slashgear.com/wp-content/uploads/2019/06/Fubo_TV_Main.jpg" group-title="DEPORTES", Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN HD Web
 https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN+ HD Web
