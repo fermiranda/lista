@@ -2681,6 +2681,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee16
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKVmbzVh/newkpop.jpg" group-title="MUSICA", NEW K-POP
 https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/6314a980-66c5-4ec6-a1aa-b965dc7e64e2/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OoWAX7u.png" group-title="MUSICA", Loop 80's
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6Rzdm8.png" group-title="MUSICA", Loop 90's
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNvSjcd.png" group-title="MUSICA",Loop Country
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQlkS6U.png" group-title="MUSICA", Loop Electronica
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNvSjcd.png" group-title="MUSICA", Loop Far Out
+https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="MUSICA", Loop Hottest
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNvSjcd.png" group-title="MUSICA", Loop Latin
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Musicales", Loop Party
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.garnierpr.com/wp-content/uploads/2019/01/WGN9-Chicago-Logo-458.jpg" group-title="USA", WGN9
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
