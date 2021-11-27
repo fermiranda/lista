@@ -3527,6 +3527,58 @@ http://zoom-f.swagit.com/live/n11/chunklist.m3u8
 http://zoom-f.swagit.com/live/n12/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 1
+http://gmrsmain.azureedge.net/hls/abr_ch1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 2
+http://gmrsmain.azureedge.net/hls/abr_ch2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 3
+http://gmrsmain.azureedge.net/hls/abr_ch3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 4
+http://gmrsmain.azureedge.net/hls/abr_ch4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 5
+http://gmrsmain.azureedge.net/hls/abr_ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 6
+http://gmrsmain.azureedge.net/hls/abr_ch6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 3", GAME 7
+http://gmrsmain.azureedge.net/hls/abr_ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 8
+http://gmrsmain.azureedge.net/hls/abr_ch8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 1
+http://g.givemereddit.stream/hls/abr_ch1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 2
+http://g.givemereddit.stream/hls/abr_ch2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 3
+http://g.givemereddit.stream/hls/abr_ch3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 4
+http://g.givemereddit.stream/hls/abr_ch4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 5
+http://g.givemereddit.stream/hls/abr_ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 6
+http://g.givemereddit.stream/hls/abr_ch6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 7
+http://g.givemereddit.stream/hls/abr_ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 4", GAME 8
+http://g.givemereddit.stream/hls/abr_ch8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 1 
+http://g.givemereddit.stream/hls/abr_ch1/hls/ch1_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 2
+http://g.givemereddit.stream/hls/abr_ch2/hls/ch2_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 3
+http://g.givemereddit.stream/hls/abr_ch3/hls/ch3_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 4
+http://g.givemereddit.stream/hls/abr_ch4/hls/ch4_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 5
+http://g.givemereddit.stream/hls/abr_ch5/hls/ch5_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 6
+http://g.givemereddit.stream/hls/abr_ch6/hls/ch6_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 7
+http://g.givemereddit.stream/hls/abr_ch7/hls/ch7_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA 5", GAME 8
+http://g.givemereddit.stream/hls/abr_ch8/hls/ch8_source/chunks.m3u8
 
 
 
