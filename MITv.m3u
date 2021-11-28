@@ -3641,3 +3641,19 @@ http://c1.catchystream.com:1935/live/nfl2.stream/chunklist_w1996852267.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Jets vs Houston Texans
 http://c1.catchystream.com:1935/live/nfl2.stream/chunklist_w1996852267.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Pittsburgh Steelers vs Cincinnati Bengals
+https://b76be4dbb76e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.105518565033.channel.XhU4hyUvHX86.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Indianapolis Colts
+https://b76be4dbb76e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.105518565033.channel.XhU4hyUvHX86.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Carolina Panthers vs Miami Dolphins
+https://298d13e7d8c7.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.105518565033.channel.usTEUKv8UoGr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tennessee Titans vs New England Patriots
+https://298d13e7d8c7.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.105518565033.channel.64T009mCnfhf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Philadelphia Eagles vs New York Giants
+https://42fd9f51c0fe.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.529588844234.channel.j04Ty4O7mqoG.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs Jacksonville Jaguars
+https://ad26c690eaa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.105518565033.channel.AwmNvq8D3VmU.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Jets vs Houston Texans
+https://b76be4dbb76e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.105518565033.channel.TOm8n98U9Cv2.m3u8
+
