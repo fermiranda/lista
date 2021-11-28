@@ -3584,6 +3584,19 @@ http://g.givemereddit.stream/hls/abr_ch8/hls/ch8_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
 http://sp999.azureedge.net/hls/abr_ch1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Pittsburgh Steelers vs Cincinnati Bengals
+https://d2yypatnsg69l.cloudfront.net/hls/bengals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Indianapolis Colts
+https://d2yypatnsg69l.cloudfront.net/hls/colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Carolina Panthers vs Miami Dolphins
+https://d2yypatnsg69l.cloudfront.net/hls/dolphinss/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tennessee Titans vs New England Patriots
+https://d2yypatnsg69l.cloudfront.net/hls/patriots/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Philadelphia Eagles vs New York Giants
+https://d2yypatnsg69l.cloudfront.net/hls/giants/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs Jacksonville Jaguars
+https://d2yypatnsg69l.cloudfront.net/hls/jaguarls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Jets vs Houston Texans
+https://d2yypatnsg69l.cloudfront.net/hls/texans/playlist.m3u8
 
 
