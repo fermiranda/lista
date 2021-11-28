@@ -3660,7 +3660,12 @@ https://42fd9f51c0fe.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.52
 https://ad26c690eaa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.105518565033.channel.AwmNvq8D3VmU.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Jets vs Houston Texans
 https://b76be4dbb76e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.105518565033.channel.TOm8n98U9Cv2.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Chargers vs Denver Broncos
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.2hWFp0Vfwq6q.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Rams vs Green Bay Packers
+https://42fd9f51c0fe.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.529588844234.channel.R5iOrGGnRs88.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Minnesota Vikings vs San Francisco 49ers
+https://ad26c690eaa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.105518565033.channel.AwmNvq8D3VmU.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Chargers vs Denver Broncos
 http://77.247.109.117/hls/y8.m3u8
