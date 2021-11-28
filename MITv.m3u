@@ -3669,5 +3669,9 @@ https://ad26c690eaa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Chargers vs Denver Broncos
 http://77.247.109.117/hls/y8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Rams vs Green Bay Packers
+http://77.247.109.117/hls/y9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Minnesota Vikings vs San Francisco 49ers
+http://77.247.109.117/hls/y10.m3u8
 
 
