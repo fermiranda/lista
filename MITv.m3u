@@ -2367,6 +2367,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007d
 http://mags.vip:2086/live/shenzi/shenzi/220.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN
 http://mags.vip:2086/live/shenzi/shenzi/64144.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN
+https://h194-40-240-7.securepoint.io:25463/live/shenzi/shenzi/220.m3u8?token=TREMWUEJGlxBVQBXDg0MUVRaVVZaUwQBBAALBgdUAgdTAlEMAVNZVQBDShFEQUtSVw5vDwcXDwcBBhRBEBVVQGlaABoIQwlUWlZVCgcXFRVCCl0DQQ8FGRFGUQdHXBIEBwBVARBNGgMbFQNBWVRVaFIGRg8AUBcPXUNUD0lEX1xpVwFVUw9cRFlDVhEbF1BERkEKCBZZWRkRVFEXFwdEVxQJRg4HUAxET0MFXEJbTUVPQQpEMXoXGRFTQBcACENbWV1GAhAMCxNbQ0oRXkZmRVMQRBQGVFhQQRQCQVVEHBBbUhxnUQ5WCAYCElpYW0oVDEECRE8XWFpdX0wMFzlAW1IRXhoKUAheQRw=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN
+https://h194-40-240-7.securepoint.io:25463/live/shenzi/shenzi/64144.m3u8?token=TREMWUEJGlxBUwRRU1RaAVIFAAQAV1ECC1VaB1xQAQRUVlVcUwJbVAZDShFEQUtSVw5vDwcXDwMHBwxXSURFQVNBO1FWQwJEUlNfBAQMCRUaQUQPDlAXDwMaGhMMAhIIFAFcAAFYGkpBBB5HUkdXVlo8VAMVXFZQEQxWFgkKHBBZXTtcVwxZCAdDXBEHFxUVXxBARFlbQFlfGhoBDBJCU0JWRgIQVA5RU0NKEVRaTFlCEUlEWRdxcBEaGgYdElVcRVoLVhBbGgtQFF4RGxdQRGkRVRUXR1BUXlNKQV9EABAaEQlZSj5bCQ0PA1BDXFZZRUEKRFEXGRdeWVYKEQlCbUZaABoIQw9VV1hETg==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
 http://181.114.57.158:4000/play/XRgyYKzbht5GvqYn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD Ca
@@ -2388,7 +2392,7 @@ http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/18491.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh Mgs
 http://mags.vip:2086/live/shenzi/shenzi/100058.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh Mns
-
+https://h194-40-240-7.securepoint.io:25463/live/shenzi/shenzi/100058.m3u8?token=TREMWUEJGlxBUwUED1MAAQFbU15WUFMHAAcOVVYHAwIOUlILCwIOVVRDShFEQUtSVw5vDwcXDwQDBghWXUoSR0VWFmdbBRpcQVBUCgAGAAcUTxISClhQFwkGFEEVD1QQDBFTDAJYGkpBBB5HUkdXVlo8VAMVXFZQEQxWFgkKHBBZXTtcVwxZCAdDXBEHFxUVXxBARFlbQFlfGhoBDBJCU0JWRgIQVA9UW0NKEVRaTFlCEUlEWRdmcBEaGgYdElVcRVoLVhBbGgtQFF4RGxdQRGkRVRUXR1BUXlNKQV9EABAaEQlZSj5bCQ0PA1BDXFZZRUEKRFEXGRdeWVYKEQlCbUZaABoIQwFQWlRQEUo=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/1280px-NBC_Sports_California.png" group-title="DEPORTES", NBCSPORTS CALIFORNIA 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1024px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES", NBCSPORTS CHICAGO 
