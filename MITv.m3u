@@ -3458,7 +3458,10 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 https://d2sth4r1y6cfpr.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Seattle Seahawks vs Washington
 https://d2sth4r1y6cfpr.cloudfront.net/hls/espn/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Seattle Seahawks vs Washington
+http://134.19.182.131:8080/pdga6507619801d6d2d3.m3u8?m=qCESUBCKUcQ9MDFfUSP1CQ&c=a6507619801d6d2d3&p=323830363a313030303a383030353a6435653a663830323a373436663a346336313a33326339&e=1638262723
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Seattle Seahawks vs Washington
+https://content-aeui1.uplynk.com/channel/06aa99590c444d7a9ff4c3113cb7606f/d.m3u8?pbs=5c34356cbb274d7a81641d0d4e26100b
 
 
 
