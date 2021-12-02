@@ -2235,6 +2235,16 @@ http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
 
+#EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2564&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports Bg TP
