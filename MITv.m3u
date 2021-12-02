@@ -3604,6 +3604,17 @@ https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.52
 
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Chicago Bulls
+http://livecdn.vidgyor.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Milwaukee Bucks
+http://livecdn.vidgyor.com/live/n2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
+http://livecdn.vidgyor.com/live/n3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Detroit Pistons
+http://livecdn.vidgyor.com/live/n4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs San Antonio Spurs
+http://livecdn.vidgyor.com/live/n5/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="nhlcenterice1.us" tvg-name="NHL CENTER ICE : GAME 01" tvg-logo="http://p2086.securepoint.io:2086/images/c5b4a897f17c7e5507107a9723cacc90.png" group-title="USA NHL CENTER ICE",NHL CENTER ICE : GAME 01
 http://mags.vip:2086/live/shenzi/shenzi/102485.m3u8
