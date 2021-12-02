@@ -3570,6 +3570,37 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Chicago Bulls
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Milwaukee Bucks
+https://d385rn79iu063n.cloudfront.net/hls/raptors/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
+https://d385rn79iu063n.cloudfront.net/hls/grizzlies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Detroit Pistons
+https://d385rn79iu063n.cloudfront.net/hls/suns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs San Antonio Spurs
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Chicago Bulls
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Milwaukee Bucks
+https://d385rn79iu063n.cloudfront.net/hls/raptors/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
+https://d385rn79iu063n.cloudfront.net/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Detroit Pistons
+https://d385rn79iu063n.cloudfront.net/hls/suns/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs San Antonio Spurs
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Chicago Bulls
+https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.ZnSvYDwsx0cM.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Milwaukee Bucks
+https://ae05f688e430.us-east-1.playback.live-video.net/api/video/v1/us-east-1.529588844234.channel.QApsadGCHdsk.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.mdRIUEhgAQXR.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Detroit Pistons
+https://1fe979b11ed2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.529588844234.channel.5kVl53KzvEeW.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs San Antonio Spurs
 
 
 
@@ -3603,6 +3634,28 @@ http://mags.vip:2086/live/shenzi/shenzi/102497.m3u8
 #EXTINF:-1 tvg-id="nhlcenterice14.us" tvg-name="NHL CENTER ICE : GAME 14" tvg-logo="http://p2086.securepoint.io:2086/images/c5b4a897f17c7e5507107a9723cacc90.png" group-title="USA NHL CENTER ICE",NHL CENTER ICE : GAME 14
 http://mags.vip:2086/live/shenzi/shenzi/102498.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Avalanche Vs Canadiens
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63165.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Blues Vs Lightning
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63166.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Sabres Vs Panthers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63167.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Blackhawks Vs Capitals
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63168.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Senators Vs Hurricanes
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63169.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Sharks Vs Islanders
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63170.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Bruins Vs Predators
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63171.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Devils Vs Wild
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63172.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Blue Jackets Vs Stars
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63173.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Flames Vs Kings
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63175.m3u8
 
 
 
