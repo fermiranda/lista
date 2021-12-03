@@ -1983,7 +1983,8 @@ http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1280px-Movistar_Deportes_1.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 1 (SOLO EVENTOS)
 
-
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/900/439/gratis-png-canal-de-television-gol-tv-cnt-sports-zee-tv-logo-thumbnail.png" group-title="DEPORTES", GOL TV
+http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png" group-title="DEPORTES", BeIN Sports La Liga 
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga De Campeones
