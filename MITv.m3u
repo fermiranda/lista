@@ -22,7 +22,7 @@ https://playback2.akamaized.net/streams/27053071_8131710_lsir75ol5ahsbzybcy9_1/m
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
-
+https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas ZuTv
 http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLH949494949494949494919FJKS656565656565656515151515151515151HDFJK545155151HSDKJFHKSAJsdfvfvfvfvDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFH/LFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFHLFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADF/1795
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TTv 2
@@ -139,6 +139,8 @@ https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2021-05-16&end_time=202
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Web
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Web
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=700&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV TP
@@ -2099,7 +2101,7 @@ http://blackghost.live/play/futvall-123.php?id=skysportspl&k=blackkkkghoost&file
 #EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL Fv
 http://blackghost.live/play/futvall-123.php?id=skysportspl&k=blackkkkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Web
-https://live-streams-notusa.televisa.com/channel03/index.m3u8
+https://live-streams-notusa.televisa.com/channel03-b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
 https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 2
