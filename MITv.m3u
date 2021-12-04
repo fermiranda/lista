@@ -3707,6 +3707,26 @@ http://45.148.26.176/hls/M8.m3u8
 http://45.148.26.176/hls/M9.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Miami Heat
+https://d385rn79iu063n.cloudfront.net/hls/pacers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Washington Wizards vs Cleveland Cavaliers
+https://d24jjmo1mnvcs0.cloudfront.net/hls/wizards/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Atlanta Hawks vs Philadelphia 76ers
+https://d24jjmo1mnvcs0.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Brooklyn Nets vs Minnesota Timberwolves
+https://d24jjmo1mnvcs0.cloudfront.net/hls/nets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Houston Rockets vs Orlando Magic
+https://d24jjmo1mnvcs0.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Dallas Mavericks vs New Orleans Pelicans
+https://d24jjmo1mnvcs0.cloudfront.net/hls/mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Boston Celtics
+https://d24jjmo1mnvcs0.cloudfront.net/hls/jazz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Phoenix Suns 
+https://d24jjmo1mnvcs0.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Los Angeles Clippers
+https://d24jjmo1mnvcs0.cloudfront.net/hls/lakers/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="nhlcenterice1.us" tvg-name="NHL CENTER ICE : GAME 01" tvg-logo="http://p2086.securepoint.io:2086/images/c5b4a897f17c7e5507107a9723cacc90.png" group-title="USA NHL CENTER ICE",NHL CENTER ICE : GAME 01
