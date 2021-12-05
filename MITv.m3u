@@ -3798,7 +3798,55 @@ https://42fd9f51c0fe.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.52
 https://298d13e7d8c7.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.105518565033.channel.usTEUKv8UoGr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
+https://d385rn79iu063n.cloudfront.net/hls/redzone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Atlanta Falcons
+https://d385rn79iu063n.cloudfront.net/hls/falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Arizona Cardinals vs Chicago Bears
+https://d385rn79iu063n.cloudfront.net/hls/bears/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Chargers vs Cincinnati Bengals
+https://d385rn79iu063n.cloudfront.net/hls/bengals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Minnesota Vikings vs Detroit Lions
+https://d385rn79iu063n.cloudfront.net/hls/lions/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Giants vs Miami Dolphins
+https://d385rn79iu063n.cloudfront.net/hls/dolphins/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Philadelphia Eagles vs New York Jets
+https://d385rn79iu063n.cloudfront.net/hls/jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Indianapolis Colts vs Houston Texans
+https://d385rn79iu063n.cloudfront.net/hls/texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",   Washington vs Las Vegas Raiders
+https://d385rn79iu063n.cloudfront.net/hls/raiders/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Jacksonville Jaguars vs Los Angeles Rams
+https://d385rn79iu063n.cloudfront.net/hls/rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Baltimore Ravens vs Pittsburgh Steelers
+https://d385rn79iu063n.cloudfront.net/hls/steelers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Seattle Seahawks
+https://d385rn79iu063n.cloudfront.net/hls/seahawks/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
+https://d385rn79iu063n.cloudfront.net/hls/redzone/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Atlanta Falcons
+https://d385rn79iu063n.cloudfront.net/hls/falcons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Arizona Cardinals vs Chicago Bears
+https://d385rn79iu063n.cloudfront.net/hls/bears/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Los Angeles Chargers vs Cincinnati Bengals
+https://d385rn79iu063n.cloudfront.net/hls/bengals/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Minnesota Vikings vs Detroit Lions
+https://d385rn79iu063n.cloudfront.net/hls/lions/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  New York Giants vs Miami Dolphins
+https://d385rn79iu063n.cloudfront.net/hls/dolphins/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Philadelphia Eagles vs New York Jets
+https://d385rn79iu063n.cloudfront.net/hls/jets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Indianapolis Colts vs Houston Texans
+https://d385rn79iu063n.cloudfront.net/hls/texans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",   Washington vs Las Vegas Raiders
+https://d385rn79iu063n.cloudfront.net/hls/raiders/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Jacksonville Jaguars vs Los Angeles Rams
+https://d385rn79iu063n.cloudfront.net/hls/rams/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Baltimore Ravens vs Pittsburgh Steelers
+https://d385rn79iu063n.cloudfront.net/hls/steelers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Seattle Seahawks
+https://d385rn79iu063n.cloudfront.net/hls/seahawks/chunks.m3u8
 
 
 
