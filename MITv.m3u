@@ -3284,28 +3284,32 @@ https://v-ca.mybtv.net/event/144/768x432.m3u8?start_time=2021-05-16&end_time=202
 #EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.2 Create - San Francisco SD
 https://v-ca.mybtv.net/event/719/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA Regionals", Pittsburgh ABC 4 (WTAE)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 http://mags.vip:2086/live/shenzi/shenzi/102741.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA Regionals", ABC PITTSBURGH PA WTAE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 http://mags.vip:2086/live/shenzi/shenzi/90349.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/486469755/MIC_FLAG_final_copy.jpg" group-title="USA Regionals",  Pittsburgh CW (WPCW)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63049.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/486469755/MIC_FLAG_final_copy.jpg" group-title="USA",  Pittsburgh CW (WPCW)
 http://mags.vip:2086/live/shenzi/shenzi/90382.m3u8
-#EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA Regionals",  Pittsburgh FOX 53 (WPGH)
+#EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
 http://mags.vip:2086/live/shenzi/shenzi/90402.m3u8
-#EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA Regionals",  Pittsburgh FOX 53 (WPGH)
+#EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
 http://mags.vip:2086/live/shenzi/shenzi/90402.m3u8
-
-#EXTINF:-1 tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA Regionals", Pittsburgh NBC 11 (WPXI)
+#EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61249.m3u8
+#EXTINF:-1 tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", Pittsburgh NBC 11 (WPXI)
 http://mags.vip:2086/live/shenzi/shenzi/101995.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="USA Regionals"  CBS 2 PITTSBURGH HD
-
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA Regionals", KDKA CBS 2 Pittsburgh
-http://mags.vip:2086/live/shenzi/shenzi//90353.m3u8
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA Regionals", KDKA CBS 2 Pittsburgh
-http://mags.vip:2086/live/shenzi/shenzi/90353.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="USA Regionals", NBC 11 PITTSBURGH HD
+#EXTINF:-1 tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", Pittsburgh NBC 11 (WPXI)
 http://mags.vip:2086/live/shenzi/shenzi/90430.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="USA Regionals", NBC 11 PITTSBURGH HD
+#EXTINF:-1 tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", Pittsburgh NBC 11 (WPXI)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61250.m3u8
+#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61248.m3u8
+#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+http://mags.vip:2086/live/shenzi/shenzi//90353.m3u8
+#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+http://mags.vip:2086/live/shenzi/shenzi/90353.m3u8
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC 10
 http://181.114.57.158:4000/play/acAgQD7LqCpG8fdW/index.m3u8
