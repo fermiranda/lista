@@ -3881,6 +3881,15 @@ https://0bfaf7dae844.us-east-1.playback.live-video.net/api/video/v1/us-east-1.64
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Houston Rockets vs New Orleans Pelicans
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Cleveland Cavaliers vs Utah Jazz
+http://2-fss-1.streamhoster.com/lv_broadcastviewer2/n1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Atlanta Hawks vs Charlotte Hornets
+http://2-fss-1.streamhoster.com/lv_broadcastviewer2/n2/.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Washington Wizards
+http://2-fss-1.streamhoster.com/lv_broadcastviewer2/n3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Houston Rockets vs New Orleans Pelicans
+http://2-fss-1.streamhoster.com/lv_broadcastviewer2/n4/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/NHL_Center_Ice.svg/400px-NHL_Center_Ice.svg.png" group-title="NHL", Lightning Vs Flyers
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63165.m3u8
