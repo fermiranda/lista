@@ -2080,13 +2080,13 @@ http://tecnotv.club/di2/sport.php?c=espndep&k=tecno&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=169&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=169&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=169&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=169&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN ARG
 
@@ -2095,11 +2095,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=168&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX HD
-http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=168&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=168&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=168&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 ARG
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 ARG
