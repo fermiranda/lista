@@ -3685,7 +3685,8 @@ https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16&end_time=202
 https://d385rn79iu063n.cloudfront.net/hls/nbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Denver Broncos vs Kansas City Chiefs
 https://d385rn79iu063n.cloudfront.net/hls/nbc/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Denver Broncos vs Kansas City Chiefs
+https://b76be4dbb76e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.105518565033.channel.XhU4hyUvHX86.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Cleveland Cavaliers vs Utah Jazz
