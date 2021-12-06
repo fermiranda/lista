@@ -3681,7 +3681,10 @@ http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193640.m3u8
 https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Denver Broncos vs Kansas City Chiefs
 https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Denver Broncos vs Kansas City Chiefs
+https://d385rn79iu063n.cloudfront.net/hls/nbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Denver Broncos vs Kansas City Chiefs
+https://d385rn79iu063n.cloudfront.net/hls/nbc/chunks.m3u8
 
 
 
