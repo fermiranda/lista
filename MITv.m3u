@@ -3559,4 +3559,26 @@ http://134.19.182.131:8080/pdgcf5ec91a4696c64d.m3u8?m=IMBV6NEgUP2eC5MCOXT24w&c=c
 https://content-aeui1.uplynk.com/channel/06aa99590c444d7a9ff4c3113cb7606f/d.m3u8?pbs=5c34356cbb274d7a81641d0d4e26100b
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Philadelphia 76ers
+https://d385rn79iu063n.cloudfront.net/hls/hornets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Oklahoma City Thunder
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Washington Wizards
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Miami Heat vs Memphis Grizzlies
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Cleveland Cavaliers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Atlanta Hawks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Orlando Magic
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Los Angeles Clippers
+
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Philadelphia 76ers
+https://d385rn79iu063n.cloudfront.net/hls/hornets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Oklahoma City Thunder
+https://d385rn79iu063n.cloudfront.net/hls/nbatv/chunks.m3u8
+
 
