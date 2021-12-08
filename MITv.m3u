@@ -2542,9 +2542,7 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 http://51.222.42.17:8080/WWE/index.m3u8
 #EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:DAZN_Logo.png" group-title="DEPORTES", DZNA 
 
-#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 
-#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ESPN_College_Football_logo.svg/1200px-ESPN_College_Football_logo.svg.png" group-title="NCAA", ESPN GAMETIME
 
@@ -3357,8 +3355,14 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
 http://iptvcanales.gq/canales/ok/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
+
+#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
+
+#EXTINF:-1 tvg-logo="https://www.metro.us/sites/default/files/styles/normal_article_breakpoints_theme_metrous_desktop_1x/public/main/articles/2017/12/14/espn_buying_fox_sports_fs1.jpg" group-title="NBA", ESPN GAMETIME
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/264363.m3u8
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/272240.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
@@ -3635,6 +3639,27 @@ http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24307.m3u8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24305.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/By0T6MH/wizards.png" group-title="NBA By Teams" Washington Wizards
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24304.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 1 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273204.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 2 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273205.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 3 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273206.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 4 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273207.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 5 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273208.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 6 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273209.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 7 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273210.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 8 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273211.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 9 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273212.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 10 HD
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273213.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Dallas Mavericks vs Brooklyn Nets
