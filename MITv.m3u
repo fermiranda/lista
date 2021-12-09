@@ -3682,11 +3682,11 @@ https://d385rn79iu063n.cloudfront.net/hls/timberwolves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New Orleans Pelicans vs Denver Nuggets
 https://d385rn79iu063n.cloudfront.net/hls/pelicans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Portland Trail Blazers
-
+https://d385rn79iu063n.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Sacramento Kings vs Orlando Magic
-
+https://d385rn79iu063n.cloudfront.net/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Clippers vs Boston Celtics
-
+https://d385rn79iu063n.cloudfront.net/hls/clippers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Philadelphia 76ers
 https://d385rn79iu063n.cloudfront.net/hls/hornets/chunks.m3u8
@@ -3708,6 +3708,12 @@ https://d385rn79iu063n.cloudfront.net/hls/grizzlies/chunks.m3u8
 https://d385rn79iu063n.cloudfront.net/hls/timberwolves/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New Orleans Pelicans vs Denver Nuggets
 https://d385rn79iu063n.cloudfront.net/hls/pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Portland Trail Blazers
+https://d385rn79iu063n.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Sacramento Kings vs Orlando Magic
+https://d385rn79iu063n.cloudfront.net/hls/kings/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Clippers vs Boston Celtics
+https://d385rn79iu063n.cloudfront.net/hls/clippers/chunks.m3u8
 
 
 
