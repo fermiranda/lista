@@ -422,7 +422,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/67.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Tc
-http://tv.teleclub.xyz/live/hls_01/HISTORY.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY NTvl
 http://ac.ntvlatino.com:8080/moises/moises2021/3234
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
@@ -446,7 +446,7 @@ http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/104137.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TTv 2
 http://tecnotv.club/8di/smartv2.php?c=1832
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Tlc
-http://tv.teleclub.xyz/live/hls_01/H2.m3u8
+http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ntvl
 http://ac.ntvlatino.com:8080/moises/moises2021/4005
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TvC
@@ -569,45 +569,45 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network Cl1
-http://tv.teleclub.xyz/live/hls_01/CARTOON.m3u8
+http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel Cl1
-http://tv.teleclub.xyz/live/hls_01/DISNEY.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=111&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD Cl1
-http://tv.teleclub.xyz/live/hls_01/DISNEYXD.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DISNEYXD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=118&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr Cl1
-http://tv.teleclub.xyz/live/hls_01/DISNEYJR.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DISNEYJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids Cl1
-http://tv.teleclub.xyz/live/hls_01/NATGEOKIDS.m3u8
+http://tv.teleclub.xyz/live/HLS_01/NATGEOKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=110&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK Cl1
-http://tv.teleclub.xyz/live/hls_01/NICK.m3u8
+http://tv.teleclub.xyz/live/HLS_01/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK MUSIC Cl1
-http://tv.teleclub.xyz/live/hls_01/NICKMUSIC.m3u8
+http://tv.teleclub.xyz/live/HLS_01/NICKMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=117&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR Cl1
-http://tv.teleclub.xyz/live/hls_01/NICKJR.m3u8
+http://tv.teleclub.xyz/live/HLS_01/NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR PlutoTv
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast TP
@@ -615,28 +615,27 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast Cl1
-http://tv.teleclub.xyz/live/hls_01/TOONCAST.m3u8
+http://tv.teleclub.xyz/live/HLS_01/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe Cl1
-http://tv.teleclub.xyz/live/hls_01/BITME.m3u8
+http://tv.teleclub.xyz/live/HLS_01/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=115&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG Cl1
-http://tv.teleclub.xyz/live/hls_01/BOOMERANG.m3u8
+http://tv.teleclub.xyz/live/HLS_01/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids Cl1
-http://tv.teleclub.xyz/live/hls_01/DISCOVERY_KIDS.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBCKEv9.png" group-title="Infantil", PakaPaka Cl1
-http://tv.teleclub.xyz/live/EXTERNA_PAKAPAKA.m3u8
-
+http://tv.teleclub.xyz/live/HLS_01/EXTERNA_PAKAPAKA/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpSW0AswPGYZQvLVsHbAcTzEyy3.jpg" group-title="PELICULAS" , Eternals (2021)
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2012/05/01/cropped/696/696/center/dvd-la-chica-del-dragon-tatuado.jpg" group-title="PELICULAS" , La Chica Del Dragon Tatuado 
@@ -1022,7 +1021,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playl
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Tc
-http://tv.teleclub.xyz/live/hls_01/RCN.m3u8
+http://tv.teleclub.xyz/live/HLS_01/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN HD Ca
@@ -1082,7 +1081,7 @@ http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLH94949494949494949491jhjhjhjhhkh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD TTV 2
 http://tecnotv.club/8di/smartv2.php?c=1780
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Cl
-http://tv.teleclub.xyz/live/hls_01/HBO.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO ZuTv
 http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLH94949494949494949491jhjhjhjhhkhkhk9FJKS656565656565656515151515151515151HDFJK545155151HSDKJFHKSAJsdfvfvfvfvDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFH/LFDJKLSDFKLHSDKLHFJKSHDFJKvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFHLFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKS/361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TvCl
@@ -1128,7 +1127,7 @@ http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLH94949494949494949491jhjhjhjhhkh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD TTv 2
 http://tecnotv.club/8di/smartv2.php?c=362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Cl
-http://tv.teleclub.xyz/live/hls_01/HBO2.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ntvl
 http://ac.ntvlatino.com:8080/moises/moises2021/3198
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 3
@@ -1168,7 +1167,7 @@ http://iptvcanales.gq/canales/tvfree/33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Bg 3
 http://bgaddon.xyz/play/zufree-255.php?c=330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Cl
-http://tv.teleclub.xyz/live/hls_01/HBOPLUS.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBOPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Short 11
 http://gratis.shortgod.com/freepremium/tv11.php?c=6571
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS HD Ca
@@ -1182,7 +1181,7 @@ http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1475.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
 http://iptvcanales.gq/canales/rojo/284/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Cl
-http://tv.teleclub.xyz/live/hls_01/HBOFAMILY.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBOFAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
 http://iptvcanales.gq/canales/tvfree/210/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
@@ -1202,7 +1201,7 @@ http://gratis.shortgod.com/freepremium/tv11.php?c=6569
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Cl
-http://tv.teleclub.xyz/live/hls_01/HBOSIGNATURE.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBOSIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature ZuTv
 http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLH94949494949494949491jhjhjhjhhkhkhk9FJKS656565656565656515151515151515151HDFJK545155151HSDKJFHKSAJsdfvfvfvfvDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFH/LFDJKLSDFKLHSDKLHFJKSHDFJKvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvHSDKJFHKSAJDHFKJASHDFKJHAKSJDFHJKASHDFKJAHSDKJFHKAJSHDFKJSHADFJKHASJKDFHKJASHDFJKHSAJKDFHKJASHDFJKHSDFKJHSKJDFHSKAJDFHKJSHDFKJASHDFJKHASKDJFHLFDJKLSDFKLHSDKLHFJKSHDFJKHSDKJFHKSAJDHFKJASHDFKJHAKS/331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TTv 2
@@ -1230,7 +1229,7 @@ http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1474.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme 
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1463.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Cl
-http://tv.teleclub.xyz/live/hls_01/HBOXTREME.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBOXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ca
 http://iptvcanales.gq/canales/stream/0078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme NtVl
@@ -1256,7 +1255,7 @@ http://gratis.shortgod.com/freepremium/tv1.php?c=1787
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ntvl
 http://ac.ntvlatino.com:8080/moises/moises2021/44337
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl1
-http://tv.teleclub.xyz/live/hls_01/HBOPOP.m3u8
+http://tv.teleclub.xyz/live/HLS_01/HBOPOP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ca
 http://iptvcanales.gq/canales/stream/0076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TTv 2
@@ -1321,7 +1320,7 @@ http://iptvcanales.gq/canales/televall/542/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Ca
 http://iptvcanales.gq/canales/tvfree/83/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Cl1
-http://tv.teleclub.xyz/live/hls_01/PARAMOUNT.m3u8
+http://tv.teleclub.xyz/live/HLS_01/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Short 1
 http://gratis.shortgod.com/freepremium/tv1.php?c=395
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
@@ -1355,7 +1354,7 @@ http://iptvcanales.gq/canales/total/52/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Ca Tlv
 http://iptvcanales.gq/canales/televall/77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Cl1
-http://tv.teleclub.xyz/live/hls_01/WARNER.m3u8
+http://tv.teleclub.xyz/live/HLS_01/WARNER/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=62&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E HD
@@ -1377,7 +1376,7 @@ http://tecnotv.club/8di/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN TP Ca
 http://iptvcanales.gq/canales/total/64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Cl1
-http://tv.teleclub.xyz/live/hls_01/AXN.m3u8
+http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Short
 http://gratis.shortgod.com/freepremium/tv11.php?c=6481
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
@@ -1405,11 +1404,11 @@ http://tecnotv.club/8di/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL Cl1
-http://tv.teleclub.xyz/live/hls_01/UNIVERSAL.m3u8
+http://tv.teleclub.xyz/live/HLS_01/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal Cl1
-http://tv.teleclub.xyz/live/hls_01/STUDIOUNIVERSAL.m3u8
+http://tv.teleclub.xyz/live/HLS_01/STUDIOUNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=132&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rJ5bQBExiC4/VEAcHEGRb1I/AAAAAAAAogs/cZWNwjF1w-Q/s1600/studiouniversal-hd.png" group-title="ENTRETENIMIENTO", Studio Universal HD TP
@@ -1427,7 +1426,7 @@ http://iptvcanales.gq/canales/televall/743/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Bg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Cl1
-http://tv.teleclub.xyz/live/hls_01/TNT.m3u8
+http://tv.teleclub.xyz/live/HLS_01/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT HD Ca
@@ -1461,7 +1460,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP TTv
 http://tecnotv.club//8di/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Cl1
-http://tv.teleclub.xyz/live/hls_01/TNTSERIES.m3u8
+http://tv.teleclub.xyz/live/HLS_01/TNTSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Ca Tlv
 http://iptvcanales.gq/canales/televall/528/playlist.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime TP
@@ -1487,7 +1486,7 @@ http://tecnotv.club//8di/geomex.php?c=330&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Tl1
-http://tv.teleclub.xyz/live/hls_01/AMC.m3u8
+http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Short
 http://gratis.shortgod.com/freepremium/tv11.php?c=6480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
@@ -1499,7 +1498,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=201&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel Cl1
-http://tv.teleclub.xyz/live/hls_01/FOX.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP Ca
 http://iptvcanales.gq/canales/total/201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
@@ -1509,7 +1508,7 @@ http://blackghost.live/play/mitv1-123.php?id=starch&k=blackkkkghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel Ca Tlv
 http://iptvcanales.gq/canales/televall/98/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX Cl1 
-http://tv.teleclub.xyz/live/hls_01/FX.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=60&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX HD TP
@@ -1519,7 +1518,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/188px-FX_International_logo.svg.png" group-title="ENTRETENIMIENTO", FX
 
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM Cl1
-http://tv.teleclub.xyz/live/hls_01/FXM.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FXM/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM 
 
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
@@ -1559,7 +1558,7 @@ http://iptvcanales.gq/canales/televall/433/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DH
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Cl1
-http://tv.teleclub.xyz/live/hls_01/CINEMAX.m3u8
+http://tv.teleclub.xyz/live/HLS_01/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=158&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD TP
@@ -1575,7 +1574,7 @@ http://iptvcanales.gq/canales/televall/534/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Short
 http://gratis.shortgod.com/freepremium/tv11.php?c=6526
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Cl1
-http://tv.teleclub.xyz/live/hls_01/CINECANAL.m3u8
+http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=149&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
@@ -1602,7 +1601,7 @@ http://iptvcanales.gq/canales/televall/544/playlist.m3u8
 http://tecnotv.club/8di/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE Cl
-http://tv.teleclub.xyz/live/hls_01/SPACE.m3u8
+http://tv.teleclub.xyz/live/HLS_01/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action TP
@@ -1610,7 +1609,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=336&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Cl1
-http://tv.teleclub.xyz/live/hls_01/FOXACTION.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOXACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action Tlv
 http://iptvcanales.gq/canales/televall/99/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="ENTRETENIMIENTO", STAR Action
@@ -1618,7 +1617,7 @@ http://iptvcanales.gq/canales/televall/99/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="ENTRETENIMIENTO", STAR Cinema TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1729&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="ENTRETENIMIENTO", STAR Cinema Cl
-http://tv.teleclub.xyz/live/hls_01/FOXCINEMA.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOXCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="ENTRETENIMIENTO", STAR Cinema
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRGbE6.png" group-title="ENTRETENIMIENTO", STAR Cinema Tlv
@@ -1626,25 +1625,25 @@ http://tv.teleclub.xyz/live/hls_01/FOXCINEMA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="ENTRETENIMIENTO", STAR Fun Tlv
 http://iptvcanales.gq/canales/televall/554/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eYXAxv.png" group-title="ENTRETENIMIENTO", STAR Fun Cl1
-http://tv.teleclub.xyz/live/hls_01/FOXFAMILY.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOXFAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="ENTRETENIMIENTO", STAR Life
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="ENTRETENIMIENTO", STAR Life TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=77&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="ENTRETENIMIENTO", STAR Life
-http://tv.teleclub.xyz/live/hls_01/FOXLIFE.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOXLIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=146&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydSaYNJ.png" group-title="ENTRETENIMIENTO", STAR Hits Cl1
-http://tv.teleclub.xyz/live/hls_01/FOXMOVIES.m3u8
+http://tv.teleclub.xyz/live/HLS_01/FOXMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=123&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=123&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN Cl
-http://tv.teleclub.xyz/live/hls_01/GOLDEN.m3u8
+http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN 
 http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN Short
@@ -1669,13 +1668,13 @@ https://blackghost.live/play/totalp1-123.php?c=124&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=124&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Cl1
-http://tv.teleclub.xyz/live/hls_01/GOLDENPREMIER.m3u8
+http://tv.teleclub.xyz/live/HLS_01/GOLDENPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier
 http://dnsplay.xyz/live/ivbiqvof/FcVSlihK/34910.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Ca Tlv
 http://iptvcanales.gq/canales/televall/715/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA Cl1
-http://tv.teleclub.xyz/live/hls_01/DEPELICULA.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
@@ -2820,7 +2819,7 @@ https://v-ca.mybtv.net/event/140/1280x720.m3u8?start_time=2021-05-16&end_time=20
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco SD
 https://v-ca.mybtv.net/event/140/764x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Tc
-http://tv.teleclub.xyz/live/hls_01/TELEMUNDO.m3u8
+http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Ca
 http://iptvcanales.gq/canales/ok/Telemundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo TTv
