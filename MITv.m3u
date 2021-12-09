@@ -1225,8 +1225,8 @@ http://iptvcanales.gq/canales/stream/0077/playlist.m3u8
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1474.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Nand
-http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/121.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme 
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1463.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Cl
@@ -3291,8 +3291,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="USA", FX
 http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Nand
-http://nandplay.gq:80/live/j7uLsAeWJ3vq/rxkG69tqcKeH/1180.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
