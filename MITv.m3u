@@ -3399,8 +3399,10 @@ http://84.22.33.215/nbatv/index.m3u8
 http://chinolistas.atwebpages.com/chinolistas/061221/abc/1875
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/100-1002591_nba-tv-canada-nba-tv-canada-logo.png" group-title="DEPORTES", NBA TV CA
 
-#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network Ca
 http://iptvcanales.gq/canales/tvfree/154/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network STK
+http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/26403.m3u8
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="NHL", NHL FINALS
 
 
