@@ -3758,7 +3758,20 @@ http://134.19.182.131:8080/pdga3c98e0ca369a751.m3u8?m=0KMIj0LLoXvMFNI6TPOhvg&c=a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Buffalo Bills vs Tampa Bay Buccaneers
 http://198.144.159.40/tqzdd3ArfVJh9Gzmh1-BTQ/1639372848/3230312e3137302e3135352e3230/ff11/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers 
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/37072.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+http://qqtv.nl:8080/live/masud/masud/404159.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+https://d385rn79iu063n.cloudfront.net/hls/nbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+https://d385rn79iu063n.cloudfront.net/hls/nbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers 
+https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 
 
