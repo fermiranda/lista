@@ -2053,31 +2053,35 @@ http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="DEPORTES",  Sky Sports Mix
-http://89.187.185.100/SKY_SPORTS_MIX/index.m3u8
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36073.m3u8
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="DEPORTES",  Sky Sports Mix
-http://212.224.98.207:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36074.m3u8
 #EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="DEPORTES",  Sky Sports Action
-http://89.187.185.100/SKY_SPORTS_ACTION/index.m3u8
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/265001.m3u8
+#EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="DEPORTES",  Sky Sports Action
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36057.m3u8
 #EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
-http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36071.m3u8
 #EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
-http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
-http://89.187.185.100/SKY_SPORTS_MAIN_EVENT/index.m3u8
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36060.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
-http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36066.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
-http://212.224.98.207:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
+
 #EXTINF:-1 tvg-logo="https://ia601801.us.archive.org/7/items/SkySportsArena_201708/sky%20sports%20arena.png" group-title="DEPORTES", Sky Sports Arena
-http://89.187.185.100/SKY_SPORTS_ARENA/index.m3u8
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/267481.m3u8
+#EXTINF:-1 tvg-logo="https://ia601801.us.archive.org/7/items/SkySportsArena_201708/sky%20sports%20arena.png" group-title="DEPORTES", Sky Sports Arena
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36063.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
-http://89.187.185.100/SKY_SPORTS_F1/index.m3u8
+http://ip.xtremetv.eu:8000/live/megaott1000/4p7c4mMdLn/36064.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/3/items/SkySportsGolf_201708/sky%20sports%20golf.png" group-title="DEPORTES", Sky Sports Golf
-http://89.187.185.100/SKY_SPORTS_GOLF/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346543184135024640/SaukS8fY_200x200.jpg" group-title="DEPORTES", Sky Sports Racing
-http://89.187.185.100/SKY_SPORTS_RACING/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png" group-title="DEPORTES",  Sky Sports 24 HD 
