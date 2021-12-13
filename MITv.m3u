@@ -3772,7 +3772,8 @@ https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A
 https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
 https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Chicago Bears vs Green Bay Packers
+https://0bfaf7dae844.us-east-1.playback.live-video.net/api/video/v1/us-east-1.645626274861.channel.XW5Am8jnOyk1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Milwaukee Bucks
