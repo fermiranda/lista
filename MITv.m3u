@@ -2855,13 +2855,16 @@ https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A0
 
 
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
-https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
-https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
 https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
 https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
+https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
 https://v-la.mybtv.net/event/164/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles HD
