@@ -1142,7 +1142,7 @@ http://gratis.shortgod.com/apoya-shortgod/tv1.php?c=361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 3
 http://bgaddon.xyz/play/zufree-255.php?c=380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
-
+http://138.36.253.12:8009/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TvCl
@@ -1307,9 +1307,18 @@ http://user.tvcluboficial.com/stream/nov/Nov/682.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/683.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family
 http://user.tvcluboficial.com/stream/nov/Nov/684.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
+http://gratis.shortgod.com/apoya-shortgod/tv13.php?c=a005/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
+http://138.36.253.12:8009/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX FAMILY
+http://gratis.shortgod.com/apoya-shortgod/tv13.php?c=a002/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX FAMILY
+http://138.36.253.12:8009/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX CLASIC
+http://gratis.shortgod.com/apoya-shortgod/tv13.php?c=a004/index.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX CLASIC
+http://138.36.253.12:8009/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="ENTRETENIMIENTO", Cinema Estelar Pluto Tv
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
