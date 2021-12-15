@@ -1097,6 +1097,10 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.m3u8
 #EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
 
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
+http://ky-tv.cc:25461/David59459/2354545444/514529
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
+http://ky-tv.cc:25461/David59459/2354545444/514534
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Latino
 http://stalkertvlatino.com:8080/live/Restreampe953/Restreampe953/6234.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
@@ -1145,8 +1149,8 @@ http://bgaddon.xyz/play/zufree-255.php?c=380
 http://user.tvcluboficial.com/stream/nov/Nov/300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/732.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 KyTv
+http://ky-tv.cc:25461/David59459/2354545444/514525
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD ZuTv
 http://gratuita.mrzutv.net:8080/listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000lis/listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000lis/362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD TTv 2
@@ -1223,8 +1227,8 @@ http://tecnotv.club/8di/smartv2.php?c=1784
 http://bgaddon.xyz/play/zufree-255.php?c=1784
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 11
 http://gratis.shortgod.com/apoya-shortgod/tv11.php?c=6569
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family KyTv
+http://ky-tv.cc:25461/David59459/2354545444/514528
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Cl
 http://tv.teleclub.xyz/live/HLS_01/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature ZuTv
