@@ -3712,4 +3712,12 @@ http://134.19.182.131:8080/pdg5.m3u8?m=h-TCiE6JWQ-5mt8TURr3Xg&c=5&p=323830363a31
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Kansas City Chiefs vs Los Angeles Chargers
+https://d20xt6pkpqcef4.cloudfront.net/hls/nflnw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Kansas City Chiefs vs Los Angeles Chargers
+https://d20xt6pkpqcef4.cloudfront.net/hls/nflnw/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Kansas City Chiefs vs Los Angeles Chargers
+https://content-aeui1.uplynk.com/channel/06aa99590c444d7a9ff4c3113cb7606f.m3u8?pbs=5c34356cbb274d7a81641d0d4e26100b
+
+
 
