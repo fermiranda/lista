@@ -2870,6 +2870,8 @@ https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdsu-tv-us-la.png" group-title="USA", NBC New Orleans
 http://gratis.shortgod.com/hablapemongol/tv15.php?c=85447
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" group-title="USA",NBC East WBTS-CD1 Boston
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC TTV Sp
 http://tecnotv.club/dic17/sport.php?c=nbcsn&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC
@@ -3333,6 +3335,8 @@ https://skorpion.selfip.net:443/play/6mWTY5NPOyBS3N0qXG09EIc4_1NLZHWXFLBfOUOgT_A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1024px-AXS_TV_logo.svg.png" group-title="USA", AXS TV
 https://d6ywct4o2ksou.cloudfront.net/hls/720phi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="USA", The CW New York NY (WPIX-DT1)
+http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW HD
 https://jcstream.teleuptv.net/WPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW Web
