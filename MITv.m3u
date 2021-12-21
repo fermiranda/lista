@@ -3120,6 +3120,10 @@ https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="USA", CBS Detroit MI (WWJ-TV1)
+http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="USA", CBS Seattle WA (KIRO-TV1)
+http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS Miami Short 15
 http://gratis.shortgod.com/hablapemongol/tv15.php?c=85396
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS 4 WFOR
