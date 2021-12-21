@@ -2919,6 +2919,8 @@ http://tecnotv.club/dic17/smartv2.php?c=1798
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Ca Tlv
 http://iptvcanales.gq/canales/televall/363/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
+http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_JUANBb_400x400.jpg" group-title="USA", FOX 5 NY
 https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN_7_Miami_logo.png" group-title="USA", FOX 7 Miami
@@ -2933,7 +2935,8 @@ https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA", Fox Boston MA (WFXT-DT1)
 http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA",Fox Seattle WA (KCPQ-DT1)
+http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
 https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
