@@ -3315,6 +3315,22 @@ https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-05-16&end_time=20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="USA",  ABC 2 Atlanta GA News
+https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1j1Hx75.png" group-title="USAl", ABC 10 San Diego CA News
+https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBiEXzP.png" group-title="USA",ABC 15 Phoenix AZ News
+https://d1x9zfzf9roioy.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60998e4a5b0b051955170c4e_knxv-live/b7ba6371-db64-4797-9ff9-0a6e3f3c2ff1/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WT4UtR7.png" group-title="USA",CBS 7 Dayton OH News
+https://whio-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6ffdf7633b2e077bda44_whio-live/6301d11e-05d0-4487-8d2e-09d3927d0d70/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6470R1.png" group-title="USA",CBS 7 Seattle WA News
+https://kiro-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6a57697fde61b473b214_kiro-live/cb075082-6363-4e06-b769-fd508bbe8b6c/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEjcM9P.png" group-title="USA",CBS 47 | FOX 30 Jacksonville FL News
+https://wjax-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec72001057fa6e4b3ebcd2_wjax-live/6f5aef42-21d9-4551-887e-eb18a7945066/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95mOsU4.png" group-title="USA",FOX 13 Now Memphis TN News
+https://d19n8xh4l47isv.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6bc0404a67d082e463913_whbq-live/abc1b709-6d84-4deb-84a8-dec3ea77b5e8/0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932750132294115336/JIZUc950_400x400.jpg" group-title="USA", WPXI PITT WEB
 https://d3mza9xaqch9ab.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10080_5bbd927e-ae15-4732-b72d-5231d7a0056c_LE/in/cmg-wpxitv-hls-v3/live.m3u8?aws.sessionId=ab5bd890-4e33-4166-8656-1bf013685d71
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
