@@ -3101,11 +3101,12 @@ https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 
-
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS Miami Short 15
+http://gratis.shortgod.com/hablapemongol/tv15.php?c=85396
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS 4 WFOR
 http://181.114.57.158:4000/play/Cs2DUxDwctvq2BmH/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS
-http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly
 https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Ca
