@@ -3764,78 +3764,14 @@ http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273213.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Cleveland Browns
-https://duey7r8di8q9y.cloudfront.net/hls/browns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Cleveland Browns
-https://duey7r8di8q9y.cloudfront.net/hls/browns/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Cleveland Browns
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.c7YGV19WKV3h.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Cleveland Browns
-https://d1csazhi8yvkzm.cloudfront.net/stream/MjE5NA==/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Las Vegas Raiders vs Cleveland Browns
-http://77.247.109.117/hls/y10.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Seattle Seahawks vs Los Angeles Rams
+https://duey7r8di8q9y.cloudfront.net/hls/rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Washington vs Philadelphia Eagles
+https://duey7r8di8q9y.cloudfront.net/hls/eagles/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-https://duey7r8di8q9y.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-https://duey7r8di8q9y.cloudfront.net/hls/espn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.c7YGV19WKV3h.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-https://d3q8xjmq1dpls9.cloudfront.net/stream/MjIxNg==/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-http://77.247.109.117/hls/y1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Minnesota Vikings vs Chicago Bears
-http://134.19.182.131:8080/pdg3.m3u8?m=_KSNF6hpoanctxwDD6KBlA&c=3&p=323830363a313030303a383030353a386333663a383430643a663164373a313835663a35306161&e=1640076865
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Boston Celtics vs Philadelphia 76ers
-https://duey7r8di8q9y.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Orlando Magic PPD
-https://duey7r8di8q9y.cloudfront.net/hls/raptors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Houston Rockets
-https://duey7r8di8q9y.cloudfront.net/hls/bulls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
-https://duey7r8di8q9y.cloudfront.net/hls/grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Charlotte Hornets
-https://duey7r8di8q9y.cloudfront.net/hls/jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Sacramento Kings
-https://duey7r8di8q9y.cloudfront.net/hls/warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Clippers vs San Antonio Spurs
-https://duey7r8di8q9y.cloudfront.net/hls/clippers/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Boston Celtics vs Philadelphia 76ers
-https://duey7r8di8q9y.cloudfront.net/hls/nbatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Orlando Magic PPD
-https://duey7r8di8q9y.cloudfront.net/hls/raptors/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Houston Rockets
-https://duey7r8di8q9y.cloudfront.net/hls/bulls/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
-https://duey7r8di8q9y.cloudfront.net/hls/grizzlies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Charlotte Hornets
-https://duey7r8di8q9y.cloudfront.net/hls/jazz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Sacramento Kings
-https://duey7r8di8q9y.cloudfront.net/hls/warriors/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Clippers vs San Antonio Spurs
-https://duey7r8di8q9y.cloudfront.net/hls/clippers/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Boston Celtics vs Philadelphia 76ers
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.3kR7Q4W7zBba.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Orlando Magic PPD
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.PPD.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Houston Rockets
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.AOG2IIgSB7Mw.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Oklahoma City Thunder
-https://cf77f9c3d1e1.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.067412483695.channel.u9mvDpcui3hC.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Charlotte Hornets
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Sacramento Kings
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Clippers vs San Antonio Spurs
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Seattle Seahawks vs Los Angeles Rams
+https://duey7r8di8q9y.cloudfront.net/hls/rams/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Washington vs Philadelphia Eagles
+https://duey7r8di8q9y.cloudfront.net/hls/eagles/chunks.m3u8
 
 
