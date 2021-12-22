@@ -1109,9 +1109,35 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg/2560px-Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg.png" group-title="USA", Smithsonian_Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="weather Channel" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA", Weather Channel
+#EXTINF:-1 tvg-name="weather Channel" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Weather", Weather Channel
 ttps://weather.newscdn.org/ocO55-ukHLlmR0W9QDfw2g==,1631135464/1253851229/index.m3u8
-#EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="USA",Weather Channel 2
+#EXTINF:-1 tvg-name="weather Channel 2" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Weather", Weather Channel 2
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png" group-title="Weather", AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-weather/s/logos/fox-weather-logo-stacked-color.svg" group-title="Weather", Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/7.2.png" group-title="Weather" , Fox Weather
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather", Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather", Pattrn
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png" group-title="Weather", Pluto TV WeatherNation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png" group-title="Weather", The Weather Network
+http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network_720p/playlist.m3u8
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/jOOkSCE.png" group-title="Weather", The Weather Network Event 
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+#EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",  Weather News Jp
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png" group-title="Weather", WeatherNation 
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png" group-title="Weather", WeatherNation (KCKS-LD6)
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather", WeatherSpy
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
 http://ky-tv.cc:25461/David59459/2354545444/514529
