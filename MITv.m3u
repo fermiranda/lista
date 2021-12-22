@@ -3775,6 +3775,11 @@ https://duey7r8di8q9y.cloudfront.net/hls/rams/chunks.m3u8
 https://duey7r8di8q9y.cloudfront.net/hls/eagles/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Seattle Seahawks vs Los Angeles Rams
+https://d1iq6004o2w2xh.cloudfront.net/stream/MjIxOA==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Washington vs Philadelphia Eagles
+https://d1iq6004o2w2xh.cloudfront.net/stream/MjIxOQ==/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Seattle Seahawks vs Los Angeles Rams
 http://185.66.143.228:8080/mylive/y1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Washington vs Philadelphia Eagles
 http://185.66.143.228:8080/mylive/y10/index.m3u8
