@@ -20,7 +20,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesist
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="NOTICIAS",Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://psn.si/wp-content/uploads/2015/08/0-1.jpg" group-title="NACIONALES", PSN Noticias
-https://playback2.akamaized.net/streams/27053071_8131710_lsir75ol5ahsbzybcy9_1/master.m3u8?dw=14400&hdnts=exp=1637731381~acl=/streams/27053071_8131710_lsir75ol5ahsbzybcy9_1/master.m3u8*~hmac=ae7a9a760b4dbc01adbededce1e610bef1782da0c3ca767dcdd8ed136316babc
+
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
@@ -261,7 +261,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1931&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste
 
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web Dl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgOQKjdhxwQxuaG4vHOkgVE)/dm/3/x82z4if/d/live-2.m3u8
