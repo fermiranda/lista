@@ -2963,6 +2963,8 @@ https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A0
 http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA",Fox Seattle WA (KCPQ-DT1)
 http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
+http://194.40.240.171:83/live/James/James1/348793.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
 https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
