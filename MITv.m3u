@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=mpi1ucuGp8c&ab_channel=TelevisaTijuanaOficial/live
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
-https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
-https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij FHD
-https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij HD
-https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij HD
-https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij SD
-https://v-sd.mybtv.net/event/515/764x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="NOTICIAS",Uno TV
@@ -28,7 +12,7 @@ https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
 https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=7759
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=7759
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
 http://ky-tv.cc:25461/David59459/2354545444/384800
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
@@ -50,7 +34,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/636.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3100
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3100
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TTv 2
@@ -78,7 +62,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2058&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP Short
-http://gratis.shortgod.com/hablapemongol/geomex.php?c=2058&p=3&k=ShortGod&f=.m3u8
+http://gratis.shortgod.com/feliznavidad/geomex.php?c=2058&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TTv
 http://tecnotv.club/22dc/smartv.php?c=eldos&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TP TTv
@@ -92,7 +76,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2Hrs.
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=7757
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=7757
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Tlv
 http://blackaddon.com/play/ftvll-220.php?id=elcinco&k=blackghooooooooooost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TvCl
@@ -115,12 +99,6 @@ http://tecnotv.club/22dc/smartv.php?c=elcincohd&k=tecno&f=.m3u8
 http://tecnotv.club/22dc/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ HD
-https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ HD
-https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ Ca
-http://iptvcanales.gq/canales/live/222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2713&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -138,15 +116,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=7772
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=7772
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Ca Tlv
 http://iptvcanales.gq/canales/televall/496/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ Ca
-http://iptvcanales.gq/canales/live/227/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ 
-https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Web
@@ -167,8 +141,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 http://tecnotv.club/22dc/geomex.php?c=700&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV
 
-#EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Tijuana
-https://v-sd.mybtv.net/event/762/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -201,20 +173,8 @@ http://tecnotv.club/22dc/smartv.php?c=aztecauno&k=tecno&f=.m3u8
 http://ky-tv.cc:25461/David59459/2354545444/384770
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj FHD
-https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj FHD
-https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj HD
-https://v-sd.mybtv.net/event/760/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1870&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj Ca
-http://iptvcanales.gq/canales/live/219/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego
-https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego
-https://v-sd.mybtv.net/event/508/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 KyTv
@@ -253,12 +213,6 @@ http://blackaddon.com/play/futvll-220.php?id=azteca7hd&k=b1acghoooooooooost&file
 http://tecnotv.club/22dc/smartv.php?c=azteca7&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD TTv S
 http://tecnotv.club/22dc/smartv.php?c=azteca7hd&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana 
-https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana
-https://v-sd.mybtv.net/event/502/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana Ca
-http://iptvcanales.gq/canales/live/228/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1931&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste HD TP
@@ -297,14 +251,6 @@ http://iptvcanales.gq/canales/televall/7/playlist.m3u8
 http://tecnotv.club/22dc/sport.php?c=imagentv&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv S
 http://tecnotv.club/22dc/smartv.php?c=imagentv&k=tecno&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij FHD
-https://v-sd.mybtv.net/event/485/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij HD
-https://v-sd.mybtv.net/event/485/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij HD
-https://v-sd.mybtv.net/event/485/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
-https://v-sd.mybtv.net/event/503/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
@@ -341,10 +287,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=184&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=40&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TJ 
-https://v-sd.mybtv.net/event/484/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TJ Ca
-http://iptvcanales.gq/canales/live/220/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara
@@ -354,12 +296,10 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
 #EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
-#EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqvQfKvX21bOkP5oY_Jwf08)/dm/3/x8452uw/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
-https://stream-03.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngOQxqzgqIhkRoGoLmenaUus)/dm/3/x3m1xfy/s/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy
 #EXTINF:-1 tvg-logo="https://canal44.com/wp-content/uploads/2020/10/logocanal.png" group-title="NACIONALES", Canal 44 Cd. Juarez
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMSAzOjQwOjM4IFBNJmhhc2hfdmFsdWU9enRLcGZST2oxUFNFUnJtY3hsOXJCZz09JnZhbGlkbWludXRlcz0xMCZpZD0=
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMSA1OjM3OjIxIEFNJmhhc2hfdmFsdWU9aVFickNNVk9hTDJGWVhaUGVla3BOZz09JnZhbGlkbWludXRlcz0xMCZpZD0=
 #EXTINF:-1 tvg-logo="https://canal44.com/wp-content/uploads/2020/10/logocanal.png" group-title="NACIONALES", Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Senal-Informativa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Noti Gdl
@@ -438,7 +378,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TP HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=89&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TP Short
-http://gratis.shortgod.com/hablapemongol/geomex.php?c=89&p=3&k=ShortGod&f=.m3u8
+http://gratis.shortgod.com/feliznavidad/geomex.php?c=89&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD TTv 2
 http://tecnotv.club/22dc/smartv2.php?c=2412
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
@@ -456,7 +396,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/642.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Tc
 http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=55087
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=55087
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg Tlv
@@ -492,19 +432,19 @@ http://user.tvcluboficial.com/stream/nov/Nov/61.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TvC
 http://user.tvcluboficial.com/stream/nov/Nov/760.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 FHD Short 7
-http://gratis.shortgod.com/hablapemongol/tv7.php?c=2176
+http://gratis.shortgod.com/feliznavidad/tv7.php?c=2176
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
 http://iptvcanales.gq/canales/tv/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
 http://iptvcanales.gq/canales/tvfree/50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Short 7
-http://gratis.shortgod.com/hablapemongol/tv7.php?c=2175
+http://gratis.shortgod.com/feliznavidad/tv7.php?c=2175
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/61.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/760.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=237
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=237
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png" group-title="MUNDO Y CULTURA", PLUTO TV HISTORIA
@@ -530,7 +470,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD Tp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=91&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=245
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=245
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO FHD
@@ -540,7 +480,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=86&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel TP
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=195
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=195
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=99&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization TP 
@@ -552,45 +492,45 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLS&f=.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46633
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46633
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=98&format=HLSAD&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE HP TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=98&format=HLS&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46634
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46634
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=95&format=HLSAD&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=95&format=HLS&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER HD short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46635
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46635
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery TURBO TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2379&format=HLSAD&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery TURBO Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46636
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46636
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=101&format=HLSAD&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46637
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46637
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=96&format=HLSAD&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=205
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=205
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2376&format=HLSAD&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=208
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=208
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=135&format=HLSAD&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=55091
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=55091
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2378&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2378&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", ANIMAL Planet Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=56803
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=56803
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery CIVILIZATION 
@@ -611,37 +551,37 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network HD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=112&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46623
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46623
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network Cl1
 http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46638
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46638
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel Cl1
 http://tv.teleclub.xyz/live/HLS_01/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=111&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46640
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46640
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD Cl1
 http://tv.teleclub.xyz/live/HLS_01/DISNEYXD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=118&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46639
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46639
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr Cl1
 http://tv.teleclub.xyz/live/HLS_01/DISNEYJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46688
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46688
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids Cl1
 http://tv.teleclub.xyz/live/HLS_01/NATGEOKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=110&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46694
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46694
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK Cl1
 http://tv.teleclub.xyz/live/HLS_01/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK MUSIC Cl1
@@ -649,7 +589,7 @@ http://tv.teleclub.xyz/live/HLS_01/NICKMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=117&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46693
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46693
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR Cl1
 http://tv.teleclub.xyz/live/HLS_01/NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR PlutoTv
@@ -657,25 +597,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=55120
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=55120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast Cl1
 http://tv.teleclub.xyz/live/HLS_01/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2591&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=7765
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=7765
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe Cl1
 http://tv.teleclub.xyz/live/HLS_01/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=115&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46622
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46622
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", BOOMERANG Cl1
 http://tv.teleclub.xyz/live/HLS_01/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=46633
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=46633
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids Cl1
 http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBCKEv9.png" group-title="Infantil", PakaPaka Cl1
@@ -1013,22 +953,6 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/3cbc2a82-28fc-4ba3-8f0d-95a94169e647-2033x1141-760929368.png" group-title="NACIONALES", Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/NV_App_LandingPage_Icon_20190822-400x395.png" group-title="USA Latinos", Nuestra Vsion Ca
-http://iptvcanales.gq/canales/live/233/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Telexitos.svg/revision/latest/scale-to-width-down/250?cb=20210217221546" group-title="USA Latinos", TeleXitos San Diego
-https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Telexitos.svg/revision/latest/scale-to-width-down/250?cb=20210217221546" group-title="USA Latinos", TeleXitos Ca
-http://iptvcanales.gq/canales/live/231/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. FHD
-https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. HD
-https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. SD
-https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Ca
-http://iptvcanales.gq/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION Ca Tlv
-http://iptvcanales.gq/canales/televall/620/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS Ca
@@ -1052,15 +976,11 @@ http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
-https://v-sd.mybtv.net/event/490/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Plx
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Rk
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV San Diego Ca
-http://iptvcanales.gq/canales/live/223/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="USA Latinos", ESTRELLATV NEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
@@ -1074,11 +994,11 @@ http://iptvcanales.gq/canales/tvfree/417/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN HD Ca Tlv
 http://iptvcanales.gq/canales/televall/658/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=785
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=785
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
 
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=781
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=781
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Web
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/225px-TvG2.jpg" group-title="ESPAÑA", TvG 2 HD
@@ -1148,7 +1068,7 @@ http://ky-tv.cc:25461/David59459/2354545444/514529
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
 http://ky-tv.cc:25461/David59459/2354545444/514534
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57251
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57251
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1472.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
@@ -1166,7 +1086,7 @@ http://tecnotv.club/22dc/smartv2.php?c=2404
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Bg 3
 http://blackaddon.com/play/zufree-220.php?c=2167
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=1472
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=1472
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
 http://iptvcanales.gq/canales/rojo/281/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
@@ -1184,13 +1104,13 @@ http://tecnotv.club/22dc/smartv2.php?c=361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 3
 http://blackaddon.com/play/zufree-220.php?c=361
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3296
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3296
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 3
 http://blackaddon.com/play/zufree-220.php?c=380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://138.36.253.12:8009/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57399
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57399
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TvCl
@@ -1204,15 +1124,15 @@ http://tecnotv.club/22dc/smartv2.php?c=362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Cl
 http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57404
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57404
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 3
 http://blackaddon.com/play/zufree-220.php?c=362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3297
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1473.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=1473
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=1473
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
 http://iptvcanales.gq/canales/rojo/280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Ca
@@ -1224,13 +1144,13 @@ http://iptvcanales.gq/canales/stream/0072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57413
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57413
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS TTv 2
 http://tecnotv.club/22dc/smartv2.php?c=330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3300
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/189383.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
@@ -1244,13 +1164,13 @@ http://blackaddon.com/play/zufree-220.php?c=330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Cl
 http://tv.teleclub.xyz/live/HLS_01/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=189383
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=189383
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS HD Ca
 http://iptvcanales.gq/canales/stream/0075/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO PLUS
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57408
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57408
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1268,13 +1188,13 @@ http://tecnotv.club/22dc/smartv2.php?c=381
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 3
 http://blackaddon.com/play/zufree-220.php?c=381
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3298
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TTv 2
 http://tecnotv.club/22dc/smartv2.php?c=1784
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 3
 http://blackaddon.com/play/zufree-220.php?c=1784
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=1475
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=1475
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family KyTv
 http://ky-tv.cc:25461/David59459/2354545444/514528
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Cl
@@ -1286,13 +1206,13 @@ http://tecnotv.club/22dc/smartv2.php?c=331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 3
 http://blackaddon.com/play/zufree-220.php?c=331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3301
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3301
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TTv 2
 http://tecnotv.club/22dc/smartv2.php?c=1783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 3
 http://blackaddon.com/play/zufree-220.php?c=1783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=1474
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=1474
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ca
 http://iptvcanales.gq/canales/tvfree/129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ca
@@ -1300,9 +1220,9 @@ http://iptvcanales.gq/canales/stream/0077/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1474.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57418
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57418
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57417
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57417
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme 
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1463.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Cl
@@ -1310,7 +1230,7 @@ http://tv.teleclub.xyz/live/HLS_01/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ca
 http://iptvcanales.gq/canales/stream/0078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57425
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57425
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ca
 http://iptvcanales.gq/canales/tvfree/35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ntvl
@@ -1318,7 +1238,7 @@ http://ac.ntvlatino.com:8080/moises/moises2021/44341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ca
 http://iptvcanales.gq/canales/rojo/288/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=1463
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=1463
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TTv 2
@@ -1326,11 +1246,11 @@ http://tecnotv.club/22dc/smartv2.php?c=1787
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 3
 http://blackaddon.com/play/zufree-220.php?c=1787
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3302
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop 
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=55143
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=55143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl1
 http://tv.teleclub.xyz/live/HLS_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ca
@@ -1348,29 +1268,29 @@ http://user.tvcluboficial.com/stream/nov/Nov/685.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema
 http://user.tvcluboficial.com/stream/nov/Nov/680.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=72906
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=72906
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy
 http://user.tvcluboficial.com/stream/nov/Nov/681.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action
 http://user.tvcluboficial.com/stream/nov/Nov/682.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=72908
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=72908
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black
 http://user.tvcluboficial.com/stream/nov/Nov/683.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=72905
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=72905
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family
 http://user.tvcluboficial.com/stream/nov/Nov/684.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
-http://gratis.shortgod.com/hablapemongol/tv13.php?c=a005/index.m3u8
+http://gratis.shortgod.com/feliznavidad/tv13.php?c=a005/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
 http://138.36.253.12:8009/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX FAMILY
-http://gratis.shortgod.com/hablapemongol/tv13.php?c=a002/index.m3u8
+http://gratis.shortgod.com/feliznavidad/tv13.php?c=a002/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX FAMILY
 http://138.36.253.12:8009/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX CLASIC
-http://gratis.shortgod.com/hablapemongol/tv13.php?c=a004/index.m3u8
+http://gratis.shortgod.com/feliznavidad/tv13.php?c=a004/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX CLASIC
 http://138.36.253.12:8009/play/a00a/index.m3u8
 
@@ -1407,7 +1327,7 @@ http://iptvcanales.gq/canales/total/1726/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel HD Ca
 http://iptvcanales.gq/canales/tv/paramount_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=112
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=112
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Ca Tlv
 http://iptvcanales.gq/canales/televall/542/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Ca
@@ -1415,7 +1335,7 @@ http://iptvcanales.gq/canales/tvfree/83/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Cl1
 http://tv.teleclub.xyz/live/HLS_01/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel Short 1
-http://gratis.shortgod.com/hablapemongol/tv1.php?c=3305
+http://gratis.shortgod.com/feliznavidad/tv1.php?c=3305
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
@@ -1457,7 +1377,7 @@ http://tecnotv.club/22dc/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E Ca Tlv
 http://iptvcanales.gq/canales/televall/520/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=10
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=10
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN HD Ca Tlv
 http://iptvcanales.gq/canales/televall/428/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN HD TP
@@ -1471,7 +1391,7 @@ http://iptvcanales.gq/canales/total/64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Cl1
 http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=11
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=207&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
@@ -1581,7 +1501,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/475.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Tl
 http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Short
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=37
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=37
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC FHD KyTv
 http://ky-tv.cc:25461/David59459/2354545444/384758
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
@@ -1633,7 +1553,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=57185
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=57185
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/844.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE TTv
@@ -1667,7 +1587,7 @@ http://tecnotv.club/22dc/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Tlv
 http://iptvcanales.gq/canales/televall/534/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=55
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=55
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Cl1
 http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TP
@@ -1681,7 +1601,7 @@ http://tecnotv.club/22dc/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Tlv
 http://iptvcanales.gq/canales/televall/80/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=34
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=34
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://201.168.205.12:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TP
@@ -1742,7 +1662,7 @@ http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN 
 http://iptvcanales.gq/canales/televall/-/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=129
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=129
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
 
 
@@ -1753,7 +1673,7 @@ http://gratis.shortgod.com/hablapemongol/tv11.php?c=129
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=122&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=36
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=36
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 http://iptvcanales.gq/canales/televall/713/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
@@ -1765,7 +1685,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Cl1
 http://tv.teleclub.xyz/live/HLS_01/GOLDENPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Short 11
-http://gratis.shortgod.com/hablapemongol/tv11.php?c=8053
+http://gratis.shortgod.com/feliznavidad/tv11.php?c=8053
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier Ca Tlv
 http://iptvcanales.gq/canales/televall/715/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA Cl1
@@ -1824,50 +1744,7 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CINEMAX ACTION" tvg-logo="" group-title="MOVIES",CINEMAX ACTION
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/token=null
-#EXTINF:-1 tvg-name="HALLMARK" tvg-logo="" group-title="MOVIES",HALLMARK
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="MOVIES",HBO FAMILY
-http://31.220.41.88:8081/live/us-hbofamily.stream/token=null
-#EXTINF:-1 tvg-name="HBO ZONE" tvg-logo="" group-title="MOVIES",HBO ZONE
-http://31.220.41.88:8081/live/us-hbozone.stream/token=null
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="" group-title="MOVIES",LIFETIME
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="" group-title="MOVIES",PARAMOUNT
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SHOWTIME" tvg-logo="" group-title="MOVIES",SHOWTIME
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SHOWTIME 2" tvg-logo="" group-title="MOVIES",SHOWTIME 2
-http://31.220.41.88:8081/live/us-showtime2.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES ACTION & ADVENTURE" tvg-logo="" group-title="MOVIES",SKY MOVIES ACTION & ADVENTURE
-http://31.220.41.88:8081/live/maction.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES COMEDY" tvg-logo="" group-title="MOVIES",SKY MOVIES COMEDY
-http://31.220.41.88:8081/live/mcomedy.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES CRIME & TRILLER" tvg-logo="" group-title="MOVIES",SKY MOVIES CRIME & TRILLER
-http://31.220.41.88:8081/live/mcrime.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES DISNEY" tvg-logo="" group-title="MOVIES",SKY MOVIES DISNEY
-http://31.220.41.88:8081/live/mdisney.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES DRAMA" tvg-logo="" group-title="MOVIES",SKY MOVIES DRAMA
-http://31.220.41.88:8081/live/mdrama.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES FAMILY" tvg-logo="" group-title="MOVIES",SKY MOVIES FAMILY
-http://31.220.41.88:8081/live/mfamily.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES PREMIERE" tvg-logo="" group-title="MOVIES",SKY MOVIES PREMIERE
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="STARZ" tvg-logo="" group-title="MOVIES",STARZ
-http://31.220.41.88:8081/live/us-starz.stream/token=null
-#EXTINF:-1 tvg-name="STARZ CINEMA" tvg-logo="" group-title="MOVIES",STARZ CINEMA
-http://31.220.41.88:8081/live/us-starzcinema.stream/token=null
-#EXTINF:-1 tvg-name="STARZ EDGE" tvg-logo="" group-title="MOVIES",STARZ EDGE
-http://31.220.41.88:8081/live/us-starzedge.stream/token=null
-#EXTINF:-1 tvg-name="STARZ ENCORE" tvg-logo="" group-title="MOVIES",STARZ ENCORE
-http://31.220.41.88:8081/live/us-starzencore.stream/token=null
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="" group-title="MOVIES",SYFY
-http://31.220.41.88:8081/live/us-syfy.stream/token=null
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
@@ -1911,7 +1788,7 @@ http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/1280.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network TTv 2
 http://tecnotv.club/22dc/smartv2.php?c=1871
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=13406
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=13406
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
@@ -1924,7 +1801,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png", group-title="DEPORTES" PLUTO TV NFL Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85337
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85337
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network TTv
 http://tecnotv.club/22dc/sport.php?c=nfl&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Ca
@@ -2244,7 +2121,7 @@ http://tecnotv.club/22dc/sport.php?c=espndep&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://user.tvcluboficial.com/stream/nov/Nov/486.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=83605
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=83605
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=169&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD TP
@@ -2266,7 +2143,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=168&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=83588
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=83588
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 ARG
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 ARG
@@ -2888,18 +2765,14 @@ https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC KNTV 11.1 SF
-https://v-ca.mybtv.net/event/121/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=13408
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC WNBC 4.1 NY
-https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=13408
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdsu-tv-us-la.png" group-title="USA", NBC New Orleans
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85447
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85447
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" group-title="USA",NBC East WBTS-CD1 Boston
 http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC TTV Sp
@@ -2914,20 +2787,7 @@ http://iptvcanales.gq/canales/rojo/93843/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Diego
 
-
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. FHD
-https://v-la.mybtv.net/event/267/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. HD
-https://v-la.mybtv.net/event/267/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. SD
-https://v-la.mybtv.net/event/267/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco FHD
-https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco HD
-https://v-ca.mybtv.net/event/140/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco SD
-https://v-ca.mybtv.net/event/140/764x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Tc
+EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Tc
 http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Ca
 http://iptvcanales.gq/canales/ok/Telemundo/playlist.m3u8
@@ -2952,7 +2812,7 @@ http://iptvcanales.gq/canales/televall/363/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
 http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_JUANBb_400x400.jpg" group-title="USA", FOX 5 NY
-https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
+
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN_7_Miami_logo.png" group-title="USA", FOX 7 Miami
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
@@ -2969,164 +2829,14 @@ http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
 http://194.40.240.171:83/live/James/James1/348793.m3u8
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
-https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
-https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
-https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
-https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
-https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
-https://v-la.mybtv.net/event/164/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles HD
-https://v-la.mybtv.net/event/164/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles SD
-https://v-la.mybtv.net/event/164/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  5.4 TBD. - Los Angeles SD
-https://v-la.mybtv.net/event/254/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA", ABC 7 - Los Angeles HD
-https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA", ABC 7 - Los Angeles SD
-https://v-la.mybtv.net/event/88/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA",KABC 7.2 Localish - Los Angeles HD
-https://v-la.mybtv.net/event/89/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/8671681_121020-kabc-localish-la-img.jpg" group-title="USA",KABC 7.2 Localish - Los Angeles SD
-https://v-la.mybtv.net/event/89/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.1 NewsNet - Los Angeles HD
-https://v-la.mybtv.net/event/181/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.1 NewsNet - Los Angeles SD
-https://v-la.mybtv.net/event/181/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.4 BizTV - Los Angeles SD
-https://v-la.mybtv.net/event/91/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.8 Diya TV - Los Angeles SD
-https://v-la.mybtv.net/event/724/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles FHD
-https://v-la.mybtv.net/event/259/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles HD
-https://v-la.mybtv.net/event/259/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles SD
-https://v-la.mybtv.net/event/259/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.2 Stadium - Los Angeles SD
-https://v-la.mybtv.net/event/180/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles HD
-https://v-la.mybtv.net/event/166/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles SD
-https://v-la.mybtv.net/event/166/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.3 TheGrio - Los Angeles SD
-https://v-la.mybtv.net/event/256/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles HD
-https://v-la.mybtv.net/event/270/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles SD
-https://v-la.mybtv.net/event/270/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.3 Movies! - Los Angeles SD
-https://v-la.mybtv.net/event/257/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.4 Heroes & Icons - Los Angele SD
-https://v-la.mybtv.net/event/258/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KPOM 14.3 Khmer - Los Angeles SD
-https://v-la.mybtv.net/event/ 61/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles HD
-https://v-la.mybtv.net/event/298/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles SD
-https://v-la.mybtv.net/event/298/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles FHD
-https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles HD
-https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles SD
-https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.2 UniMas - Los Angeles SD
-https://v-la.mybtv.net/event/168/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.3 Bounce TV - Los Angeles SD
-https://v-la.mybtv.net/event/266/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.4 Crime - Los Angeles SD
-https://v-la.mybtv.net/event/80/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles HD
-https://v-la.mybtv.net/event/93/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles SD
-https://v-la.mybtv.net/event/93/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles HD
-https://v-la.mybtv.net/event/94/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles SD
-https://v-la.mybtv.net/event/94/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.3 Sky Link 3 - Los Angeles SD
-https://v-la.mybtv.net/event/99/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.4 Sky Link 2 - Los Angeles SD
-https://v-la.mybtv.net/event/100/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles HD
-https://v-la.mybtv.net/event/299/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles SD
-https://v-la.mybtv.net/event/299/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KFTR 46.5 Quest - Los Angeles 276 SD
-https://v-la.mybtv.net/event/276/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.2 PBS SoCal 2 - Los Angeles SD
-https://v-la.mybtv.net/event/288/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.3 Daystar - Los Angeles SD
-https://v-la.mybtv.net/event/289/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.4 World - Los Angeles SD
-https://v-la.mybtv.net/event/290/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.5 PBS SoCal Kids - Los Angeles SD
-https://v-la.mybtv.net/event/291/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles FHD
-https://v-la.mybtv.net/event/267/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles HD
-https://v-la.mybtv.net/event/267/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles SD
-https://v-la.mybtv.net/event/267/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.2 TeleXitos - Los Angeles SD
-https://v-la.mybtv.net/event/103/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles HD
-https://v-la.mybtv.net/event/268/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles SD
-https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.2 Decades - Los Angeles SD
-https://v-la.mybtv.net/event/269/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles HD
-https://v-la.mybtv.net/event/732/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles SD
-https://v-la.mybtv.net/event/732/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles HD
-https://v-la.mybtv.net/event/107/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles SD
-https://v-la.mybtv.net/event/107/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles HD
-https://v-la.mybtv.net/event/109/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles SD
-https://v-la.mybtv.net/event/109/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles HD
-https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles SD
-https://v-la.mybtv.net/event/112/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles HD
-https://v-la.mybtv.net/event/280/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles SD
-https://v-la.mybtv.net/event/280/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA",KILM 64.1 Grit - Los Angeles SD
-https://v-la.mybtv.net/event/275/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles HD
-https://v-la.mybtv.net/event/736/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles SD
-https://v-la.mybtv.net/event/736/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99 LA36 - Los Angeles SD
-https://v-la.mybtv.net/event/742/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles HD
-https://v-la.mybtv.net/event/743/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles SD
-https://v-la.mybtv.net/event/743/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99 City of Pasadena - Los Angeles SD
-https://v-la.mybtv.net/event/755/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="-" group-title="USA", C99 PCC TV - Los Angeles SD
-https://v-la.mybtv.net/event/756/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20100.m3u8
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
-https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
-https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
+
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA",  CBS San Diego (KFMB)
 http://194.40.240.171:83/live/James/James1/300493.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
@@ -3135,24 +2845,6 @@ http://194.40.240.171:83/live/James/James1/348789.m3u8
 http://thebestiptv.xyz:8880/live/david.r.evans@gmail.com/jabLzEWeY7/662590.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA",  NBC 39  San Diego  (KNSD)
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20330.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
-https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
-https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
-https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
-https://v-sd.mybtv.net/event/512/1280x+720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego SD
-https://v-sd.mybtv.net/event/512/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA", KNSD 39.2 Cozi TV - San Diego
-https://v-sd.mybtv.net/event/513/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
-https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
-https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego SD
-https://v-sd.mybtv.net/event/528/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA",FOX (KSWB) San Diego CA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
@@ -3166,136 +2858,20 @@ http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="USA", CBS Seattle WA (KIRO-TV1)
 http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS Miami Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85396
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85396
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS 4 WFOR
 http://181.114.57.158:4000/play/Cs2DUxDwctvq2BmH/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly
-https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Ca
 http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA", CBS KPIX-TV 5.1 
-https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA FHD
-https://v-la.mybtv.net/event/161/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD
-https://v-la.mybtv.net/event/161/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85469
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85469
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS HOUSTON
 
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
-https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York HD
-https://v-ny.mybtv.net/event/545/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York SD
-https://v-ny.mybtv.net/event/545/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/952/1011/png-transparent-indianapolis-wttv-cbs-news-television-others-television-angle-sport-thumbnail.png" group-title="USA", CBS 4 INDIANAPOLIS
-https://v-in.mybtv.net/event/826/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX FHD
-https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX HD
-https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
-https://v-ca.mybtv.net/event/170/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco SD
-https://v-ca.mybtv.net/event/170/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.3 Movies! - San Francisco SD
-https://v-ca.mybtv.net/event/171/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Buzz_TV_Logo.png" group-title="USA", KTVU 2.4 Buzzr - San Francisco SD
-https://v-ca.mybtv.net/event/729/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4 Web
-https://difwk89tryvik.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/KRON_AD_CAMPAIGN/index.m3u8
-#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.1 MyN - San Francisco  HD
-https://v-ca.mybtv.net/event/118/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.1 MyN - San Francisco  SD
-https://v-ca.mybtv.net/event/118/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.3 Court - San Francisco SD
-https://v-ca.mybtv.net/event/246/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.4 Quest - San Francisco SD
-https://v-ca.mybtv.net/event/213/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.5 Shop LC - San Francisco SD
-https://v-ca.mybtv.net/event/184/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
-https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
-https://v-ca.mybtv.net/event/162/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85461
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco SD
-https://v-ca.mybtv.net/event/162/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/610kBTMJ9IL.png" group-title="USA", KPIX 5.2 Start - San Francisco SD
-https://v-ca.mybtv.net/event/214/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="http://wildstyle.ink/home/wp-content/uploads/2018/01/sanfran_kpix_310x310.jpg" group-title="USA", KPIX 5.3 Dabl - San Francisco SD
-https://v-ca.mybtv.net/event/306/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2014/02/kpix-logo.jpg" group-title="USA", KPIX 5.4 Fave - San Francisco SD
-https://v-ca.mybtv.net/event/763/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco HD
-https://v-ca.mybtv.net/event/119/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco SD
-https://v-ca.mybtv.net/event/119/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco HD
-https://v-ca.mybtv.net/event/215/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco SD
-https://v-ca.mybtv.net/event/215/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/10460095_033021-kgo-hsn-promo-banner-img.jpg" group-title="USA", KGO 7.4 HSN - San Francisco SD
-https://v-ca.mybtv.net/event/146/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco FHD
-https://v-ca.mybtv.net/event/120/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco HD
-https://v-ca.mybtv.net/event/120/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco SD
-https://v-ca.mybtv.net/event/120/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/KQED_1981.png.png" group-title="USA", KQED 9.3 World - San Francisco SD
-https://v-ca.mybtv.net/event/221/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/342-3428584_links-pbs-kids-logo-clipart.png" group-title="USA", KQED 9.4 PBS Kids - San Francisco SD
-https://v-ca.mybtv.net/event/219/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco FHD
-https://v-ca.mybtv.net/event/121/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco HD
-https://v-ca.mybtv.net/event/121/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco SD
-https://v-ca.mybtv.net/event/121/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png" group-title="USA", KNTV 11.2 Cozi TV - San Francisco SD
-https://v-ca.mybtv.net/event/122/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA", KDTV 14.1 Univision 14 - San Francisco HD
-https://v-ca.mybtv.net/event/148/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA", KDTV 14.1 Univision 14 - San Francisco SD
-https://v-ca.mybtv.net/event/148/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KDTV 14.4 Mystery - San Francisco SD
-https://v-ca.mybtv.net/event/169/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.1 KDHL - San Francisco SD
-https://v-ca.mybtv.net/event/172/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.11 Set Channel - San Francisco SD
-https://v-ca.mybtv.net/event/242/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.12 IBC - San Francisco SD
-https://v-ca.mybtv.net/event/243/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.3 Viet Sky - San Francisco SD
-https://v-ca.mybtv.net/event/190/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.6 Net Viet - San Francisco SD
-https://v-ca.mybtv.net/event/173/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.7 AWM TV - San Francisco SD
-https://v-ca.mybtv.net/event/232/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.8 VBS - San Francisco SD
-https://v-ca.mybtv.net/event/124/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.9 U Channel - San Francisco SD
-https://v-ca.mybtv.net/event/191/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.1 TV20 - San Francisco HD
-https://v-ca.mybtv.net/event/125/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.1 TV20 - San Francisco SD
-https://v-ca.mybtv.net/event/125/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.8 Fun Roads - San Francisco SD
-https://v-ca.mybtv.net/event/229/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.1 PBS - San Francisco HD
-https://v-ca.mybtv.net/event/143/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.1 PBS - San Francisco SD
-https://v-ca.mybtv.net/event/143/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.2 Create - San Francisco SD
-https://v-ca.mybtv.net/event/144/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.2 Create - San Francisco SD
-https://v-ca.mybtv.net/event/719/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85461
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 
@@ -3338,16 +2914,11 @@ http://iptvcanales.gq/canales/rojo/93841/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC MIAMI
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC Chicago Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85474
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=85474
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
-
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC WABC-TV 7.1
-https://v-ny.mybtv.net/event/554/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
-https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
@@ -3466,7 +3037,7 @@ http://iptvcanales.gq/canales/ok/USANetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1293.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=13515
+http://gratis.shortgod.com/feliznavidad/tv15.php?c=13515
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network Ca
 http://iptvcanales.gq/canales/ok/Paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="USA", WarnerTV
@@ -3669,22 +3240,7 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LIGA MX
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Bundesliga Stuttgart vs Bayern München 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=4&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Bundesliga Wolfsburg vs Köln 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=4&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Premier League Goals Show vs Brentford 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=10&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Premier League Norwich City vs Aston Villa 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=9&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Premier League Manchester City vs Leeds United 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=3&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Coppa Italia Venezia vs Ternana 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=8&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Coppa Italia Udinese vs Crotone 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=8&k=b1acghoooooooooost&file=.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="Futbol en Vivo", Coppa Italia Genoa vs Salernitana 
-http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=8&k=b1acghoooooooooost&file=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
@@ -3692,13 +3248,13 @@ http://blackaddon.com/sat/w2-220.php?url=https://pepperlive.info/sport.php?id=8&
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://134.19.182.131:8080/pdg4c12813bd22bc7bc.m3u8?m=x_hGUUtUBF01TfkiT_6iPA&c=4c12813bd22bc7bc&p=323830363a313030303a383030353a333965393a3936393a346534393a6636333a32386135&e=1639900350
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://134.19.182.131:8080/pdg4c12813bd22bc7bc.m3u8?m=x_hGUUtUBF01TfkiT_6iPA&c=4c12813bd22bc7bc&p=323830363a313030303a383030353a333965393a3936393a346534393a6636333a32386135&e=1639900350
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
@@ -3773,89 +3329,4 @@ http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273212.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 10 HD
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273213.m3u8
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Houston Rockets
-https://d1iahah7i76psj.cloudfront.net/hls/pacers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Orlando Magic vs New Orleans Pelicans
-https://d1iahah7i76psj.cloudfront.net/hls/magic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs Atlanta Hawks
-https://d1iahah7i76psj.cloudfront.net/hls/76ers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Miami Heat vs Detroit Pistons
-https://d1iahah7i76psj.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Washington Wizards
-https://d1iahah7i76psj.cloudfront.net/hls/knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Dallas Mavericks vs Milwaukee Bucks
-https://d1iahah7i76psj.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Denver Nuggets vs Charlotte Hornets
-https://d1iahah7i76psj.cloudfront.net/hls/nuggets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Oklahoma City Thunder
-https://d1iahah7i76psj.cloudfront.net/hls/suns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Minnesota Timberwolves
-https://d1iahah7i76psj.cloudfront.net/hls/jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Memphis Grizzlies
-https://d1iahah7i76psj.cloudfront.net/hls/warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Brooklyn Nets
-https://d1iahah7i76psj.cloudfront.net/hls/blazers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs San Antonio Spurs
-https://d1iahah7i76psj.cloudfront.net/hls/lakers/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Houston Rockets
-https://d1iahah7i76psj.cloudfront.net/hls/pacers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Orlando Magic vs New Orleans Pelicans
-https://d1iahah7i76psj.cloudfront.net/hls/magic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs Atlanta Hawks
-https://d1iahah7i76psj.cloudfront.net/hls/76ers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Miami Heat vs Detroit Pistons
-https://d1iahah7i76psj.cloudfront.net/hls/heat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Washington Wizards
-https://d1iahah7i76psj.cloudfront.net/hls/knicks/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Dallas Mavericks vs Milwaukee Bucks
-https://d1iahah7i76psj.cloudfront.net/hls/nbatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Denver Nuggets vs Charlotte Hornets
-https://d1iahah7i76psj.cloudfront.net/hls/nuggets/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Oklahoma City Thunder
-https://d1iahah7i76psj.cloudfront.net/hls/suns/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Minnesota Timberwolves
-https://d1iahah7i76psj.cloudfront.net/hls/jazz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Memphis Grizzlies
-https://d1iahah7i76psj.cloudfront.net/hls/warriors/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Brooklyn Nets
-https://d1iahah7i76psj.cloudfront.net/hls/blazers/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs San Antonio Spurs
-https://d1iahah7i76psj.cloudfront.net/hls/lakers/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Houston Rockets
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.c7YGV19WKV3h.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Orlando Magic vs New Orleans Pelicans
-https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.AOG2IIgSB7Mw.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs Atlanta Hawks
-https://9b7ef482411f.us-west-2.playback.live-video.net/api/video/v1/us-west-2.067412483695.channel.GaYFFrAnrN9h.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Miami Heat vs Detroit Pistons
-https://cf77f9c3d1e1.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.067412483695.channel.u9mvDpcui3hC.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Washington Wizards
-https://9b7ef482411f.us-west-2.playback.live-video.net/api/video/v1/us-west-2.067412483695.channel.2h7Jmo79BJJt.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Dallas Mavericks vs Milwaukee Bucks
-https://cf77f9c3d1e1.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.067412483695.channel.K9QKlCJEaq1J.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Houston Rockets
-http://198.144.159.43/_cdmtc7vG9k_XDr3oKGuTg/1640334210/3138392e3232332e33362e323039/ff13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Orlando Magic vs New Orleans Pelicans
-http://198.144.159.43/_Hsqhh7eqP4e59Phv0y2iA/1640334268/3138392e3232332e33362e323039/ff14/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs Atlanta Hawks
-http://198.144.159.43/23QmvGGthF9-q8BG9NEbVw/1640334114/3138392e3232332e33362e323039/ff12/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Tennessee Titans
-https://d1iahah7i76psj.cloudfront.net/hls/nflnw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Tennessee Titans
-https://d1iahah7i76psj.cloudfront.net/hls/nflnw/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Tennessee Titans
-http://194.40.240.171:83/James/James1/387654.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Tennessee Titans
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  San Francisco 49ers vs Tennessee Titans
-http://194.40.240.134/auth/7Z2SbgU9sc4RF-MpKhOwp4Gr_L301tTAMsG0AO1-L3OVNsgNSEZ1q-LOTCDUX-9qlj3Efme6LgHr8xBlEbh3lsqe_olTupMSjOUsBeIpkoqU2I1V-YAqayUKSMVMNkqmPbiMbTm6URhpDSzmyF57PcYdNpaMbVzafBQeh19MzGbbi1IaNCLYRMf5DpXUDC9as7CmKL00eOI3fsxUVP3aL2bNEkKcvjwgzRZEhu4JxHpZVd74PnEsdndQeuFoTvLp4kdyjXyvx6RT2BtSNVGNi65iC_lvayOPi8KYbxAtxFRd4T_AzNwmiMFvK0Z7AbRhJFT61OzeVyiLDs-S29E-bdXY03CfGxQfljUTzmNT6Bkk2qs4d3K4vBckTq1G6WMj33GQNckOk5xG6A9BHg5hu_lJjl3Azp2fMCE-QG66UTZmbOn4pTcSpncoG1QHdxhW5KHoh-UCw_nlEbiC6e0IUWzt2XPK6FTi3PQy-8uYZdut4hiE5v3hPakJeaEqDsMGigKazRCOfiwR2tWI3NVLMTqSUoWqD-dBxzabn3A-CZkYut31mPfjvcq2en73GshiXby6JU5KhF1V--5p8LxdiA
 
