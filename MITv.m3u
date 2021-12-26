@@ -1717,6 +1717,14 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 
 #EXTINF:-1 tvg-name="Claro Cinema" tvg-logo="http://mitv.televall.online/images/claro-cinema.png" group-title="ENTRETENIMIENTO", Claro Cinema
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1499&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE HD TP
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1499&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE TP Bg
+http://blackaddon.com/play/totalp1-227.php?c=1499&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE Bg 3
+http://blackaddon.com/play/zufree-227.php?c=3464
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg" group-title="SERIES", Walker: Temporada 1, Capitulo 1
 https://www39.sbcdnvideo.com/hls/tysxffslm666j6cdacfbdxslgo24ktewjgifwmiuiu5nvdvxu62m4lh4tjua/index.m3u8
 
