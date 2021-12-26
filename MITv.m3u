@@ -3471,4 +3471,9 @@ https://d1iahah7i76psj.cloudfront.net/hls/raiders/chunks.m3u8
 https://d1iahah7i76psj.cloudfront.net/hls/cowboys/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
+https://f799f34ccdb9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.067412483695.channel.3kR7Q4W7zBba.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Detroit Lions vs Atlanta Falcons
+https://9b7ef482411f.us-west-2.playback.live-video.net/api/video/v1/us-west-2.067412483695.channel.2h7Jmo79BJJt.m3u8
+
 
