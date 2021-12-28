@@ -953,13 +953,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1250&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO
-
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO
-
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO TP Bg
+http://blackaddon.com/play/totalp1-227.php?c=1250&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO TP Bg
+http://blackaddon.com/play/totalp1-227.php?c=1252&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-gXlkdRL4J-Y/UBNVnUzx8OI/AAAAAAAANhM/HidV4reyALY/s71/teleformula.PNG" group-title="NOTICIAS", Teleformula Web
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
@@ -3374,5 +3374,13 @@ http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273212.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA LP",  NBA League Pass 10 HD
 http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/273213.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Houston Rockets
+https://dnsnilvainrrz.cloudfront.net/hls/hornets/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Houston Rockets
+https://dnsnilvainrrz.cloudfront.net/hls/hornets/chunks.m3u8
 
 
