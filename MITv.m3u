@@ -6,6 +6,8 @@ https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2021-12-29T17&end_tim
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij HD
 https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv
+https://v-sd.mybtv.net/event/527/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="NOTICIAS",Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
@@ -109,6 +111,8 @@ http://blackaddon.com/play/totalp1-128.php?c=2246&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/zufree-128.php?c=3146
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2713&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ HD
+https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Ca Tlv
@@ -129,6 +133,8 @@ http://gratis.shortgod.com/feliznavidad/tv15.php?c=7772
 http://blackaddon.com/play/totalp1-128.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Ca Tlv
 http://iptvcanales.gq/canales/televall/496/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ 
+https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Web
@@ -149,6 +155,8 @@ http://blackaddon.com/play/totalp1-128.php?c=700&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV
 
+#EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Tijuana
+https://v-sd.mybtv.net/event/762/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -187,10 +195,14 @@ http://blackaddon.com/play/zufree-128.php?c=3143
 http://ky-tv.cc:25461/David59459/2354545444/384770
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj Bg 3
 http://blackaddon.com/play/zufree-128.php?c=3144
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj FHD
+https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1870&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP Bg
 http://blackaddon.com/play/totalp1-128.php?c=1870&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego
+https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 KyTv
@@ -227,14 +239,16 @@ http://blackaddon.com/play/totalp1-128.php?c=317&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-128.php?c=2056&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 TP Bg
 http://blackaddon.com/play/totalp1-128.php?c=3220&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD Fjt
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/71453.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 HD
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
 http://blackaddon.com/play/futvll-128.php?id=azteca7&k=b1acghoooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Fv
 http://blackaddon.com/play/futvll-128.php?id=azteca7hd&k=b1acghoooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Tijuana 
+https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1931&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste HD TP
@@ -273,6 +287,12 @@ http://iptvcanales.gq/canales/tvfree/65/playlist.m3u8
 http://iptvcanales.gq/canales/televall/7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TTv
 
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij FHD
+https://v-sd.mybtv.net/event/485/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij HD
+https://v-sd.mybtv.net/event/485/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
+https://v-sd.mybtv.net/event/503/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
@@ -313,6 +333,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 http://blackaddon.com/play/totalp1-128.php?c=184&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TP Bg
 http://blackaddon.com/play/totalp1-128.php?c=40&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TJ 
+https://v-sd.mybtv.net/event/484/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara
@@ -956,8 +978,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1499&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv
 http://blackaddon.com/play/totalp1-128.php?c=1449&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO
-
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Tj
+https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO TP
@@ -970,10 +992,10 @@ http://blackaddon.com/play/totalp1-128.php?c=1252&p=3&k=black&f=.m3u8
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
-
-#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
-
+#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Tj
+https://v-sd.mybtv.net/event/495/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Niños
+https://v-sd.mybtv.net/event/496/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV Web
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo="http://52mx.tv/logomvstv.png" group-title="NACIONALES", MVS TV TP
@@ -996,6 +1018,14 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/3cbc2a82-28fc-4ba3-8f0d-95a94169e647-2033x1141-760929368.png" group-title="NACIONALES", Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Telexitos.svg/revision/latest/scale-to-width-down/250?cb=20210217221546" group-title="USA Latinos", TeleXitos San Diego
+https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. FHD
+https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. HD
+https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION L.A. SD
+https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", UNIVISION
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA Latinos", UNIMAS Ca
@@ -1018,6 +1048,8 @@ http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
+https://v-sd.mybtv.net/event/490/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV Plx
@@ -2809,13 +2841,17 @@ https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNvSjcd.png" group-title="MUSICA", Loop Latin
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Musicales", Loop Party
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="MUSICA", Loop Party
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.garnierpr.com/wp-content/uploads/2019/01/WGN9-Chicago-Logo-458.jpg" group-title="USA", WGN9
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC KNTV 11.1 SF
+https://v-ca.mybtv.net/event/121/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC WNBC 4.1 NY
+https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC
 http://gratis.shortgod.com/feliznavidad/tv15.php?c=13408
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
@@ -2838,6 +2874,18 @@ http://iptvcanales.gq/canales/rojo/93843/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Diego
 
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. FHD
+https://v-la.mybtv.net/event/267/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. HD
+https://v-la.mybtv.net/event/267/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo L.A. SD
+https://v-la.mybtv.net/event/267/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco FHD
+https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco HD
+https://v-ca.mybtv.net/event/140/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco SD
+https://v-ca.mybtv.net/event/140/764x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Tc
 http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Ca
@@ -2862,6 +2910,8 @@ http://iptvcanales.gq/canales/televall/363/playlist.m3u8
 http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_JUANBb_400x400.jpg" group-title="USA", FOX 5 NY
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041134787078115333/c_JUANBb_400x400.jpg" group-title="USA", FOX 5 NY
+https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN_7_Miami_logo.png" group-title="USA", FOX 7 Miami
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
@@ -2878,14 +2928,164 @@ http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
 http://194.40.240.171:83/live/James/James1/348793.m3u8
-
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
+https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
+https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
+https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
+https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
+https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
+https://v-la.mybtv.net/event/164/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles HD
+https://v-la.mybtv.net/event/164/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles SD
+https://v-la.mybtv.net/event/164/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  5.4 TBD. - Los Angeles SD
+https://v-la.mybtv.net/event/254/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA", ABC 7 - Los Angeles HD
+https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA", ABC 7 - Los Angeles SD
+https://v-la.mybtv.net/event/88/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png" group-title="USA",KABC 7.2 Localish - Los Angeles HD
+https://v-la.mybtv.net/event/89/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/8671681_121020-kabc-localish-la-img.jpg" group-title="USA",KABC 7.2 Localish - Los Angeles SD
+https://v-la.mybtv.net/event/89/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.1 NewsNet - Los Angeles HD
+https://v-la.mybtv.net/event/181/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.1 NewsNet - Los Angeles SD
+https://v-la.mybtv.net/event/181/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.4 BizTV - Los Angeles SD
+https://v-la.mybtv.net/event/91/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KFLA_logo.png" group-title="USA",KFLA 8.8 Diya TV - Los Angeles SD
+https://v-la.mybtv.net/event/724/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles FHD
+https://v-la.mybtv.net/event/259/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles HD
+https://v-la.mybtv.net/event/259/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles SD
+https://v-la.mybtv.net/event/259/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.2 Stadium - Los Angeles SD
+https://v-la.mybtv.net/event/180/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles HD
+https://v-la.mybtv.net/event/166/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles SD
+https://v-la.mybtv.net/event/166/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.3 TheGrio - Los Angeles SD
+https://v-la.mybtv.net/event/256/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles HD
+https://v-la.mybtv.net/event/270/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles SD
+https://v-la.mybtv.net/event/270/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.3 Movies! - Los Angeles SD
+https://v-la.mybtv.net/event/257/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.4 Heroes & Icons - Los Angele SD
+https://v-la.mybtv.net/event/258/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KPOM 14.3 Khmer - Los Angeles SD
+https://v-la.mybtv.net/event/ 61/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles HD
+https://v-la.mybtv.net/event/298/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles SD
+https://v-la.mybtv.net/event/298/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles FHD
+https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles HD
+https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.1 Univision 34 - Los Angeles SD
+https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KMEX 34.2 UniMas - Los Angeles SD
+https://v-la.mybtv.net/event/168/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.3 Bounce TV - Los Angeles SD
+https://v-la.mybtv.net/event/266/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KMEX 34.4 Crime - Los Angeles SD
+https://v-la.mybtv.net/event/80/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles HD
+https://v-la.mybtv.net/event/93/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.1 TBN - Los Angeles SD
+https://v-la.mybtv.net/event/93/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles HD
+https://v-la.mybtv.net/event/94/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KTBN 40.2 Hillsong - Los Angeles SD
+https://v-la.mybtv.net/event/94/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.3 Sky Link 3 - Los Angeles SD
+https://v-la.mybtv.net/event/99/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KXLA 44.4 Sky Link 2 - Los Angeles SD
+https://v-la.mybtv.net/event/100/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles HD
+https://v-la.mybtv.net/event/299/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KFTR 46.1 UniMas - Los Angeles SD
+https://v-la.mybtv.net/event/299/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KFTR 46.5 Quest - Los Angeles 276 SD
+https://v-la.mybtv.net/event/276/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.2 PBS SoCal 2 - Los Angeles SD
+https://v-la.mybtv.net/event/288/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.3 Daystar - Los Angeles SD
+https://v-la.mybtv.net/event/289/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.4 World - Los Angeles SD
+https://v-la.mybtv.net/event/290/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KOCE 50.5 PBS SoCal Kids - Los Angeles SD
+https://v-la.mybtv.net/event/291/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles FHD
+https://v-la.mybtv.net/event/267/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles HD
+https://v-la.mybtv.net/event/267/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.1 Telemundo 52 - Los Angeles SD
+https://v-la.mybtv.net/event/267/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KVEA 52.2 TeleXitos - Los Angeles SD
+https://v-la.mybtv.net/event/103/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles HD
+https://v-la.mybtv.net/event/268/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.1 MeTV - Los Angeles SD
+https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KAZA 54.2 Decades - Los Angeles SD
+https://v-la.mybtv.net/event/269/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles HD
+https://v-la.mybtv.net/event/732/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KDOC 56.1 TV 56 - Los Angeles SD
+https://v-la.mybtv.net/event/732/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles HD
+https://v-la.mybtv.net/event/107/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KJLA 57.1 Azteca America - Los Angeles SD
+https://v-la.mybtv.net/event/107/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles HD
+https://v-la.mybtv.net/event/109/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KLCS 58.1 PBS - Los Angeles SD
+https://v-la.mybtv.net/event/109/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles HD
+https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA Latinos",KRCA 62.1 Estrella TV - Los Angeles SD
+https://v-la.mybtv.net/event/112/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles HD
+https://v-la.mybtv.net/event/280/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles SD
+https://v-la.mybtv.net/event/280/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA",KILM 64.1 Grit - Los Angeles SD
+https://v-la.mybtv.net/event/275/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles HD
+https://v-la.mybtv.net/event/736/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles SD
+https://v-la.mybtv.net/event/736/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 LA36 - Los Angeles SD
+https://v-la.mybtv.net/event/742/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles HD
+https://v-la.mybtv.net/event/743/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 Pasadena Media - Los Angeles SD
+https://v-la.mybtv.net/event/743/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 City of Pasadena - Los Angeles SD
+https://v-la.mybtv.net/event/755/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="-" group-title="USA", C99 PCC TV - Los Angeles SD
+https://v-la.mybtv.net/event/756/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20100.m3u8
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
-
+https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
-
+https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA",  CBS San Diego (KFMB)
 http://194.40.240.171:83/live/James/James1/300493.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
@@ -2894,6 +3094,24 @@ http://194.40.240.171:83/live/James/James1/348789.m3u8
 http://thebestiptv.xyz:8880/live/david.r.evans@gmail.com/jabLzEWeY7/662590.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA",  NBC 39  San Diego  (KNSD)
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20330.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
+https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
+https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
+https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
+https://v-sd.mybtv.net/event/512/1280x+720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24&uid=33630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego SD
+https://v-sd.mybtv.net/event/512/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA", KNSD 39.2 Cozi TV - San Diego
+https://v-sd.mybtv.net/event/513/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
+https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
+https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego SD
+https://v-sd.mybtv.net/event/528/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA",FOX (KSWB) San Diego CA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
