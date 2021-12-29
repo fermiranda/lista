@@ -3130,8 +3130,16 @@ http://gratis.shortgod.com/feliznavidad/tv15.php?c=85396
 http://181.114.57.158:4000/play/Cs2DUxDwctvq2BmH/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly
+https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Ca
 http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA", CBS KPIX-TV 5.1 
+https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA FHD
+https://v-la.mybtv.net/event/161/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD
+https://v-la.mybtv.net/event/161/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD Short 15
 http://gratis.shortgod.com/feliznavidad/tv15.php?c=85469
@@ -3139,7 +3147,116 @@ http://gratis.shortgod.com/feliznavidad/tv15.php?c=85469
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD Short 15
 http://gratis.shortgod.com/feliznavidad/tv15.php?c=85461
-
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
+https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York HD
+https://v-ny.mybtv.net/event/545/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York SD
+https://v-ny.mybtv.net/event/545/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/952/1011/png-transparent-indianapolis-wttv-cbs-news-television-others-television-angle-sport-thumbnail.png" group-title="USA", CBS 4 INDIANAPOLIS
+https://v-in.mybtv.net/event/826/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX FHD
+https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX HD
+https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
+https://v-ca.mybtv.net/event/170/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco SD
+https://v-ca.mybtv.net/event/170/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.3 Movies! - San Francisco SD
+https://v-ca.mybtv.net/event/171/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Buzz_TV_Logo.png" group-title="USA", KTVU 2.4 Buzzr - San Francisco SD
+https://v-ca.mybtv.net/event/729/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4 Web
+https://difwk89tryvik.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/KRON_AD_CAMPAIGN/index.m3u8
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.1 MyN - San Francisco  HD
+https://v-ca.mybtv.net/event/118/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.1 MyN - San Francisco  SD
+https://v-ca.mybtv.net/event/118/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.3 Court - San Francisco SD
+https://v-ca.mybtv.net/event/246/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.4 Quest - San Francisco SD
+https://v-ca.mybtv.net/event/213/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.5 Shop LC - San Francisco SD
+https://v-ca.mybtv.net/event/184/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
+https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
+https://v-ca.mybtv.net/event/162/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD Short 15
+http://gratis.shortgod.com/hablapemongol/tv15.php?c=85461
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco SD
+https://v-ca.mybtv.net/event/162/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/610kBTMJ9IL.png" group-title="USA", KPIX 5.2 Start - San Francisco SD
+https://v-ca.mybtv.net/event/214/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="http://wildstyle.ink/home/wp-content/uploads/2018/01/sanfran_kpix_310x310.jpg" group-title="USA", KPIX 5.3 Dabl - San Francisco SD
+https://v-ca.mybtv.net/event/306/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2014/02/kpix-logo.jpg" group-title="USA", KPIX 5.4 Fave - San Francisco SD
+https://v-ca.mybtv.net/event/763/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco HD
+https://v-ca.mybtv.net/event/119/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco SD
+https://v-ca.mybtv.net/event/119/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco HD
+https://v-ca.mybtv.net/event/215/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco SD
+https://v-ca.mybtv.net/event/215/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/10460095_033021-kgo-hsn-promo-banner-img.jpg" group-title="USA", KGO 7.4 HSN - San Francisco SD
+https://v-ca.mybtv.net/event/146/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco FHD
+https://v-ca.mybtv.net/event/120/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco HD
+https://v-ca.mybtv.net/event/120/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco SD
+https://v-ca.mybtv.net/event/120/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/KQED_1981.png.png" group-title="USA", KQED 9.3 World - San Francisco SD
+https://v-ca.mybtv.net/event/221/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/342-3428584_links-pbs-kids-logo-clipart.png" group-title="USA", KQED 9.4 PBS Kids - San Francisco SD
+https://v-ca.mybtv.net/event/219/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco FHD
+https://v-ca.mybtv.net/event/121/1920x1080.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco HD
+https://v-ca.mybtv.net/event/121/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco SD
+https://v-ca.mybtv.net/event/121/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png" group-title="USA", KNTV 11.2 Cozi TV - San Francisco SD
+https://v-ca.mybtv.net/event/122/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA", KDTV 14.1 Univision 14 - San Francisco HD
+https://v-ca.mybtv.net/event/148/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA", KDTV 14.1 Univision 14 - San Francisco SD
+https://v-ca.mybtv.net/event/148/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KDTV 14.4 Mystery - San Francisco SD
+https://v-ca.mybtv.net/event/169/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.1 KDHL - San Francisco SD
+https://v-ca.mybtv.net/event/172/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.11 Set Channel - San Francisco SD
+https://v-ca.mybtv.net/event/242/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.12 IBC - San Francisco SD
+https://v-ca.mybtv.net/event/243/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.3 Viet Sky - San Francisco SD
+https://v-ca.mybtv.net/event/190/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.6 Net Viet - San Francisco SD
+https://v-ca.mybtv.net/event/173/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.7 AWM TV - San Francisco SD
+https://v-ca.mybtv.net/event/232/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.8 VBS - San Francisco SD
+https://v-ca.mybtv.net/event/124/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KSCZ 16.9 U Channel - San Francisco SD
+https://v-ca.mybtv.net/event/191/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.1 TV20 - San Francisco HD
+https://v-ca.mybtv.net/event/125/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.1 TV20 - San Francisco SD
+https://v-ca.mybtv.net/event/125/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KOFY 20.8 Fun Roads - San Francisco SD
+https://v-ca.mybtv.net/event/229/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.1 PBS - San Francisco HD
+https://v-ca.mybtv.net/event/143/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.1 PBS - San Francisco SD
+https://v-ca.mybtv.net/event/143/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.2 Create - San Francisco SD
+https://v-ca.mybtv.net/event/144/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+#EXTINF:-1 tvg-logo="" group-title="USA", KRCB 22.2 Create - San Francisco SD
+https://v-ca.mybtv.net/event/719/768x432.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
@@ -3184,10 +3301,13 @@ http://iptvcanales.gq/canales/rojo/93841/playlist.m3u8
 http://gratis.shortgod.com/feliznavidad/tv15.php?c=85474
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC WABC-TV 7.1
+https://v-ny.mybtv.net/event/554/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
+https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2021-12-29T17&end_time=2021-12-29T24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="USA",  ABC 2 Atlanta GA News
