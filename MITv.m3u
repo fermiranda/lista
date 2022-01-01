@@ -974,8 +974,10 @@ https://blackghost.live/play/totalp1-123.php?c=185&p=3&k=black&f=.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1850&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-name="ExcelsiorTv" tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1499&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv
+#EXTINF:-1 tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv TP Bg
 http://blackaddon.com/play/totalp1-128.php?c=1449&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiotormentamx.com/gallery/excelsiortv_thumb_k6enfjsj.png" group-title="NOTICIAS", ExcelsiorTv Web
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=iq8QBb7kIxQ&ab_channel=Exc%C3%A9lsiorTV
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Tj
 https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2022-01-01T03:15&end_time=2022-01-01T11:30
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", MILENIO Web
