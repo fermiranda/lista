@@ -3944,6 +3944,11 @@ https://d10nbk66ckd93y.cloudfront.net/hls/cowboys/chunks.m3u8
 https://d10nbk66ckd93y.cloudfront.net/hls/panthers/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL HD",  Redzone
+https://d2p6k45400tsk7.cloudfront.net/stream/MjM4Nw==/1080p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Redzone
 http://d15xyumcalkui.cloudfront.net/flash1/_definst_/y0/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Atlanta Falcons vs Buffalo Bills
