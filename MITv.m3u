@@ -2882,12 +2882,12 @@ http://gratis.shortgod.com/gratish/tv15.php?c=13408
 http://gratis.shortgod.com/gratish/tv15.php?c=85447
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" group-title="USA",NBC East WBTS-CD1 Boston
 http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC
-
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Miami
+http://gratis.shortgod.com/gratish/tv13.php?c=42646
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC KING 5 SEATTLE WA
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
-#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC
-
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Ny
+http://gratis.shortgod.com/gratish/tv13.php?c=42647
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Ca
 http://iptvcanales.gq/canales/rojo/93843/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
