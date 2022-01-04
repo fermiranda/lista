@@ -3787,5 +3787,15 @@ https://d10nbk66ckd93y.cloudfront.net:443/hls/pelicans/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Sacramento Kings
 https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Cleveland Cavaliers vs Memphis Grizzlies
+http://77.247.109.117/hls/n1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs San Antonio Spurs
+http://77.247.109.117/hls/n2.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Indiana Pacers
+http://77.247.109.117/hls/n3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New Orleans Pelicans vs Phoenix Suns
+http://77.247.109.117/hls/n4.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Sacramento Kings
+http://77.247.109.117/hls/n3.m3u8
 
 
