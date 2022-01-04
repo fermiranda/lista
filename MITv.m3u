@@ -29,12 +29,12 @@ http://blackaddon.com/play/zufree-111.php?c=3100
 http://user.tvcluboficial.com/stream/nov/Nov/411.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/636.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
-
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
-
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=2361
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=2344
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=978
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas 
@@ -1336,8 +1336,12 @@ http://tecnotv.club/2ene/smartv2.php?c=3304
 http://blackaddon.com/play/zufree-111.php?c=1785
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Bg 3
 http://blackaddon.com/play/zufree-111.php?c=3304
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", SHOWTIME
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", SHOWTIME TvCl
 http://user.tvcluboficial.com/stream/nov/Nov/679.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", SHOWTIME Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=4103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=4097
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD
 http://user.tvcluboficial.com/stream/nov/Nov/685.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema
@@ -1350,6 +1354,8 @@ http://user.tvcluboficial.com/stream/nov/Nov/681.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/682.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short 15
 http://gratis.shortgod.com/gratish/tv15.php?c=72908
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short 7
+http://gratis.shortgod.com/gratish/tv7.php?c=4096
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black
 http://user.tvcluboficial.com/stream/nov/Nov/683.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Short 15
