@@ -3829,9 +3829,49 @@ https://d10nbk66ckd93y.cloudfront.net:443/hls/espn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Cleveland Cavaliers
 https://d10nbk66ckd93y.cloudfront.net:443/hls/blazers/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs San Antonio Spurs
+http://77.247.109.117/hls/n1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Brooklyn Nets vs Milwaukee Bucks
+http://77.247.109.117/hls/n2.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Toronto Raptors vs Utah Jazz
+http://77.247.109.117/hls/n3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Washington Wizards
+http://77.247.109.117/hls/n4.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Houston Rockets vs Dallas Mavericks
+http://77.247.109.117/hls/n5.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Oklahoma City Thunder vs Minnesota Timberwolves
+http://77.247.109.117/hls/n6.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Denver Nuggets vs Sacramento Kings
+http://77.247.109.117/hls/n7.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Atlanta
+http://77.247.109.117/hls/n2.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Cleveland Cavaliers
+http://77.247.109.117/hls/n8.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="agendasp",00:00 NBA: San Antonio Spurs @ Philadelphia 76ers (Ingles) 
+http://blackaddon.com/sat/sportzone-115.php?canal=hd2&cat=hd&k=blackghooooooooooost&file=.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="agendasp",00:30 NBA: Milwaukee Bucks @ Brooklyn Nets (Ingles) 
+http://blackaddon.com/sat/sportzone-115.php?canal=hd1&cat=hd&k=blackghooooooooooost&file=.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="agendasp",00:30 NBA: Utah Jazz @ Toronto Raptors (multidioma) 
+http://blackaddon.com/sat/sportzone-115.php?canal=hd5&cat=hd&k=blackghooooooooooost&file=.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="agendasp",00:30 NBA: Utah Jazz @ Toronto Raptors (Portugues) 
+http://blackaddon.com/sat/sportzone-115.php?canal=sporttv1&cat=pt&k=blackghooooooooooost&file=.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0zLsl9.png" group-title="agendasp",03:00 NBA: Atalanta Hawks @ Los Angeles Lakers (Ingles) 
+http://blackaddon.com/sat/sportzone-115.php?canal=hd1&cat=hd&k=blackghooooooooooost&file=.m3u8 
 
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Carolina Hurricanes - Calgary Flames (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/1/100&k=blackghooooooooooost&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Carolina Hurricanes - Calgary Flames (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/2/100&k=blackghooooooooooost&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Carolina Hurricanes - Calgary Flames (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/3/100&k=blackghooooooooooost&f=.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   St. Louis Blues - Washington Capitals (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/1/101&k=blackghooooooooooost&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   St. Louis Blues - Washington Capitals (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/2/101&k=blackghooooooooooost&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   St. Louis Blues - Washington Capitals (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-115.php?url=https://macron.xyz/player/3/101&k=blackghooooooooooost&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL EN VIVO", Western United x Sydney FC (multidioma) 
