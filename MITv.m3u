@@ -3827,5 +3827,9 @@ http://45.148.26.176/hls/M3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Philadelphia Eagles
 http://45.148.26.176/hls/M3.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Kansas City Chiefs vs Denver Broncos
+https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2022-01-08T16:30&end_time=2022-01-08T24:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Philadelphia Eagles
+https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2022-01-08T16:30&end_time=2022-01-08T24:00
 
 
