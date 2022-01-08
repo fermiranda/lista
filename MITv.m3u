@@ -3832,4 +3832,10 @@ https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2022-01-08T16:30&end_ti
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Philadelphia Eagles
 https://v-la.mybtv.net/event/88/1280x720.m3u8?start_time=2022-01-08T16:30&end_time=2022-01-08T24:00
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Kansas City Chiefs vs Denver Broncos
+http://134.19.182.131:8080/pdgac4391c4bb8ad069.m3u8?m=f3MRtbm6ndb02tyxtDqDNw&c=ac4391c4bb8ad069&p=323830363a313030303a383030353a6665313a643161623a313631373a393636353a37663938&e=1641708280
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Dallas Cowboys vs Philadelphia Eagles
+http://134.19.182.131:8080/pdgac4391c4bb8ad069.m3u8?m=f3MRtbm6ndb02tyxtDqDNw&c=ac4391c4bb8ad069&p=323830363a313030303a383030353a6665313a643161623a313631373a393636353a37663938&e=1641708280
+
+
 
