@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=n_7O5FrLCeM&ab_channel=TelevisaTijuanaOficial
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
 https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2022-01-08T23:30&end_time=2022-01-09T08:45
@@ -20,7 +18,7 @@ https://v-sd.mybtv.net/event/527/768x432.m3u8?start_time=2022-01-08T23:30&end_ti
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", XHBC Canal 4 MXL Web
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Llj3yENIuUU&ab_channel=TelevisaMexicaliOficial
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="NOTICIAS",Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
