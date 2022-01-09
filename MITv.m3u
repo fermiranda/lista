@@ -3178,8 +3178,10 @@ https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2022-01-09T16:00&end_
 https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Ca
 http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA", CBS KPIX-TV 5.1 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
 https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco HD
+https://v-ca.mybtv.net/event/162/1280x720.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA FHD
 https://v-la.mybtv.net/event/161/1920x1080.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD
@@ -3227,8 +3229,6 @@ https://v-ca.mybtv.net/event/184/768x432.m3u8?start_time=2022-01-09T16:00&end_ti
 https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
 https://v-ca.mybtv.net/event/162/1280x720.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD Short 15
-http://gratis.shortgod.com/hablapemongol/tv15.php?c=85461
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco SD
 https://v-ca.mybtv.net/event/162/768x432.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/610kBTMJ9IL.png" group-title="USA", KPIX 5.2 Start - San Francisco SD
@@ -3324,7 +3324,7 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/76569
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
-http://gratis.shortgod.com/descargaen-shortgod.com/tv13.php?c=54585
+
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 http://qqtv.nl:8080/live/norma/12345/148112.m3u8
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
@@ -3349,8 +3349,8 @@ http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/93841/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC MIAMI
 
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC Chicago Short 15
-http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=85474
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", AB
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
@@ -3412,7 +3412,7 @@ https://d3mza9xaqch9ab.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/210/810/png-clipart-starz-encore-starz-distribution-logo-television-others-television-angle.png" group-title="USA", Starz
 http://iptvcanales.gq/canales/ok/StarZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/800px-Starz_Edge_logo.svg.png" group-title="USA", Starz Edge
-http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/827/324/997/tv-channel-icons-pack-starz-comedy-color-png-icon.jpg" group-title="USA", Starz Comedy
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/464/1022/330/tv-channel-icons-pack-starz-cinema-color-png-icon.jpg" group-title="USA", Starz Cinema
