@@ -3172,8 +3172,10 @@ http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=85396
 http://181.114.57.158:4000/play/Cs2DUxDwctvq2BmH/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
 https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly HD
+https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2022-01-09T16:00&end_time=2022-01-09T24:00
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Ca
 http://iptvcanales.gq/canales/rojo/93842/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA", CBS KPIX-TV 5.1 
