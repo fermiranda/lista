@@ -4020,6 +4020,23 @@ http://cdn4.cyclingnews.live/hls/Q1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",  Tampa Bay Buccaneers vs Carolina Panthers
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+https://d10nbk66ckd93y.cloudfront.net/hls/raiders/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+https://d10nbk66ckd93y.cloudfront.net/hls/raiders/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+https://d10nbk66ckd93y.cloudfront.net:443/hls/raiders/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+http://stalkertvlatino.com:8080/live/Franklin01/Franklin02/104173.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+http://blackaddon.com/sat/sportzone-114.php?canal=hd1&cat=hd&k=blackghooooooooooost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/135-1359720_sunday-night-football-snf-logo-sunday-night-football.png" group-title="NFL SNF", Los Angeles Chargers vs Las Vegas Raiders
+https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
+
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  St. Louis Blues - Dallas Stars (idioma:en) (opcion 1) 
 http://blackaddon.com/sat/mac-114.php?url=https://macron.xyz/player/1/100&k=blackghooooooooooost&f=.m3u8 
