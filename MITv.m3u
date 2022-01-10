@@ -2900,16 +2900,16 @@ http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=13408
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdsu-tv-us-la.png" group-title="USA", NBC New Orleans
-http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=85447
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdsu-tv-us-la.png" group-title="USA", NBC
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" group-title="USA",NBC East WBTS-CD1 Boston
 http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Miami
-http://gratis.shortgod.com/descargaen-shortgod.com/tv13.php?c=42646
+
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC KING 5 SEATTLE WA
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Ny
-http://gratis.shortgod.com/descargaen-shortgod.com/tv13.php?c=42647
+
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.vhv.rs/dpng/d/33-336649_nbc-5-dallas-logo-hd-png-download.png" group-title="USA", NBC Ca
 http://iptvcanales.gq/canales/rojo/93843/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC 4 LA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/330px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", NBC 4 LA
@@ -2958,7 +2958,7 @@ https://v-ny.mybtv.net/event/550/1280x720.m3u8?start_time=2022-01-10T00:05&end_t
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
 
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX*
+#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 
@@ -2971,16 +2971,15 @@ http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
 
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
-https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
+https://v-la.mybtv.net/event/82/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
-https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
+https://v-la.mybtv.net/event/82/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
 https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
-https://v-la.mybtv.net/event/82/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
 https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
-https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
+https://v-la.mybtv.net/event/83/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
 https://v-la.mybtv.net/event/164/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles HD
@@ -3138,12 +3137,8 @@ http://thebestiptv.xyz:8880/live/david.r.evans@gmail.com/jabLzEWeY7/662590.m3u8
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20330.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
 https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
-https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
 https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
-https://v-sd.mybtv.net/event/512/1280x+720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30&uid=33630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego SD
 https://v-sd.mybtv.net/event/512/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA", KNSD 39.2 Cozi TV - San Diego
@@ -3191,8 +3186,8 @@ https://v-la.mybtv.net/event/161/1280x720.m3u8?start_time=2022-01-10T00:05&end_t
 http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=85469
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS HOUSTON
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD Short 15
-http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=85461
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
 https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York HD
