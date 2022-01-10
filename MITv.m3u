@@ -3493,7 +3493,38 @@ http://203.154.243.89:11205
 #EXTINF:1 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/A%26E_(Latinoam%C3%A9rica)#/media/Archivo:A&E_Network_logo.svg.png" group-title="USA", A&E (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602424157576.jpg" group-title="USA", A y E 
+http://54.39.49.162:8081/AYE/USA%7CAYE/playlist.m3u8
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1607297752577.png"group-title="USA", CINEMAX 
+http://54.39.49.162:8081/CINEMAX/USA%7CCINEMAX/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1607318989324.png"group-title="USA", FX 
+http://54.39.49.162:8081/USA%7CFX/USA%7CFX/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1607318972218.jpg"group-title="USA", FXM 
+http://54.39.49.162:8081/USA%7CFXM/USA%7CFXM/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1618436407349.pnggroup-title="USA"", HBO 
+http://54.39.49.162:8081/USA%7CHBO1/USA%7CHBO1/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1634487888580.png"group-title="USA", HBO-2 
+http://54.39.49.162:8081/USA%7CHBO2/USA%7CHBO2/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1634487973384.png"group-title="USA", HBO-FAMILY 
+http://54.39.49.162:8081/USA%7CHBOFAMILY/USA%7CHBOFAMILY/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602377277575.png"group-title="USA", HBO-FIRMA 
+http://54.39.49.162:8081/USA%7CHBOSIGNATURE/USA%7CHBOSIGNATURE/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602377171554.png"group-title="USA", HBO-COMEDY 
+http://54.39.49.162:8081/USA%7CHBOCOMEDY/USA%7CHBOCOMEDY/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602372959579.jpg"group-title="USA", HALLMARK-MYM 
+http://54.39.49.162:8081/HALLMARKMYM/USA%7CHALLMARKMYM/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602372889377.jpg"group-title="USA", HALLMARK-DRAMA 
+http://54.39.49.162:8081/HALLMARKDRAMA/USA%7CHALLMARKDRAMA/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602372817281.png"group-title="USA", HALLMARK 
+http://54.39.49.162:8081/HALLMARK/USA%7CHALLMARK/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602378225276.png"group-title="USA", PARAMOUNT-NETWORK 
+http://54.39.49.162:8081/USA%7CPARAMOUNTNETWORK/USA%7CPARAMOUNTNETWORK/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602374416478.jpg"group-title="USA", SHOWTIME-EAST 
+http://54.39.49.162:8081/SHOWTIMEAST/USA%7CSHOWTIMEAST/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602378279153.png"group-title="USA", SHOWTIME-WEST 
+http://54.39.49.162:8081/SHOWTIMEWEST/USA%7CSHOWTIMEWEST/playlist.m3u8 
+#EXTINF: -1 tvg-logo = "https://innovatv.live/posters/1602345433361.jpg"group-title="USA", SYFY 
+http://54.39.49.162:8081/USA%7CSYFY/USA%7CSYFY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia803100.us.archive.org/2/items/HboEast/hbo%20east.png" group-title="USA", HBO (East)
 
