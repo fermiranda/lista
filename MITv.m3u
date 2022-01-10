@@ -25,6 +25,8 @@ https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Web
 https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
+http://51.79.18.128:8081/LATINO%7CCANALDELASESTRELLAS/LATINO%7CCANALDELASESTRELLAS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 15
 http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=1514
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
@@ -93,7 +95,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2178&f=HLSAD&s=hk
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2Hrs. Bg 3
 http://tvbross.com:8090/live/Jose/Jose123/509.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-
+http://51.79.18.128:8081/LATINO%7CCANAL5/LATINO%7CCANAL5/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Tlv
 http://blackaddon.com/play/ftvll-114.php?id=elcinco&k=blackghooooooooooost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TvCl
@@ -127,7 +129,7 @@ http://iptvcanales.gq/canales/televall/494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
-http://blackaddon.com/play/futvall-114.php?id=elnueve&k=blackghooooooooooost&file=.m3u8
+http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Tp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE HD TP
@@ -160,11 +162,13 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLS&s=hkc26at
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV HD TP Bg
 http://blackaddon.com/play//totalp1-114.php?c=700&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV
-
+http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV
 
 #EXTINF:-1 tvg-logo="http://www.lobosmexico.com/uploads/5/1/5/9/5159290/1421740183.png" group-title="NACIONALES", Foro TV Tijuana
 https://v-sd.mybtv.net/event/762/768x432.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
+http://51.79.18.128:8081/LATINO%7CAZTECA1/LATINO%7CAZTECA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -211,6 +215,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1870&f=HLSAD&s=hk
 http://blackaddon.com/play//totalp1-114.php?c=1870&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego
 https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7
+http://51.79.18.128:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 KyTv
@@ -265,8 +271,10 @@ http://blackaddon.com/play//totalp1-114.php?c=1931&k=black&f=.m3u8
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web Dl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Sd
+http://54.39.48.63:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP
@@ -310,7 +318,7 @@ http://blackaddon.com/play/futvall-114.php?id=amas&k=blackghooooooooooost&file=.
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Fv
 http://blackaddon.com/play/futvall-114.php?id=amas&k=blackghooooooooooost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ 
-
+http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2348&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Noroeste TP
@@ -1050,14 +1058,16 @@ http://iptvcanales.gq/canales/tvfree/55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", GALAVISION
 
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
-
+http://54.39.49.162:8081/UNIVERSO/USA%7CUNIVERSO/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Ca
 http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO Ca
 http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC UNIVERSO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV
+http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV San Diego
 https://v-sd.mybtv.net/event/490/1280x720.m3u8?start_time=2022-01-10T00:05&end_time=2022-01-10T08:30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos",ESTRELLA TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
@@ -1080,7 +1090,7 @@ http://iptvcanales.gq/canales/televall/658/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Short 15
 http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=785
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv
-
+http://54.39.48.63:8081/COLOMBIA%7CCARACOL/COLOMBIA%7CCARACOL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="Internacionales Latinos", Caracol Tv HD
 http://gratis.shortgod.com/descargaen-shortgod.com/tv15.php?c=781
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png" group-title="Internacionales Latinos", TvMax Panama Web
