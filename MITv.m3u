@@ -32,7 +32,7 @@ http://51.79.18.128:8081/LATINO%7CCANALDELASESTRELLAS/LATINO%7CCANALDELASESTRELL
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 15
 http://gratis.shortgod.com/holashortgod.com/tv15.php?c=1514
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
-http://ky-tv.cc:25461/David59459/2354545444/384800
+http://ky-tv.cc:25461/live/David59459/2354545444/384800.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
 http://ky-tv.cc:25461/live/David59459/2354545444/384800.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Bg 13
@@ -53,6 +53,8 @@ http://45.179.140.242:8000/play/a0ij
 http://blackaddon.com/play/zufree-118.php?c=3100
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 1
 http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3100
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 1
+http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3150
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://blackaddon.com/play/zufree-118.php?c=3150
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas TTv 2
@@ -129,6 +131,8 @@ http://blackaddon.com/play/futvall-118.php?id=elcinco&k=blackghooooooooooost&fil
 http://iptvcanales.gq/canales/televall/494/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 ZTv
 http://blackaddon.com/play/zufree-118.php?c=3146
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3146
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Tp
@@ -144,6 +148,10 @@ http://gratis.shortgod.com/holashortgod.com/tv15.php?c=7772
 http://blackaddon.com/play//totalp1-118.php?c=1783&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Ca Tlv
 http://iptvcanales.gq/canales/televall/496/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+http://blackaddon.com/play/zufree-118.php?c=3147
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3147
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ 
 https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2022-01-11T14:15&end_time=2022-01-11T23:00
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
@@ -205,9 +213,11 @@ http://tvbross.com:8090/live/Jose/Jose123/504.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 http://blackaddon.com/play/futvall-118.php?id=aztecauno&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno KyTv
-http://ky-tv.cc:25461/David59459/2354545444/384770
+http://ky-tv.cc:25461/live/David59459/2354545444/384770.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-
+http://blackaddon.com/play/zufree-118.php?c=3143
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
+http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3143
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj FHD
 https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2022-01-11T14:15&end_time=2022-01-11T23:00
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP
@@ -221,7 +231,7 @@ http://51.79.18.128:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 KyTv
-http://ky-tv.cc:25461/David59459/2354545444/384771
+http://ky-tv.cc:25461/live/David59459/2354545444/384771.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Ca Tlv
 http://iptvcanales.gq/canales/televall/5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Ca Tlv
@@ -484,9 +494,9 @@ http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/67.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg Tlv
 http://blackaddon.com/play/mitv6-118.php?id=history&k=blackghooooooooooost&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514539
+http://ky-tv.cc:25461/live/David59459/2354545444/514539.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514524
+http://ky-tv.cc:25461/live/David59459/2354545444/514524.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg Tlv
 http://blackaddon.com/play/mitv6-118.php?id=h2&k=blackghooooooooooost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca Tlv
@@ -948,7 +958,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f991887
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="24/7", CSI EN ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/3a1a07364091e7ad5788133aaf260faa/content/6033fb4c9e282010f8cc968b/2c018034069dbf13c7e1c7d1828380ff/img.jpg" group-title="24/7",  Alienigenas Ancestrales
-http://ky-tv.cc:25461/David59459/2354545444/511064
+http://ky-tv.cc:25461/live/David59459/2354545444/511064.m3u8
 #EXTINF:-1 tvg-logo="https://eltecolote.mx/wp-content/uploads/2020/10/animaniacs-hulu-trailer-wakko-yakko-dot-social.png" group-title="24/7", ANIMANIACS TlC
 http://tv.teleclub.xyz/live/HLS_01/ANIMANIATICS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/60/f4/ce/60f4ce97b6d100aab364d6d43a628c4f.jpg" group-title="24/7", JUEGO DE TRONOS
@@ -1165,9 +1175,9 @@ https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514529
+http://ky-tv.cc:25461/live/David59459/2354545444/514529.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514534
+http://ky-tv.cc:25461/live/David59459/2354545444/514534.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO Short 15
 http://gratis.shortgod.com/holashortgod.com/tv15.php?c=57251
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
@@ -1217,7 +1227,7 @@ http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TvCl
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/732.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514525
+http://ky-tv.cc:25461/live/David59459/2354545444/514525.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 3
 http://tvbross.com:8090/live/Jose/Jose123/428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
@@ -1299,7 +1309,7 @@ http://blackaddon.com/play/gnula-118.php?u=user2&c=129751.m3u8|User-Agent=VLC/3.
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 11
 http://gratis.shortgod.com/holashortgod.com/tv11.php?c=1475
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family KyTv
-http://ky-tv.cc:25461/David59459/2354545444/514528
+http://ky-tv.cc:25461/live/David59459/2354545444/514528.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ec
 http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/1540
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature 
@@ -1624,7 +1634,7 @@ http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC FHD KyTv
-http://ky-tv.cc:25461/David59459/2354545444/384758
+http://ky-tv.cc:25461/live/David59459/2354545444/384758.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
@@ -2435,7 +2445,7 @@ http://iptvcanales.gq/canales/tvfree/201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FuboTv FS US HD
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-
+http://54.39.49.162:8081/FS1/USA%7CFS1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
@@ -2449,7 +2459,7 @@ http://iptvcanales.gq/canales/rojo/94096/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-
+http://54.39.49.162:8081/FS2/USA%7CFS2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
