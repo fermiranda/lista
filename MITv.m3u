@@ -2206,6 +2206,10 @@ http://cdn.boxter.live:8081/ssl/0066/playlist.m3u8
 http://31.220.41.90:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgbox.es/images/2020/02/21/sky_uk_sports_premier_league_in_pubsd529d84333ffe79b.png" group-title="DEPORTES",  Sky Sports PL
 
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/698.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/822.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Web
 https://live-streams-notusa.televisa.com/channel03-b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
@@ -2228,8 +2232,10 @@ http://blackaddon.com/play/zufree-114.php?c=3214
 http://blackaddon.com/play/futvall-114.php?id=tudn-mx&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN HD
 
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Bg 3
-http://blackaddon.com/play/zufree-114.php?c=3215
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fm
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/86.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fm
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/100.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Fv
 http://blackaddon.com/play/futvall-114.php?id=tudn-us&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Ca
