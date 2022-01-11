@@ -1897,7 +1897,7 @@ http://iptvcanales.gq/canales/total/2089/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Web
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
+http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Bg 3
 http://blackaddon.com/play/zufree-114.php?c=3433
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Ca
@@ -2122,6 +2122,8 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga De Campeones
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
+ http://54.39.48.63:8081/AFIZZIONADOS/SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
 http://user.tvcluboficial.com/stream/nov/Nov/878.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados Bg 13
 http://blackaddon.com/play/gnula-114.php?u=user1&c=128943.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
@@ -2303,13 +2305,13 @@ https://blackghost.live/play/totalp1-123.php?c=170&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Fv
 http://blackaddon.com/play/futvall-114.php?id=foxsports1-mx&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-
+http://54.39.48.63:8081/FOXSPORTS/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX HD TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-
+http://54.39.48.63:8081/FOXSPORTS2/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Fv
 http://blackaddon.com/play/futvall-114.php?id=foxsports2-mx&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
@@ -2317,7 +2319,7 @@ http://blackaddon.com/play/futvall-114.php?id=foxsports2-mx&k=blackghooooooooooo
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://blackaddon.com/play/futvall-114.php?id=foxpsorts3-mx&k=blackghooooooooooost&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-
+http://54.39.48.63:8081/FOXSPORTS3/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX HD
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX TP
