@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij
+http://51.79.18.128:8081/LATINO%7CTELEVISATIJUANA/LATINO%7CTELEVISATIJUANA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
 https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2022-01-12T07:00&end_time=2022-01-12T15:45
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
