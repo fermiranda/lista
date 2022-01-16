@@ -3968,6 +3968,21 @@ https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-16T16:15&end_t
 #EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   Philadelphia Eagles vs Tampa Bay Buccaneers 
 http://blackaddon.com/play//totalp1-222.php?c=170&k=black&f=.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   San Francisco 49ers vs Dallas Cowboys CBS USA
+https://v-la.mybtv.net/event/161/1280x720.m3u8?start_time=2022-01-16T21:10&end_time=2022-01-17T06:00
+#EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   San Francisco 49ers vs Dallas Cowboys 
+https://d10nbk66ckd93y.cloudfront.net/hls/cowboys/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   San Francisco 49ers vs Dallas Cowboys 
+https://d10nbk66ckd93y.cloudfront.net/hls/cowboys/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   San Francisco 49ers vs Dallas Cowboys 
+https://d10nbk66ckd93y.cloudfront.net:443/hls/cowboys/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   San Francisco 49ers vs Dallas Cowboys 
+http://34.74.229.150:8081/hls/y10/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
 https://d10nbk66ckd93y.cloudfront.net/hls/pistons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Houston Rockets
