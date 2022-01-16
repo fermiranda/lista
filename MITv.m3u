@@ -3955,3 +3955,30 @@ https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-16T16:15&end_t
 #EXTINF:-1 tvg-logo="https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2022/01/NFL-Wild-Card.png" group-title="NFL",   Philadelphia Eagles vs Tampa Bay Buccaneers 
 http://blackaddon.com/play//totalp1-118.php?c=170&k=black&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
+https://d10nbk66ckd93y.cloudfront.net/hls/pistons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Houston Rockets
+https://d10nbk66ckd93y.cloudfront.net/hls/king/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Golden State Warriors
+https://d10nbk66ckd93y.cloudfront.net/hls/timberwolves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Utah Jazz
+https://d10nbk66ckd93y.cloudfront.net/hls/nuggets/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
+https://d10nbk66ckd93y.cloudfront.net/hls/pistons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Houston Rockets
+https://d10nbk66ckd93y.cloudfront.net/hls/king/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Golden State Warriors
+https://d10nbk66ckd93y.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Utah Jazz
+https://d10nbk66ckd93y.cloudfront.net/hls/nuggets/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Phoenix Suns
+https://d10nbk66ckd93y.cloudfront.net:443/hls/pistons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Houston Rockets
+https://d10nbk66ckd93y.cloudfront.net:443/hls/king/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Golden State Warriors
+https://d10nbk66ckd93y.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Utah Jazz
+https://d10nbk66ckd93y.cloudfront.net:443/hls/nuggets/chunks.m3u8
+
