@@ -1208,8 +1208,10 @@ http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
 http://tvbross.com:8090/live/Jose/Jose123/431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TvCl
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/654.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TvCl
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/62.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Play
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/2945.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Bg 3
 http://tvbross.com:8090/live/Jose/Jose123/430.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Short 11
@@ -1218,16 +1220,15 @@ http://gratis.shortgod.com/holashortgod.com/tv11.php?c=1472
 http://iptvcanales.gq/canales/rojo/281/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
 http://iptvcanales.gq/canales/tvfree/31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO TvCl
-http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/62.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ca
 http://iptvcanales.gq/canales/stream/0071/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ftj
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3656.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Bg 13
-http://blackaddon.com/play/gnula-222.php?u=user2&c=129742.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Ec
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/1596
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD Short 1
@@ -1246,8 +1247,8 @@ http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/732.m3u8
 http://ky-tv.cc:25461/live/David59459/2354545444/514525.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg 3
 http://tvbross.com:8090/live/Jose/Jose123/428.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Play
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1837.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD Cl
 http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Short 15
@@ -1312,16 +1313,16 @@ http://tv.teleclub.xyz/live/HLS_01/HBO_FAMILY/index.m3u8
 http://iptvcanales.gq/canales/tvfree/210/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Ca
 http://iptvcanales.gq/canales/stream/0073/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Play
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/5243.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 3
 http://tvbross.com:8090/live/Jose/Jose123/426.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 1
 http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TvCl
 http://tv.teleclub.xyz/live/HLS_01/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg 13
-http://blackaddon.com/play/gnula-222.php?u=user2&c=129751.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
+
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 11
 http://gratis.shortgod.com/holashortgod.com/tv11.php?c=1475
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family KyTv
@@ -1338,8 +1339,8 @@ http://tvbross.com:8090/live/Jose/Jose123/422.m3u8
 http://tv.teleclub.xyz/live/HLS_01/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 1
 http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3301
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg 13
-http://blackaddon.com/play/gnula-222.php?u=user2&c=129770.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Play
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1850.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Ec
 http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/1592
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 11
@@ -1374,12 +1375,12 @@ http://gratis.shortgod.com/holashortgod.com/tv11.php?c=1463
 http://tvbross.com:8090/live/Jose/Jose123/419.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/841.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg 13
-http://blackaddon.com/play/gnula-222.php?u=user2&c=129776.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Short 1
 http://gratis.shortgod.com/holashortgod.com/tv1.php?c=3302
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Ec
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/8484
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop 
 http://gratis.shortgod.com/holashortgod.com/tv15.php?c=55143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Cl1
@@ -1394,12 +1395,14 @@ http://tvbross.com:8090/live/Jose/Jose123/420.m3u8
 http://tv.teleclub.xyz/live/HLS_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Bg 13
 http://blackaddon.com/play/gnula-222.php?u=user2&c=129767.m3u8|User-Agent=VLC/3.0.12.1 LibVLC/3.0.12.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ec
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/39803
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Play
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/2815.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", SHOWTIME TvCl
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/697.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", SHOWTIME Short 7
 http://gratis.shortgod.com/holashortgod.com/tv7.php?c=4103
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png" group-title="ENTRETENIMIENTO", ActionMax
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/5250.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="ENTRETENIMIENTO", MovieMax
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/678.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short 7
