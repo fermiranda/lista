@@ -2891,6 +2891,14 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-name="FREE SPORTS" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="DEPORTES", FREE SPORTS
 https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="DEPORTES", 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="DEPORTES", 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="DEPORTES", 
+http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="DEPORTES",
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="DEPORTES", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
