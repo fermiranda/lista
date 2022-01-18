@@ -4019,4 +4019,34 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Minnesota Timberwolves
+https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Detroit Pistons
+https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Minnesota Timberwolves
+https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Detroit Pistons
+https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Minnesota Timberwolves
+https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Detroit Pistons
+https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Hurricanes Vs Bruins
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435972.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Sabres Vs Senators
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435973.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Jets Vs Capitals 
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435974.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Islanders Vs Flyers 
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435975.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Canucks Vs Predators
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435976.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Canadiens Vs Stars 
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435977.m3u8
+#EXTINF:-1  tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Panthers Vs Flames
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435978.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", Lightning Vs Kings
+http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435979.m3u8
