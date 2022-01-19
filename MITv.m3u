@@ -993,6 +993,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/697.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL HD
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/703.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
@@ -1460,6 +1462,10 @@ http://gratis.shortgod.com/helloshortgod/tv7.php?c=4103
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/5250.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="ENTRETENIMIENTO", MovieMax
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/678.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion TvCl
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/699.m3u8
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion HD TvCl
+http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/706.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short 7
 http://gratis.shortgod.com/helloshortgod/tv7.php?c=4097
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD TvCl
@@ -1468,7 +1474,7 @@ http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/685.m3u8
 http://gratis.shortgod.com/helloshortgod/tv7.php?c=4088
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema TvCl
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/680.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short 7 `
 http://gratis.shortgod.com/helloshortgod/tv7.php?c=4101
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy TvCl
 http://user.tvcluboficial.com/stream/free_Fernando_Miranda/iyr/681.m3u8
