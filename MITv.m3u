@@ -3737,6 +3737,11 @@ http://iptvcanales.gq/canales/ok/USANetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network Ca
 http://iptvcanales.gq/canales/ok/Paramount/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA", Showtime (E)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA", Showtime (W)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94098/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="USA", WarnerTV
 http://203.154.243.89:11205
 #EXTINF:1 tvg-logo="https://es.wikipedia.org/wiki/A%26E_(Latinoam%C3%A9rica)#/media/Archivo:A&E_Network_logo.svg.png" group-title="USA", A&E (Best of)
