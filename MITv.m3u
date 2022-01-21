@@ -3405,19 +3405,21 @@ https://v-la.mybtv.net/event/755/768x432.m3u8?start_time=2022-01-21T01:50&end_ti
 https://v-la.mybtv.net/event/756/768x432.m3u8?start_time=2022-01-21T01:50&end_time=2022-01-21T11:00
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
-http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20100.m3u8
+
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
 https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2022-01-21T01:50&end_time=2022-01-21T11:00
 #EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0084291/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2F58%2Fc35211064bcf8087c0a69d36ae6c%2Fkgtv-geographic-locator-600x200.png" group-title="USA", ABC 10 San Diego  (KGTV)
 https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2022-01-21T01:50&end_time=2022-01-21T11:00
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA",  CBS San Diego (KFMB)
-
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS San Diego (KFMB)
+http://qqtv.nl:8080/live/simon99/simon99/148127.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
+http://qqtv.nl:8080/live/simon99/simon99/56474.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
-http://thebestiptv.xyz:8880/live/david.r.evans@gmail.com/jabLzEWeY7/662590.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA",  NBC 39  San Diego  (KNSD)
-http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/20330.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
+http://qqtv.nl:8080/live/simon99/simon99/148171.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
 https://v-sd.mybtv.net/event/512/1920x1080.m3u8?start_time=2022-01-21T01:50&end_time=2022-01-21T11:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
@@ -3638,8 +3640,8 @@ https://v-ny.mybtv.net/event/554/1280x720.m3u8?start_time=2022-01-21T01:50&end_t
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
 https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2022-01-21T01:50&end_time=2022-01-21T11:00
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC 10 San Diego
+http://qqtv.nl:8080/live/simon99/simon99/148093.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="USA",  ABC 2 Atlanta GA News
 https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j1Hx75.png" group-title="USA", ABC 10 San Diego CA News
