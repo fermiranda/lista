@@ -2679,7 +2679,7 @@ http://qqtv.nl:8080/live/simon99/simon99/412865.m3u8
 http://qqtv.nl:8080/live/simon99/simon99/8004.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="DEPORTES", TSN 5 SD
 http://qqtv.nl:8080/live/simon99/simon99/412866.m3u8
-#EXTINF:-1tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="DEPORTES", TSN 5 HD
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="DEPORTES", TSN 5 HD
 http://qqtv.nl:8080/live/simon99/simon99/8003.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBA_TV_Canada#/media/File:NBA_TV_Canada_2020.png" group-title="DEPORTES", NBA TV Canada
@@ -2696,7 +2696,7 @@ http://qqtv.nl:8080/live/simon99/simon99/8003.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="DEPORTES", Sportsnet West
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1
 http://qqtv.nl:8080/live/norma/12345/8007.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2
 http://qqtv.nl:8080/live/norma/12345/8006.m3u8
