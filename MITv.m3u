@@ -4102,6 +4102,30 @@ https://v-ca.mybtv.net/event/121/1280x720.m3u8?start_time=2022-01-23T17:05&end_t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Los Angeles Rams vs Tampa Bay Buccaneers
 https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-23T17:05&end_time=2022-01-24T01:45
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://d10nbk66ckd93y.cloudfront.net/hls/cbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://d10nbk66ckd93y.cloudfront.net/hls/cbs/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://d10nbk66ckd93y.cloudfront.net:443/hls/cbs/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://1212d55dd488.us-east-1.playback.live-video.net/api/video/v1/us-east-1.444953194237.channel.9WR8UqMIwFCc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://d55gh12iqapwi.cloudfront.net/stream/MjY0Nw==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+http://185.53.89.126/0123/y10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2022-01-23T22:05&end_time=2022-01-24T06:45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://v-ca.mybtv.net/event/162/1280x720.m3u8?start_time=2022-01-23T22:05&end_time=2022-01-24T06:45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+http://blackaddon.com/sat/sportzone-121.php?canal=hd2&cat=hd&k=blackghoost&file=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/NFL_playoffs_logo_new.svg/1200px-NFL_playoffs_logo_new.svg.png" group-title="NFL",   Buffalo Bills vs Kansas City Chiefs
+https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-23T22:05&end_time=2022-01-24T06:45
+
+
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Los Angeles Clippers
 https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/playlist.m3u8
