@@ -4241,6 +4241,11 @@ https://d2o261tuuoxp3.cloudfront.net/stream/MjY3NA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HD", Golden State Warriors vs Minnesota Timberwolves
 https://d2o261tuuoxp3.cloudfront.net/stream/MjY3NA==/1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Los Angeles Lakers
+http://185.212.202.170/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Minnesota Timberwolves
+http://185.212.202.170/live/n1/playlist.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", NHL NETWORK
