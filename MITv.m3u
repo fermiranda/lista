@@ -4246,7 +4246,10 @@ http://185.212.202.170/live/n1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Minnesota Timberwolves
 http://185.212.202.170/live/n1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Los Angeles Lakers
+http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Minnesota Timberwolves
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://archive.org/download/tvlogos/NHL.png" group-title="NHL CENTER ICE", NHL NETWORK
 http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/435971.m3u8
