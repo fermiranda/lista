@@ -140,6 +140,8 @@ http://blackaddon.com/play/totalp1-133.php?c=2246&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 And
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2713&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2713&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ FHD
 https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2022-01-27T23:30&end_time=2022-01-28T08:00
@@ -454,6 +456,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus TP Bg
 http://blackaddon.com/play/totalp1-133.php?c=1253&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY
+http://54.39.48.63:8081/LATINO%7CMULTIMEDIOSMTY/LATINO%7CMULTIMEDIOSMTY/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios MTY Web
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Laguna Web
@@ -3916,7 +3920,7 @@ http://203.154.243.89:11205
 #EXTINF:1 tvg-logo="https://es.wikipedia.org/wiki/A%26E_(Latinoam%C3%A9rica)#/media/Archivo:A&E_Network_logo.svg.png" group-title="USA", A&E (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602424157576.jpg" group-title="USA", A y E 
+#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602424157576.jpg" group-title="USA", A&E 
 http://54.39.49.162:8081/AYE/USA%7CAYE/playlist.m3u8
 #EXTINF:1 tvg-logo="https://innovatv.live/posters/1607297752577.png"group-title="USA", CINEMAX 
 http://54.39.49.162:8081/CINEMAX/USA%7CCINEMAX/playlist.m3u8 
@@ -3930,9 +3934,9 @@ http://54.39.49.162:8081/USA%7CHBO1/USA%7CHBO1/playlist.m3u8
 http://54.39.49.162:8081/USA%7CHBO2/USA%7CHBO2/playlist.m3u8 
 #EXTINF:1 tvg-logo="https://innovatv.live/posters/1634487973384.png"group-title="USA", HBO FAMILY 
 http://54.39.49.162:8081/USA%7CHBOFAMILY/USA%7CHBOFAMILY/playlist.m3u8 
-#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602377277575.png"group-title="USA", HBO-FIRMA 
+#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602377277575.png"group-title="USA", HBO SIGNATURE
 http://54.39.49.162:8081/USA%7CHBOSIGNATURE/USA%7CHBOSIGNATURE/playlist.m3u8 
-#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602377171554.png"group-title="USA", HBO-COMEDY 
+#EXTINF:1 tvg-logo="https://innovatv.live/posters/1602377171554.png"group-title="USA", HBO COMEDY 
 http://54.39.49.162:8081/USA%7CHBOCOMEDY/USA%7CHBOCOMEDY/playlist.m3u8 
 #EXTINF:1 tvg-logo="https://innovatv.live/posters/1602372959579.jpg"group-title="USA", HALLMARK MYM 
 http://54.39.49.162:8081/HALLMARKMYM/USA%7CHALLMARKMYM/playlist.m3u8 
