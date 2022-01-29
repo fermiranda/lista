@@ -1551,40 +1551,44 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/679.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime Short 7
-http://gratis.shortgod.com/new129/tv7.php?c=4103
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6728
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West Short 
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6729
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png" group-title="ENTRETENIMIENTO", ActionMax
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="ENTRETENIMIENTO",
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png" group-title="ENTRETENIMIENTO", MoviePlex HD
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6743
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short 7
-http://gratis.shortgod.com/new129/tv7.php?c=4097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6733
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/685.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD Short 7
-http://gratis.shortgod.com/new129/tv7.php?c=4088
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6732
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/680.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short 7 `
-http://gratis.shortgod.com/new129/tv7.php?c=4101
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6735
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/681.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy
-
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6734
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/682.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action
-
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6738
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short 7
 http://gratis.shortgod.com/new129/tv7.php?c=4096
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/683.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Short 7
-http://gratis.shortgod.com/new129/tv7.php?c=4095
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Short
+http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6740
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family TvCl
 http://user.tvcluboficial.com/stream/free_Marcos/45b/684.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
@@ -4284,6 +4288,46 @@ http://gratis.shortgod.com/live.php?c=8483
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
+https://d2tj0mi9jdso2q.cloudfront.net/hls/pelicans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Indiana Pacers
+https://d2tj0mi9jdso2q.cloudfront.net/hls/mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Sacramento Kings
+https://d2tj0mi9jdso2q.cloudfront.net/hls/76ers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Toronto Raptors
+https://d2tj0mi9jdso2q.cloudfront.net/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Washington Wizards
+https://d2tj0mi9jdso2q.cloudfront.net/hls/grizzlies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Brooklyn Nets
+https://d2tj0mi9jdso2q.cloudfront.net/hls/ABC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
+https://d2tj0mi9jdso2q.cloudfront.net/hls/pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Indiana Pacers
+https://d2tj0mi9jdso2q.cloudfront.net/hls/mavericks/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Sacramento Kings
+https://d2tj0mi9jdso2q.cloudfront.net/hls/76ers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Toronto Raptors
+https://d2tj0mi9jdso2q.cloudfront.net/hls/heat/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Washington Wizards
+https://d2tj0mi9jdso2q.cloudfront.net/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Brooklyn Nets
+https://d2tj0mi9jdso2q.cloudfront.net/hls/ABC/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Boston Celtics
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Indiana Pacers
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/mavericks/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Sacramento Kings
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/76ers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Toronto Raptors
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/heat/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Washington Wizards
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Brooklyn Nets
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/ABC/chunks.m3u8
 
 
 
