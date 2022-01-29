@@ -3818,9 +3818,9 @@ https://v-ny.mybtv.net/event/554/1280x720.m3u8?start_time=2022-01-29T16:30&end_t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
-https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2022-01-29T16:30&end_time=2022-01-29T24:00
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101943
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC 10 San Diego
-http://qqtv.nl:8080/live/simon99/simon99/148093.m3u8
+http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/101943.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="USA",  ABC 2 Atlanta GA News
 https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j1Hx75.png" group-title="USA", ABC 10 San Diego CA News
