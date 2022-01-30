@@ -4318,6 +4318,12 @@ https://v-pi.mybtv.net/event/318/1280x720.m3u8?start_time=2022-01-30T15:30&end_t
 https://v-la.mybtv.net/event/161/1280x720.m3u8?start_time=2022-01-30T15:30&end_time=2022-01-30T24:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Afc_championship_logo.svg/330px-Afc_championship_logo.svg.png" group-title="NFL",   Cincinnati Bengals vs Kansas City Chiefs
 https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-30T15:30&end_time=2022-01-30T24:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Afc_championship_logo.svg/330px-Afc_championship_logo.svg.png" group-title="NFL",   Cincinnati Bengals vs Kansas City Chiefs
+https://63403df44dc9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.255086858897.channel.iUzJtHOwwJ6M.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Afc_championship_logo.svg/330px-Afc_championship_logo.svg.png" group-title="NFL",   Cincinnati Bengals vs Kansas City Chiefs
+http://d15xyumcalkui.cloudfront.net/flash1/_definst_/y1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Afc_championship_logo.svg/330px-Afc_championship_logo.svg.png" group-title="NFL",   Cincinnati Bengals vs Kansas City Chiefs
+http://198.144.159.40/s_5bc1ioTvNRNfQbjIk9kA/1643602086/3138392e3232332e38302e36/ff1/playlist.m3u8
 
 
 
