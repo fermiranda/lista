@@ -4308,4 +4308,32 @@ https://d1mjgje9chpb23.cloudfront.net:443/hls/warriors/chunks.m3u8
 https://d1mjgje9chpb23.cloudfront.net:443/hls/TNT/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Minnesota Timberwolves
+https://63403df44dc9.us-east-1.playback.live-video.net/api/video/v1/us-east-1.255086858897.channel.ZboFGWLoOBkz.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Chicago Bulls
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Phoenix Suns
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Miami Heat
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Sacramento Kings
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
+
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Detroit Pistons vs Minnesota Timberwolves
+http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Chicago Bulls
+http://45.148.26.176/hls/M3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Phoenix Suns
+http://45.148.26.176/hls/M2.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Miami Heat
+http://45.148.26.176/hls/M4.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Sacramento Kings
+http://45.148.26.176/hls/M5.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
+http://45.148.26.176/hls/M2.m3u8
+
+
 
