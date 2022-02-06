@@ -4242,33 +4242,33 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://45.148.26.176/hls/M1.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/205.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d10nbk66ckd93y.cloudfront.net/hls/mainevent/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d10nbk66ckd93y.cloudfront.net/hls/mainevent/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://d10nbk66ckd93y.cloudfront.net:443/hls/mainevent/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
-https://srv06.varcdn1.ru/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT 
-http://blackaddon.com/sat/sportzone-209.php?canal=hd8&cat=hd&k=blackghoost&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT 
-http://blackaddon.com/sat/sportzone-209.php?canal=hd1&cat=hd&k=blackghoost&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT 
-http://bgaddonkodi.000webhostapp.com/rag.php?c=ch1&k=blackghoost&f=index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT 
-http://bgaddonkodi.000webhostapp.com/rag.php?c=ch2&k=blackghoost&f=index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT Esp
-http://gratis.shortgod.com/live.php?c=8483
+
 #EXTINF:-1 tvg-logo="-" group-title="EVENTO EN VIVO", BOX
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180619/krg/kisspng-one-championship-sport-kickboxing-mixed-martial-ar-champion-logo-5b28a306a0fe18.6410626215293898306594.jpg" group-title="EVENTO EN VIVO", ONE CHAMPIONSHIP FIGHTS
@@ -4306,6 +4306,25 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+https://dqm8bvwrahfi8.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+https://dqm8bvwrahfi8.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+https://d20gwbs7df9lz6.cloudfront.net/stream/MjUwOA==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+https://3c100b5b14d4.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.255086858897.channel.mrY4mhwHixIV.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+http://45.148.26.176/hls/M11.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+http://d15xyumcalkui.cloudfront.net/flash1/_definst_/y1/.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NFL",   NFL PRO-BOWL NFC vs AFC
+http://38.91.57.12:2082/espn/playlist.m3u8
 
 
 
