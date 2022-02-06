@@ -4109,6 +4109,8 @@ http://qqtv.nl:8080/live/norma/12345/404429.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 http://84.22.33.215/nbatv/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV HD
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 http://iptvcanales.gq/canales/rojo/97840/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV HD
