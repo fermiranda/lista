@@ -4327,4 +4327,55 @@ http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 http://38.91.57.12:2082/espn/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Philadelphia 76ers
+https://dqm8bvwrahfi8.cloudfront.net/hls/bulls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Detroit Pistons
+https://dqm8bvwrahfi8.cloudfront.net/hls/timberwolves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Brooklyn Nets
+https://dqm8bvwrahfi8.cloudfront.net/hls/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Indiana Pacers
+https://dqm8bvwrahfi8.cloudfront.net/hls/cavaliers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Boston Celtics
+https://dqm8bvwrahfi8.cloudfront.net/hls/magic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Atlanta Hawks
+https://dqm8bvwrahfi8.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs New Orleans Pelicans
+https://dqm8bvwrahfi8.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Milwaukee Bucks
+https://dqm8bvwrahfi8.cloudfront.net/hls/nbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Philadelphia 76ers
+https://dqm8bvwrahfi8.cloudfront.net/hls/bulls/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Detroit Pistons
+https://dqm8bvwrahfi8.cloudfront.net/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Brooklyn Nets
+https://dqm8bvwrahfi8.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Indiana Pacers
+https://dqm8bvwrahfi8.cloudfront.net/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Boston Celtics
+https://dqm8bvwrahfi8.cloudfront.net/hls/magic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Atlanta Hawks
+https://dqm8bvwrahfi8.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs New Orleans Pelicans
+https://dqm8bvwrahfi8.cloudfront.net/hls/rockets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Milwaukee Bucks
+https://dqm8bvwrahfi8.cloudfront.net/hls/nbatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Philadelphia 76ers
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/bulls/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Detroit Pistons
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Brooklyn Nets
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Indiana Pacers
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Boston Celtics
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/magic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Atlanta Hawks
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs New Orleans Pelicans
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/rockets/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Milwaukee Bucks
+https://dqm8bvwrahfi8.cloudfront.net:443/hls/nbatv/chunks.m3u8
+
 
