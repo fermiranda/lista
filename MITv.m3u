@@ -3428,6 +3428,8 @@ https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
 
+#EXTINF:-1 tvg-logo="https://media-uspx.mybtv.net/logos/35.3.png" group-title="USA", GetTv
+https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/px-prd/76d3582c-a48e-49c1-9991-b563f96e11ca/0.m3u8
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/24.2.png" group-title="USA", FNX
 https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/la-prd/97906e40-4ee4-490f-9e0e-d36002fd8749/0.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-28721.png" group-title="USA", AntenaTv
