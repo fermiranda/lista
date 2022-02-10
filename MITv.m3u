@@ -1,4 +1,9 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml	tvtv.us"
+url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml	directv.com"
+url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml	tvguide.com"
+url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
