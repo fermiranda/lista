@@ -9,13 +9,13 @@ https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2022-02-09T23:30&end_
 https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
 https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", PSN Canal 45 Tij FHD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij FHD
 https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", PSN Canal 45 Tij HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij HD
 https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", PSN Canal 45 Tij SD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij SD
 https://v-sd.mybtv.net/event/515/768x432.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", PSN Canal 45 Tij Web
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij Web
 https://playback2.akamaized.net/streams/27053071_8131710_lsiw1iewch35wtt6lcf_1/master.m3u8?dw=14400&hdnts=exp=1644453637~acl=/streams/27053071_8131710_lsiw1iewch35wtt6lcf_1/master.m3u8*~hmac=f365ca57b4b3115d53b407154254cd39a172e166cf95a8b93356f4e9b3cda92f
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv
 https://v-sd.mybtv.net/event/527/768x432.m3u8?start_time=2022-02-09T23:30&end_time=2022-02-10T08:00
@@ -421,6 +421,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNjoxMToyOSBBTSZoYXNoX3ZhbHVlPVVRNTBPalYzYkRzeVlwVTlGNmZ0R1E9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 #EXTINF:-1 tvg-logo="https://canal44.com/wp-content/uploads/2020/10/logocanal.png" group-title="NACIONALES", Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.new.livestream.com/accounts/000000000039d2b3/ac544cd6-b2b2-4a38-9c0e-c661d0864242_50x50.jpg" group-title="NACIONALES", Canal 28 Chihuahua
+https://playback2.akamaized.net/streams/3789491_8003011_lsij6h3iagv3bxx0sky_1/master.m3u8?dw=14400&hdnts=exp=1644454833~acl=/streams/3789491_8003011_lsij6h3iagv3bxx0sky_1/master.m3u8*~hmac=28b2cbed3e3a5f803acf140a503216e1aecbda568ee791b4febd0c88f2ae05e6
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Senal-Informativa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Noti Gdl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6km0ku
 #EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
