@@ -3286,24 +3286,56 @@ http://iptvcanales.gq/canales/televall/601/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA", MTV Classics
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9gufmrcvswqx.png" group-title="USA RADIO", " group-title="MX RADIO", Los 40 Tijuana
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/exa-tijuana.png" group-title="MX RADIO", Exa Tijuana 91.7
+https://14923.live.streamtheworld.com/XHGLX_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="MX RADIO", Amor 95.3
+https://18683.live.streamtheworld.com/XHSHFMAAC_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cku5na5gvqza.png" group-title="MX RADIO", Baladas Romanticas Radio
+https://streaming2.radiobaladas.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO", 
+
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO",  
+
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO",  
+
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO", 
+
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO", 
+
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO", 
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7zm4cyaqkhcp.webp" group-title="MX RADIO", Amor 103.3
+https://18233.live.streamtheworld.com/XHRHFMAAC_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZqdsH3qPt5.jpg" group-title="MX RADIO", MORE FM 98.9
+http://radio.cadenanoticias.com:8004/morefm989
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/fm-globo-993.png" group-title="MX RADIO", FM Globo Tijuana 99.3
+https://14923.live.streamtheworld.com/XHOCL_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9gufmrcvswqx.png" group-title="MX RADIO", Los 40 Tijuana 107.7
 http://s1.audiorama.mx:6600/;stream
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/globo-mexicali.png" group-title="MX RADIO", FM Globo Mexicali 101.9
+https://18683.live.streamtheworld.com/XHPFFM_SC
 
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO", 
 
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO",  
 
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO",  
 
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
+#EXTINF:-1 tvg-logo=" " group-title="MX RADIO",  
 
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
-
-#EXTINF:-1 tvg-logo=" " group-title="USA RADIO", " group-title="MX RADIO", 
-
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/61c2a12124639eb52ebe0968" group-title="USA RADIO", " group-title="MX RADIO", LOS 40 Monterrey
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/QcAZwkB4r5.png" group-title="MX RADIO", Mix 106.5 CDMX
+https://14523.live.streamtheworld.com/XHDFMFMAAC_SC
+#EXTINF:-1 tvg-logo="https://escucha.los40.com.mx/build/assets/los40mx/img/logo.png" group-title="MX RADIO", " group-title="MX RADIO", LOS 40 Monterrey
 https://19813.live.streamtheworld.com/LOS40_MTYAAC.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/t3bDQLkUK2.png" group-title="MX RADIO", OZZI FM Tijuana
+http://node-22.zeno.fm/8nrpgvauyv8uv?rj-ttl=5&rj-tok=AAABfuoO25AAFyP7Ndok9hfkTQ
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/syvqf4tpmqhn.png" group-title="USA RADIO", The Mix Radio 80s
+http://51.255.127.128:8016/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yfff9pyf7k3w.jpg" group-title="USA RADIO", Back to the 80"s
+http://s1.nexuscast.com:8135/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl4bvwwwmhej.jpg" group-title="USA RADIO", The Big 80"s Station
+http://s5.nexuscast.com:8065/;
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/61c2a12124639eb52ebe0968" group-title="USA RADIO", ♫ 94.5 3WS-Pittsburgh's Classic Hits
 https://n3cb-e2.revma.ihrhls.com/zc2029/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/2021.png" group-title="USA RADIO", ♫ 96.1 Kiss-Pittsburgh's #1 Hit Music
