@@ -61,7 +61,7 @@ http://gratis.shortgod.com/ras123/tv1.php?c=3100
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Short 1
 http://gratis.shortgod.com/ras123/tv1.php?c=3150
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Bg1
-http://blackaddon.com/play/pl-235.php?c=411
+http://blackaddon.com/play/pl-235.php?c=411&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
 http://ky-tv.cc:25461/live/David59459/2354545444/384800.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas KyTv
@@ -546,9 +546,9 @@ http://blackaddon.com/play/zufree-235.php?c=3095
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Short 7
 http://gratis.shortgod.com/ras123/tv7.php?c=1064
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg1
-http://blackaddon.com/play/pl-235.php?c=67
+http://blackaddon.com/play/pl-235.php?c=67&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg1
-http://blackaddon.com/play/pl-235.php?c=642
+http://blackaddon.com/play/pl-235.php?c=642&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TlC1
 http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TlC2
@@ -576,9 +576,9 @@ http://tv.teleclub.xyz/live/HLS_02/H2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg3
 http://blackaddon.com/play/zufree-235.php?c=3258
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg1
-http://blackaddon.com/play/pl-235.php?c=61
+http://blackaddon.com/play/pl-235.php?c=61&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg1
-http://blackaddon.com/play/pl-235.php?c=760
+http://blackaddon.com/play/pl-235.php?c=760&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 https://chromecast.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -1078,13 +1078,13 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL SS
 http://qqtv.nl:8080/live/simon99/simon99/20308.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL Bg1
-http://blackaddon.com/play/pl-235.php?c=697
+http://blackaddon.com/play/pl-235.php?c=697&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL TTv1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL S1
 http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/697
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL HD Bg1
-http://blackaddon.com/play/pl-235.php?c=701
+http://blackaddon.com/play/pl-235.php?c=701&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL HD TTv1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL HD S1
@@ -1134,9 +1134,9 @@ http://gratis.shortgod.com/ras123/tv7.php?c=19570
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/acwAAOSwwxRevgvW/s-l300.png" group-title="24/7", DRAGON BALL Short 7
 http://gratis.shortgod.com/ras123/tv7.php?c=19569
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/acwAAOSwwxRevgvW/s-l300.png" group-title="24/7", DRAGON BALL Bg1
-http://blackaddon.com/play/pl-235.php?c=425
+http://blackaddon.com/play/pl-235.php?c=425&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/7VgAAOSwAfhd~qnB/s-l500.jpg" group-title="24/7", DRAGON BALL GT Bg1
-http://blackaddon.com/play/pl-235.php?c=67
+http://blackaddon.com/play/pl-235.php?c=67&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/7VgAAOSwAfhd~qnB/s-l500.jpg" group-title="24/7", DRAGON BALL GT TTv
 
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/7VgAAOSwAfhd~qnB/s-l500.jpg" group-title="24/7", DRAGON BALL GT Ca
@@ -1412,7 +1412,7 @@ http://gratis.shortgod.com/ras123/tv7.php?c=19257
 http://blackaddon.com/play/zufree-235.php?c=3296
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO TlC1
 http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO ClC2
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO TlC2
 http://tv.teleclub.xyz/live/HLS_02/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO TTv1
 
@@ -1738,7 +1738,7 @@ http://iptvcanales.gq/canales/tvfree/81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Ca Tlv
 http://iptvcanales.gq/canales/televall/541/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Bg1
-http://blackaddon.com/play/pl-235.php?c=102
+http://blackaddon.com/play/pl-235.php?c=102&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL Bg3
 http://blackaddon.com/play/zufree-235.php?c=3140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL TP
@@ -1838,7 +1838,7 @@ http://tv.teleclub.xyz/live/HLS_01/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TlC2
 http://tv.teleclub.xyz/live/HLS_02/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal Bg1
-http://blackaddon.com/play/pl-235.php?c=84
+http://blackaddon.com/play/pl-235.php?c=84&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal Bg3
 http://blackaddon.com/play/zufree-235.php?c=3120
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
@@ -1866,10 +1866,10 @@ http://iptvcanales.gq/canales/televall/743/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
 https://na.gt-app.com:2083/live/UIapp/qLzpvNzf04JgYjTwKbHfMnRoLgXf/11.ts|user-agent=  GT app
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png" group-title="ENTRETENIMIENTO", Universal Crime Bg10
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png" group-title="ENTRETENIMIENTO", Universal Crime
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT Bg1
-http://blackaddon.com/play/pl-235.php?c=179
+http://blackaddon.com/play/pl-235.php?c=179&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
@@ -1913,7 +1913,7 @@ http://iptvcanales.gq/canales/televall/548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES Bg1
-http://blackaddon.com/play/pl-235.php?c=90
+http://blackaddon.com/play/pl-235.php?c=90&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES HD TP
@@ -1933,7 +1933,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=94&f=HLSAD&s=hkc2
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime TP Short
 http://gratis.shortgod.com/ras123/geomex.php?c=94&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime Bg1
-http://blackaddon.com/play/pl-235.php?c=152
+http://blackaddon.com/play/pl-235.php?c=152&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM TP
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=128&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM TP
@@ -1943,7 +1943,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLS&s=hkc26
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM TP Short
 http://gratis.shortgod.com/ras123/geomex.php?c=128&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM Bg1
-http://blackaddon.com/play/pl-235.php?c=85
+http://blackaddon.com/play/pl-235.php?c=85&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM Bg3
 http://blackaddon.com/play/zufree-235.php?c=3124
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TP
@@ -1953,7 +1953,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Bg1
-http://blackaddon.com/play/pl-235.php?c=183
+http://blackaddon.com/play/pl-235.php?c=183&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TlC1
 http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TlC2
@@ -2051,7 +2051,7 @@ http://blackaddon.com/play/futvall-235.php?id=dhe&k=b1ackghoooooost&dos=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg1
-http://blackaddon.com/play/pl-235.php?c=20
+http://blackaddon.com/play/pl-235.php?c=20&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TlC1
@@ -2286,7 +2286,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Bg3
 http://blackaddon.com/play/zufree-235.php?c=3211
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Bg1
-http://blackaddon.com/play/pl-235.php?c=204
+http://blackaddon.com/play/pl-235.php?c=204&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Ca
 http://iptvcanales.gq/canales/rojo/574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Short 1
@@ -3332,10 +3332,16 @@ https://19813.live.streamtheworld.com/LOS40_MTYAAC.aac
 http://node-22.zeno.fm/8nrpgvauyv8uv?rj-ttl=5&rj-tok=AAABfuoO25AAFyP7Ndok9hfkTQ
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/syvqf4tpmqhn.png" group-title="USA RADIO", The Mix Radio 80s
 http://51.255.127.128:8016/stream
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yfff9pyf7k3w.jpg" group-title="USA RADIO", Back to the 80"s
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yfff9pyf7k3w.jpg" group-title="USA RADIO", Back to the 80's
 http://s1.nexuscast.com:8135/;
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl4bvwwwmhej.jpg" group-title="USA RADIO", The Big 80"s Station
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl4bvwwwmhej.jpg" group-title="USA RADIO", The Big 80's Station
 http://s5.nexuscast.com:8065/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rnndmm4qr2ym.jpg" group-title="USA RADIO", 80's 90's Super Pop Hits
+https://streamingv2.shoutcast.com/80s90ssuperpophits
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3qp8vmresf6k.png" group-title="USA RADIO", Totally Radio 80s Au
+https://25053.live.streamtheworld.com/T_RAD_80S_S01_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/m3a8ha8m2eq8.png" group-title="USA RADIO", Totally Radio 90s Au
+https://24883.live.streamtheworld.com/T_RAD_90S_S01_SC
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/61c2a12124639eb52ebe0968" group-title="USA RADIO", ♫ 94.5 3WS-Pittsburgh's Classic Hits
 https://n3cb-e2.revma.ihrhls.com/zc2029/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets/images/2021.png" group-title="USA RADIO", ♫ 96.1 Kiss-Pittsburgh's #1 Hit Music
