@@ -2356,9 +2356,9 @@ http://116.203.143.191/video/movistar_laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 9
 http://145.239.142.113/BEIN-1-SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 10
-http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/30172.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 11
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 12
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 13
@@ -2377,29 +2377,18 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 http://154.62.74.29:1935/live/barza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 20
 http://91.126.138.141:1935/live/barza/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego
-https://play.girlupx.cn/live/ballbar_26680.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego
-https://play.girlupx.cn/live/ballbar_17460.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego
-https://14e3311ce669.us-east-1.playback.live-video.net/api/video/v1/us-east-1.913884104887.channel.NdMx4nkhOIo0.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego
-http://amigosrevo.ddns.net:8080/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego 
-http://blackaddon.com/play/futvall-235.php?id=skysportspl&k=blackghoost&file=.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 1", Juego 
-http://45.148.26.176/hls/M11.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://d15xyumcalkui.cloudfront.net/flash1/_definst_/k2/playlist.m3u8
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 http://185.53.89.183/hls/ssla.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-
+http://cdn4.cyclingnews.live/hls/Q3.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo 
 http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
@@ -2429,7 +2418,7 @@ http://livehls.ltjuq.top/ofmatch/HD1621141.m3u8?auth_key=1642358833-f3da0c39a5b6
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 http://185.53.89.183/hls/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo*
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
