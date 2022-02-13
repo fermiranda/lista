@@ -3771,7 +3771,7 @@ https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2022-02-12T23:30&end_t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego SD
 https://v-sd.mybtv.net/event/512/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA", KNSD 39.2 Cozi TV - San Diego
-https://v-sd.mybtv.net/event/513/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
+https://v-sd.mybtv.net/live/513.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
 https://v-sd.mybtv.net/live/528.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
@@ -3792,14 +3792,12 @@ http://vmp343.ddnsking.com:80/live/6TsHqtha5/Wbz13J8d2w/439834.m3u8
 http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="USA", CBS Seattle WA (KIRO-TV1)
 http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png" group-title="USA", CBS Phoenix
-https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://downloads.channelmaster.com/Images/chanlogo-cbs.png" group-title="USA", CBS 4 WFOR
 
 #EXTINF:-1 tvg-logo="https://downloads.channelmaster.com/Images/chanlogo-cbs.png" group-title="USA", CBS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
+https://v-pi.mybtv.net/live/318.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
 https://v-pi.mybtv.net/event/318/1920x1080.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly HD
@@ -3836,11 +3834,11 @@ https://v-ny.mybtv.net/event/545/1280x720.m3u8?start_time=2022-02-12T23:30&end_t
 https://v-ny.mybtv.net/event/545/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/952/1011/png-transparent-indianapolis-wttv-cbs-news-television-others-television-angle-sport-thumbnail.png" group-title="USA", CBS 4 INDIANAPOLIS
 https://v-in.mybtv.net/event/826/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX FHD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 PHOENIX FHD
 https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX FHD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 PHOENIX FHD
 https://v-px.mybtv.net/event/48/1920x1080.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KYW-TV#/media/File:KYW-TV_CBS_2013_logo.png" group-title="USA", CBS 3 PHOENIX HD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png" group-title="USA", CBS 3 PHOENIX HD
 https://v-px.mybtv.net/event/48/1280x720.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
 https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-2&x=1
@@ -3866,6 +3864,8 @@ https://v-ca.mybtv.net/event/246/768x432.m3u8?start_time=2022-02-12T23:30&end_ti
 https://v-ca.mybtv.net/event/213/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.5 Shop LC - San Francisco SD
 https://v-ca.mybtv.net/event/184/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
+https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
 https://v-ca.mybtv.net/event/162/1920x1080.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
@@ -4003,7 +4003,8 @@ http://iptvcanales.gq/canales/rojo/93841/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 
-
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
+https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
 https://v-ny.mybtv.net/event/554/1280x720.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 
@@ -4013,20 +4014,6 @@ https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101943
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC 10 San Diego
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/101943.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLNvGbt.png" group-title="USA",  ABC 2 Atlanta GA News
-https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1j1Hx75.png" group-title="USA", ABC 10 San Diego CA News
-https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SBiEXzP.png" group-title="USA",ABC 15 Phoenix AZ News
-https://d1x9zfzf9roioy.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60998e4a5b0b051955170c4e_knxv-live/b7ba6371-db64-4797-9ff9-0a6e3f3c2ff1/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WT4UtR7.png" group-title="USA",CBS 7 Dayton OH News
-https://whio-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6ffdf7633b2e077bda44_whio-live/6301d11e-05d0-4487-8d2e-09d3927d0d70/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6470R1.png" group-title="USA",CBS 7 Seattle WA News
-https://kiro-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6a57697fde61b473b214_kiro-live/cb075082-6363-4e06-b769-fd508bbe8b6c/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEjcM9P.png" group-title="USA",CBS 47 | FOX 30 Jacksonville FL News
-https://wjax-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec72001057fa6e4b3ebcd2_wjax-live/6f5aef42-21d9-4551-887e-eb18a7945066/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95mOsU4.png" group-title="USA",FOX 13 Now Memphis TN News
-https://d19n8xh4l47isv.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6bc0404a67d082e463913_whbq-live/abc1b709-6d84-4deb-84a8-dec3ea77b5e8/0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932750132294115336/JIZUc950_400x400.jpg" group-title="USA", WPXI PITT WEB
@@ -4035,8 +4022,8 @@ https://d19n8xh4l47isv.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", KNXV-CW61AZ (The CW 61 Arizona)
+https://v-px.mybtv.net/live/160.m3u8?env=prd&uid=-2&x=1
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png" group-title="USA", Unsolved Mysteries
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8
