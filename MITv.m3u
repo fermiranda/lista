@@ -2888,14 +2888,16 @@ http://iptvcanales.gq/canales/rojo/97864/playlist.m3u8
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
-
+http://38.91.57.12:2082/tsn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
-http://balkanshark.com:25461/live/speedhdhd/acjQyHovsC/1357.m3u8
+http://38.91.57.12:2082/tsn2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3  
-http://balkanshark.com:25461/live/speedhdhd/acjQyHovsC/1358.m3u8
+http://38.91.57.12:2082/tsn3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5 
+http://38.91.57.12:2082/tsn4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5
+http://38.91.57.12:2082/tsn5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
 
 
