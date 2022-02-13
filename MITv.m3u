@@ -11,22 +11,10 @@ https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2022-02-12T23:30&end_
 https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
 https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij FHD
-https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij HD
-https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij SD
-https://v-sd.mybtv.net/event/515/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/PSN-TV-en-vivo-Online-218x150.png" group-title="NACIONALES", PSN Canal 45 Tij Web
-https://playback2.akamaized.net/streams/27053071_8131710_lsiw1iewch35wtt6lcf_1/master.m3u8?dw=14400&hdnts=exp=1644453637~acl=/streams/27053071_8131710_lsiw1iewch35wtt6lcf_1/master.m3u8*~hmac=f365ca57b4b3115d53b407154254cd39a172e166cf95a8b93356f4e9b3cda92f
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv
-https://v-sd.mybtv.net/event/527/768x432.m3u8?start_time=2022-02-12T23:30&end_time=2022-02-13T08:00
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="" group-title="NOTICIAS",Uno TV
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali
 http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
