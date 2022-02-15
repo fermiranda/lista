@@ -2381,6 +2381,12 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 http://45.148.26.176/hls/M1.m3u8
 #EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
 https://25417a819f7a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.112834220227.channel.OqCGLi42OGr0.m3u8
+#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
+https://d1eqmybbugbqy9.cloudfront.net/hls/btsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
+
+#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/551/336/png-clipart-premier-league-england-national-football-team-liverpool-f-c-crystal-palace-f-c-premier-league-purple-english.png" group-title="FUTBOL HOY", EPL
 http://45.148.26.176/hls/M2.m3u8
 
