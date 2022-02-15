@@ -1069,8 +1069,8 @@ http://regioplay.xyz/611022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="24/7", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL SS
-http://qqtv.nl:8080/live/simon99/simon99/20308.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL Bg1
 http://blackaddon.com/play/pl-235.php?c=697&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png" group-title="24/7", CINE MARVEL TTv1
@@ -2253,8 +2253,8 @@ http://54.39.49.162:8081/MLBNETWORK/SPORTS/playlist.m3u8
 http://blackaddon.com/play/zufree-235.php?c=3433
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Ca
 http://iptvcanales.gq/canales/rojo/97839/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network SS
-http://qqtv.nl:8080/live/simon99/simon99/7873.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://ky-iptv.com:80/live/feroze/feroze/176144.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
@@ -2903,26 +2903,7 @@ http://38.91.57.12:2082/tsn5/playlist.m3u8
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_1_ca.png" group-title="DEPORTES", TSN 1 SD
-http://qqtv.nl:8080/live/simon99/simon99/412862.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_1_ca.png" group-title="DEPORTES", TSN 1 HD
-http://qqtv.nl:8080/live/simon99/simon99/8007.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_2_ca.png" group-title="DEPORTES", TSN 2 SD
-http://qqtv.nl:8080/live/simon99/simon99/412863.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_2_ca.png" group-title="DEPORTES", TSN 2 HD
-http://qqtv.nl:8080/live/simon99/simon99/8006.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_3_ca.png" group-title="DEPORTES", TSN 3 SD
-http://qqtv.nl:8080/live/simon99/simon99/412864.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_3_ca.png" group-title="DEPORTES", TSN 3 HD
-http://qqtv.nl:8080/live/simon99/simon99/8005.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_4_ca.png" group-title="DEPORTES", TSN 4 SD
-http://qqtv.nl:8080/live/simon99/simon99/412865.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_4_ca.png" group-title="DEPORTES", TSN 4 HD
-http://qqtv.nl:8080/live/simon99/simon99/8004.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="DEPORTES", TSN 5 SD
-http://qqtv.nl:8080/live/simon99/simon99/412866.m3u8
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_5_ca.png" group-title="DEPORTES", TSN 5 HD
-http://qqtv.nl:8080/live/simon99/simon99/8003.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Canada/tsn_1_ca.png" group-title="DEPORTES", TSN 1 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3046
@@ -3501,8 +3482,8 @@ https://v-ny.mybtv.net/event/548/1920x1080.m3u8?start_time=2022-02-14T23:30&end_
 https://v-ny.mybtv.net/event/548/1280x720.m3u8?start_time=2022-02-14T23:30&end_time=2022-02-15T08:00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC WNBC 4.1 NY HD
 http://balkanshark.com:25461/live/speedhdhd/acjQyHovsC/1366.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC Short 15
-http://gratis.shortgod.com/shortgodgratis/tv15.php?c=13408
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC 7 San Diego
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC San Diego
@@ -3550,9 +3531,9 @@ http://iptvcanales.gq/canales/ok/Telemundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Short 13
 http://gratis.shortgod.com/shortgodgratis/tv13.php?c=924
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo HD
-http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/1507.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo HD
-http://51.222.43.170:36995/live/VWjRdtmNC33j/nmcaSkXXW4bH/259235.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami Web
 
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo  47 NY
@@ -3757,15 +3738,15 @@ https://v-sd.mybtv.net/event/491/1280x720.m3u8?start_time=2022-02-14T23:30&end_t
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
 https://v-sd.mybtv.net/event/491/768x432.m3u8?start_time=2022-02-14T23:30&end_time=2022-02-15T08:00
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS San Diego (KFMB)
-http://qqtv.nl:8080/live/simon99/simon99/148127.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
-http://qqtv.nl:8080/live/simon99/simon99/56474.m3u8
+http://ky-iptv.com:80/dean2/dean2/517249.ts 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5  San Diego(KSWB)
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
-http://qqtv.nl:8080/live/simon99/simon99/148171.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
 https://v-sd.mybtv.net/live/512.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
@@ -3784,7 +3765,7 @@ https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2022-02-14T23:30&end_t
 https://v-sd.mybtv.net/event/528/1280x720.m3u8?start_time=2022-02-14T23:30&end_time=2022-02-15T08:00
 #EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego SD
 https://v-sd.mybtv.net/event/528/768x432.m3u8?start_time=2022-02-14T23:30&end_time=2022-02-15T08:00
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA",FOX (KSWB) San Diego CA
+#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX (KSWB) San Diego CA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
