@@ -1121,8 +1121,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/futurama_
 http://blackaddon.com/play/pl-235.php?c=416
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7", Pinky y Cerebro 24/7
 http://blackaddon.com/play/pl-235.php?c=721
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/60/f4/ce/60f4ce97b6d100aab364d6d43a628c4f.jpg" group-title="24/7", JUEGO DE TRONOS
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/60/f4/ce/60f4ce97b6d100aab364d6d43a628c4f.jpg" group-title="24/7", JUEGO DE TRONOS Bg1
+http://blackaddon.com/play/pl-235.php?c=515&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/60/f4/ce/60f4ce97b6d100aab364d6d43a628c4f.jpg" group-title="24/7", JUEGO DE TRONOS
 
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/acwAAOSwwxRevgvW/s-l300.png" group-title="24/7", DRAGON BALL
@@ -1603,17 +1603,17 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Bg9
 http://blackaddon.com/play/megapro-235.php?c=131|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
-
+http://blackaddon.com/play/pl-235.php?c=679&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6728
+
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West Short 
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6729
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png" group-title="ENTRETENIMIENTO", ActionMax
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="ENTRETENIMIENTO",
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png" group-title="ENTRETENIMIENTO", MoviePlex HD
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6743
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png" group-title="ENTRETENIMIENTO", MoviePlex HD
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion
@@ -1621,31 +1621,31 @@ http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6743
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="ENTRETENIMIENTO", Cine Accion HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1024px-Starz_Edge_logo.svg.png" group-title="ENTRETENIMIENTO", Starz Edge Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6733
+
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD
 
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6732
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema
 
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Bg1
+http://blackaddon.com/play/pl-235.php?c=680&f=.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6735
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy
 
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy Bg1
+http://blackaddon.com/play/pl-235.php?c=681&f=.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png" group-title="ENTRETENIMIENTO", Starz Comedy Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6734
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action
 
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Bg1
+http://blackaddon.com/play/pl-235.php?c=682&f=.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6738
+
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action
 
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black
-
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Bg1
+http://blackaddon.com/play/pl-235.php?c=683&f=.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6740
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family
 
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family Bg1
+http://blackaddon.com/play/pl-235.php?c=684&f=.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
 
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
