@@ -521,6 +521,8 @@ https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 https://v-sd.mybtv.net/live/526.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-84313.png"  group-title="RELIGION", Canal de la Fe
 https://v-sd.mybtv.net/event/526/768x432.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/660-6603733_iglesia-pentecostal-espiritu-santo-y-fuego-graphic-design.png"  group-title="RELIGION", Espiritu Santo y Fuego
+https://v-fn.mybtv.net/live/893.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://r.3abn.org/sched-app/img/lat.png"  group-title="RELIGION", 3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png"  group-title="RELIGION", Aliento vision
