@@ -505,16 +505,32 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="NACIONALES", TVP Mazatlan Web
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png"  group-title="RELIGION", ENSE Tv Web
+#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png"  group-title="RELIGION", ESNE Tv Web
 https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
-#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png"  group-title="RELIGION", ENSE Tv
+#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png"  group-title="RELIGION", ESNE Tv
 https://v-px.mybtv.net/live/204.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Mariavision.mx.png"  group-title="RELIGION", MariaVision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://montemaria.org/web/img/logo6.png"  group-title="RELIGION", Montemaria
+https://616eee1852d6c.streamlock.net/live/myStream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.pngg"  group-title="RELIGION", La Voz de Maria
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/canal-diocesano-logo.jpg"  group-title="RELIGION", Canal Diocesano
+https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-84313.png"  group-title="RELIGION", Canal de la Fe
 https://v-sd.mybtv.net/live/526.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-84313.png"  group-title="RELIGION", Canal de la Fe
 https://v-sd.mybtv.net/event/526/768x432.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
+#EXTINF:-1 tvg-logo="https://r.3abn.org/sched-app/img/lat.png"  group-title="RELIGION", 3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png"  group-title="RELIGION", Aliento vision
+https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www1.cbn.com/sites/default/modules/custom/cbn_nav/images/int-bg-logoLink-CBNtv.jpg"  group-title="RELIGION", CBN Tv Es
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/920-9203951_esperanza-tv-hope-channel.png"  group-title="RELIGION", Esperanza Tv
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://ebenezer.hn/2020/wp-content/uploads/2019/12/icono-web.png"  group-title="RELIGION", Ebenezer Tv
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxXrzyTz/Logoo-Vision-Latina-TV.png"  group-title="RELIGION", Vision Latina TV
 https://v-fn.mybtv.net/live/969.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1, tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="MUNDO Y CULTURA", DW ESP
@@ -556,9 +572,9 @@ http://blackaddon.com/play/futvall-235.php?id=history&k=b1ackghooooooosst&dos=.m
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-
+http://soberon.us:25461/live/bullnew/soberonnew/123.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-
+http://soberon.us:25461/live/bullnew/soberonnew/122.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 SRS
 https://gratis.shortgod.com/restream/WCPwpc98199.php?id=h2
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca Tlv
@@ -1399,7 +1415,7 @@ https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
-
+http://soberon.us:25461/live/bullnew/soberonnew/118.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO TTv1
@@ -1412,10 +1428,6 @@ http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
 http://tv.teleclub.xyz/live/HLS_02/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="ENTRETENIMIENTO", HBO TTv1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6317
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO Short
-http://144.126.128.123:25461/ShortGod/descargaen-ShortGod.com/6318
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO HD
@@ -1449,7 +1461,7 @@ http://138.36.253.12:8009/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TTv1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-
+http://soberon.us:25461/live/bullnew/soberonnew/119.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC1
@@ -1481,7 +1493,7 @@ http://blackaddon.com/play/megapro-235.php?c=63|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TTv1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://soberon.us:25461/live/bullnew/soberonnew/121.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Short 1
 http://gratis.shortgod.com/shortgodgratis/tv1.php?c=3300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC1
@@ -1529,7 +1541,7 @@ http://tv.teleclub.xyz/live/HLS_02/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg9
 http://blackaddon.com/play/megapro-235.php?c=62|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://soberon.us:25461/live/bullnew/soberonnew/120.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1560,8 +1572,8 @@ http://blackaddon.com/play/megapro-235.php?c=61|User-agent=megaplayer
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TTv1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+http://soberon.us:25461/live/bullnew/soberonnew/128.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC1
 http://tv.teleclub.xyz/live/HLS_01/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC2
@@ -1589,7 +1601,7 @@ http://gratis.shortgod.com/shortgodgratis/tv1.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-
+http://soberon.us:25461/live/bullnew/soberonnew/129.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC1
 http://tv.teleclub.xyz/live/HLS_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Ca
@@ -1606,8 +1618,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3
 http://blackaddon.com/play/megapro-235.php?c=131|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
 http://blackaddon.com/play/pl-235.php?c=679&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime Short
-
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
+http://soberon.us:25461/live/bullnew/soberonnew/142.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West Short 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png" group-title="ENTRETENIMIENTO", ActionMax
@@ -1626,8 +1638,8 @@ http://blackaddon.com/play/pl-235.php?c=699&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD
 http://blackaddon.com/play/pl-235.php?c=679&f=.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD Short
-
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAP9/b240d5379e.png" group-title="ENTRETENIMIENTO", Starz HD
+http://soberon.us:25461/live/bullnew/soberonnew/145.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Bg1
 http://blackaddon.com/play/pl-235.php?c=680&f=.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png" group-title="ENTRETENIMIENTO", Starz Cinema Short
@@ -1648,6 +1660,8 @@ http://blackaddon.com/play/pl-235.php?c=683&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family Bg1
 http://blackaddon.com/play/pl-235.php?c=684&f=.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/EwAP2/4233777062.png" group-title="ENTRETENIMIENTO", Starz Encore Family
+http://soberon.us:25461/live/bullnew/soberonnew/146.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
 
 #EXTINF:-1 tvg-logo="-" group-title="ENTRETENIMIENTO", MX PRIME
