@@ -3850,12 +3850,18 @@ https://v-ny.mybtv.net/event/545/1280x720.m3u8?start_time=2022-02-15T23:30&end_t
 https://v-ny.mybtv.net/event/545/768x432.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/952/1011/png-transparent-indianapolis-wttv-cbs-news-television-others-television-angle-sport-thumbnail.png" group-title="USA", CBS 4 INDIANAPOLIS
 https://v-in.mybtv.net/event/826/768x432.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
-#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 PHOENIX FHD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 Phoenix FHD
 https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 PHOENIX FHD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 Phoenix FHD
 https://v-px.mybtv.net/event/48/1920x1080.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
-#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png" group-title="USA", CBS 3 PHOENIX HD
+#EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png" group-title="USA", CBS 3 Phoenix HD
 https://v-px.mybtv.net/event/48/1280x720.m3u8?start_time=2022-02-15T23:30&end_time=2022-02-16T08:00
+#EXTINF:-1  tvg-logo="https://assets.scrippsdigital.com/cms/images/color_schemes/knxv/square--144.png" group-title="USA", KNXV-TV ABC 15 Phoenix 
+https://v-px.mybtv.net/live/27.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/226/7/png-clipart-kpnx-phoenix-logo-of-nbc-news-knaz-tv-material-world-television-text.png" group-title="USA", KPNX-TV NBC 12 Phoenix
+https://v-px.mybtv.net/live/55.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/1200px-Fts-phoenix-a.svg.png" group-title="USA", KSAZ-TV FOX 10 Phoenix
+https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
 https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
