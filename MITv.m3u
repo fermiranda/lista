@@ -4501,7 +4501,16 @@ http://soberon.us:25461/live/bullnew/soberonnew/3056.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Miami Heat
+https://d1eqmybbugbqy9.cloudfront.net/hls/hornets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Washington Wizards
+https://d1eqmybbugbqy9.cloudfront.net/hls/nets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Dallas Mavericks
+https://d1eqmybbugbqy9.cloudfront.net/hls/pelicans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Philadelphia 76ers
+https://d1eqmybbugbqy9.cloudfront.net/hls/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Houston Rockets
+https://d1eqmybbugbqy9.cloudfront.net/hls/clippers/playlist.m3u8
 
 
 
