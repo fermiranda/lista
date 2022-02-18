@@ -4525,7 +4525,10 @@ http://185.209.15.94:81/hls/n5.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Miami Heat
 https://bca46fdb117e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.390851107462.channel.LSdsQljBl1Gw.m3u8
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Washington Wizards
+https://f9ba88b7457f.us-west-2.playback.live-video.net/api/video/v1/us-west-2.390851107462.channel.CWdDIaO5jgRu.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Dallas Mavericks
+https://f9ba88b7457f.us-west-2.playback.live-video.net/api/video/v1/us-west-2.390851107462.channel.yBNqYL8sUShm.m3u8
 
 
 
