@@ -4492,7 +4492,8 @@ http://soberon.us:25461/live/bullnew/soberonnew/3055.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA GAME PASS", GAME 14
 http://soberon.us:25461/live/bullnew/soberonnew/3056.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", 2022 NBA Rising Stars
+https://d1eqmybbugbqy9.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", 2022 NBA Rising Stars
 https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=oRB5uuT__h4&ab_channel=CT5
 
