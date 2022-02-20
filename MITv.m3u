@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
@@ -121,7 +120,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2246&f=HLS&s=hkc2
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg3
 http://blackaddon.com/play/zufree-226.php?c=3038
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=elcinco&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=elcinco&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP -2 Hrs.
@@ -155,7 +154,7 @@ http://blackaddon.com/play/totalp1-226.php?c=1783&p=3&k=blackg&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Short16
 http://gratis.shortgod.com/restream/shortgod910.php?id=elnueve
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=elnueve&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=elnueve&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
@@ -227,7 +226,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2057&f=HLS&s=hkc2
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Ca Tlv
 http://iptvcanales.gq/canales/televall/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=aztecauno&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=aztecauno&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
@@ -281,9 +280,9 @@ http://iptvcanales.gq/canales/televall/495/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=azteca7&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=azteca7&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 HD Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=azteca7hd&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=azteca7hd&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana
 https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana 
@@ -335,7 +334,7 @@ http://iptvcanales.gq/canales/televall/7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Bg22 Fv
-http://blackaddon.com/play/futvall-226.php?id=imagentv&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=imagentv&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Short1
 http://gratis.shortgod.com/descarga-shortgod211/tv1.php?c=3097
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij
@@ -566,7 +565,7 @@ http://gratis.shortgod.com/descarga-shortgod211/tv7.php?c=2140.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 https://chromecast.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg22 Fvl
-http://blackaddon.com/play/futvall-226.php?id=history&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=history&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
@@ -598,7 +597,7 @@ http://clubtv.link/f15/lista2.php?c=3258&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://181.191.141.4:9981/stream/channelid/886152250?profile=pass
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg22 Fvl
-http://blackaddon.com/play/futvall-226.php?id=h2&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=h2&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 S2
 http://gratis.shortgod.com/descarga-shortgod211/tv2.php?c=10303
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Ca
@@ -1740,7 +1739,7 @@ http://144.126.128.123:25461/live/ratonrctmr/jajaja/6767.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER S1
 http://gratis.shortgod.com/descarga-shortgod211/tv1.php?c=3468
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg22 Tlv
-http://blackaddon.com/play/futvall-226.php?id=mp&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=mp&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Short
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
@@ -2055,7 +2054,7 @@ http://181.176.148.142:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE S16
 http://gratis.shortgod.com/descarga-shortgod211/tv16.php?c=dhe
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg22 Fvl
-http://blackaddon.com/play/futvall-226.php?id=dhe&k=b1ackghoooooooosst&dos=.m3u8
+http://blackaddon.com/play/futvall-226.php?id=dhe&k=blackghooooooooooosst&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg1
 http://blackaddon.com/play/plat-226.php?c=844&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
@@ -4553,4 +4552,7 @@ http://blackaddon.com/sat/mac-226.php?url=https://macron.xyz/player/1/107&k=blac
 http://blackaddon.com/sat/mac-226.php?url=https://macron.xyz/player/2/107&k=blackghooooooooooosst&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  San Jose Sharks - Vegas Golden Knights (idioma:en) (opcion 3) 
 http://blackaddon.com/sat/mac-226.php?url=https://macron.xyz/player/3/107&k=blackghooooooooooosst&f=.m3u8
+
+
+
 
