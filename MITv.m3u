@@ -2341,7 +2341,7 @@ http://51.222.42.17:8080/UFC/index.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/lig.png" group-title="DEPORTES", SuperSports La Liga
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego A
-https://d2s5lwdqivejk9.cloudfront.net/stream/MjgzNw==/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego B
 https://bal.varcdn1.ru/lb/mp/index.m3u8
 
@@ -2357,25 +2357,19 @@ bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 4
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 5
-http://cdn2.cyclingnews.live/hls/P1.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 6
-http://cdn2.cyclingnews.live/hls/P2.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 7
-http://cdn2.cyclingnews.live/hls/P3.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 8
-http://116.203.143.191/video/movistar_laliga/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 9
-http://145.239.142.113/BEIN-1-SD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 10
-http://77.247.109.249/hls/T1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 11*
-http://77.247.109.249/hls/T2.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 11
-http://77.247.109.249/hls/T3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 11
-http://77.247.109.249/hls/T4.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 11
-http://77.247.109.249/hls/T5.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 12
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 13
@@ -2397,13 +2391,13 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
-http://blackaddon.com/sat/sportzone-226.php?canal=hd6&cat=hd&k=b1ackghoooooooooosst&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images//soccer/leagues/0/384.png" group-title="FUTBOL HOY", SERIE A ITALIA
-http://blackaddon.com/sat/sportzone-226.php?canal=hd2&cat=hd&k=b1ackghoooooooooosst&file=.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/82.png" group-title="FUTBOL HOY", BUNDESLIGA ALEMANIA
-https://d3rwour00l8w6d.cloudfront.net/stream/MjkyNA==/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="-" group-title="FUTBOL HOY", 
 
 #EXTINF:-1 tvg-logo="-" group-title="FUTBOL HOY", 
@@ -2423,50 +2417,29 @@ https://d3rwour00l8w6d.cloudfront.net/stream/MjkyNA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA 
-https://d3rwour00l8w6d.cloudfront.net/stream/MjkxNg==/1080p.m3u8
+https://d35fsyei2cigew.cloudfront.net/stream/MjkzMQ==/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn4.cyclingnews.live/hls/Q3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo 
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-https://srv06.varcdn1.ru/setanta1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo*
-http://45.148.26.176/hls/M4.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://45.148.26.176/hls/M1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://45.148.26.176/hls/M2.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://45.148.26.176/hls/M3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn3.cyclingnews.live/hls/W2.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo*
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
-http://cdn2.cyclingnews.live/hls/P4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 
 
