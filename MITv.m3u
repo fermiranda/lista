@@ -305,6 +305,10 @@ http://54.39.48.63:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
 http://blackaddon.com/play/totalp1-226.php?c=2298&p=3&k=blackg&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP Bg
 http://blackaddon.com/play/totalp1-226.php?c=2606&p=3&k=blackg&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP2 Bg
+http://blackaddon.com/play/totalp2s-226.php?c=2606&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV TP2 Bg
+http://blackaddon.com/play/totalp2s-226.php?c=2298&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Bg11
 https://kokoapps.xyz/ch2.php?ch=imagentv.html&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
