@@ -1180,6 +1180,10 @@ http://clubtv.link/21fb/lista1.php?c=galavision&f=.m3u8
 http://soberon.us:25461/live/bullnew/soberonnew/1377.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", Galavision
 https://kokoapps.xyz/ch2.php?ch=galavision.html&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", Galavision
+https://regioplay.xyz/php/SR_REGIO_312022_/alternativa.php?c=10248
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", Galavision
+
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC Universo
 http://54.39.49.162:8081/UNIVERSO/USA%7CUNIVERSO/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos",NBC Universo
@@ -4275,5 +4279,36 @@ http://soberon.us:25461/live/bullnew/soberonnew/3055.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA GAME PASS", GAME 14
 http://soberon.us:25461/live/bullnew/soberonnew/3056.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Dallas Stars - Winnipeg Jets (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/100&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Dallas Stars - Winnipeg Jets (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/2/100&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Dallas Stars - Winnipeg Jets (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/3/100&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Detroit Red Wings - Colorado Avalanche (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/101&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Detroit Red Wings - Colorado Avalanche (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/2/101&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Detroit Red Wings - Colorado Avalanche (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/3/101&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens - Buffalo Sabres (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/102&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens - Buffalo Sabres (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/2/102&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Montreal Canadiens - Buffalo Sabres (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/3/102&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning - Edmonton Oilers (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/103&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning - Edmonton Oilers (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/2/103&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning - Edmonton Oilers (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/3/103&k=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Arizona Coyotes - Los Angeles Kings (idioma:en) (opcion 1) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/104&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Arizona Coyotes - Los Angeles Kings (idioma:en) (opcion 2) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/2/104&k=&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Arizona Coyotes - Los Angeles Kings (idioma:en) (opcion 3) 
+http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/3/104&k=&f=.m3u8
 
 
