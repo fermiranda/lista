@@ -2490,7 +2490,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1975&f=HLSAD&s=hk
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Bg 3
 http://blackaddon.com/play/zufree-227.php?c=3214
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN Bg
-
+http://blackaddon.com/play/futvall-227.php?id=tudn-mx&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN TTV1
 
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN TvCl
@@ -2499,10 +2499,10 @@ http://blackaddon.com/play/zufree-227.php?c=3214
 http://soberon.us:25461/live/bullnew/soberonnew/3225.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN S1
 http://gratis.shortgod.com/descarga-shortgod211/tv1.php?c=3215
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Bg Fvl
+http://blackaddon.com/play/futvall-227.php?id=tudn-us&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-
+http://blackaddon.com/play/futvall-227.php?id=tudn-us-hd&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN TTv1
@@ -2518,7 +2518,7 @@ http://blackaddon.com/play/zufree-227.php?c=3203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES S1
 http://gratis.shortgod.com/descarga-shortgod211/tv1.php?c=3203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES Bg22 Fvl
-http://blackaddon.com/play/futvall-227.php?id=espndep&k=b1ackghoooooooosst&f=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=espndep&&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES Short
 http://gratis.shortgod.com/live.php?c=8483
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX Bg22 Tlv
@@ -2562,9 +2562,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=170&p=3&k=blackg&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Bg22 Tlv
-http://blackaddon.com/play/futvall-227.php?id=foxsports1-mx&k=b1ackghoooooooosst&f=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=foxsports1-mx&k=&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX Bg LTv
-http://blackaddon.com/play/futvall-227.php?id=foxsports1-mx&k=b1ackghoooooost&file=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=foxsports1-mx&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://54.39.48.63:8081/FOXSPORTS/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX TP
@@ -2572,11 +2572,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 http://54.39.48.63:8081/FOXSPORTS2/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Bg LTv
-http://blackaddon.com/play/futvall-227.php?id=foxsports2-mx&k=b1ackghoooooost&file=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=foxsports2-mx&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX Bg22 Tlv
-http://blackaddon.com/play/futvall-227.php?id=foxsports2-mx&k=b1ackghoooooooosst&f=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=foxsports2-mx&&k=&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX Fv
-http://blackaddon.com/play/futvall-227.php?id=foxsports3-mx&k=b1ackghoooooost&f=.m3u8
+http://blackaddon.com/play/futvall-227.php?id=foxsports3-mx&&k=&file=.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://54.39.48.63:8081/FOXSPORTS3/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX Bf LTv
