@@ -3776,10 +3776,6 @@ http://ky-iptv.com:80/dean2/dean2/648428.ts
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 http://watchbiptv.co:80/KbXAMQ5B/5639176/108654
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
-http://qqtv.nl:8080/live/simon99/simon99/148112.m3u8
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
-http://qqtv.nl:8080/simon99/simon99/148112
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC Burlington-VA (WVNY-TV1)
 http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC 10
@@ -4028,7 +4024,7 @@ https://ddc8aa1e2jz1g.cloudfront.net/hls/nbatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://p2086.securepoint.io:2086/images/81b30a9bc54cc6a21a9e6ff71826a693.png" group-title="DEPORTES", SPECTRUM SPORTSNET LA DODGERS
-http://qqtv.nl:8080/live/simon99/simon99/404429.m3u8
+
 #EXTINF:-1 tvg-logo="http://p2086.securepoint.io:2086/images/81b30a9bc54cc6a21a9e6ff71826a693.png" group-title="DEPORTES", SPECTRUM SPORTSNET LA DODGERS
 
 #EXTINF:-1 tvg-logo="http://p2086.securepoint.io:2086/images/bc484638e34771f67bd9ca409a8edc6e.png" group-title="DEPORTES", SPECTRUM SPORTSNET LAKERS
