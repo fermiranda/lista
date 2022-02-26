@@ -4304,6 +4304,22 @@ http://soberon.us:25461/live/bullnew/soberonnew/3055.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA GAME PASS", GAME 14
 http://soberon.us:25461/live/bullnew/soberonnew/3056.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Detroit Pistons vs Boston Celtics
+https://ddc8aa1e2jz1g.cloudfront.net/hls/pistons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Atlanta Hawks vs Toronto Raptors
+https://ddc8aa1e2jz1g.cloudfront.net/hls/hawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Cleveland Cavaliers vs Washington Wizards
+https://ddc8aa1e2jz1g.cloudfront.net/hls/cavaliers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Miami Heat vs San Antonio Spurs
+https://ddc8aa1e2jz1g.cloudfront.net/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Chicago Bulls vs Memphis Grizzlies
+https://ddc8aa1e2jz1g.cloudfront.net/hls/bulls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Brooklyn Nets ABC
+https://ddc8aa1e2jz1g.cloudfront.net/hls/bucks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Denver Nuggets vs Sacramento Kings
+https://ddc8aa1e2jz1g.cloudfront.net/hls/nuggets/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Florida Panthers - Edmonton Oilers (idioma:en) (opcion 1) 
