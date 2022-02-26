@@ -2244,6 +2244,16 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/XKrUKfD4d469sPMknhE7Q9aiNKst6iSXPUbB_Hm1On-lnQsVf2OLyyqVbr6NcohNpgViyOQ5iB_Ay9k6PHsrPQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
 
@@ -2261,6 +2271,14 @@ http://blackaddon.com/sat/sportzone-227.php?canal=hd2&cat=hd&k=&file=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
 http://blackaddon.com/play/futvall-227.php?id=skysportspl&k=&file=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
+https://dcisiz1qfkk6q.cloudfront.net/stream/MzAxNQ==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
+
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
+
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
+
 #EXTINF:-1 tvg-logo="-" group-title="FUTBOL HOY", 
 
 #EXTINF:-1 tvg-logo="-" group-title="FUTBOL HOY", 
