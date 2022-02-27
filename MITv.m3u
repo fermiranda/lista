@@ -4387,7 +4387,8 @@ https://v-px.mybtv.net/live/27.m3u8?env=prd&uid=-1&x=1
 
 
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes - Edmonton Oilers
+https://snhls-i.akamaihd.net/hls/live/249774/internal_live/master.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes - Edmonton Oilers (idioma:en) (opcion 1) 
 http://blackaddon.com/sat/mac-227.php?url=https://macron.xyz/player/1/131&k=blackghooooooooooossst&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes - Edmonton Oilers (idioma:en) (opcion 2) 
