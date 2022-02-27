@@ -4337,12 +4337,17 @@ https://d2fohnmc8kogc.cloudfront.net/hls/tsn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Phoenix Suns vs Utah Jazz
 https://d2fohnmc8kogc.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Indiana Pacers vs Boston Celtics
+https://d2fohnmc8kogc.cloudfront.net/hls/pacers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Charlotte Hornets vs Detroit Pistons
+https://d2fohnmc8kogc.cloudfront.net/hls/hornets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Houston Rockets vs Los Angeles Clippers
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Dallas Mavericks ESPN
+https://d2fohnmc8kogc.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Dallas Mavericks
+https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Portland Trail Blazers vs Denver Nuggets
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs New Orleans Pelicans ESPN 
-
+https://d2fohnmc8kogc.cloudfront.net/hls/blazers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs New Orleans Pelicans
+https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  New York Knicks vs Philadelphia 76ers
 http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
