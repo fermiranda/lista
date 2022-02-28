@@ -1492,6 +1492,10 @@ http://blackaddon.com/play/megapro-227.php?c=131|User-agent=megaplayer
 http://blackaddon.com/play/plat-227.php?c=679&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
 http://soberon.us:25461/live/bullnew/soberonnew/142.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West
+http://f4.tvxweb.net:8082/24312/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
+http://f4.tvxweb.net:8082/24313/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West Short 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png" group-title="ENTRETENIMIENTO", ActionMax
