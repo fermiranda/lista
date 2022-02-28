@@ -462,9 +462,9 @@ http://blackaddon.com/play/plat-227.php?c=67&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg1
 http://blackaddon.com/play/plat-227.php?c=642&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TlC1
-http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY TlC2
-http://tv.teleclub.xyz/live/HLS_02/HISTORY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY S7
 http://gratis.shortgod.com/gratisenshortgod/tv7.php?c=2140.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
@@ -480,9 +480,9 @@ http://soberon.us:25461/live/bullnew/soberonnew/122.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 SRS
 https://gratis.shortgod.com/restream/WCPwpc98199.php?id=h2
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TlC1
-http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/H2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 TlC2
-http://tv.teleclub.xyz/live/HLS_02/H2/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/H2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg3
 http://blackaddon.com/play/zufree-227.php?c=3258
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 Bg1
@@ -652,7 +652,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network Cl1
-http://tv.teleclub.xyz/live/HLS_02/CARTOON/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/CARTOON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel TP
@@ -660,7 +660,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=113&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel Cl1
-http://tv.teleclub.xyz/live/HLS_02/DISNEY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD TP
@@ -668,9 +668,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD TP
 http://blackaddon.com/play/totalp1-227.php?c=111&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD Cl1
-http://tv.teleclub.xyz/live/HLS_01/DISNEYXD/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/DISNEYXD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD Cl2
-http://tv.teleclub.xyz/live/HLS_02/DISNEYXD/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/DISNEYXD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr TP
@@ -678,9 +678,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=118&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr Cl1
-http://tv.teleclub.xyz/live/HLS_01/DISNEYJR/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/DISNEYJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr Cl2
-http://tv.teleclub.xyz/live/HLS_02/DISNEYJR/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/DISNEYJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids TP
@@ -688,9 +688,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2373&f=HLSAD&s=hk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids TP
 http://blackaddon.com/play/totalp1-227.php?c=2373&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids Cl1
-http://tv.teleclub.xyz/live/HLS_01/NATGEOKIDS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/NATGEOKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids Cl2
-http://tv.teleclub.xyz/live/HLS_02/NATGEOKIDS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/NATGEOKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK TP
@@ -698,11 +698,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=110&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK Cl1
-http://tv.teleclub.xyz/live/HLS_01/NICK/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK Cl2
-http://tv.teleclub.xyz/live/HLS_02/NICK/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK Music Cl1
-http://tv.teleclub.xyz/live/HLS_02/NICKMUSIC/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/NICKMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR TP
@@ -710,9 +710,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=117&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR Cl1
-http://tv.teleclub.xyz/live/HLS_01/NICKJR/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR Cl2
-http://tv.teleclub.xyz/live/HLS_02/NICKJR/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantil", Nick Toons
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png"group-title="Infantil", ONCE NIÑOS Tj
@@ -728,9 +728,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast Cl1
-http://tv.teleclub.xyz/live/HLS_01/TOONCAST/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast Cl2
-http://tv.teleclub.xyz/live/HLS_02/TOONCAST/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe TP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe TP
@@ -738,15 +738,15 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=hk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe TTv 2
 http://clubtv.link/f26/lista2.php?c=3035&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe Cl1
-http://tv.teleclub.xyz/live/HLS_02/BITME/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang Cl1
-http://tv.teleclub.xyz/live/HLS_01/BOOMERANG/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang Cl2
-http://tv.teleclub.xyz/live/HLS_02/BOOMERANG/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids TP
@@ -754,11 +754,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids Cl1
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_KIDS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids Cl2
-http://tv.teleclub.xyz/live/HLS_02/DISCOVERY_KIDS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBCKEv9.png" group-title="Infantil", PakaPaka Cl1
-http://tv.teleclub.xyz/live/HLS_02/EXTERNA_PAKAPAKA/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/EXTERNA_PAKAPAKA/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpSW0AswPGYZQvLVsHbAcTzEyy3.jpg" group-title="PELICULAS" , Eternals (2021)
 https://s16.upstreamcdn.co/hls/w47ryjfd7fbnx2nrozg2usnjbkn37hjuffcicvq5rxuakf3xzmqlygjqqpaa/master.m3u8
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2012/05/01/cropped/696/696/center/dvd-la-chica-del-dragon-tatuado.jpg" group-title="PELICULAS" , La Chica Del Dragon Tatuado 
@@ -1030,7 +1030,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007f
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/3a1a07364091e7ad5788133aaf260faa/content/6033fb4c9e282010f8cc968b/2c018034069dbf13c7e1c7d1828380ff/img.jpg" group-title="24/7",  Alienigenas Ancestrales
 
 #EXTINF:-1 tvg-logo="https://eltecolote.mx/wp-content/uploads/2020/10/animaniacs-hulu-trailer-wakko-yakko-dot-social.png" group-title="24/7", ANIMANIACS TlC
-http://tv.teleclub.xyz/live/HLS_02/ANIMANIATICS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/ANIMANIATICS/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91njyHLUunL._AC_SL1500_.jpg" group-title="24/7", Futurama 24/7
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/futurama_mania02?lang=es-mx
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7", Padre de Familia 24/7
@@ -1220,9 +1220,9 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2681.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
 http://54.39.48.63:8081/COLOMBIA%7CRCN/COLOMBIA%7CRCN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN TlCl1
-http://tv.teleclub.xyz/live/HLS_01/RCN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN TlCl2
-http://tv.teleclub.xyz/live/HLS_02/RCN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN S16
 http://gratis.shortgod.com/gratisenshortgod/tv16.php?c=rcn
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
@@ -1327,9 +1327,9 @@ http://clubtv.link/iptv/24f/tvpremium.php?c=3296&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Bg3
 http://blackaddon.com/play/zufree-227.php?c=3296
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO TTv1
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
@@ -1363,9 +1363,9 @@ http://soberon.us:25461/live/bullnew/soberonnew/119.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO2/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg3
 http://blackaddon.com/play/zufree-227.php?c=3297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
@@ -1391,9 +1391,9 @@ http://200.24.159.179:8500/play/a010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Short 1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO_PLUS/index.m3u
+http://tv.teleclub.xyz/live/MARZO_01/HBO_PLUS/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO_PLUS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Bg3
 http://blackaddon.com/play/zufree-227.php?c=3300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus DTv
@@ -1413,7 +1413,7 @@ http://blackaddon.com/play/zufree-227.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TTv
 http://clubtv.link/iptv/24f/tvpremium.php?c=3298&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO_FAMILY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1421,7 +1421,7 @@ https://edge9-hr.cvattv.com.ar//live/c2live/HBO_Family/SA_SAGEMCOM/HBO_Family.m3
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Short 1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO_FAMILY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg9
 http://blackaddon.com/play/megapro-227.php?c=62|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg4
@@ -1433,9 +1433,9 @@ http://clubtv.link/iptv/24f/tvpremium.php?c=3301&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 https://edge9-hr.cvattv.com.ar//live/c2live/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO_SIGNATURE/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO_SIGNATURE/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3301
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
@@ -1455,9 +1455,9 @@ http://blackaddon.com/play/megapro-227.php?c=61|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 http://soberon.us:25461/live/bullnew/soberonnew/128.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO_XTREME/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO_XTREME/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TTv
 http://clubtv.link/iptv/24f/tvpremium.php?c=3302&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg3
@@ -1475,9 +1475,9 @@ http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 http://soberon.us:25461/live/bullnew/soberonnew/129.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC1
-http://tv.teleclub.xyz/live/HLS_01/HBO_POP/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC2
-http://tv.teleclub.xyz/live/HLS_02/HBO_POP/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop S
 http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6442
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop Bg3
@@ -1590,9 +1590,9 @@ https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel TlC1
-http://tv.teleclub.xyz/live/HLS_01/PARAMOUNT/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel TlC2
-http://tv.teleclub.xyz/live/HLS_02/PARAMOUNT/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel S11
@@ -1632,9 +1632,9 @@ http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL
 http://138.36.253.12:8009/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL TlC1
-http://tv.teleclub.xyz/live/HLS_01/WARNER/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/WARNER/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL TlC2
-http://tv.teleclub.xyz/live/HLS_02/WARNER/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/WARNER/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E
@@ -1668,9 +1668,9 @@ http://blackaddon.com/play/zufree-227.php?c=3025
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
 https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-video=1972000-audio_AACL_eng_144800_51=144800.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN TlC1
-http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN TlC2
-http://tv.teleclub.xyz/live/HLS_02/AXN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Short 11
 http://gratis.shortgod.com/gratisenshortgod/tv11.php?c=75297.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TP
@@ -1706,9 +1706,9 @@ http://201.168.205.12:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TlC1
-http://tv.teleclub.xyz/live/HLS_01/UNIVERSAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL TlC2
-http://tv.teleclub.xyz/live/HLS_02/UNIVERSAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal TP
@@ -1726,9 +1726,9 @@ http://blackaddon.com/play/zufree-227.php?c=3307
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal TlC1
-http://tv.teleclub.xyz/live/HLS_01/STUDIOUNIVERSAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/STUDIOUNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal TlC2
-http://tv.teleclub.xyz/live/HLS_02/STUDIOUNIVERSAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/STUDIOUNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal Flow
 http://181.191.141.4:9981/stream/channelid/750601861?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
@@ -1766,9 +1766,9 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT TlC1
-http://tv.teleclub.xyz/live/HLS_01/TNT/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT TlC2
-http://tv.teleclub.xyz/live/HLS_02/TNT/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3311
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
@@ -1800,9 +1800,9 @@ http://blackaddon.com/play/zufree-227.php?c=3131
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3131
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TlC1
-http://tv.teleclub.xyz/live/HLS_01/TNTSERIES/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/TNTSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TlC2
-http://tv.teleclub.xyz/live/HLS_02/TNTSERIES/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/TNTSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
@@ -1844,9 +1844,9 @@ http://blackaddon.com/play/totalp2s-227.php?c=328&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC Bg1
 http://blackaddon.com/play/plat-227.php?c=183&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TlC1
-http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TlC2
-http://tv.teleclub.xyz/live/HLS_02/AMC/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3021
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
@@ -1870,9 +1870,9 @@ http://blackaddon.com/play/totalp2s-227.php?c=46&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel Bg
 http://blackaddon.com/play/totalp2s-227.php?c=201&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TlC1
-http://tv.teleclub.xyz/live/HLS_01/FOX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TlC2
-http://tv.teleclub.xyz/live/HLS_02/FOX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3072
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel SG
@@ -1886,9 +1886,9 @@ http://blackaddon.com/play/totalp1-227.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TP2 Bg
 http://blackaddon.com/play/totalp2s-227.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TlC1 
-http://tv.teleclub.xyz/live/HLS_01/FX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TlC2 
-http://tv.teleclub.xyz/live/HLS_02/FX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX S2
@@ -1913,9 +1913,9 @@ http://blackaddon.com/play/zufree-227.php?c=3085
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TTV
 http://clubtv.link/iptv/24f/tvpremium.php?c=3085&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TlC1
-http://tv.teleclub.xyz/live/HLS_01/FXM/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/FXM/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TlC2
-http://tv.teleclub.xyz/live/HLS_02/FXM/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/FXM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE S2
 http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/10277
@@ -1954,9 +1954,9 @@ http://blackaddon.com/play/plat-227.php?c=20&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TlC1
-http://tv.teleclub.xyz/live/HLS_01/CINEMAX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TlC2
-http://tv.teleclub.xyz/live/HLS_02/CINEMAX/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3041
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg3
@@ -1986,9 +1986,9 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecana
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3040
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TlC1
-http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TlC2
-http://tv.teleclub.xyz/live/HLS_02/CINECANAL/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
@@ -2004,9 +2004,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3119
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TlC1
-http://tv.teleclub.xyz/live/HLS_01/SPACE/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TlC2
-http://tv.teleclub.xyz/live/HLS_02/SPACE/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
 https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN TP
@@ -2018,9 +2018,9 @@ http://clubtv.link/iptv/24f/mxpremium.php?c=123&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN TlC1
-http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN TlC2
-http://tv.teleclub.xyz/live/HLS_02/GOLDEN/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN TTv
 http://clubtv.link/iptv/24f/tvpremium.php?c=3089&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS TP
@@ -2050,11 +2050,11 @@ http://soberon.us:25461/live/bullnew/soberonnew/756.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier S1
 http://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3092
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier TlC2
-http://tv.teleclub.xyz/live/HLS_01/GOLDENPREMIER/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/GOLDENPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier TlC2
-http://tv.teleclub.xyz/live/HLS_02/GOLDENPREMIER/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/GOLDENPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA TlC2
-http://tv.teleclub.xyz/live/HLS_02/DEPELICULA/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA TP Bg
 http://blackaddon.com/play/totalp1-227.php?c=335&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
@@ -2464,9 +2464,9 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados TTv1
 http://clubtv.link/f26/lista2.php?c=3193&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados TlC1
-http://tv.teleclub.xyz/live/HLS_01/AFIZZIONADOS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados TlC1
-http://tv.teleclub.xyz/live/HLS_02/AFIZZIONADOS/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados Bg14
 http://blackaddon.com/play/14-227.php?c=878&out=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados Bg Fv
@@ -3405,7 +3405,7 @@ https://v-ca.mybtv.net/event/140/764x432.m3u8?start_time=2022-02-28T15:35&end_ti
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo San Francisco SD
 https://v-ca.mybtv.net/live/140.m3u8?env=prd&uid=-2&x=1
 EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Tc
-http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_01/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Short 13
