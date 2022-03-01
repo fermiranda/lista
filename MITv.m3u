@@ -627,17 +627,17 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2378&f=HLSAD&s=hk
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery Science
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization 
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_Civilization/SA_SAGEMCOM/Discovery_Civilization.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery Theater
-https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery World
-https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/food-network_thumb_8zjr5dg0.png" group-title="MUNDO Y CULTURA", FOOD Network
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="MUNDO Y CULTURA", EL Gourmet
-https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/61b894006a46c_tastemadelogook.jpg" group-title="MUNDO Y CULTURA",TasteMade MX
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -1363,7 +1363,7 @@ http://blackaddon.com/play/zufree-228.php?c=3296
 http://tv.teleclub.xyz/live/MARZO_01/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO TlC2
 http://tv.teleclub.xyz/live/MARZO_02/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO TTv1
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
