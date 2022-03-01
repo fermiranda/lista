@@ -3657,7 +3657,24 @@ https://v-la.mybtv.net/event/743/768x432.m3u8?start_time=2022-03-01T15:30&end_ti
 https://v-la.mybtv.net/event/755/768x432.m3u8?start_time=2022-03-01T15:30&end_time=2022-03-01T24:00
 #EXTINF:-1 tvg-logo="-" group-title="USA", C99 PCC TV - Los Angeles SD
 https://v-la.mybtv.net/event/756/768x432.m3u8?start_time=2022-03-01T15:30&end_time=2022-03-01T24:00
-
+#EXTINF:-1 tvg-logo="https://img.aw.titantv.com/Logos//MyNet_All.png" group-title="USA", MyNetworkTV 53 (KNXT-LD1)
+https://v-la.mybtv.net/live/964.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA", CAS 
+https://v-la.mybtv.net/live/965.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://img.aw.titantv.com/Logos//ThisTV_Light.png" group-title="USA", This TV Bakersfield (KNXT-LD3) 
+https://v-la.mybtv.net/live/966.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1490130/Local_Now_Logo.jpg" group-title="USA", Local Now (KNXT-LD4) 
+https://v-la.mybtv.net/live/967.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://img.aw.titantv.com/Logos//SBN_All.png" group-title="USA", Saigon TV
+https://v-la.mybtv.net/live/974.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/7d/CTS_Channel_Logo.png" group-title="USA", CTS
+https://v-la.mybtv.net/live/976.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="-" group-title="USA", Skynet
+https://v-la.mybtv.net/live/978.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://img.aw.titantv.com/Logos//NEWSY.png" group-title="USA", Newsnet
+https://v-la.mybtv.net/live/982.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://img.aw.titantv.com/Logos//CoziTV_All.png" group-title="USA", Cozi TV (KNBC-DT2)
+https://v-la.mybtv.net/live/983.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
