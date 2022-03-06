@@ -4101,13 +4101,13 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 https://d6ywct4o2ksou.cloudfront.net/hls/720phi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="USA", The CW New York NY (WPIX-DT1)
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW HD
-https://jcstream.teleuptv.net/WPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qp/283010/png/283010.png" group-title="USA", WPIX CW Web
-https://d3mza9xaqch9ab.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10080_5bbd927e-ae15-4732-b72d-5231d7a0056c_LE/ab5bd26c-8f15-4a05-8d73-20fd5c7a63b7/0.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/210/810/png-clipart-starz-encore-starz-distribution-logo-television-others-television-angle.png" group-title="USA", Starz
-
+https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/annex/images/e/e0/PIX11_2017.png" group-title="USA", The CW New York NY (WPIX-DT1) SD
+https://v-ny.mybtv.net/live/562/768x432.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/annex/images/e/e0/PIX11_2017.png" group-title="USA", The CW New York NY (WPIX-DT1) HD
+https://v-ny.mybtv.net/live/562/1280x720.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/annex/images/e/e0/PIX11_2017.png" group-title="USA", The CW New York NY (WPIX-DT1) FHD
+https://v-ny.mybtv.net/live/562/1920x1080.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/800px-Starz_Edge_logo.svg.png" group-title="USA", Starz Edge
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/827/324/997/tv-channel-icons-pack-starz-comedy-color-png-icon.jpg" group-title="USA", Starz Comedy
