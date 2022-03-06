@@ -6,14 +6,14 @@ https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-qYcBvZkRRZBGwJV7nriB
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://51.79.18.128:8081/LATINO%7CTELEVISATIJUANA/LATINO%7CTELEVISATIJUANA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij
 https://v-sd.mybtv.net/live/497.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
-https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/event/497/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/event/497/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
-https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/event/497/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali Web
@@ -111,11 +111,11 @@ http://blackaddon.com/play/totalp2s-228.php?c=2713&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ 
 https://v-sd.mybtv.net/live/486.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ FHD
-https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/486/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ HD
-https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/486/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ SD
-https://v-sd.mybtv.net/event/486/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP TJ TTv
 http://clubtv.link/m03/geomex2.php?c=2713&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 Bg20
@@ -142,8 +142,6 @@ https://kokoapps.xyz/ch2.php?ch=nueve.html&f=.m3u8
 http://gratis.shortgod.com/apoyanosshortgod/tv1.php?c=3147
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ
 https://v-sd.mybtv.net/live/761.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ 
-https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Web
@@ -164,8 +162,6 @@ http://blackaddon.com/play/zufree-228.php?c=3071
 http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
 https://v-sd.mybtv.net/live/762.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
-https://v-sd.mybtv.net/event/762/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
 https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
@@ -198,14 +194,25 @@ http://blackaddon.com/play/totalp1-228.php?c=2178&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/zufree-228.php?c=3143
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 http://gratis.shortgod.com/apoyanosshortgod/tv1.php?c=3143
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj
+https://v-sd.mybtv.net/live/760.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj FHD
-https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/760/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj HD
+https://v-sd.mybtv.net/live/760/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj SD
+https://v-sd.mybtv.net/live/760/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1870&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno Tj
 https://v-sd.mybtv.net/live/760.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego
-https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego SD
+https://v-sd.mybtv.net/live508/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego HD
+https://v-sd.mybtv.net/live508/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="NACIONALES", Azteca America San Diego FHD
+https://v-sd.mybtv.net/live508/1920x1080.m3u8?env=prd&uid=-1&x=1
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
  
@@ -232,7 +239,7 @@ http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6474
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana
 https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana 
-https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/502/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1931&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste
@@ -282,15 +289,15 @@ http://gratis.shortgod.com/apoyanosshortgod/tv1.php?c=3097
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij
 https://v-sd.mybtv.net/live/485.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij FHD
-https://v-sd.mybtv.net/event/485/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/485/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij HD
-https://v-sd.mybtv.net/event/485/1280x720.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/485/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij SD
-https://v-sd.mybtv.net/event/485/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/485/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
 https://v-sd.mybtv.net/live/503.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
-https://v-sd.mybtv.net/event/503/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/503/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Web
@@ -326,7 +333,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&s=hkc2
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TP Bg
 http://blackaddon.com/play/totalp1-228.php?c=40&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 TJ 
-https://v-sd.mybtv.net/event/484/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/484/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
@@ -438,7 +445,7 @@ https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-84313.png"  group-title="RELIGION", Canal de la Fe
 https://v-sd.mybtv.net/live/526.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-84313.png"  group-title="RELIGION", Canal de la Fe
-https://v-sd.mybtv.net/event/526/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/660-6603733_iglesia-pentecostal-espiritu-santo-y-fuego-graphic-design.png"  group-title="RELIGION", Espiritu Santo y Fuego
 https://v-fn.mybtv.net/live/893.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://r.3abn.org/sched-app/img/lat.png"  group-title="RELIGION", 3ABN Latino
@@ -734,7 +741,7 @@ http://tv.teleclub.xyz/live/MARZO_02/NICKJR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png"group-title="Infantil", ONCE NIÑOS Tj
 https://v-sd.mybtv.net/live/496.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png" group-title="NACIONALES", Canal Once Niños
-https://v-sd.mybtv.net/event/496/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/496/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png"group-title="Infantil", ONCE NIÑOS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR PlutoTv
@@ -1214,15 +1221,15 @@ https://v-sd.mybtv.net/event/524/768x432.m3u8?start_time=2022-03-05T15:30&end_ti
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="USA Latinos", Canal 57 
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/telexitos.png" group-title="USA Latinos", TeleXitos San Diego
-https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/519/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision L.A.
 http://54.39.49.162:8081/UNIVISIONLA/USA%7CUNIVISIONLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision L.A. FHD
-https://v-la.mybtv.net/event/178/1920x1080.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-la.mybtv.net/live/178/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision L.A. HD
-https://v-la.mybtv.net/event/178/1280x720.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-la.mybtv.net/live/178/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision L.A. SD
-https://v-la.mybtv.net/event/178/768x432.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-la.mybtv.net/live/178/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision Phoenix
 https://v-px.mybtv.net/live/28.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision NY
@@ -1260,7 +1267,7 @@ http://54.39.49.162:8081/UNIVERSO/USA%7CUNIVERSO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos", Estrella TV
 http://54.39.49.162:8081/ESTRELLATV/USA%7CESTRELLATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos", Estrella TV San Diego
-https://v-sd.mybtv.net/event/490/1280x720.m3u8?start_time=2022-03-05T15:30&end_time=2022-03-05T24:00
+https://v-sd.mybtv.net/live/490/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos", Estrella TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="USA Latinos", Estrella TV Plx
