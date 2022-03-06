@@ -436,6 +436,8 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
 https://v-px.mybtv.net/live/204.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Mariavision.mx.png"  group-title="RELIGION", MariaVision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Mariavision.mx.png"  group-title="RELIGION", MariaVision
+http://blackaddon.com/play/zufree-228.php?c=3322
 #EXTINF:-1 tvg-logo="http://montemaria.org/web/img/logo6.png"  group-title="RELIGION", Montemaria
 https://616eee1852d6c.streamlock.net/live/myStream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.pngg"  group-title="RELIGION", La Voz de Maria
