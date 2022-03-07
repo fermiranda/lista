@@ -108,13 +108,13 @@ https://kokoapps.xyz/ch2.php?ch=elcinco.html&f=.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2713&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP TJ Bg
 http://blackaddon.com/play/totalp2s-228.php?c=2713&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ 
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="NACIONALES", CANAL 5 TJ 
 https://v-sd.mybtv.net/live/486.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ FHD
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="NACIONALES", CANAL 5 TJ FHD
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ HD
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="NACIONALES", CANAL 5 TJ HD
 https://v-sd.mybtv.net/live/486/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TJ SD
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="NACIONALES", CANAL 5 TJ SD
 https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 TP TJ TTv
 http://clubtv.link/m03/geomex2.php?c=2713&f=.m3u8
@@ -3457,7 +3457,8 @@ https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.garnierpr.com/wp-content/uploads/2019/01/WGN9-Chicago-Logo-458.jpg" group-title="USA", WGN9
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA", CW
-
+#EXTINF:-1 tvg-logo="https://www.questtv.com/sites/all/themes/questtheme/images/quest-logo-2color-le.png" group-title="USA", Quest Tv
+https://v-px.mybtv.net/live/155.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media-uspx.mybtv.net/logos/35.3.png" group-title="USA", GetTv
 https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/24.2.png" group-title="USA", FNX
