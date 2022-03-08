@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_banners/3156746541/1615085774/1080x360" group-title="VEKA", EL ARTE Y LAS BRUJAS
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/x1ywAWoUjesUXGCqPsjQfjgvvUm9W44K2B06CHS7S2VjTVMjGrvmgYg9Tm5Zyj_HnbfjwbjxUJEOSZ3y4feTMw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_banners/3156746541/1615085774/1080x360" group-title="VEKA",
+
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
