@@ -1074,6 +1074,15 @@ http://f4.tvxweb.net:8082/24315/video.m3u8
 http://f4.tvxweb.net:8082/35971/video.m3u8
 #EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 14 HD
 http://f4.tvxweb.net:8082/35972/video.m3u8
+#EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 15 HD
+http://f4.tvxweb.net:8082/35973/video.m3u8
+#EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 16 HD
+http://f4.tvxweb.net:8082/35974/video.m3u8
+#EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 17 HD
+http://f4.tvxweb.net:8082/35975/video.m3u8
+#EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 18 HD
+http://f4.tvxweb.net:8082/35976/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
@@ -1314,7 +1323,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playl
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2681.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
-http://54.39.48.63:8081/COLOMBIA%7CRCN/COLOMBIA%7CRCN/playlist.m3u8
+http://f4.tvxweb.net:8082/42145/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN TlCl1
 http://tv.teleclub.xyz/live/MARZO_01/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN TlCl2
