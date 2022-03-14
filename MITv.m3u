@@ -3947,7 +3947,7 @@ https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 
 #EXTINF:-1 tvg-logo="https://downloads.channelmaster.com/Images/chanlogo-cbs.png" group-title="USA", CBS
-http://pullhls3948069e.live.126.net/live/erg95/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
 https://v-pi.mybtv.net/live/318.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
@@ -4541,5 +4541,28 @@ https://d1a42ndj5z9xu5.cloudfront.net/hls/kings/playlist.m3u8
 https://d1a42ndj5z9xu5.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Toronto Raptors
 https://d1a42ndj5z9xu5.cloudfront.net/hls/lakers/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Cleveland Cavaliers vs Los Angeles Clippers
+http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Atlanta Hawks vs Portland Trail Blazers
+http://pullhls3948069e.live.126.net/live/n2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Philadelphia 76ers vs Denver Nuggets
+http://pullhls3948069e.live.126.net/live/n3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Oklahoma City Thunder vs Charlotte Hornets
+http://pullhls3948069e.live.126.net/live/n4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  San Antonio Spurs vs Minnesota Timberwolves
+http://pullhls3948069e.live.126.net/live/n5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Golden State Warriors vs Washington Wizards
+http://pullhls3948069e.live.126.net/live/n6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Sacramento Kings vs Chicago Bulls
+http://pullhls3948069e.live.126.net/live/n7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Utah Jazz vs Milwaukee Bucks
+http://pullhls3948069e.live.126.net/live/n3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Los Angeles Lakers vs Toronto Raptors
+http://pullhls3948069e.live.126.net/live/n8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Ottawa Senators vs Arizona Coyotes
+http://blackaddon.com/sat/mac-323.php?url=https://macron.xyz/player/1/133&k=blackghooooooooooooossst&f=.m3u8
 
 
