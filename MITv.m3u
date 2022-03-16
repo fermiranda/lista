@@ -1359,7 +1359,10 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather", WeatherSpy
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
+http://190.92.95.37:8000/play/a0k3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://190.92.95.37:8000/play/a0f1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO EnHd
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/304.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO S
@@ -1398,6 +1401,10 @@ http://138.36.253.12:8009/play/a01i/index.m3u8
 http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/116
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 S
 http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6449
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
@@ -1429,9 +1436,9 @@ http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6447
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Nand
 http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Bg4
-http://200.24.159.179:8500/play/a010
+http://190.92.95.37:8000/play/a0k5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
+http://190.92.95.37:8000/play/a0f3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus Short 1
 http://gratis.shortgod.com/shortgod34descarga/tv1.php?c=3300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC1
@@ -1449,13 +1456,13 @@ https://edge9-hr.cvattv.com.ar//live/c2live/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://190.92.95.37:8000/play/a0k6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family S
 http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6448
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg3
 http://blackaddon.com/play/zufree-336.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://190.92.95.37:8000/play/a0f4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC1
 http://tv.teleclub.xyz/live/MARZO_01/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1497,13 +1504,13 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/305.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Nand
 http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/121
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
-
+http://190.92.95.37:8000/play/a0k7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC1
 http://tv.teleclub.xyz/live/MARZO_01/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC2
 http://tv.teleclub.xyz/live/MARZO_02/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
-
+http://190.92.95.37:8000/play/a0f5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme Bg3
 http://blackaddon.com/play/zufree-336.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
@@ -1647,14 +1654,14 @@ http://gratis.shortgod.com/shortgod34descarga/tv1.php?c=3305
 https://gratis.shortgod.com/restream/WCPwpc98199.php?id=paramount
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
+http://190.92.95.37:8000/play/a0jy/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER S1
 http://gratis.shortgod.com/shortgod34descarga/tv1.php?c=3468
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg22 Tlv
-http://blackaddon.com/play/futvall-336.php?id=mp&k=blackghooooooooooossst&dos=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Bg11
-https://kokoapps.xyz/ch2.php?ch=mp.html&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER Ca
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL TP
