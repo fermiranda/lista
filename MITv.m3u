@@ -2311,7 +2311,7 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
-https://d1wfx3iskb5o0q.cloudfront.net/stream/MzIwNQ==/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="FUTBOL HOY", LA LIGA ESPAÑA
@@ -2330,7 +2330,7 @@ https://d1wfx3iskb5o0q.cloudfront.net/stream/MzIwNQ==/1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images//soccer/leagues/0/384.png" group-title="FUTBOL HOY", SERIE A ITALIA
-http://stream.sports24.ws/hls/cf21d62321add4f0e2c849c8ebedcbe2/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ceroacero.es/img/logos/edicoes/70357_imgbank_.png" group-title="FUTBOL HOY", COPA ITALIANA
 
 #EXTINF:-1 tvg-logo="https://www.ceroacero.es/img/logos/edicoes/70357_imgbank_.png" group-title="FUTBOL HOY", COPA ITALIANA
@@ -2343,28 +2343,7 @@ http://stream.sports24.ws/hls/cf21d62321add4f0e2c849c8ebedcbe2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/82.png" group-title="FUTBOL HOY", BUNDESLIGA ALEMANIA
 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool  
-http://blackaddon.com/sat/sportzone-336.php?canal=hd5&cat=hd&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/sportzone-336.php?canal=sporttv1&cat=pt&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/play/futvall-336.php?id=skysportspl&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/assia-336.php?c=mix-sport10&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/assia-336.php?c=mix-sport12&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/assia-336.php?c=mix-sport11&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/assia-336.php?c=spot-liga&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/assia-336.php?c=mix-sport17&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/arcade-336.php?id=s3&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/82&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", Arsenal x Liverpool 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/80&k=blackghooooooooooooossst&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/8/8.png" group-title="FUTBOL HOY", EPL INGLATERRA
 
@@ -2404,58 +2383,8 @@ http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/80&k=black
 #EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/zbubt2v1/sccl.png" group-title="FUTBOL HOY", CONCACAF
 
 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus x Villarreal 
-http://blackaddon.com/sat/sportzone-336.php?canal=hd2&cat=hd&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus x Villarreal
-http://blackaddon.com/sat/sportzone-336.php?canal=hd6&cat=hd&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY",  Juventus x Villarreal
-http://blackaddon.com/sat/sportzone-336.php?canal=hd7&cat=hd&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus x Villarreal 
-http://blackaddon.com/sat/sportzone-336.php?canal=br3&cat=bra&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/w2-336.php?url=http://starlive.xyz/embed.php?id=live20m&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/w2-336.php?url=http://starlive.xyz/embed.php?id=live13m&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/w2-336.php?url=http://starlive.xyz/embed.php?id=liveligacamp&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villareal
-http://blackaddon.com/play/futvall-336.php?id=tnt&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villareal
-http://blackaddon.com/play/futvall-336.php?id=unimas&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villareal
-http://blackaddon.com/play/futvall-336.php?id=tudn-us&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal
-http://blackaddon.com/sat/assia-336.php?c=citybet&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/assia-336.php?c=superliga&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/sky-336.php?id=SZZ25&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/arcade-336.php?id=s1&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/64&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/75&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Juventus vs Villarreal 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/107&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", LIlle vs Chelsea
-http://blackaddon.com/play/futvall-336.php?id=galavision&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea
-http://blackaddon.com/sat/assia-336.php?c=mix-sport9&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea
-http://blackaddon.com/sat/assia-336.php?c=mix-sport16&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea 
-http://blackaddon.com/sat/assia-336.php?c=online-football&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lilla vs Chelsea 
-http://blackaddon.com/sat/sky-336.php?id=6iS77&k=blackghooooooooooooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea 
-http://blackaddon.com/sat/arcade-336.php?id=s2&k=blackghooooooooooooossst&file=.m3u8 
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/74&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/65&k=blackghooooooooooooossst&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", Lille vs Chelsea 
-http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/83&k=blackghooooooooooooossst&f=.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
 
@@ -2498,6 +2427,10 @@ http://blackaddon.com/sat/mac-336.php?url=https://macron.xyz/player/1/83&k=black
 #EXTINF:-1 tvg-logo="https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png" group-title="FUTBOL HOY", CHAMPIONS
 
 
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/5.png" group-title="FUTBOL HOY", Galatasaray vs Barcelona
+https://bigsmoke.lbs.pw/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d398dbf2af58723d5252ba310-0.929171949135877-1647409756-1647373756
+#EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/5.png" group-title="FUTBOL HOY", Galatasaray vs Barcelona
+https://e9fd102236b1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.686258730168.channel.O0J3wf1MY08B.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/5.png" group-title="FUTBOL HOY", EUROPA LEAGUE
 
 #EXTINF:-1 tvg-logo="https://cdn.sportmonks.com/images/soccer/leagues/5.png" group-title="FUTBOL HOY", EUROPA LEAGUE
