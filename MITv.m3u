@@ -3058,6 +3058,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="DEPORTES", Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="DEPORTES", Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 1" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 1
 https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 2" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 2
