@@ -454,6 +454,8 @@ http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=10303
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991290/300x300.png?type=color_onBlack" group-title="MUNDO Y CULTURA", Hisotry Shorts
+https://live-content.xumo.com/219/content/XM0AEKG4J23MJT/22941540/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png" group-title="MUNDO Y CULTURA", PLUTO TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/X7q082ZT/wildlife.png" group-title="MUNDO Y CULTURA", SAMSUNG WILD LIFE (Inglés)
@@ -969,8 +971,10 @@ http://f4.tvxweb.net:8082/35974/video.m3u8
 http://f4.tvxweb.net:8082/35975/video.m3u8
 #EXTINF:-1 tvg-logo="https://ia801709.us.archive.org/0/items/cinema-hd_202010/Cinema-HD.png" group-title="24/7", Cine 18 HD
 http://f4.tvxweb.net:8082/35976/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="24/7", RunTime movies
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="24/7", RunTime movies Lat
 https://stream.ads.ottera.tv/cl/db4d2f92-d5f3-45bb-8e18-9ff8ec54c85b/1920x1080_4715744_3_false.m3u8
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="24/7", RunTime movies Eng
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-runtime-xumo/CDN/1280x720_2855600/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
@@ -1257,6 +1261,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png" group-title="Weather", AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png" group-title="Weather", AccuWeather Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-accuweather-xumo/CDN/1280x720_2890800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-weather/s/logos/fox-weather-logo-stacked-color.svg" group-title="Weather", Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/7.2.png" group-title="Weather" , Fox Weather
