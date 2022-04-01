@@ -1396,7 +1396,7 @@ http://bgapp.live/play/zufree-331.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Nand
 http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/116
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 Bg9
@@ -1582,8 +1582,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229ef
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="ENTRETENIMIENTO", Paramount+ PlutoTv
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel ar
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel TP
@@ -1666,8 +1664,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=hkc2
 http://gratis.shortgod.com/rastafaripe/geomex.php?c=64&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3025
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN HD 
-https://edge9-hr.cvattv.com.ar//live/live/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Bg3
 http://bgapp.live/play/zufree-331.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3025.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
@@ -1775,9 +1773,7 @@ http://tv.teleclub.xyz/live/MARZO_01/TNTSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES TlC2
 http://tv.teleclub.xyz/live/MARZO_02/TNTSERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
@@ -1815,7 +1811,7 @@ http://tv.teleclub.xyz/live/MARZO_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC TlC2
 http://tv.teleclub.xyz/live/MARZO_02/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3021
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
@@ -1827,7 +1823,7 @@ http://bgapp.live/play/pl-331.php?c=715&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
 http://apphd.net:25461/play/lST_Q3WF6aUSBNn1gGB9JppMB1OxbpR8cf_eDxyvQCsnbRVApgn4TVgUisUMj8h5RSMqW_M1aPr6Wq96-GS-fw/m3u8|user-agent=VLC/3.0.10 LibVLC/3.0.7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=46&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel TP
@@ -1838,14 +1834,14 @@ http://tv.teleclub.xyz/live/MARZO_01/FOX/index.m3u8
 http://tv.teleclub.xyz/live/MARZO_02/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel SG
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channe
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TlC1 
 http://tv.teleclub.xyz/live/MARZO_01/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX TlC2 
@@ -1859,7 +1855,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=332&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3085
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="ENTRETENIMIENTO", FXM S2
@@ -1911,7 +1907,7 @@ http://gratis.shortgod.com/rastafaripe/geomex.php?c=158&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax Bg1
 http://bgapp.live/play/14-331.php?c=20&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TlC1
 http://tv.teleclub.xyz/live/MARZO_01/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax TlC2
@@ -1937,11 +1933,7 @@ http://gratis.shortgod.com/rastafaripe/geomex.php?c=149&p=3&k=ShortGod&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal S2
 http://144.126.128.123:25461/shortgodddd/descarga-en-shortgod.com/6470
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3040
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal TlC1
@@ -1957,11 +1949,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE S1
 http://gratis.shortgod.com/rastafaripe/tv1.php?c=3119
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE TlC1
@@ -2625,8 +2613,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?RVNQTiBNWA==
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MXShort 15
 http://gratis.shortgod.com/rastafaripe/tv15.php?c=83588
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 ARG
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 ARG
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX TP
@@ -2708,8 +2694,8 @@ https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTES", EVENTOS TyC SPORT PLAY 10
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports
+
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg TTv 
 
 #EXTINF:-1 tvg-logo="-" group-title="DEPORTES", TNT Sports Arg
@@ -3435,7 +3421,7 @@ https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Phx 
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Internacional
-http://edge3-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
 http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY (WTXF-DT1) 29.1
