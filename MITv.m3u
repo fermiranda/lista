@@ -3470,13 +3470,11 @@ https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-2&x=1
 http://edge3-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
 http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX (WTXF-DT1) 29.1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY (WTXF-DT1) 29.1
 https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY HD
 https://v-pi.mybtv.net/live/369/1280x720.m3u8?env=prd&uid=-1&x=1
-
-https://v-pi.mybtv.net/live/369/1280x720.m3u8?env=prd&uid=-1&x=1
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY SD
 https://v-pi.mybtv.net/live/369/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/59/07/a1/5907a18b4d8784a514d95bd3a11fb66d.jpg" group-title="USA", FOX 5 NY
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
@@ -3503,13 +3501,13 @@ http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
 https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1200px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", KNBC 4.1 NBC 4 - Los Angeles 82 FHD
 https://v-la.mybtv.net/live/82/1920x1080.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1200px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", KNBC 4.1 NBC 4 - Los Angeles 82 HD
 https://v-la.mybtv.netlive/82/1280x720.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.1 NBC 4 - Los Angeles 82 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1200px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", KNBC 4.1 NBC 4 - Los Angeles 82 SD
 https://v-la.mybtv.net/live/82/768x432.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KNBC 4.2 Cozi TV - Los Angeles 83 SD
+#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/4.2.png" group-title="USA", KNBC 4.2 Cozi TV - Los Angeles 83 SD
 https://v-la.mybtv.net/live/83/768x432.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png" group-title="USA", KTLA  CW 5 - Los Angeles FHD
 https://v-la.mybtv.net/live/164.m3u8?env=prd&uid=-2&x=1
@@ -3547,23 +3545,25 @@ https://v-la.mybtv.net/live/259/1280x720.m3u8?env=prd&uid=-2&x=1
 https://v-la.mybtv.net/live/259/768x432.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kcal.png" group-title="USA",KCAL TV 9 - Los Angeles SD
 https://v-la.mybtv.net/live/259.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCAL 9.2 Stadium - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="USA",KCAL 9.2 Stadium - Los Angeles SD
 https://v-la.mybtv.net/live/180/768x432.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles HD
+#EXTINF:-1 tvg-logo="https://www.kandbsurgicalcenter.com/wp-content/uploads/2012/11/fox11.png" group-title="USA", KTTV 11.1 FOX 11 - Los Angeles
+https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://www.kandbsurgicalcenter.com/wp-content/uploads/2012/11/fox11.png" group-title="USA", KTTV 11.1 FOX 11 - Los Angeles HD
 https://v-la.mybtv.net/live/166/1280x720.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.1 FOX 11 - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://www.kandbsurgicalcenter.com/wp-content/uploads/2012/11/fox11.png" group-title="USA", KTTV 11.1 FOX 11 - Los Angeles SD
 https://v-la.mybtv.net/live/166/768x432.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KTTV 11.3 TheGrio - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/The_Grio_logo.png" group-title="USA", KTTV 11.3 TheGrio - Los Angeles SD
 https://v-la.mybtv.net/live/256/768x432.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KCOP_%282021%29.svg/375px-KCOP_%282021%29.svg.png" group-title="USA", KCOP 13.1 My 13 - Los Angeles HD
 https://v-la.mybtv.net/live/270/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.1 My 13 - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KCOP_%282021%29.svg/375px-KCOP_%282021%29.svg.png" group-title="USA", KCOP 13.1 My 13 - Los Angeles SD
 https://v-la.mybtv.net/live/270/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.3 Movies! - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movies.png" group-title="USA", KCOP 13.3 Movies! - Los Angeles SD
 https://v-la.mybtv.net/live/257/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KCOP 13.4 Heroes & Icons - Los Angele SD
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/heroesicons.png" group-title="USA", KCOP 13.4 Heroes & Icons - Los Angele SD
 https://v-la.mybtv.net/live/258/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="-" group-title="USA",KPOM 14.3 Khmer - Los Angeles SD
+#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/6.3.png" group-title="USA", KPOM 14.3 Khmer - Los Angeles SD
 https://v-la.mybtv.net/live/ 61/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1325892122663247872/VsGuXeel_400x400.jpg" group-title="USA Latinos",KWHY 22.1 Canal 22 - Los Angeles HD
 https://v-la.mybtv.net/live/298/1280x720.m3u8?env=prd&uid=-1&x=1
