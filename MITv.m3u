@@ -4203,8 +4203,9 @@ http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/65400.m3u8
 http://1bozguncustsv.ml:8080/live/hediye1/hediye2/74600.m3u8
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="NHL", NHL FINALS
 
-
-#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Elimination Chamber
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Wrestlemania 38
+https://h1.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTowMDozMiBBTSZoYXNoX3ZhbHVlPWR0d2w1ZnlPTHZGUHRkbHd4MSt5ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="WWE", WWE Wrestlemania 38
 https://h1.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=223551461&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTowMDozMiBBTSZoYXNoX3ZhbHVlPWR0d2w1ZnlPTHZGUHRkbHd4MSt5ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="DEPORTES", BeinSports 1 eng
