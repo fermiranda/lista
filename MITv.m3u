@@ -2976,6 +2976,8 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-name="STADIUM SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="DEPORTES", STADIUM SPORTS
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:-1 tvg-name="STADIUM SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="DEPORTES", STADIUM SPORTS
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1, tvg-name="Sportsgrid Network" tvg-logo="https://cdn.newswire.com/files/x/0a/7a/5f59b76a6c811cf30d585c5d2ac6.png" group-title="DEPORTES", Sportsgrid Network 
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 #EXTINF:-1, tvg-name="LAX SPORTS NETWORK" tvg-logo="https://xandersreport.files.wordpress.com/2015/11/logo.jpg" group-title="DEPORTES", LAX SPORTS NETWORK 
