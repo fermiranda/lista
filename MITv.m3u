@@ -4332,7 +4332,7 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs New York Knicks
 https://d17f1mg1q6g54e.cloudfront.net/hls/magic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Miami Heat
-https://d17f1mg1q6g54e.cloudfront.net/hls/raptors/playlist.m3u8
+https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Minnesota Timberwolves
 https://d17f1mg1q6g54e.cloudfront.net/hls/rockets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Phoenix Suns
@@ -4342,10 +4342,33 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/spurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Golden State Warriors
 https://d17f1mg1q6g54e.cloudfront.net/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs New Orleans Pelicans
-https://d17f1mg1q6g54e.cloudfront.net/hls/clippers/playlist.m3u8
+https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Washington Wizards
+http://idec-hls.flumotion.com/crtvg/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Dallas Mavericks
+http://idec-hls.flumotion.com/crtvg/n2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Lakers vs Denver Nuggets
+http://idec-hls.flumotion.com/crtvg/n2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Detroit Pistons
+http://idec-hls.flumotion.com/crtvg/n3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Philadelphia 76ers
+http://idec-hls.flumotion.com/crtvg/n4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs New York Knicks
+http://idec-hls.flumotion.com/crtvg/n5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Miami Heat
+http://idec-hls.flumotion.com/crtvg/n6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Minnesota Timberwolves
+http://idec-hls.flumotion.com/crtvg/n7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Phoenix Suns
+http://idec-hls.flumotion.com/crtvg/n8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Portland Trail Blazers
+http://idec-hls.flumotion.com/crtvg/n9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Golden State Warriors
+http://idec-hls.flumotion.com/crtvg/n10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs New Orleans Pelicans
+http://idec-hls.flumotion.com/crtvg/n6/playlist.m3u8
 
 
 
