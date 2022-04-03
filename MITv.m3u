@@ -1879,6 +1879,10 @@ http://190.92.95.37:8000/play/a0gn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
 http://190.92.95.37:8000/play/a0gn/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
+http://190.83.119.67:8000/play/a0rd
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
+http://190.83.119.67:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Ult
 https://www.m3ukodi.com/servicios/ultimate/app_ultimate.php?REhF
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
@@ -1892,9 +1896,9 @@ http://181.176.148.142:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE Bg2
 http://bgapp.live/play/mega-331.php?c=31|user-agent=suplayer
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-
+http://190.83.119.67:8000/play/a0pk
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-
+http://190.83.119.67:8000/play/a0pk/index.m3u8
 
 
 
