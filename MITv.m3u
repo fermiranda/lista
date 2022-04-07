@@ -2816,6 +2816,8 @@ http://gratis.shortgod.com/shortgodpe03/tv11.php?c=67603
 https://snhls-i.akamaihd.net/hls/live/249773/internal_live/master.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL.tv", SportsNet Pacific
 https://snhls-i.akamaihd.net/hls/live/249774/internal_live/master.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL.tv", SportsNet 360
+https://snhls-i.akamaihd.net/hls/live/249775/internal_live/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
 http://38.91.57.12:2082/tsn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
