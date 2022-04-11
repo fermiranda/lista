@@ -1381,8 +1381,8 @@ http://190.92.95.37:8000/play/a0f1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO EnHd
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/304.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Bg15
 http://bgapp.live/play/trasco-405.php?c=eventox6/lista&f=blackghost.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Bg3
@@ -1415,8 +1415,8 @@ http://190.92.95.37:8000/play/a0k4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0f2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://bgapp.live/play/trasco-405.php?c=651HBO2/transco13&f=blackghost.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 EnHd
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/310.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC1
@@ -1475,15 +1475,15 @@ http://tv.teleclub.xyz/live/ABRIL_02/HBO_FAMILY/index.m3u8
 http://bgapp.live/play/megapro-405.php?c=62|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Nand
 http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/119
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family EnHd
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/308.m3u8
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Short 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature S1
 http://gratis.shortgod.com/aeiouma/tv1.php?c=3301
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature BG3
 http://bgapp.live/play/zufree-405.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3301.m3u8
@@ -1493,10 +1493,10 @@ http://bgapp.live/play/zufree-405.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3301
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg9
 http://bgapp.live/play/megapro-405.php?c=61|User-agent=megaplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature EnHd
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/305.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Nand
-http://nandplay.info:8080/GtKUKxH33SYx/AjD5cP6aCaXY/121
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 http://190.92.95.37:8000/play/a0k7/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC1
@@ -1568,7 +1568,7 @@ http://f4.tvxweb.net:8082/35942/video.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action HD
 http://f4.tvxweb.net:8082/35946/video.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOP/7398e314d5.png" group-title="ENTRETENIMIENTO", Starz Encore Action
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/319.m3u8
+
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black
 
 #EXTINF:-1 tvg-logo="https://puu.sh/EwAOU/f580ef861e.png" group-title="ENTRETENIMIENTO", Starz Encore Black
@@ -2725,9 +2725,9 @@ https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes 
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium
-http://alv.encohd.co:39591/live/wdrety/cdew23/385.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/385.m3u8
+
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/tyc_sports_2.jpg" group-title="DEPORTES", TyC Sports Fv
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/tyc_sports_2.jpg" group-title="DEPORTES", TyC Sports
@@ -2997,8 +2997,8 @@ http://bgapp.live/play/zufree-405.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3481
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="DEPORTES", NBCSPORTS BOSTON 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh EnHd
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/423.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
 http://gratis.shortgod.com/aeiouma/tv7.php?c=423.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
@@ -4386,84 +4386,5 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Washington Nationals vs New York Mets
-http://198.144.159.43/xKxqKQRAc5CfxPHCE_skcw/1649641331/3138372e3235302e3134302e323332/ff6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Atlanta Braves vs Cincinnati Reds
-http://198.144.159.43/gor1EmMT633kj6hqQsX_Cg/1649641367/3138372e3235302e3134302e323332/ff5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Tampa Bay Rays vs Baltimore Orioles
-http://198.144.159.43/0-RCsWa4q4wGEBNqlO1dhw/1649641397/3138372e3235302e3134302e323332/ff2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Philadelphia Phillies vs Oakland Athletics
-http://198.144.159.43/ivtwvfqrnqeqMTbjcQlnew/1649641433/3138372e3235302e3134302e323332/ff1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Kansas City Royals vs Cleveland Guardians
-http://198.144.159.43/o6XlLzBtMhp22d9LHsJ0Bg/1649641480/3138372e3235302e3134302e323332/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Toronto Blue Jays vs Texas Rangers
-https://snhls-i.akamaihd.net/hls/live/249775/internal_live/master.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Detroit Tigers vs Chicago White Sox
-http://198.144.159.43/M61w2Iy_o17aSG6owQ77AQ/1649641647/3138372e3235302e3134302e323332/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", San Francisco Giants vs Miami Marlins
-http://198.144.159.43/GT6SgFMWxu3KNo8-DsW2xA/1649651645/3138372e3235302e3134302e323332/ff18/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Colorado Rockies vs Los Angeles Dodgers
-http://198.144.159.43/v7mwFXi9QEbcwEjBGJyDsA/1649647824/3138372e3235302e3134302e323332/ff12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Chicago Cubs vs Milwaukee Brewers
-http://198.144.159.43/5v5U3PA1KnF8PZ59hvjPOQ/1649644223/3138372e3235302e3134302e323332/ff11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", St. Louis Cardinals vs Pittsburgh Pirates
-http://198.144.159.40/QvXC9Dr22BZCQ7DhDSmFAg/1649652613/3138372e3235302e3134302e323332/ff10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Minnesota Twins vs Seattle Mariners
-http://198.144.159.40/Y_UdtHni6pxYLzTIM0xWPQ/1649651733/3138372e3235302e3134302e323332/ff9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Los Angeles Angels vs Houston Astros
-http://198.144.159.43/j_dWPKAiTqD7inzJm28lAA/1649651816/3138372e3235302e3134302e323332/ff30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Arizona Diamondbacks vs San Diego Padres
-http://198.144.159.43/W1VQ5HWFKe_XsxHrCb9ydg/1649651856/3138372e3235302e3134302e323332/ff31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", New York Yankees vs Boston Red Sox
-https://d3k1ow0v5lahi0.cloudfront.net/hls/espn/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs Indiana Pacers
-https://d3k1ow0v5lahi0.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Washington Wizards
-https://d3k1ow0v5lahi0.cloudfront.net/hls/hornets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Cleveland Cavaliers vs Milwaukee Bucks
-https://d3k1ow0v5lahi0.cloudfront.net/hls/cavaliers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Houston Rockets vs Atlanta Hawks
-https://d3k1ow0v5lahi0.cloudfront.net/hls/rockets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Boston Celtics
-https://d3k1ow0v5lahi0.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New York Knicks vs Toronto Raptors
-https://d3k1ow0v5lahi0.cloudfront.net/hls/knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Miami Heat
-https://d3k1ow0v5lahi0.cloudfront.net/hls/magic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Detroit Pistons
-https://d3k1ow0v5lahi0.cloudfront.net/hls/76ers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Chicago Bulls
-https://d3k1ow0v5lahi0.cloudfront.net/hls/timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs San Antonio Spurs
-https://d3k1ow0v5lahi0.cloudfront.net/hls/mavericks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Denver Nuggets vs Los Angeles Lakers
-https://d3k1ow0v5lahi0.cloudfront.net/hls/nuggets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Oklahoma City Thunder
-https://d3k1ow0v5lahi0.cloudfront.net/hls/clippers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Golden State Warriors
-https://d3k1ow0v5lahi0.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Utah Jazz
-https://d3k1ow0v5lahi0.cloudfront.net/hls/blazers/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Washington Capitals vs Boston Bruins
-https://d3k1ow0v5lahi0.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Pittsburgh Penguins vs Nashville Predators
-https://d3k1ow0v5lahi0.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Minnesota Wild vs Los Angeles Kings
-https://v-la.mybtv.net/event/270/1280x720.m3u8?start_time=2022-04-10T20:30&end_time=2022-04-11T04:00
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Tampa Bay Lightning vs Buffalo Sabres
-http://s--p24w.smvdn22.live/live/Radon-5_low/playlist.m3u8?match_id=4382996&s_id=3&t_id=48&stats=statsvideo.olimp-app.ru&timestamp=1649626330&key=VTJGc2RHVmtYMTkyaUYvZTQxMEFUNjBSQllWYllURnlYVTNZbnhlL0NIQzd3UHdxd0lBU2VFSnJ0UGJXMjFNdnppR3BwWlJGdFZNbHdnUGN4ZnViTUpMZkhMTDd4UkxrQ2NIQVJQemQ5QWVPa2p3MnZxdEwzT2Z3SVdzNGZtTklnZi8vU3UxcDE5UFRMd0x0V2hPOUdzelBOcm0yQXZxbkZlZlIxUGFwYThqU3g3bDI3b3lNVnQ4cDdEVVVsU1ZF
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Carolina Hurricanes vs Anaheim Ducks
-http://s--p24w.smvdn22.live/live/RG-Chatrier/playlist.m3u8?match_id=4382997&s_id=3&t_id=48&stats=statsvideo.olimp-app.ru&timestamp=1649629141&key=VTJGc2RHVmtYMThPUXZxUkJRdDZ2VWUvYVBlTlBhTmVRQUJRb0JoL3FYUS9WeitHYVdrM3IwUTNJVWt5dHpFZFJzR2Z2OHhlalkwaHMraEpqVGJDTk16VWF2TzV3aGJwYytTOGhUMzdycyt1L1pFcVVSbFo3SFRBYTVrZklKRmtDZDVlNm55dXNvYjFSL1Nqb0s2Wjd5VnlRbkYva3E1M3VDMFBSdVU4Y2lnMHJtQktGTnFqZXpCWVdQVHk3RktC
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Chicago Blackhawks vs Dallas Stars
-http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",  Ottawa Senators vs Winnipeg Jets
 
 
