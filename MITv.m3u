@@ -4395,6 +4395,12 @@ https://d1wxuthx4qbf9z.cloudfront.net/hls/TNT/playlist.m3u8
 https://d1wxuthx4qbf9z.cloudfront.net/hls/TNT/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets - Cleveland Cavaliers
+http://hls-pull-netmixtv.speedws.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves - Los Angeles Clippers
+http://hls-pull-netmixtv.speedws.com/live/n1/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Red Sox @ Tigers
