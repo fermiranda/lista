@@ -4575,7 +4575,14 @@ https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Denver Nuggets
 https://d1k4ybyeycgihx.cloudfront.net/hls/abc/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Dallas Mavericks vs Utah Jazz
+http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Minnesota Timberwolves
+http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Toronto Raptors
+http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Denver Nuggets
+http://hls-pull-yashwa.speedws.com/live/n2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Arizona Diamondbacks vs New York Mets
