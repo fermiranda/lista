@@ -4687,6 +4687,14 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Miami Heat
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs Milwaukee Bucks
+https://d1k4ybyeycgihx.cloudfront.net/hls/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Phoenix Suns
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA DD", Atlanta Hawks vs Miami Heat
