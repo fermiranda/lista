@@ -1,4 +1,3 @@
-
 #EXTM3U tvg-shift=-7 url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
@@ -4736,6 +4735,13 @@ http://tv.fullytv.com:8080/live/vladi1/vladi1/18561.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Milwaukee Bucks vs Chicago Bulls
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Golden State Warriors vs Denver Nuggets
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
+
 
 
 
