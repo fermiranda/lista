@@ -4832,11 +4832,13 @@ https://uload.ru.com/cdn/premium316/playlist.m3u8|Referer=https://player.license
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Carolina Hurricanes vs Boston Bruins
-
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Carolina Hurricanes vs Boston Bruins
+https://bcovlive-a.akamaihd.net/f7b9ffbde3b841c282df9832b9a80958/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Toronto Maple Leafs vs Tampa Bay Lightning
-
+https://dai.google.com/ssai/event/QaxJ4MF7SkqWWDCxcsma6Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Minnesota Wild vs St. Louis Blues
-
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Edmonton Oilers vs Los Angeles Kings
 
 
