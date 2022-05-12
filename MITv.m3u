@@ -4583,9 +4583,15 @@ http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
 http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Milwaukee Bucks
-
+http://d31idj43e272lf.cloudfront.net/stream/NDI3MA==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Golden State Warriors
+http://d31idj43e272lf.cloudfront.net/stream/NDI3MA==/1080p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Milwaukee Bucks
+https://0c1017bddcfc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.782267707464.channel.7TPnkCjIspDm.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Memphis Grizzlies vs Golden State Warriors
+https://0c1017bddcfc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.782267707464.channel.7TPnkCjIspDm.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Milwaukee Bucks
 http://198.144.159.43/_yFucd1qd9KBf3d1r8GJGg/1652343841/3138372e3235302e3136342e313437/ff1/playlist.m3u8
