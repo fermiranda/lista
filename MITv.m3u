@@ -4580,9 +4580,9 @@ https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Miami Heat
-
+http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs. Dallas Mavericks
-
+http://hls-pull-yashwa.speedws.com/live/n1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Miami Heat
@@ -4590,10 +4590,15 @@ https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs. Dallas Mavericks
 
 
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Miami Heat
+http://d2e6nv82uj4pxw.cloudfront.net/stream/NDI5MA==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs. Dallas Mavericks
+http://d2e6nv82uj4pxw.cloudfront.net/stream/NDI5MA==/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Philadelphia 76ers vs Miami Heat
-
+http://134.19.182.131:8080/pdgc9b26c9ac024a0fe.m3u8?m=ZOdqAtNZ8j5lHBKMM6OhFQ&c=c9b26c9ac024a0fe&p=3138372e3235302e3136342e313437&e=null
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs. Dallas Mavericks
+http://134.19.182.131:8080/pdgc9b26c9ac024a0fe.m3u8?m=ZOdqAtNZ8j5lHBKMM6OhFQ&c=c9b26c9ac024a0fe&p=3138372e3235302e3136342e313437&e=null
 
 
 
