@@ -4762,7 +4762,12 @@ https://www.webcsn.ru.com/cdn/premium112/playlist.m3u8|Referer=https://player.li
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  San Francisco Giants vs St. Louis Cardinals
 https://www.webcsn.ru.com/cdn/premium375/playlist.m3u8|Referer=https://player.licenses4.me/
 
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   New York Rangers vs Pittsburgh Penguins
+http://198.144.159.40/tBmwLa9jh5km4dPUUXgFsQ/1652683124/3138372e3235302e3136342e313437/ff116/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   New York Rangers vs Pittsburgh Penguins
+https://snhls-i.akamaihd.net/hls/live/249773/internal_live/master.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   New York Rangers vs Pittsburgh Penguins
+http://134.19.182.131:8082/Sx__oNHFfn2f5v_wopbltg/1652683283/3138372e3235302e3136342e313437/ff3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   New York Rangers vs Pittsburgh Penguins
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL.tv",   Calgary Flames vs Dallas Stars
