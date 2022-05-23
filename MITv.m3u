@@ -4726,3 +4726,15 @@ https://www.olacast.live/cdn/premium12/playlist.m3u8|Referer=https://player.lice
 
 
 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",   Tampa Bay Lightning vs Florida Panthers
+https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",   St. Louis Blues vs Colorado Avalanche
+https://d1agn6yv8q3970.cloudfront.net/hls/TNT/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL DD",  Tampa Bay Lightning vs Florida Panthers
+https://www.olacast.live/cdn/premium338/playlist.m3u8|Referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL DD",  St. Louis Blues vs Colorado Avalanche
+https://www.olacast.live/cdn/premium338/playlist.m3u8|Referer=https://player.licenses4.me/
+
+
