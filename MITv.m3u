@@ -1468,6 +1468,8 @@ http://45.189.117.33:7879/play/a0ea/index.m3u8
 http://45.189.117.33:7879/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC2
+http://tv.teleclub.xyz/live/ABRIL_02/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family S1
@@ -1476,8 +1478,8 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv1.php?c=3298
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family Bg9
 http://bgapp.live/play/megapro-599.php?c=62|User-agent=megaplayer
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family S7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=30345.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 http://45.189.117.33:7879/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
