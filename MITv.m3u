@@ -2102,10 +2102,18 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
+https://d2ryigvt11cgjj.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
 http://hls-pull-yashwa.speedws.com/live/m0naco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
+http://d1vcu8b1ocezka.cloudfront.net/stream/NDQ0Nw==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180323/gee/kisspng-2014-fia-formula-one-world-championship-monaco-gra-formula-1-5ab5272525c190.5075229015218214771547.jpg" group-title="EVENTO EN VIVO", F1 MONACO
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
 https://dai.google.com/linear/hls/event/Cq_gZiisQ2SyiKV3neh7Mg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
