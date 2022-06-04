@@ -1421,6 +1421,8 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather", WeatherSpy
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/38690.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://45.189.117.33:7879/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
@@ -1457,8 +1459,8 @@ http://45.189.117.33:7879/play/a0e8/index.m3u8
 http://45.189.117.33:7879/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://bgapp.live/play/trasco-600.php?c=651HBO2/transco13&f=blackghost.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 SK
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/live/tvking41/ratonescuriosos381/611.ts%7CUser-Agent=TVKINGpropiedadDeShortGod.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/29301.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC1
@@ -1485,7 +1487,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/38685.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
@@ -1501,7 +1503,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-http://45.161.188.242:88/hbofamilyhd/mono.m3u8
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/38687.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family S1
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv1.php?c=3298
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC2
@@ -1521,9 +1523,9 @@ http://tv.teleclub.xyz/live/ABRIL_02/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature S1
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv1.php?c=3301
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/49289.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature SK
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/live/tvking41/ratonescuriosos381/614.ts%7CUser-Agent=TVKINGpropiedadDeShortGod.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature Bg9
 http://bgapp.live/play/megapro-600.php?c=61|User-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
@@ -1539,9 +1541,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/172272.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme SK
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/live/tvking41/ratonescuriosos381/615.ts%7CUser-Agent=TVKINGpropiedadDeShortGod.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme S1
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv1.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
@@ -1549,7 +1551,7 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv1.php?c=3302
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 http://45.189.117.33:7879/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/29305.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC2
