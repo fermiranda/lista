@@ -3879,10 +3879,9 @@ http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
 http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/8437.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
 http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
+http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/41041.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
 
