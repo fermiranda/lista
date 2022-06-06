@@ -3627,7 +3627,7 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA", Fox Boston MA (WFXT-DT1)
 http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA",Fox Seattle WA (KCPQ-DT1)
-http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
 https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1200px-KNBC_%282011_-_Flat%29.svg.png" group-title="USA", KNBC 4.1 NBC 4 - Los Angeles 82 FHD
