@@ -4642,11 +4642,21 @@ EXTINF:-1 tvg-logo="https://asugoldenrams.com/images/2018/5/15/MBA_V_RS_FC_DB.jp
 https://netwrk.ru.com/cdn/premium316/playlist.m3u8|Referer=https://player.licenses4.me
 
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning ESPN
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning
+http://134.19.182.131:8080/pdgd89b7a1344be528f.m3u8?m=sTI7xm1balVlFiMD10VMFA&c=d89b7a1344be528f&p=3230312e3137312e33382e323035&e=1655019799
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning
+https://dai.google.com/ssai/event/QaxJ4MF7SkqWWDCxcsma6Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning
+https://snhls-i.akamaihd.net/hls/live/249773/internal_live/master.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New York Rangers vs Tampa Bay Lightning
 
 
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL DD",  New York Rangers vs Tampa Bay Lightning
 https://netwrk.ru.com/cdn/premium44/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL DD",  New York Rangers vs Tampa Bay Lightning
+https://netwrk.ru.com/cdn/premium406/playlist.m3u8|Referer=https://player.licenses4.me
 
 
 #EXTINF:-1 tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/crm/desmoines/UFC-275-App-Square_14EAF531-5056-A36A-066474321EB74CC0_14f712cf-5056-a36a-0694b9db5f21273f.png" group-title="MMA",  UFC 275
