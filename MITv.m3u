@@ -933,24 +933,44 @@ https://858142382.tapecontent.net/radosgw/QeXjqP6AyLhRJj/Uib4sKhtU0rpA-5Pi22Wsnr
 
 #EXTINF:-1 tvg-logo="-" group-title="PELICULAS", 
 
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema
+http://190.83.119.67:8000/play/a0om/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="UNIVERSAL", Universal Comedy
+http://190.83.119.67:8000/play/a0rl/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="UNIVERSAL", Universal Comedy HD
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="UNIVERSAL", Universal Crime
+http://190.83.119.67:8000/play/a0sj/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="UNIVERSAL", Universal Crime HD
+http://190.83.119.67:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="UNIVERSAL", Universal Premiere HD
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="UNIVERSAL", Universal Premiere O HD
+http://190.83.119.67:8000/play/a0uj/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="UNIVERSAL", Universal Reality
+http://190.83.119.67:8000/play/a0rj/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="UNIVERSAL", Universal Reality HD
+http://190.83.119.67:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
-http://bgapp.live/play/bud-626.php?c=38848.m3u8&blck
+
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="UNIVERSAL", Universal Premiere
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="UNIVERSAL", Universal Premiere HD
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="UNIVERSAL", Universal Premiere HD
-http://bgapp.live/play/bud-626.php?c=38842.m3u8&blck
+
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="UNIVERSAL", Universal Comedy
-http://bgapp.live/play/bud-626.php?c=38847.m3u8&blck
+
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="UNIVERSAL", Universal Crime
-http://bgapp.live/play/bud-626.php?c=38843.m3u8&blck
+
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="UNIVERSAL", Universal Reality
-http://bgapp.live/play/bud-626.php?c=38844.m3u8&blck
+
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile" group-title="24/7", Sony Channel Competencias Xumo
 https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/41bb1518-211c-4fe2-b34a-638877f6e783/3.m3u8
