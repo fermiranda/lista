@@ -4383,8 +4383,12 @@ http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="DEPORTES", SKY Bundesliga 1
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-640x384.png" group-title="DEPORTES", ESPN NL Dd
+https://netwrk.ru.com/cdn/premium379/playlist.m3u8|Referer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/ESPN_3HD.png" group-title="DEPORTES", ESPN 3 NL
-https://content-aeui1.uplynk.com/channel/d35471bb86124df19a625842bf78c2e8/f.m3u8?pbs=3b7a896b931c4773b6ca7b4e76c61f2d
+
+#EXTINF:-1 tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/ESPN_3HD.png" group-title="DEPORTES", ESPN 3 NL
+
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/1-tvg-id-tvg-name-tvg-logohttps-ad-sport-2-hd-11563287854svibbxrdwu.png" group-title="DEPORTES", AD Sports 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
 
