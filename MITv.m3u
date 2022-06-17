@@ -4511,6 +4511,9 @@ http://d2d4t2ltpba4ey.cloudfront.net/stream/NDQ4OQ==/1080p.m3u8
 https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FQPBXlAXwAEPx8Z?format=jpg"  group-title="NBA",  Boston Celtics vs Golden State Warriors 
 https://0f3a91e5b0f4.us-west-2.playback.live-video.net/api/video/v1/us-west-2.399972789093.channel.FxeTf8lWijoa.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FQPBXlAXwAEPx8Z?format=jpg"  group-title="NBA",  Boston Celtics vs Golden State Warriors
+http://134.19.182.131:8080/pdgbdbff743e6aff2a5_2.m3u8?m=AyHH2n-_7YnSukhdoFmbtA&c=bdbff743e6aff2a5&p=3230312e3137312e36362e3834&e=1655460240
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FQPBXlAXwAEPx8Z?format=jpg" group-title="NBA DD",  Boston Celtics vs Golden State Warriors
