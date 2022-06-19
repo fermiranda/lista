@@ -2758,21 +2758,21 @@ https://netwrk.ru.com/cdn/premium39/playlist.m3u8|Referer=https://player.license
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 http://51.222.43.170:36995/live/JACKMANiptv/fpdCf3wRuXF2/1274.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/756.m3u8
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US S11
-http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv11.php?c=67583
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
+http://51.222.25.50:25461/live/bulln3w/s0beron/108.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-http://51.222.43.170:36995/live/JACKMANiptv/fpdCf3wRuXF2/1275.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-http://quality-restream.com:8080/live/Unplugged83/F75DCxx397DMKop5388mM/757.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 
-#EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US S11
-http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv11.php?c=67603
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
+http://51.222.25.50:25461/live/bulln3w/s0beron/109.m3u8
+#EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US S
+
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US
 
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US
@@ -3427,7 +3427,7 @@ https://netwrk.ru.com/cdn/premium131/playlist.m3u8|Referer=https://player.licens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/KTAZ_Logo.png/300px-KTAZ_Logo.png" group-title="USA Latinos",Telemundo 39.1 Phoenix (KTAZ)
 https://v-px.mybtv.net/live/39.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston
-http://hispanotv.net:8080/live/Emilio/Emilio/143933.m3u8
+http://51.222.25.50:25461/live/bulln3w/s0beron/3300.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 http://bgapp.live/play/tvhd-686.php?id=48&k=blackghoooossst&file=.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY (WJNU-DT1)
@@ -3439,7 +3439,7 @@ https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Orlando
-
+http://hispanotv.net:8080/live/Emilio/Emilio/3307.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Internacional
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
