@@ -2578,21 +2578,21 @@ http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv1.php?c=3203
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://51.222.25.50:25461/live/bulln3w/s0beron/3041.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://181.78.10.235:58004/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+http://181.78.10.235:58004/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2
 
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX Short 15
-http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv15.php?c=83588
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
+
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+http://181.78.10.235:58004/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX TP
@@ -2607,6 +2607,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=hkc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES", ESPN XTRA
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="DEPORTES", ESPN 4 
+http://181.78.10.235:58004/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="DEPORTES", ESPN Brasil
 https://transcoder-itatiba-01.nxplay.com.br:443/ESPN_BR/tracks-v1a1/mono.m3u8?mvk
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX S1
