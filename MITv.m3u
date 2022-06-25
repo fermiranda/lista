@@ -288,7 +288,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2061&f=HLSAD&s=hk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="NACIONALES", CANAL 28 NUEVO LEÓN
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES",Televisa Monterrey Canal 8
-http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES",Televisa Monterrey Canal 8 Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty TP
@@ -320,7 +320,7 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
-http://bgapp.live/play/totalp2s-622.php?k=blckghos&token=blackgghost&c=2274
+http://bgapp.live/play/totalp3-622.php?c=2274&p=3&k=blckghos&token=blackggghost&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1 Web
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="NACIONALES", TVCUATRO 4.2 Web
