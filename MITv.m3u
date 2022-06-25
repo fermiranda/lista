@@ -3442,6 +3442,10 @@ http://hispanotv.net:8080/live/Emilio/Emilio/3307.m3u8
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11474/s11474_h3_aa.png" group-title="USA", WGN9 
 http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA", Fox Boston MA (WFXT-DT1)
+http://51.161.118.146:8080/ISG03_FOX_BOSTON_MA_WFXT/video.m3u8
+#EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://en-academic.com/pictures/enwiki/87/WITI-MyFox.png" group-title="USA", FOX Milwaukee WI (WITI-DT1)
+http://51.161.118.146:8080/ISG03_FOX_MILWAUKEE_WI_WITI/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY (WTXF-DT1) 29.1
 https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY HD
@@ -3456,19 +3460,38 @@ https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-2&x=1
 https://v-ny.mybtv.net/live/550/768x432.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/59/07/a1/5907a18b4d8784a514d95bd3a11fb66d.jpg" group-title="USA", FOX 5 NY HD
 https://v-ny.mybtv.net/live/550/1280x720.m3u8?env=prd&uid=-2&x=1
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN_7_Miami_logo.png" group-title="USA", FOX 7 Miami
-
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-logo="https://www.greencitymarket.org/content/images/news/fox32logo500.png" group-title="USA", FOX Chicago IL (WFLD-DT1)
+http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us" #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/c/c0/Fox_5_Atlanta.png" group-title="USA", FOX Atlanta GA (WAGA-DT1)
+http://51.161.118.146:8080/ISG03_FOX_ATLANTA_GA_WAGA/video.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us" #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/c/c0/Fox_5_Atlanta.png" group-title="USA", FOX Atlanta-GA (WAGA-DT1)
+https://trn10.tulix.tv/WAGA-FOX/index.m3u8
+#EXTINF:-1 tvg-id="WVUEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/WVUE-DT_Logo.png/338px-WVUE-DT_Logo.png" group-title="USA", FOX New Orleans LA (WVUE-DT1)
+http://51.161.118.146:8080/ISG03_FOX_NEW_ORLEANS_LA_WVUE/video.m3u8
+#EXTINF:-1 tvg-id="WXINDT1.us" tvg-logo="https://fox59.com/wp-content/uploads/sites/21/2020/07/FOX59-LOGO-800x349-02.png" group-title="USA", FOX Indianapolis IN (WXIN-DT1)
+http://51.161.118.146:8080/ISG03_FOX_INDIANAPOLIS_IN_WXIN/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/5/51/WJBK_Full_ID_logo.png" group-title="USA", FOX Detroit MI (WJBK-DT1)
+http://51.161.118.146:8080/ISG03_FOX_DETROIT_MI_WJBK/video.m3u8
+#EXTINF:-1 tvg-id="WFOXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/WFOX-TV_logo.png/400px-WFOX-TV_logo.png" group-title="USA", FOX Jacksonville FL (WFOX-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_JACKSONVILLE_FL_WFOX/video.m3u8
+#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/3/35/FOX_35.jpg" group-title="USA", FOX Orlando FL (WOFL-DT1)
+http://51.161.118.146:8080/ISG03_FOX_ORLANDO_FL_WOFL/video.m3u8
+#EXTINF:-1 tvg-id="WSVNDT1.us" tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN_7_Miami_logo.png" group-title="USA", FOX Miami FL (WSVN-DT1)
+http://51.161.118.146:8080/ISG03_FOX_MIAMI_FL_WSVN/video.m3u8
+#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/1459207114296078336/qho8DEyp_400x400.jpg" group-title="USA", FOX 26 Houston TX (KRIV-DT1)
+http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8
+#EXTINF:-1 tvg-logo="https://kdvr.com/wp-content/uploads/sites/11/2020/01/favicon.png" group-title="USA", FOX 31 Denver
+http://51.161.118.146:8080/ISG03_FOX_DENVER_CO_KDVR/video.m3u8
+#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/Fox_10_News_logo.jpg" group-title="USA", FOX Phoenix AZ (KSAZ-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_PHOENIX_AZ_KSAZ/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/17/7/8/fox-11-news-wluk-tv-green-bay-television-png-favpng-QStp6f4xBWxDFpiPQFngG8QWY.jpg" group-title="USA", FOX 11 LA
 
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
+#EXTINF:-1 tvg-logo="-" group-title="USA", FOX
 
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 
 #EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA", Fox Boston MA (WFXT-DT1)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png" group-title="USA",Fox Seattle WA (KCPQ-DT1)
 http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_200x200.jpg" group-title="USA", NBC 4 Los Angeles
