@@ -4029,6 +4029,8 @@ http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA",ABC WTAE PITT WEB
 
+#EXTINF:-1 tvg-logo="https://cdn.abcotv.com/googleassistant/logos/KFSN.png" group-title="USA", ABC 6
+https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://en-academic.com/pictures/enwiki/87/WPVI_Logo.png" group-title="USA", ABC WPVI-DT1 6.1
 https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
