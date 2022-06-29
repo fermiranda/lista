@@ -4107,6 +4107,8 @@ https://v-ny.mybtv.net/live/562/1920x1080.m3u8?env=prd&uid=-2&x=1
 https://v-ny.mybtv.net/live/559.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/WJLP_New_York_Logo.png/300px-WJLP_New_York_Logo.png" group-title="USA", MeTV (WJLP-DT1) 33.1  
 https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1024px-Starz_In_Black_logo.svg.png" group-title="USA", Starz In Black
+http://38.127.211.18/live/c2eds/StarzInBlack/HLS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/800px-Starz_Edge_logo.svg.png" group-title="USA", Starz Edge
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/827/324/997/tv-channel-icons-pack-starz-comedy-color-png-icon.jpg" group-title="USA", Starz Comedy
