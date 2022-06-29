@@ -1999,6 +1999,15 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=hk
 
 
 
+#EXTINF:-1 tvg-logo="https://candyanthony.com/wp-content/uploads/2017/05/bbc_three_logo-2.png" group-title="UK", BBC ONE
+http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="UK", BBC TWO
+http://ott.riotelecomm.es:4512/m3u8/BBCTWO.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1599px-CBBC_%282022%29.svg.png" group-title="UK", CBBC
+http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="UK", 
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="PAISAJES", ANIMALS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
