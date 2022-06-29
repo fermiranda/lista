@@ -4051,8 +4051,8 @@ http://51.161.118.146:8080/ISG03_CBS_DALLAS_TX_KTVT/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/03/60h-PITT-white-stacked.png" group-title="USA", CBSN PITT WEB
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW ATL WUPA
+https://trn10.tulix.tv/WUPA-CW/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", KNXV-CW61AZ (The CW 61 Arizona)
 https://v-px.mybtv.net/live/160.m3u8?env=prd&uid=-2&x=1
 
