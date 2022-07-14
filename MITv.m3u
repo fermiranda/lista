@@ -4109,7 +4109,7 @@ http://qqtv.nl:8080/live/Nancy2/2Nancy/148112.m3u8
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC Burlington-VA (WVNY-TV1)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC 10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1022px-American_Broadcasting_Company_Logo.svg.png" group-title="USA", ABC WEST
@@ -4132,13 +4132,12 @@ https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
 https://v-ny.mybtv.net/live/554/1280x720.m3u8?env=prd&uid=-1&x=1
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC 10 San Diego
-http://breakingcable.xyz:80/truck/truck/267
+
 #EXTINF:-1 tvg-id="KTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS112015Logo.svg/1024px-CBS112015Logo.svg.png" group-title="USA", CBS Dallas TX (KTVT-DT1)
 http://51.161.118.146:8080/ISG03_CBS_DALLAS_TX_KTVT/video.m3u8
 
