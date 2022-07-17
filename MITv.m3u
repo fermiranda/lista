@@ -2028,7 +2028,7 @@ http://bgapp.live/play/totalp3-777.php?c=124&p=3&k=blckghos&token=blackgghost&f=
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
-
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 http://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier
@@ -2043,20 +2043,22 @@ http://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/GOLDENPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" group-title="ENTRETENIMIENTO", Golden Premier TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/GOLDENPREMIER/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA TP
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA TP
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA TP
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA TlC2
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA 
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA TP Bg
 http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=121
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
 http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=335
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/225px-DP_Cl%C3%A1sico.svg.png" group-title="ENTRETENIMIENTO", DePELICULA CLASICO
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="ENTRETENIMIENTO", DePELICULA PLUS TP
-
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema TP Bg
 http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1787
 #EXTINF:-1 tvg-name="Azteca Cinema HD" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema TP
