@@ -4190,7 +4190,8 @@ https://755722ba28274b2f975329d908c8f586.mediatailor.us-east-1.amazonaws.com/v1/
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1024px-AXS_TV_logo.svg.png" group-title="USA", AXS TV NOW
 https://d6ywct4o2ksou.cloudfront.net/hls/720phi/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png" group-title="USA", WMUR 9
+https://linear-33.frequency.stream/33/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="USA", The CW New York NY (WPIX-DT1)
 https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/annex/images/e/e0/PIX11_2017.png" group-title="USA", The CW New York NY (WPIX-DT1) SD
