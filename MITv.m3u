@@ -1153,9 +1153,10 @@ http://144.217.69.162/SERIES_STALKER/THE%20TERMINAL%20LIST/LAT/S01/S01E07.mkv
 #EXTINF:-2022,  tvg-logo="https://rdsradio.hn/wp-content/uploads/2022/06/Captura11-1.png" group-title="La Lista Terminal", Episodio 8
 http://144.217.69.162/SERIES_STALKER/THE%20TERMINAL%20LIST/LAT/S01/S01E08.mkv
 
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
-http://51.79.18.128:8081/LATINO%7CCNN/LATINO%7CCNN/playlist.m3u8
+https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ TP
 http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blckghst&c=187
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL TP
