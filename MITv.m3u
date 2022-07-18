@@ -3786,6 +3786,8 @@ https://v-la.mybtv.net/live/112/768x432.m3u8?env=prd&uid=-1&x=1
 https://v-la.mybtv.net/live/280/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/KBEHlogo.png" group-title="USA",KWHY 63.1 Canal de la Fe - Los Angeles SD
 https://v-la.mybtv.net/live/280/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/2560px-ION_Plus_logo.svg.png" group-title="USA", ION Plus
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/0f/0f06840f9b945274d76def41f464752b.jpeg" group-title="USA",KILM 64.1 Grit - Los Angeles SD
 https://v-la.mybtv.net/live/275/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="-" group-title="USA", C99  - Los Angeles HD
