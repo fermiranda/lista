@@ -3583,7 +3583,9 @@ https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY (WJNU-DT1)
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY (WJNU-DT1)
-
+https://v-ny.mybtv.net/live/659/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY (WJNU-DT1)
+https://v-ny.mybtv.net/live/659/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Orlando
 http://hispanotv.net:8080/live/Emilio/Emilio/3307.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Internacional
