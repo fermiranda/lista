@@ -1161,8 +1161,8 @@ https://v-sd.mybtv.net/live/495/1920x1080.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once TP
 http://bgapp.live/play/totalp1s-730.php?k=blckghost&token=bblackghhooostt&c=25
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV Web
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOHD0Ccl9ZiAkmymZKXtXHjEHQpIp3jl2IuXaH5F2H68z)/p/dm/3/x6t7n6t/s/live-3.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV
+https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqml62fITwBZsKSKqh1ctalkkHTDMyuTIJu4ztzecEsRA)/dm/3/x7urqme/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV TP Bg
 http://bgapp.live/play/totalp1s-730.php?k=blckghost&token=bblackghhooostt&c=2149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV 
