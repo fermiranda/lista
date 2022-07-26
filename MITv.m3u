@@ -176,12 +176,14 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3097&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2407&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
 http://bgapp.live/play/zufree-729.php?c=881.m3u8&black
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://bgapp.live/play/tvhd-729.php?id=65&k=blackghoooossst&file=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Bg 22
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Bg 22
 http://bgapp.live/play/futvall-729.php?id=imagentv&token=Blackghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
+http://144.126.128.123:25461/live/adawdasdasdasd/deaapdeaapdeaapdeaapdeaapdeaapdeaapdeaapdeaap/26338.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
+http://144.126.128.123:25461/live/adawdasdasdasd/deaapdeaapdeaapdeaapdeaapdeaapdeaapdeaapdeaap/26338.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij
 https://v-sd.mybtv.net/live/485.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij FHD
@@ -201,7 +203,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3089&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+
-
+http://144.126.128.123:25461/live/adawdasdasdasd/deaapdeaapdeaapdeaapdeaapdeaapdeaapdeaapdeaap/26275.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Noroeste
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ TP
