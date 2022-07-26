@@ -375,9 +375,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=hkc2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://181.78.6.57:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY 
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY S1
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg
+http://158.69.60.74:25461/live/BlackGhost/bgaddon.xyz/36530.m3u8?token=QkYJBRJYEQ4WDANWCQBUVQFRUgcJWltQVFMFCgFUUFUJB1hXUgYHUAcXTUZDRxQEUVo+WlVBAgdXAAYDHhBGRVwWPg0FEgkWAAdRUQgRSkNEXgxWE1kIGENFXFcQCBEED1xXRk0SVkxAUBMKUV85BVVBCFBUQQJaFFlZHxBdXWldAQwFD1QRDhYEQ0gSWhUREg0PRl0PFBYDXEFBU0ZWFANGUFZQBhEYFlYOEV5HFBgSDUNmYkEUFgRNQVZcQVpZV0ZbRgwDRgwWGUMNQ2wUBENDE1ZQDl1GQw8XAxAeEVtYHD4HDl5dUVdBCAteQERbEgJRER1BVVsPXEFcQG1DX11GW0ZTAQIMFkg=
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY Bg
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY S2
 
@@ -4562,15 +4562,13 @@ http://198.144.159.43/v596CnVPMT9Yu9u5sctnaw/1658823052/3138372e3235302e3133392e
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  Colorado Rockies vs Milwaukee Brewers
 http://198.144.159.43/XnETQTNxAMBsEbVtmwyX7Q/1658823130/3138372e3235302e3133392e313933/ff106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  Houston Astros vs Oakland Athletics
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  Houston Astros vs Oakland Athletics
-
+http://198.144.159.40/ix2KPYTMLb0dHsosRs396g/1658830118/3138372e3235302e3133392e313933/ff108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  San Francisco Giants vs Arizona Diamondbacks
-
+http://198.144.159.40/E7Up0sptqmnJ5Od14pBxsg/1658830201/3138372e3235302e3133392e313933/ff109/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  Texas Rangers vs Seattle Mariners
-
+http://198.144.159.43/eK8zGrEEAQbAIde_FChr3Q/1658830245/3138372e3235302e3133392e313933/ff110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv",  Washington Nationals vs Los Angeles Dodgers
-
+http://198.144.159.43/CxzGkSoIeljKAtZgW4KuHg/1658830314/3138372e3235302e3133392e313933/ff14/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  MLB Network
