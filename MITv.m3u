@@ -4691,8 +4691,10 @@ https://srv.vhls.ru.com/cdn/premium2/playlist.m3u8|Referer=https://player.licens
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.sillyseason.com/wp-content/uploads/2022/07/UFC-277-Date.jpg" group-title="MMA",  UFC 277  
+#EXTINF:-1 tvg-logo="https://cdn.sillyseason.com/wp-content/uploads/2022/07/UFC-277-Date.jpg" group-title="MMA",  UFC 277*
 https://d4m1j4ja3unj6.cloudfront.net/hls/ufc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sillyseason.com/wp-content/uploads/2022/07/UFC-277-Date.jpg" group-title="MMA",  UFC 277
+https://d4m1j4ja3unj6.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sillyseason.com/wp-content/uploads/2022/07/UFC-277-Date.jpg" group-title="MMA",  UFC 277  
 http://trfdsgvsd.azureedge.net/live/MMA1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sillyseason.com/wp-content/uploads/2022/07/UFC-277-Date.jpg" group-title="MMA",  UFC 277  
