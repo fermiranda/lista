@@ -4589,3 +4589,38 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Toronto Blue Jays vs Baltimore Orioles
+http://134.19.182.131:8080/p/O0uendvTIgYtTF3Z_LV7zA/b200bc939aa93a84/3230312e3137312e38342e3734/1660028591.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Cincinnati Reds vs New York Mets
+http://198.144.159.40/MA6h5_I81uOglveb4VOhwg/1660028633/3230312e3137312e38342e3734/ff101/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Washington Nationals vs Chicago Cubs
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Los Angeles Angels vs Oakland Athletics
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Pittsburgh Pirates vs Arizona Diamondbacks
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", San Francisco Giants vs San Diego Padres
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", New York Yankees vs Seattle Mariners
+
+
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  MLB Network
+https://srv.vhls.ru.com/cdn/premium399/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Toronto Blue Jays vs Baltimore Orioles
+https://srv.vhls.ru.com/cdn/premium32/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Cincinnati Reds vs New York Mets
+https://srv.vhls.ru.com/cdn/premium114/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Washington Nationals vs Chicago Cubs
+https://srv.vhls.ru.com/cdn/premium3/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Los Angeles Angels vs Oakland Athletics
+https://srv.vhls.ru.com/cdn/premium4/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Pittsburgh Pirates vs Arizona Diamondbacks
+https://srv.vhls.ru.com/cdn/premium5/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  San Francisco Giants vs San Diego Padres
+https://srv.vhls.ru.com/cdn/premium33/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  New York Yankees vs Seattle Mariners
+https://srv.vhls.ru.com/cdn/premium6/playlist.m3u8|Referer=https://player.licenses4.me
+
+
