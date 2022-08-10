@@ -4592,17 +4592,23 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Cincinnati Reds vs New York Mets
 http://watchers.azureedge.net/stream/NDcxOQ==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Milwaukee Brewers vs Tampa Bay Rays 
+http://1991cordier.azureedge.net/stream/NDcyMQ==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Chicago Cubs vs Washington Nationals 
 
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Cincinnati Reds vs New York Mets
 http://134.19.182.131:8082/9hyCLf0Czvl1uuPw2Zfcsw/1660179778/3230312e3137312e38342e3734/ff100/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Milwaukee Brewers vs Tampa Bay Rays 
+http://198.144.159.43/kbFPeVC3IY2eEI1PSZ5GcQ/1660186861/3230312e3137312e38342e3734/ff2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Chicago Cubs vs Washington Nationals 
+http://198.144.159.43/kw2Cmx2GicYM6p_BmaFQGw/1660186981/3230312e3137312e38342e3734/ff3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  MLB Network
 https://srv.vhls.ru.com/cdn/premium399/playlist.m3u8|Referer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  Cincinnati Reds vs New York Mets
-https://srv.vhls.ru.com/cdn/premium34/playlist.m3u8|Referer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium399/playlist.m3u8|Referer=https://player.licenses4.me
 
 
