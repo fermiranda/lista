@@ -4596,6 +4596,12 @@ http://watchers.azureedge.net/stream/NDcxOQ==/1080p.m3u8
 http://1991cordier.azureedge.net/stream/NDcyMQ==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Chicago Cubs vs Washington Nationals 
 
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Oakland Athletics vs Los Angeles Angels
+http://1991cordier.azureedge.net/stream/NDcyMg==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", San Diego Padres vs San Francisco Giants
+http://tracha.azureedge.net/stream/NDcyMw==/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv1", Seattle Mariners vs New York Yankees
+http://wuki.azureedge.net/stream/NDcyNA==/1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Cincinnati Reds vs New York Mets
@@ -4604,6 +4610,12 @@ http://134.19.182.131:8082/9hyCLf0Czvl1uuPw2Zfcsw/1660179778/3230312e3137312e383
 http://198.144.159.43/kbFPeVC3IY2eEI1PSZ5GcQ/1660186861/3230312e3137312e38342e3734/ff2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Chicago Cubs vs Washington Nationals 
 http://198.144.159.43/kw2Cmx2GicYM6p_BmaFQGw/1660186981/3230312e3137312e38342e3734/ff3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Oakland Athletics vs Los Angeles Angels
+http://198.144.159.43/tdwYH4TvvOywwMd2QIOhUw/1660193170/3230312e3137312e38342e3734/ff4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", San Diego Padres vs San Francisco Giants
+http://198.144.159.43/wrPvJCygrI-FmLFvqsLgmA/1660193364/3230312e3137312e38342e3734/ff6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB.Tv", Seattle Mariners vs New York Yankees
+http://198.144.159.43/A8m7_QIa2mTJX9pq-qAiqg/1660193535/3230312e3137312e38342e3734/ff5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB DD",  MLB Network
