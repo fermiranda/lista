@@ -18,10 +18,26 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="XEPMTDT.mx" tvg-name="Las Estrellas -1(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrella -1 Hr
+#EXTINF:-1 tvg-id="XEPMTDT.mx" tvg-name="Las Estrellas-1(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrella -1 Hr
 https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas -2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
+#EXTINF:-1 tvg-id="XEPMTDT.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png"  group-title="NACIONALES", LAS ESTRELLAS -1
+https://channel-estrellasd1-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_keys=https://bgaddon12.webcindario.com/bli.php?tok
+#EXTVLCOPT:http-referrer=https://bgapp.live:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png"  group-title="NACIONALES", LA ESTRELLAS -2
+https://channel-estrellasd2-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_keys=https://bgaddon12.webcindario.com/bli.php?tok
+#EXTVLCOPT:http-referrer=https://bgapp.live:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=1784&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -73,38 +89,45 @@ https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png"  group-title="NACIONALES", NU9VE
+https://channel-galatv-cdn.blim.com/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_keys=https://bgaddon12.webcindario.com/bli.php?tok
+#EXTVLCOPT:http-referrer=https://bgapp.live:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
-
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=3058&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=2039&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Bg 22
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE Bg 22
 http://bgapp.live/play/futvall-814.php?id=elnueve&token=blackgghost&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ
+#EXTINF:-1 tvg-id="XETV-TDT.mx" tvg-name="XETV Tijuana" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES",EL NU9VE TJ
 https://v-sd.mybtv.net/live/761.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=700&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=2916&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=19&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 http://regioplay.xyz/php/SR_REGIO_037022_/tpnuevo01.php?tokennn=Regio&c=4&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro"tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
 https://v-sd.mybtv.net/live/762.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
 
