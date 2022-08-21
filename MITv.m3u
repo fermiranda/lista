@@ -18,32 +18,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon22.000webhostapp.com/izz.php?token=blackghostt
-#EXTVLCOPT:http-referrer=https://bgapp.live:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://logo.iptveditor.com/lasestrellas.png"  group-title=“NACIONALES”, LAS ESTRELLAS HD
-https://live3-ott.izzigo.tv/out/u/dash/RDF_MTY_Las-Estrellas-HD/default.mpd
 #EXTINF:-1 tvg-id="XEPMTDT.mx" tvg-name="Las Estrellas-1(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrella -1 Hr
 https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="XEPMTDT.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png"  group-title="NACIONALES", LAS ESTRELLAS -1
-https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png"  group-title="NACIONALES", LA ESTRELLAS -2
-https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=1784
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -74,13 +52,6 @@ http://bgapp.live/play/tvhd-844.php?id=57&token=blackghostt&file=.m3u8
 https://shortgod.com/flashm3uv2/telelaaat311.php?id=57&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=20
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -103,13 +74,6 @@ https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png"  group-title="NACIONALES", EL NU9VE
-https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
 
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
@@ -142,13 +106,6 @@ http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=19
 http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=4
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
 https://v-sd.mybtv.net/live/762.m3u8?env=prd&uid=-1&x=1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -185,13 +142,6 @@ https://v-sd.mybtv.net/live/508/1280x720.m3u8?env=prd&uid=-1&x=1
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"   tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 http://bgapp.live/play/totalp1s-844.php?k=blckghost&token=blackhhghost&c=317
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
@@ -210,13 +160,6 @@ http://bgapp.live/play/futvall-844.php?id=azteca7hd&token=blackghostt&f=.m3u8
 https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana 
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8?env=prd&uid=-1&x=1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana 
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste
@@ -251,13 +194,6 @@ http://bgapp.live/play/zufree-844.php?c=881&black=.m3u8
 http://bgapp.live/play/tvhd-844.php?id=65&token=blackghostt&file=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Bg 22
 http://bgapp.live/play/futvall-844.php?id=imagentv&token=blackghostt&f=.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="NACIONALES" group-title="NACIONALES", like Gecko) Chrome/85.0.4183.83 Safari/537.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bgaddon16.000webhostapp.com/izz.php?token
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-https://live3-ott.izzigo.tv/out/u/dash/RDF-CDMX-Imagen-Television-HD/default.mpd
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://51.222.25.50:25461/live/bulltvn3w/appnew/125.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
