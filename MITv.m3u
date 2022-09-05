@@ -171,7 +171,7 @@ https://live.info7.mx/info7/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web Dl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLizAAdG5lI8MmBfc80ovBsezgpSNjOimsfyUTSIzKY6l)/dm/3/x82z4if/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkunDxdIToT5YjAskNbKTWyJwzhggA-ak0aNdQHsBqtn)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2606&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -4602,78 +4602,6 @@ http://198.144.159.40/GxK2ueh6nAnmZh3b3-tdww/1662265174/3138372e3235302e3134312e
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Blue Jays @ Pirates
-http://134.19.182.131:8082/LQwT2EW-8xwWKxeomiXg6g/1662335883/3138372e3235302e3134312e313537/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Rockies @ Reds
-http://198.144.159.40/ozLepdv4Tw5mpEV1ntW5oQ/1662343277/3138372e3235302e3134312e313537/ff6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Rockies @ Reds Game 2
-http://198.144.159.43/aigqyjfsGukB32W88INHgw/1662352251/3138372e3235302e3134312e313537/ff100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Athletics @ Orioles
-http://198.144.159.40/gbWcT41y8Yz-KuOsdLNLFQ/1662343313/3138372e3235302e3134312e313537/ff4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Rangers @ Red Sox
-http://134.19.182.131:8082/2zMCA-g5Dv3x0Y_gqHx9cw/1662343349/3138372e3235302e3134312e313537/ff5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Marlins @ Braves
-http://ws-live-pull-pinco-test.seewo.com/live/BQAOR47ES_C0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Royals @ Tigers
-http://198.144.159.40/PsRS86tEv_LA561Gora3iA/1662343423/3138372e3235302e3134312e313537/ff2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Nationals @ Mets
-http://134.19.182.131:8080/p/EhdEeAjxc4mFHstUMYFHfg/b200bc939aa93a84/3138372e3235302e3134312e313537/1662343463.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Yankees @ Rays
-http://134.19.182.131:8082/MMzeTkKCOYX9vHPVfi0Kew/1662343501/3138372e3235302e3134312e313537/ff7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Twins @ White Sox
-http://198.144.159.43/K2T15xIRiB6YZ5Bx3lHP_g/1662343563/3138372e3235302e3134312e313537/ff9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Cubs @ Cardinals
-http://198.144.159.43/EoIMWHnqh_pX9gysvAyQIA/1662343646/3138372e3235302e3134312e313537/ff10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Mariners @ Guardians
-http://198.144.159.43/e1tyjQnoFpvO7L33lznIQg/1662352159/3138372e3235302e3134312e313537/ff11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Phillies @ Giants
-http://198.144.159.43/Ila8isOHUSTcV01AtzCnDw/1662352212/3138372e3235302e3134312e313537/ff111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Astros @ Angels
-http://ws-live-pull-pinco-test.seewo.com/live/BQAOR55ES_C0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Brewers @ D-backs
-http://134.19.182.131:8082/2uwTFD6qBFE4eLbylQGh1g/1662352358/3138372e3235302e3134312e313537/ff14/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.Tv1", Padres @ Dodgers
-http://198.144.159.43/3EMZkN0XkVvLoJzV1SFc3g/1662362171/3138372e3235302e3134312e313537/ff114/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Blue Jays @ Pirates
-https://zcri.vhls.ru.com/cdnus2/premium10/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Rockies @ Reds
-https://zcri.vhls.ru.com/cdnus2/premium12/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Rockies @ Reds Game 2
-https://zcri.vhls.ru.com/cdnus2/premium21/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Athletics @ Orioles
-https://zcri.vhls.ru.com/cdnus2/premium19/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Rangers @ Red Sox
-https://zcri.vhls.ru.com/cdnus2/premium20/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Marlins @ Braves
-https://zcri.vhls.ru.com/cdnus2/premium18/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Royals @ Tigers
-https://zcri.vhls.ru.com/cdnus2/premium22/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Nationals @ Mets
-https://zcri.vhls.ru.com/cdnus2/premium24/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Yankees @ Rays
-https://zcri.vhls.ru.com/cdnus2/premium23/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Twins @ White Sox
-https://zcri.vhls.ru.com/cdnus2/premium25/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Cubs @ Cardinals
-https://zcri.vhls.ru.com/cdnus2/premium34/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Mariners @ Guardians
-https://zcri.vhls.ru.com/cdnus2/premium29/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Phillies @ Giants
-https://zcri.vhls.ru.com/cdnus2/premium6/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Astros @ Angels
-https://zcri.vhls.ru.com/cdnus2/premium9/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Brewers @ D-backs
-https://zcri.vhls.ru.com/cdnus2/premium14/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/Mlb-atbat-splashscreen-.jpeg" group-title="Mlb.TvM", Padres @ Dodgers
-https://zcri.vhls.ru.com/cdnus2/premium33/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 
