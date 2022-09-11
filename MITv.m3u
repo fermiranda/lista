@@ -4686,6 +4686,35 @@ https://webui.vhls.ru.com/lb/premium5/index.m3u8|Referer=https://player.licenses
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", NFL RedZone
+http://gmrs.azureedge.net/redzone_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Saints @ Falcons
+http://gmrs.azureedge.net/falcons_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Browns @ Panthers
+http://gmrs.azureedge.net/panthers_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", 49ers @ Bears
+http://gmrs.azureedge.net/bears_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Steelers @ Bengals
+http://gmrs.azureedge.net/bengals_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Eagles @ Lions
+http://gmrs.azureedge.net/lions_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Colts @ Texans
+http://gmrs.azureedge.net/texans_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Patriots @ Dolphins
+http://gmrs.azureedge.net/dolphins_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Ravens @ Jets
+http://gmrs.azureedge.net/jets_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jaguars @ Commanders
+http://gmrs.azureedge.net/commanders_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Giants @ Titans
+http://gmrs.azureedge.net/titans_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chiefs @ Cardinals
+http://gmrs.azureedge.net/cardinals_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Raiders @ Chargers
+http://gmrs.azureedge.net/chargers_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Packers @ Vikings
+http://gmrs.azureedge.net/vikings_720p30.m3u8
+
 
 
 
