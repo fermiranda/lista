@@ -4721,6 +4721,35 @@ https://webui.vhls.ru.com/lb/premium0/index.m3u8|Referer=https://player.licenses
 
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", NFL RedZone
+https://mihaylovlev.s3-accelerate.amazonaws.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Dolphins Vs Ravens
+https://mihaylovlev.s3-accelerate.amazonaws.com/ravens.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jets Vs Browns
+https://mihaylovlev.s3-accelerate.amazonaws.com/browns.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Commanders Vs Lions
+https://mihaylovlev.s3-accelerate.amazonaws.com/lions.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Colts Vs Jaguars
+https://mihaylovlev.s3-accelerate.amazonaws.com/jaguars.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Buccaneers Vs Saints
+https://mihaylovlev.s3-accelerate.amazonaws.com/saints.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Panthers Vs Giants
+https://mihaylovlev.s3-accelerate.amazonaws.com/giants.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Patriots Vs Steelers
+https://mihaylovlev.s3-accelerate.amazonaws.com/steelers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Falcons Vs Rams
+https://mihaylovlev.s3-accelerate.amazonaws.com/rams.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Seahawks Vs 49ers
+https://mihaylovlev.s3-accelerate.amazonaws.com/49ers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Bengals Vs Cowboys
+https://mihaylovlev.s3-accelerate.amazonaws.com/cowboys.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Texans Vs Broncos
+https://mihaylovlev.s3-accelerate.amazonaws.com/broncos.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cardinals Vs Raiders
+https://mihaylovlev.s3-accelerate.amazonaws.com/raiders.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", NFL RedZone 
 https://webui.vhls.ru.com/lb/premium3/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
