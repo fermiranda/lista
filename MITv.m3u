@@ -1064,7 +1064,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-runtime-xumo/CDN/1280x720_2855600
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1, tvg-logo="" group-title="24/7", Pelimex -TCL
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", RakutenTv
+#EXTINF:-1  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="24/7", Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", RakutenTv
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
