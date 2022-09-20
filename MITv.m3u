@@ -1341,7 +1341,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Ecuavisa#/media/Archivo:Ecuavisa_Logo_2019.png"group-title="Internacionales Latinos", Ecuavisa
 https://api.teleclub.xyz/twitch?id=tvenvivoecuador
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN Bg 18
-http://bgapp.live/play/tvhd-895.php?id=193&token=blllackkghostt&file=.m3u8
+http://bgapp.live/play/tvhd-928.php?id=193&token=blacccghoost&file=.m3u8|Origin=https://live.telelatinohd.com
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN
 http://138.186.20.245:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/rcn_thumb_94vazwhj.png"group-title="Internacionales Latinos",RCN TlCl1
@@ -4299,7 +4299,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Pm
 https://ad2017.vhls.ru.com/lb/premium336/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Nb
-https://srv.vhls.ru.com/lb/premium336/playlist.m3u8|Referer=https://player.licenses4.me/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
@@ -4307,7 +4307,7 @@ http://38.127.211.18/live/c2eds/TBS/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
-https://srv.vhls.ru.com/lb/premium343/playlist.m3u8|Referer=https://player.licenses4.me/
+https://webui.vhls.ru.com/lb/premium343/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 http://smarters.live:900/live/3310992783/0358349377/400216153.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
@@ -4317,9 +4317,9 @@ http://smarters.live:900/live/3310992783/0358349377/400216153.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
-https://srv.vhls.ru.com/lb/premium334/playlist.m3u8|Referer=https://player.licenses4.me/
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
+https://webui.vhls.ru.com/lb/premium334/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
