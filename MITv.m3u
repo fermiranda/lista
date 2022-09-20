@@ -1062,6 +1062,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-runtime-xumo/CDN/1280x720_2855600
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="24/7", Tu Cine HD
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1, tvg-logo="" group-title="24/7", Pelimex -TCL
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/vms.png" group-title="24/7", RakutenTv
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="24/7", OrbitTV
@@ -3297,7 +3299,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif" group-title="MUSICA", MTV Live
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6JRTP3/200px-MTV-Logo-svg.png" group-title="MUSICA",MTV
-
+http://38.143.137.221:8000/LA107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="MUSICA",Pluto TV MTV En Vivo
@@ -3306,14 +3308,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
 
-#EXTINF:-1 tvg-logo="-" group-title="MUSICA", 
-
+#EXTINF:-1 tvg-logo="-" group-title="MUSICA", MTV Hits Uk
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
 
 #EXTINF:-1 tvg-logo="-" group-title="MUSICA",
 
 #EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/mtv80s.jpg" group-title="MUSICA", MTV 80's
+http://38.143.137.221:8000/LA48/index.m3u8
+#EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/mtv80s.jpg" group-title="MUSICA", MTV 80's
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV 90's
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV 90's
+http://50.7.237.4:8080/MTVBASE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV 00's
+http://38.143.137.221:8000/LA49/index.m3u8
 #EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/exatv.jpg" group-title="MUSICA", EXATv Ca Tlv
 
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD
