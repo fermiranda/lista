@@ -1270,6 +1270,8 @@ https://v-sd.mybtv.net/live/524/768x432.m3u8?env=prd&uid=-1&x=1
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/telexitos.png" group-title="USA Latinos", TeleXitos San Diego
 https://v-sd.mybtv.net/live/519/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="KMEXVDT1.us" tvg-logo="https://es.wikipedia.org/wiki/KMEX-DT#/media/Archivo:Univision_34_2019.png" group-title="USA Latinos", Univision 34 L.A.
+http://38.143.137.221:8000/LA14/index.m3u8
 #EXTINF:-1 tvg-id="KMEXVDT1.us" tvg-logo="https://es.wikipedia.org/wiki/KMEX-DT#/media/Archivo:Univision_34_2019.png" group-title="USA Latinos", Univision 34 L.A. (KMEX-DT)
 https://v-la.mybtv.net/live/178.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://cdn1.uvnimg.com/d1/e9/9754d9c64ad583271fa71f3ce0ff/f70d6d2e40424fc0b0f4955659f773d8?" group-title="USA Latinos", Univision L.A. FHD
