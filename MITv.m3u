@@ -4774,33 +4774,33 @@ https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", NFL RedZone
-http://laravel.azureedge.net/redzone.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/redzone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Saints @ Panthers
-http://laravel.azureedge.net/panthers.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/panthers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Texans @ Bears
-http://laravel.azureedge.net/bears.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/bears/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chiefs @ Colts
-http://laravel.azureedge.net/colts.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/colts/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Bills @ Dolphins
-http://laravel.azureedge.net/dolphins.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/dolphins/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Lions @ Vikings
-http://laravel.azureedge.net/vikings.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/vikings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Ravens @ Patriots
-http://laravel.azureedge.net/patriots.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/patriots/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Bengals @ Jets
-http://laravel.azureedge.net/jets.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/jets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Raiders @ Titans
-http://laravel.azureedge.net/titans.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/titans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Eagles @ Commanders
-http://laravel.azureedge.net/commanders.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/commanders/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jaguars @ Chargers
-http://laravel.azureedge.net/chargers.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/chargers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Rams @ Cardinals
-http://laravel.azureedge.net/cardinals.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/cardinal/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Falcons @ Seahawks
-http://laravel.azureedge.net/seahawks.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/seahawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Packers @ Buccaneers
-http://laravel.azureedge.net/buccaneers.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/buccaneers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", NFL RedZone
 https://089a57434b30.us-east-1.playback.live-video.net/api/video/v1/us-east-1.707711509047.channel.WldEmkErGztW.m3u8
