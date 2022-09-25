@@ -1698,11 +1698,11 @@ http://tv.teleclub.xyz/live/ABRIL_02/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
-http://bgapp.live/play/megaplay-975.php?c=129&tokeen=blacccghoost&f=.m3u8|user-agent=megaplay
+http://bgapp.live/play/ultima-975.php?tokeen=blackkhogst&c=129&f=.m3u8
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
+http://bgapp.live/play/tvhd-975.php?id=81&token=blackkhogst&file=.m3u8|Origin=https://live.telelatinohd.com
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
 
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
-http://clubtv.link/14sep/token17922/android1.php?c=129&f=.m3u8|user-agent=megaplayer
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="ENTRETENIMIENTO", Cine Latino
