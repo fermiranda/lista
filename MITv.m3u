@@ -4680,4 +4680,181 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Saints @ Panthers
+http://51.161.118.146:8080/ISG03_FOX_NEW_ORLEANS_LA_WVUE/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Texans @ Bears
+http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Chiefs @ Colts
+https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Bills @ Dolphins
+http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Lions @ Vikings
+http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Ravens @ Patriots
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Bengals @ Jets
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Raiders @ Titans
+https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Eagles @ Commanders
+https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Jaguars @ Chargers
+https://v-la.mybtv.net/live/161.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Rams @ Cardinals
+https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Falcons @ Seahawks
+http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Packers @ Buccaneers
+https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", NFL RedZone
+http://laravel.azureedge.net/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Saints @ Panthers
+http://laravel.azureedge.net/panthers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Texans @ Bears
+http://laravel.azureedge.net/bears.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chiefs @ Colts
+http://laravel.azureedge.net/colts.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Bills @ Dolphins
+http://laravel.azureedge.net/dolphins.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Lions @ Vikings
+http://laravel.azureedge.net/vikings.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Ravens @ Patriots
+http://laravel.azureedge.net/patriots.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Bengals @ Jets
+http://laravel.azureedge.net/jets.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Raiders @ Titans
+http://laravel.azureedge.net/titans.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Eagles @ Commanders
+http://laravel.azureedge.net/commanders.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jaguars @ Chargers
+http://laravel.azureedge.net/chargers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Rams @ Cardinals
+http://laravel.azureedge.net/cardinals.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Falcons @ Seahawks
+http://laravel.azureedge.net/seahawks.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Packers @ Buccaneers
+http://laravel.azureedge.net/buccaneers.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", NFL RedZone
+https://089a57434b30.us-east-1.playback.live-video.net/api/video/v1/us-east-1.707711509047.channel.WldEmkErGztW.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Saints @ Panthers
+https://99aa77e3c4c0.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.707711509047.channel.apOFP67jsnb7.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Texans @ Bears
+https://99aa77e3c4c0.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.707711509047.channel.ZMejGwve9taY.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Chiefs @ Colts
+https://d3372b91d787.us-west-2.playback.live-video.net/api/video/v1/us-west-2.707711509047.channel.NGAV5h6U7bKl.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Bills @ Dolphins
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Lions @ Vikings
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Ravens @ Patriots
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Bengals @ Jets
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Raiders @ Titans
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Eagles @ Commanders
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Jaguars @ Chargers
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Rams @ Cardinals
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Falcons @ Seahawks
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Packers @ Buccaneers
+
+
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", NFL RedZone
+http://huiop.azureedge.net/tomato/NTMwMQ==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Saints @ Panthers
+http://oiijjhg.azureedge.net/tomato/NTI4Nw==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Texans @ Bears
+http://kiolloe.azureedge.net/tomato/NTI5Mw==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Chiefs @ Colts
+http://oiijjhg.azureedge.net/tomato/NTI5MA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Bills @ Dolphins
+http://oiijjhg.azureedge.net/tomato/NTI5NQ==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Lions @ Vikings
+http://kiolloe.azureedge.net/tomato/NTI5Mg==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Ravens @ Patriots
+http://huiop.azureedge.net/tomato/NTI4OQ==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Bengals @ Jets
+http://oiijjhg.azureedge.net/tomato/NTI5NA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Raiders @ Titans
+http://nbv.azureedge.net/tomato/NTI5MQ==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Eagles @ Commanders
+http://oiijjhg.azureedge.net/tomato/NTI4OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Jaguars @ Chargers
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Rams @ Cardinals
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Falcons @ Seahawks
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Packers @ Buccaneers
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", NFL RedZone 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Saints @ Panthers
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Texans @ Bears
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Chiefs @ Colts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Bills @ Dolphins
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Lions @ Vikings
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Ravens @ Patriots
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Bengals @ Jets
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Raiders @ Titans
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Eagles @ Commanders
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Jaguars @ Chargers
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Rams @ Cardinals
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Falcons @ Seahawks
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Packers @ Buccaneers
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", NFL RedZone 
+https://webui.vhls.ru.com/lb/premium6/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Saints @ Panthers
+https://webui.vhls.ru.com/lb/premium105/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Texans @ Bears
+https://webui.vhls.ru.com/lb/premium27/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Chiefs @ Colts
+https://webui.vhls.ru.com/lb/premium29/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Bills @ Dolphins
+https://webui.vhls.ru.com/lb/premium30/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Lions @ Vikings
+https://webui.vhls.ru.com/lb/premium69/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Ravens @ Patriots
+https://webui.vhls.ru.com/lb/premium76/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Bengals @ Jets
+https://webui.vhls.ru.com/lb/premium77/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Raiders @ Titans
+https://webui.vhls.ru.com/lb/premium28/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Eagles @ Commanders
+https://webui.vhls.ru.com/lb/premium86/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Jaguars @ Chargers
+https://webui.vhls.ru.com/lb/premium0/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Rams @ Cardinals
+https://webui.vhls.ru.com/lb/premium0/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Falcons @ Seahawks
+https://webui.vhls.ru.com/lb/premium0/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Packers @ Buccaneers
+https://webui.vhls.ru.com/lb/premium0/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
+
 
