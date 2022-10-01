@@ -4014,6 +4014,8 @@ http://51.161.118.146:8080/ISG03_CBS_NEW_ORLEANS_LA_WWL/index.m3u8
 http://51.161.118.146:8080/ISG03_CBS_MIAMI_FL_WFOR/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 9 Washinton HD
 http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WBBM-TV#/media/File:Wbbm.png" group-title="USA", CBS 2 Chicago HD
+http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York
 https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
