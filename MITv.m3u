@@ -4004,8 +4004,16 @@ https://v-la.mybtv.net/live/161/768x432.m3u8?env=prd&uid=-1&x=1
 http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS HOUSTON
 http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
-#EXTINF:-1 tvg-logo="http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/index.m3u8" group-title="USA", CBS 4 Bosotn HD
+#EXTINF:-1 tvg-logo="https://cdn.titantv.com/X8nlWh0P-d_AI4CveMkyZIpY92PZh2VNHd8XzdgTluM.png" group-title="USA", CBS 4 Bosotn HD
 http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbs58.com/images/logo_cbs58_small.png" group-title="USA", CBS 58 Milwaukee HD
+http://51.161.118.146:8080/ISG03_CBS_MILWAUKEE_WI_WDJT/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.wwltv.com/assets/shared-images/logos/wwl.png" group-title="USA", CBS 4 New Orleans HD
+http://51.161.118.146:8080/ISG03_CBS_NEW_ORLEANS_LA_WWL/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 4 Miami HD
+http://51.161.118.146:8080/ISG03_CBS_MIAMI_FL_WFOR/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 9 Washinton HD
+http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York
 https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
