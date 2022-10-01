@@ -3982,9 +3982,11 @@ https://v-pi.mybtv.net/live/318/1920x1080.m3u8?env=prd&uid=-1&x=1
 https://v-pi.mybtv.net/live/318/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="KCNCT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kcnc_2009.png/800px-Kcnc_2009.png" group-title="USA", CBS Denver
 http://51.161.118.146:8080/ISG03_CBS_DENVER_CO_KCNC/index.m3u8
+#EXTINF:-1 tvg-id="KOMOT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kcnc_2009.png/800px-Kcnc_2009.png" group-title="USA", CBS Seattle
+http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/index.m3u8
 #EXTINF:-1 tvg-id="KOVRDT1.us" tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Sacramento CA
 http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco
 https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8?env=prd&uid=-1&x=1
