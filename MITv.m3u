@@ -3982,6 +3982,8 @@ https://v-pi.mybtv.net/live/318/1920x1080.m3u8?env=prd&uid=-1&x=1
 https://v-pi.mybtv.net/live/318/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS
 
+#EXTINF:-1 tvg-id="KOVRDT1.us" #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180202/dtq/kisspng-new-york-city-logo-cbs-news-cbs-logo-5a7519fc3cd5d7.1374285815176238042492.jpg" group-title="USA", CBS Sacramento CA
+http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
 https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
