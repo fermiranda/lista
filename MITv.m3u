@@ -4016,6 +4016,8 @@ http://51.161.118.146:8080/ISG03_CBS_MIAMI_FL_WFOR/video.m3u8
 http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WBBM-TV#/media/File:Wbbm.png" group-title="USA", CBS 2 Chicago HD
 http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/CBS46logo.png" group-title="USA", CBS 46 Atlanta HD
+http://51.161.118.146:8080/ISG03_CBS_ATLANTA_GA_WGCL/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York
 https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
@@ -4690,6 +4692,13 @@ https://s2.wecast.to:8443/hls/XI66gYL09ts/index.m3u8?st=vMLhFhD0cMP0rp86Zqk3-A&e
 
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL",   Buffalo Sabres vs Pittsburgh Penguins 
+https://s2.wecast.to:8443/hls/HuVWriNI89sR/index.m3u8?st=mr8HwFXxdO_23Khbf3Cb7A&e=1664655417
 
 
 
