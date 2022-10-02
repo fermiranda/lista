@@ -4784,7 +4784,26 @@ https://v-la.mybtv.net/live/161.m3u8?env=prd&uid=-2&x=1
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Minnesota Vikings vs New Orleans Saints
 https://sbalkrishnan.s3-accelerate.amazonaws.com/channel2.m3u8
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
+https://shivangi2629e.s3-accelerate.amazonaws.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cleveland Browns vs Atlanta Falcons
+https://shivangi2629e.s3-accelerate.amazonaws.com/atlanta.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Washington Commanders vs Dallas Cowboys
+https://shivangi2629e.s3-accelerate.amazonaws.com/dallas.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Seattle Seahawks vs Detroit Lions
+https://shivangi2629e.s3-accelerate.amazonaws.com/detroit.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Tennessee Titans vs Indianapolis Colts
+https://shivangi2629e.s3-accelerate.amazonaws.com/tennessee.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chicago Bears vs New York Giants
+https://shivangi2629e.s3-accelerate.amazonaws.com/nygiants.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jacksonville Jaguars vs Philadelphia Eagles
+https://shivangi2629e.s3-accelerate.amazonaws.com/jacksonville.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New York Jets vs Pittsburgh Steelers
+https://shivangi2629e.s3-accelerate.amazonaws.com/newyorkjets.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Buffalo Bills vs Baltimore Ravens
+https://shivangi2629e.s3-accelerate.amazonaws.com/buffalo.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Los Angeles Chargers vs Houston Texans
+https://shivangi2629e.s3-accelerate.amazonaws.com/losangeles.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Minnesota Vikings vs New Orleans Saints
 https://d336y7s34fdygj.cloudfront.net/out/v1/b8d86f58ba664599a4d6b6af9d8798ad/aws2.m3u8
