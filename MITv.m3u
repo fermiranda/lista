@@ -4868,7 +4868,12 @@ https://3a555e5299b4.ap-northeast-2.playback.live-video.net/api/video/v1/ap-nort
 https://391395b91c1e.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.403265903508.channel.aUaM1XtGfmxq.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Los Angeles Chargers vs Houston Texans
 https://b8c302723ffc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.403265903508.channel.CKYZrZo2EWNc.m3u8
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Arizona Cardinals vs Carolina Panthers
+https://e7ebec435857.us-west-2.playback.live-video.net/api/video/v1/us-west-2.403265903508.channel.7xyL6adAjveS.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", New England Patriots vs Green Bay Packers
+https://b8c302723ffc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.403265903508.channel.CKYZrZo2EWNc.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Denver Broncos vs Las Vegas Raiders
+https://391395b91c1e.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.403265903508.channel.aUaM1XtGfmxq.m3u8
 
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", Minnesota Vikings vs New Orleans Saints
 http://kjiio.azureedge.net/scripts/NTM0OA==/1080p.m3u8
