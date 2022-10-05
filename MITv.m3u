@@ -2,7 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
-#EXTINF:-1 tvg-id="XEWTHD.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij
+#EXTINF:-1 tvg-id="XEWTHD.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", Canal 12 Tij
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122649.m3u8
+#EXTINF:-1 tvg-id="XEWTHD.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", Canal 12 Tij
 https://v-sd.mybtv.net/live/497.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
 https://v-sd.mybtv.net/live/497/1920x1080.m3u8?env=prd&uid=-1&x=1
@@ -22,6 +24,8 @@ https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 https://v-sd.mybtv.net/live/530.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122600.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -39,7 +43,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2250&f=HLSAD&s=hk
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://regioplay.xyz/php/SR_REGIO_229022_/tpnuevo03.php?key=SrRegio&c=2250&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122601.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -231,7 +235,7 @@ https://regioplay.xyz/php/SR_REGIO_229022_/tpnuevo03.php?key=SrRegio&c=3907&f=.m
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/125.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122594.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -1501,13 +1505,13 @@ https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46145.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
 http://181.78.22.214:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46146.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46147.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
@@ -1537,15 +1541,15 @@ http://38.143.137.221:8000/LA28/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://8.242.179.181:58001/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46149.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46150.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46151.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
@@ -1553,19 +1557,19 @@ http://tv.teleclub.xyz/live/ABRIL_02/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://38.143.137.221:8000/LA24/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46159.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46156.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46157.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46158.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1573,11 +1577,13 @@ http://38.143.137.221:8000/LA25/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46155.m3u8
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46154.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46152.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46153.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family TlC2
@@ -1597,11 +1603,11 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46161.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46162.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-
+http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46163.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
