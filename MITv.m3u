@@ -4749,6 +4749,37 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Pittsburgh Steelers vs Buffalo Bills
+https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Los Angeles Chargers vs Cleveland Browns
+http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Chicago Bears vs Minnesota Vikings
+http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Detroit Lions vs New England Patriots
+http://51.161.118.146:8080/ISG03_FOX_DETROIT_MI_WJBK/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Seattle Seahawks vs New Orleans Saints
+https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs New York Jets
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Atlanta Falcons vs Tampa Bay Buccaneers
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Washington Commanders
+http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Houston Texans vs Jacksonville Jaguars
+http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Carolina Panthers
+https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Dallas Cowboys vs Los Angeles Rams
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Philadelphia Eagles vs Arizona Cardinals
+https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New York Giants vs Green Bay Packers
 http://cdn34.azureedge.net/hls/packers/playlist.m3u
 
@@ -4772,6 +4803,44 @@ https://ad2017.vhls.ru.com/lb/premium37/index.m3u8|Referer=https://player.licens
 https://ad2017.vhls.ru.com/lb/premium114/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", New York Giants vs Green Bay Packers
 https://ad2017.vhls.ru.com/lb/premium438/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Redzone
+https://ad2017.vhls.ru.com/lb/premium9/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Redzone
+https://ad2017.vhls.ru.com/lb/premium526/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Pittsburgh Steelers vs Buffalo Bills 
+https://ad2017.vhls.ru.com/lb/premium10/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Los Angeles Chargers vs Cleveland Browns
+https://ad2017.vhls.ru.com/lb/premium21/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Chicago Bears vs Minnesota Vikings
+https://ad2017.vhls.ru.com/lb/premium23/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Chicago Bears vs Minnesota Vikings
+ https://ad2017.vhls.ru.com/lb/premium438/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Detroit Lions vs New England Patriots
+https://ad2017.vhls.ru.com/lb/premium24/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Seattle Seahawks vs New Orleans Saints
+https://ad2017.vhls.ru.com/lb/premium25/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Miami Dolphins vs New York Jets
+https://ad2017.vhls.ru.com/lb/premium26/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Atlanta Falcons vs Tampa Bay Buccaneers
+https://ad2017.vhls.ru.com/lb/premium27/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Atlanta Falcons vs Tampa Bay Buccaneers
+https://ad2017.vhls.ru.com/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Tennessee Titans vs Washington Commanders
+https://ad2017.vhls.ru.com/lb/premium28/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Houston Texans vs Jacksonville Jaguars
+https://ad2017.vhls.ru.com/lb/premium29/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", San Francisco 49ers vs Carolina Panthers
+https://ad2017.vhls.ru.com/lb/premium18/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", San Francisco 49ers vs Carolina Panthers
+https://ad2017.vhls.ru.com/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Dallas Cowboys vs Los Angeles Rams
+https://ad2017.vhls.ru.com/lb/premium22/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Philadelphia Eagles vs Arizona Cardinals
+https://ad2017.vhls.ru.com/lb/premium30/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Philadelphia Eagles vs Arizona Cardinals
+https://ad2017.vhls.ru.com/lb/premium436/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
+
 
 
 
