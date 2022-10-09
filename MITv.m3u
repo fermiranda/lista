@@ -4784,7 +4784,8 @@ https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
 http://cdn34.azureedge.net/hls/packers/playlist.m3u
 
 
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", New York Giants vs Green Bay Packers
+http://nhbnkmk.azureedge.net/live/Packers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg" group-title="NFL SUNDAY TICKET", New York Giants vs Green Bay Packers
 http://kyuni.azureedge.net/live/NTQ4MQ==/playlist.m3u8
