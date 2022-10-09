@@ -237,7 +237,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/125.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122594.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
-
+http://bgapp.live/108/tv13.php?c=IMAGEN%20TV&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -1754,6 +1754,8 @@ http://bgapp.live/play/tvhd-975.php?id=81&token=blackkhogst&file=.m3u8|Origin=ht
 http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46168.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg" group-title="ENTRETENIMIENTO", MULTIPREMIER
 http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", MULTICINEMA
+http://bgapp.live/108/tv13.php?c=MULTICINEMA&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="ENTRETENIMIENTO", Cine Latino
 http://38.143.137.221:8000/LA50/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL
