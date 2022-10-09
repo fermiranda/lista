@@ -4782,6 +4782,25 @@ https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New York Giants vs Green Bay Packers
 http://cdn34.azureedge.net/hls/packers/playlist.m3u
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
+https://ksiuda753.s3-accelerate.amazonaws.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Pittsburgh Steelers vs Buffalo Bills
+https://ksiuda753.s3-accelerate.amazonaws.com/bills.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Los Angeles Chargers vs Cleveland Browns
+https://ksiuda753.s3-accelerate.amazonaws.com/browns.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chicago Bears vs Minnesota Vikings
+https://ksiuda753.s3-accelerate.amazonaws.com/vikings.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Detroit Lions vs New England Patriots
+https://ksiuda753.s3-accelerate.amazonaws.com/patriots.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Seattle Seahawks vs New Orleans Saints
+https://ksiuda753.s3-accelerate.amazonaws.com/saints.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Miami Dolphins vs New York Jets
+https://ksiuda753.s3-accelerate.amazonaws.com/jets.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Atlanta Falcons vs Tampa Bay Buccaneers
+https://ksiuda753.s3-accelerate.amazonaws.com/buccaneers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Tennessee Titans vs Washington Commanders
+https://ksiuda753.s3-accelerate.amazonaws.com/commanders.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", New York Giants vs Green Bay Packers
