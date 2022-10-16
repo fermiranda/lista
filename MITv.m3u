@@ -4746,6 +4746,31 @@ https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Buffalo Bills vs Kansas City Chiefs
 https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone 
+https://saurabh0900000.s3-accelerate.amazonaws.com/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", San Francisco 49ers vs Atlanta Falcons
+https://saurabh0900000.s3-accelerate.amazonaws.com/falcons.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New England Patriots vs Cleveland Browns
+https://saurabh0900000.s3-accelerate.amazonaws.com/browns.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New York Jets vs Green Bay Packers
+https://saurabh0900000.s3-accelerate.amazonaws.com/packers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jacksonville Jaguars vs Indianapolis Colts
+https://saurabh0900000.s3-accelerate.amazonaws.com/colts.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Minnesota Vikings vs Miami Dolphins
+https://saurabh0900000.s3-accelerate.amazonaws.com/dolphins.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cincinnati Bengals vs New Orleans Saints
+https://saurabh0900000.s3-accelerate.amazonaws.com/saints.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Baltimore Ravens vs New York Giants
+https://saurabh0900000.s3-accelerate.amazonaws.com/giants.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Tampa Bay Buccaneers vs Pittsburgh Steelers
+https://saurabh0900000.s3-accelerate.amazonaws.com/steelers.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Carolina Panthers vs Los Angeles Rams
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Arizona Cardinals vs Seattle Seahawks
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Buffalo Bills vs Kansas City Chiefs
+
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Redzone 
 https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/2bf309ec141840e8b08cb2084c8e891b/redzone.m3u8
