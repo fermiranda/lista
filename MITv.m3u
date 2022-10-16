@@ -4747,3 +4747,29 @@ https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
 https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Redzone 
+https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/2bf309ec141840e8b08cb2084c8e891b/redzone.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", San Francisco 49ers vs Atlanta Falcons
+https://3860af3e8e3fbfdb.mediapackage.us-east-2.amazonaws.com/out/v1/f6e64f10bfe041d9bb223660186a5622/index1.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", New England Patriots vs Cleveland Browns
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", New York Jets vs Green Bay Packers
+https://3860af3e8e3fbfdb.mediapackage.us-east-2.amazonaws.com/out/v1/a687e5eff0c74dcd982c1aa36ef02578/aws3.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Jacksonville Jaguars vs Indianapolis Colts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Minnesota Vikings vs Miami Dolphins
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Cincinnati Bengals vs New Orleans Saints
+https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/5c6663fb9c034b878eca0c69e020906f/index2.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Baltimore Ravens vs New York Giants
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Tampa Bay Buccaneers vs Pittsburgh Steelers
+https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/d4b61dc903d64c07a1bd580bdca38aeb/aws4.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Carolina Panthers vs Los Angeles Rams
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Arizona Cardinals vs Seattle Seahawks
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL BK", Buffalo Bills vs Kansas City Chiefs
+
+
+
