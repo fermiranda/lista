@@ -4721,8 +4721,57 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Carolina Panthers vs Atlanta Falcons
+http://51.161.118.146:8080/ISG03_FOX_ATLANTA_GA_WAGA/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Chicago Bears vs Dallas Cowboys
+http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Miami Dolphins vs Detroit Lions
+http://51.161.118.146:8080/ISG03_CBS_MIAMI_FL_WFOR/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Arizona Cardinals vs Minnesota Vikings
+http://51.161.118.146:8080/ISG03_FOX_PHOENIX_AZ_KSAZ/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Las Vegas Raiders vs New Orleans Saints
+http://51.161.118.146:8080/ISG03_CBS_NEW_ORLEANS_LA_WWL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New England Patriots vs New York Jets
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Pittsburgh Steelers vs Philadelphia Eagles
+http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Tennessee Titans vs Houston Texans
+http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Washington Commanders vs Indianapolis Colts
+http://51.161.118.146:8080/ISG03_FOX_INDIANAPOLIS_IN_WXIN/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", San Francisco 49ers vs Los Angeles Rams
+http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", New York Giants vs Seattle Seahawks
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-2&x=1
+
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Denver Broncos vs Jacksonville Jaguars
 http://crackskhjas.azureedge.net/streams/Jaguars/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Redzone
+http://crackskhjas.azureedge.net/streams/REDZONE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Carolina Panthers vs Atlanta Falcons
+http://crackskhjas.azureedge.net/streams/Falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Chicago Bears vs Dallas Cowboys
+http://crackskhjas.azureedge.net/streams/Cowboys/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Miami Dolphins vs Detroit Lions
+http://crackskhjas.azureedge.net/streams/Lions/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Arizona Cardinals vs Minnesota Vikings
+http://crackskhjas.azureedge.net/streams/Vikings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Las Vegas Raiders vs New Orleans Saints
+http://crackskhjas.azureedge.net/streams/Saints/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", New England Patriots vs New York Jets
+http://crackskhjas.azureedge.net/streams/Jets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Pittsburgh Steelers vs Philadelphia Eagles
+http://crackskhjas.azureedge.net/streams/Eagles/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Tennessee Titans vs Houston Texans
+http://crackskhjas.azureedge.net/streams/Texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Washington Commanders vs Indianapolis Colts
+http://crackskhjas.azureedge.net/streams/Colts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", San Francisco 49ers vs Los Angeles Rams
+http://crackskhjas.azureedge.net/streams/Rams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", New York Giants vs Seattle Seahawks
+http://crackskhjas.azureedge.net/streams/Seahawks/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Denver Broncos vs Jacksonville Jaguars
 http://lkoop.azureedge.net/scripts/NTkzMA==/1080p.m3u8
