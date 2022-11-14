@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", Canal 12 Tij
-http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/122649.m3u8
+
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", Canal 12 Tij
 https://v-sd.mybtv.net/live/497.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
@@ -1603,9 +1603,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop TlC2
 http://tv.teleclub.xyz/live/ABRIL_02/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/96201.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop 
-http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/96202.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a4/a458eef6c49859387dd5951e5cf10178.png" group-title="ENTRETENIMIENTO", Showtime West
@@ -1760,7 +1760,7 @@ https://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo03.php?key=SrRegio&c=64&f=.m3u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=64&f=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
-http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/46093.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN 
 http://38.143.137.221:8000/LA71/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN Bg 8
@@ -2839,7 +2839,7 @@ https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
-http://todoplus.digital:8080/live/Inspira.cl/xzSawstxNT/9115.m3u8
+
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
 http://bgapp.live/play/futvall-117.php?id=foxsportsp&token=blackghooost&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
