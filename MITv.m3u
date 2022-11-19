@@ -3646,7 +3646,7 @@ https://v-pi.mybtv.net/live/355.m3u8?env=prd&uid=-1&x=1
 http://51.161.118.146:8080/ISG03_FOX_BOSTON_MA_WFXT/video.m3u8
 #EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://en-academic.com/pictures/enwiki/87/WITI-MyFox.png" group-title="USA", FOX Milwaukee WI (WITI-DT1)
 http://51.161.118.146:8080/ISG03_FOX_MILWAUKEE_WI_WITI/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY (WTXF-DT1) 29.1
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY (WTXF-DT1) 29.1
 https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b7/Wxtf-logo.jpg" group-title="USA", FOX 29 PHILLY HD
 https://v-pi.mybtv.net/live/369/1280x720.m3u8?env=prd&uid=-1&x=1
