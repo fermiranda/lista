@@ -253,13 +253,13 @@ http://bgapp.live/119/tv13.php?c=IMAGEN%20TV&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web Dl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij
-https://v-sd.mybtv.net/live/485.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/485.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij FHD
-https://v-sd.mybtv.net/live/485/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/485/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij HD
-https://v-sd.mybtv.net/live/485/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/485/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij SD
-https://v-sd.mybtv.net/live/485/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/485/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
 https://v-sd.mybtv.net/live/503.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Tij
@@ -4721,11 +4721,11 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Azteca 7 
-https://v-sd.mybtv.net/live/502/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/502/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Las Estrellas 
-https://v-sd.mybtv.net/live/530/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/530/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Telemundo 
-https://v-px.mybtv.net/live/39/1920x1080.m3u8?env=prd&uid=-2&x=1
+https://v-px.mybtv.net/live/39/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Caracol 
 http://bgapp.live/play/megapro-142.php?c=16&tokeen=blackghosts&f=.m3u8|user-agent=tuplayer
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Telemundo Prm
