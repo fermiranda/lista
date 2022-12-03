@@ -19,9 +19,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
-http://flash.shortgod.com/perugod3/tv6.php?id=3310
+http://flash.shortgod.com/dwo20/tv6.php?id=3310
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
-http://flash.shortgod.com/perugod3/tv6.php?id=37792
+http://flash.shortgod.com/dwo20/tv6.php?id=37792
 #EXTINF:-1 tvg-id="LasEstrellas-2.mx"tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 https://v-sd.mybtv.net/live/530.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -137,7 +137,7 @@ https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Web
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
-http://flash.shortgod.com/perugod3/tv6.php?id=30309
+http://flash.shortgod.com/dwo20/tv6.php?id=30309
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
@@ -173,13 +173,13 @@ https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmPyKEKS_ytuRG2p5S
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-yE0jgONzqyKMc79CeR5t6uAf8_9BlfiFth3a-SnhSjfKcfp841b4_S535PWbzKXHQ&dmTs=473944&dmV1st=022EF92BE8B58CA6A461167AA16D0EF8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-http://flash.shortgod.com/perugod3/tv6.php?id=37799
+http://flash.shortgod.com/dwo20/tv6.php?id=37799
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
-http://flash.shortgod.com/perugod3/tv6.php?id=2133
+http://flash.shortgod.com/dwo20/tv6.php?id=2133
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-http://flash.shortgod.com/perugod3/tv3.php?c=imagentv
+http://flash.shortgod.com/dwo20/tv3.php?c=imagentv
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
 http://bgapp.live/142/tv13.php?c=IMAGEN%20TV&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -1633,7 +1633,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
-http://flash.shortgod.com/perugod3/tv6.php?id=30366
+http://flash.shortgod.com/dwo20/tv6.php?id=30366
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1726&f=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel HD
@@ -1725,9 +1725,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-http://flash.shortgod.com/perugod3/tv6.php?id=37981
+http://flash.shortgod.com/dwo20/tv6.php?id=37981
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-http://flash.shortgod.com/perugod3/tv6.php?id=3103
+http://flash.shortgod.com/dwo20/tv6.php?id=3103
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
@@ -4805,9 +4805,9 @@ https://webudi.openhd.lol/lb/premium14/index.m3u8|Referer=https://player.license
 #EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL",  New York Islanders vs Nashville Predators 
 https://webudi.openhd.lol/lb/premium451/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL",  Winnipeg Jets vs Columbus Blue Jackets
-
+https://s6.livemodo.click/JrteJxicH2Vi40FD4RSMjg/1670067543/3230312e3133302e3130382e3735/ff111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL",  Winnipeg Jets vs Columbus Blue Jackets
-
+https://s6.livemodo.click/96gFQ9EaXJDU51ArNUKmTQ/1670057526/3230312e3133302e3130382e3735/ff13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL",  Winnipeg Jets vs Columbus Blue Jackets
 https://webudi.openhd.lol/lb/premium15/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL",  Winnipeg Jets vs Columbus Blue Jackets 
