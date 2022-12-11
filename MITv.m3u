@@ -4685,6 +4685,29 @@ https://d3rkc8nvv8refn.cloudfront.net/scripts/Njc1Nw==/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Carolina Panthers vs Seattle Seahawks
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Redzone
+https://storage.googleapis.com/gameshd/redzone/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", New York Jets vs Buffalo Bills 
+https://storage.googleapis.com/gameshd/bills/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Cleveland Browns vs Cincinnati Bengals
+https://storage.googleapis.com/gameshd/bengals/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Houston Texans vs Dallas Cowboys
+https://storage.googleapis.com/gameshd/cowboys/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Minnesota Vikings vs Detroit Lions
+https://storage.googleapis.com/gameshd/lions/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Jacksonville Jaguars vs Tennessee Titans
+https://storage.googleapis.com/gameshd/titans/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Philadelphia Eagles vs New York Giants
+https://storage.googleapis.com/gameshd/giants/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Baltimore Ravens vs Pittsburgh Steelers
+https://storage.googleapis.com/gameshd/steelers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Kansas City Chiefs vs Denver Broncos
+https://storage.googleapis.com/gameshd/broncos/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Tampa Bay Buccaneers vs San Francisco 49ers
+https://storage.googleapis.com/gameshd/49ers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GV", Carolina Panthers vs Seattle Seahawks
+https://storage.googleapis.com/gameshd/seahawks/manifest.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Redzone
