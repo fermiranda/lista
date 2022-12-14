@@ -19,9 +19,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
-http://flash.shortgod.com/vpa313/tv1.php?id=411
+
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
-http://flash.shortgod.com/vpa313/tv2.php?id=57&token=ShortGod&file=.m3u8
+
 #EXTINF:-1 tvg-id="XHUAATDT.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
 http://flash.shortgod.com/vpa313/tv4.php?c=682
 #EXTINF:-1 tvg-id="LasEstrellas-2.mx"tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas -2 Hrs.
@@ -45,7 +45,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/11004.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
-
+http://flash.shortgod.com/vpa313/tv2.php?id=57&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
@@ -4558,10 +4558,12 @@ http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Azteca 7 
 https://v-sd.mybtv.net/live/502/1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Azteca 7 
+http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Las Estrellas 
 http://flash.shortgod.com/vpa313/tv1.php?id=411
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Telemundo 
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
+https://flash.shortgod.com/vpa313/tv5.php?id=1935
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Gol Mundial 1 ES
 http://flash.shortgod.com/vpa313/tv6.php?id=249754
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/QATAR-2022-LOGO.jpg" group-title="QATAR 2022", Caracol 
