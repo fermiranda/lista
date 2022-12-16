@@ -271,21 +271,21 @@ https://stream-02.nyc.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVKSDFd12DWmnMqHm_U
 #EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png" group-title="NACIONALES", TELEVISA PUEBLA TP
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png" group-title="NACIONALES", TELEVISA PUEBLA TP
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2355&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2050&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2061&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2061/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="NACIONALES", CANAL 28 NUEVO LEÓN
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES",Televisa Monterrey Canal 8
@@ -295,7 +295,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
@@ -321,7 +321,7 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2274&f=.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2274/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1 Web
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="NACIONALES", TVCUATRO 4.2 Web
@@ -464,47 +464,47 @@ https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=91&f=.m
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png"group-title="MUNDO Y CULTURA", Nat Geo Wild
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=92&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="MUNDO Y CULTURA", Nat Geo Wild
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png"  group-title="MUNDO Y CULTURA", NAT GEO Wild
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel TP
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=86&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=371&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel TP
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
 
-#EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
 
+#EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=303&f=.m3u8
+#EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=98&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=381&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=95&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=351&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=101&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
@@ -512,15 +512,15 @@ https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=101&f=.
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=96&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT
 https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=135&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT
@@ -534,22 +534,6 @@ https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=2378&f=
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
 
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery Science
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=98&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery Science
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery Science
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery Science
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
-https://regioplay.xyz/php/SR_REGIO_212122_/tpnuevo02.php?tokennn=Regio&c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery Theater
-
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery World
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/food-network_thumb_8zjr5dg0.png" group-title="MUNDO Y CULTURA", FOOD Network
 
