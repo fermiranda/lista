@@ -4536,9 +4536,27 @@ https://v-la.mybtv.net/live/161.m3u8
 https://v-ny.mybtv.net/live/545.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Redzone
+https://pl.livemodo.click/p/5clzHlQnhYerT0tKz-dfgw/b74c1e65b7123ac2/3138372e3235302e3233302e3933/1671416083.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Philadelphia Eagles vs Chicago Bears
+https://s5.livemodo.click/DFTLy0x8_8Fi8cmFsu0AGg/1671416203/3138372e3235302e3233302e3933/ff3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Atlanta Falcons vs New Orleans Saints
+https://s5.livemodo.click/6QcxDyRV84FqtqQUSMJ9tA/1671416302/3138372e3235302e3233302e3933/ff4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Detroit Lions vs New York Jets
+https://s3.livemodo.click/zZIETUQ-lQscd-S0MD1vsw/1671416563/3138372e3235302e3233302e3933/ff6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Pittsburgh Steelers vs Carolina Panthers
 https://s6.livemodo.click/uAoXol4D6ATA2k6ox0a-6A/1671415332/3138372e3235302e3233302e3933/ff7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Dallas Cowboys vs Jacksonville Jaguars
+https://s3.livemodo.click/faIgLStyb304rtVuWBUQ5w/1671416611/3138372e3235302e3233302e3933/ff2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Kansas City Chiefs vs Houston Texans
+https://s6.livemodo.click/l5vjDZOVaIaixUC1Yq0MCA/1671416655/3138372e3235302e3233302e3933/ff5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Arizona Cardinals vs Denver Broncos
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", New England Patriots vs Las Vegas Raiders
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Tennessee Titans vs Los Angeles Chargers
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GSE", Cincinnati Bengals vs Tampa Bay Buccaneers
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
