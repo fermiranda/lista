@@ -4541,6 +4541,30 @@ https://v-ny.mybtv.net/live/545.m3u8
 https://s6.livemodo.click/uAoXol4D6ATA2k6ox0a-6A/1671415332/3138372e3235302e3233302e3933/ff7/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
+https://storage.googleapis.com/4klive/redzone/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Philadelphia Eagles vs Chicago Bears
+https://storage.googleapis.com/4klive/bears/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Atlanta Falcons vs New Orleans Saints
+https://storage.googleapis.com/4klive/saints/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Detroit Lions vs New York Jets
+https://storage.googleapis.com/4klive/jets/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Pittsburgh Steelers vs Carolina Panthers
+https://storage.googleapis.com/4klive/panthers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Dallas Cowboys vs Jacksonville Jaguars
+https://storage.googleapis.com/4klive/jaguars/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Kansas City Chiefs vs Houston Texans
+https://storage.googleapis.com/4klive/texans/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Arizona Cardinals vs Denver Broncos
+https://storage.googleapis.com/4klive/broncos/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New England Patriots vs Las Vegas Raiders
+https://storage.googleapis.com/4klive/raiders/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Tennessee Titans vs Los Angeles Chargers
+https://storage.googleapis.com/4klive/chargers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cincinnati Bengals vs Tampa Bay Buccaneers
+https://storage.googleapis.com/4klive/buccaneers/manifest.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL Premium", Redzone
 https://webudi.openhd.lol/lb/premium4/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
