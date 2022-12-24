@@ -4519,6 +4519,32 @@ https://cacstrgagsf.azureedge.net/streams/Cowboys/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Las Vegas Raiders vs Pittsburgh Steelers
 https://cacstrgagsf.azureedge.net/streams/Steelers/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Redzone
+https://storage.googleapis.com/project35/redzone/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Buffalo Bills vs Chicago Bears
+https://storage.googleapis.com/project35/bears/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", New Orleans Saints vs Cleveland Browns
+https://storage.googleapis.com/project35/browns/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Houston Texans vs Tennessee Titans
+https://storage.googleapis.com/project35/titans/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Seattle Seahawks vs Kansas City Chiefs
+https://storage.googleapis.com/project35/chiefs/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", New York Giants vs Minnesota Vikings
+https://storage.googleapis.com/project35/vikings/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Cincinnati Bengals vs New England Patriots
+https://storage.googleapis.com/project35/patriots/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Detroit Lions vs Carolina Panthers
+https://storage.googleapis.com/project35/panthers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Atlanta Falcons vs Baltimore Ravens
+https://storage.googleapis.com/project35/ravens/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Washington Commanders vs San Francisco 49ers
+https://storage.googleapis.com/project35/49ers/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Philadelphia Eagles vs Dallas Cowboys
+https://storage.googleapis.com/project35/cowboys/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Las Vegas Raiders vs Pittsburgh Steelers
+https://storage.googleapis.com/project35/steelers/manifest.m3u8
+
+
 
 
 
