@@ -4493,6 +4493,9 @@ https://v-la.mybtv.net/live/161.m3u8
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL", Las Vegas Raiders vs Pittsburgh Steelers
 http://flash.shortgod.com/shortgodpecausa/tv2.php?id=151&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL", Las Vegas Raiders vs Pittsburgh Steelers
+https://s1.wecast.to:8443/hls/XI66gYL09ts/index.m3u8?st=XHB2o_Oe62U1niiIbVh7Jg&e=1671941409
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
 https://cacstrgagsf.azureedge.net/streams/REDZONE/chunks.m3u8
