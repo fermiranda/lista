@@ -185,7 +185,7 @@ http://flash.shortgod.com/perut39/tv5.php?id=37799
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
 http://flash.shortgod.com/perut39/tv5.php?id=2133
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtIaOLCxJ-P9Kld1OENr5T6vb_fGt13KL8carS70ex8G)/dm/3/x82z4if/d/live-2.m3u8
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsYP7aOyDKrJEWcITKVhcDE7xeA_x_AO0ueltReaDZqD)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -2980,18 +2980,22 @@ https://webui.vhls.ru.com/lb/premium376/playlist.m3u8?|Referer=https://player.li
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ESPN_College_Football_logo.svg/1200px-ESPN_College_Football_logo.svg.png" group-title="NCAA", ESPN GAMETIME
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
+
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/747
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/238683.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/234401.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) Dd 
-https://webui.vhls.ru.com/lb/premium44/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55060.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 http://fxorexworld.com:8080/live/ijA3Z3ay4F/qSJL9SORcb/1193.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/53403.m3u8
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
-http://un-pluggedtv.net:8080/live/Iptvghost/VTEvu5Jz6l/35057.m3u8
+
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
-https://webui.vhls.ru.com/lb/premium45/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/41918
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
