@@ -3724,13 +3724,13 @@ https://v-sd.mybtv.net/live/491/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
 http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54093.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
 http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/179946.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54390.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
 https://v-sd.mybtv.net/live/512.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
@@ -3943,31 +3943,31 @@ https://v-ca.mybtv.net/live/719/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 http://51.161.118.146:8080/ISG03_ABC_PITTSBURGH_PA_WTAE/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54079.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/458965771817721856/cKpYWO_N_400x400.jpeg" group-title="USA", Pittsburgh ABC 4 (WTAE)
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/486469755/MIC_FLAG_final_copy.jpg" group-title="USA",  Pittsburgh CW 19 (WPCW)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54181.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/486469755/MIC_FLAG_final_copy.jpg" group-title="USA",  Pittsburgh CW 19 (WPCW)
 
 #EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
 http://51.161.118.146:8080/ISG03_FOX_PITTSBURGH_PA_WPGH/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54255.m3u8
 #EXTINF:-1 tvg-logo="https://www.newstvliveonline.com/wp-content/uploads/2018/05/WPGH-FOX-53.jpg" group-title="USA",  Pittsburgh FOX 53 (WPGH)
 
-#EXTINF:-1 tvg-id="WPXIDT1.us" tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", NBC 11 Pittsburgh (WPXI-DT1)
+#EXTINF:-1 tvg-id="WPXIDT1.us" tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", NBC 11 Pittsburgh
 http://51.161.118.146:8080/ISG03_NBC_PITTSBURGH_PA_WPXI/video.m3u8
-#EXTINF:-1 tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", Pittsburgh NBC 11 (WPXI)
-
+#EXTINF:-1 tvg-id="WPXIDT1.us" tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", WPXI NBC 11 Pittsburgh 
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54418.m3u8
 #EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh (KDKA-DT1)
 http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
 #EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh (KDKA-DT1)
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/71926.m3u8
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
+#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54089.m3u8
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
@@ -3997,7 +3997,7 @@ https://v-ny.mybtv.net/live/554/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
-
+http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/57625.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC 10 San Diego
 
 #EXTINF:-1 tvg-id="KTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS112015Logo.svg/1024px-CBS112015Logo.svg.png" group-title="USA", CBS Dallas TX (KTVT-DT1)
@@ -4488,7 +4488,7 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Los Angeles Chargers vs Indianapolis Colts
 https://relaccolvbk.s3.us-east-2.amazonaws.com/colts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Los Angeles Chargers vs Indianapolis Colts
-
+https://pl.livemodo.click/p/qAvMmyjnycn3XFM4-G5WYw/b8aea11baaa928df/3138392e3232332e37342e3438/1672132060.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Los Angeles Chargers vs Indianapolis Colts
 https://loujnbg.azureedge.net/live/Colts/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Monday_Night_Football_logo.svg/1200px-Monday_Night_Football_logo.svg.png" group-title="NFL MNF",  Los Angeles Chargers vs Indianapolis Colts
