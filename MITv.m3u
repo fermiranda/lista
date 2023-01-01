@@ -4625,6 +4625,35 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Redzone
 https://demahinleonid.s3.us-west-1.amazonaws.com/group_1280x720_3300k.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
+https://cacskakb.azureedge.net/streams/NFL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Arizona Cardinals vs Atlanta Falcons
+https://cacskakb.azureedge.net/streams/Falcons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Chicago Bears vs Detroit Lions
+https://cacskakb.azureedge.net/streams/Lions/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Denver Broncos vs Kansas City Chiefs
+https://cacskakb.azureedge.net/streams/Chiefs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Miami Dolphins vs New England Patriots
+https://cacskakb.azureedge.net/streams/Patriots/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Indianapolis Colts vs New York Giants
+https://cacskakb.azureedge.net/streams/Giants/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New Orleans Saints vs Philadelphia Eagles
+https://cacskakb.azureedge.net/streams/Eagles/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Carolina Panthers vs Tampa Bay Buccaneers
+https://cacskakb.azureedge.net/streams/Buccaneers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Cleveland Browns vs Washington Commanders
+https://cacskakb.azureedge.net/streams/Commanders/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Jacksonville Jaguars vs Houston Texans
+https://cacskakb.azureedge.net/streams/Texans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", San Francisco 49ers vs Las Vegas Raiders
+https://cacskakb.azureedge.net/streams/Commanders/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", New York Jets vs Seattle Seahawks
+https://cacskakb.azureedge.net/streams/Seahawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Minnesota Vikings vs Green Bay Packers
+https://cacskakb.azureedge.net/streams/Packers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Los Angeles Rams vs Los Angeles Chargers
+https://cacskakb.azureedge.net/streams/Chargers/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", Redzone
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55125.m3u8
@@ -4644,9 +4673,9 @@ http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55120.m3u8
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55129.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", Cleveland Browns vs Washington Commanders
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55130.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", Jacksonville Jaguars vs Houston Texan
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", Jacksonville Jaguars vs Houston Texans
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55112.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", San Francisco 49ers vs Las Vegas Raider
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", San Francisco 49ers vs Las Vegas Raiders
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55114.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL 1", New York Jets vs Seattle Seahawks
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/55122.m3u8
