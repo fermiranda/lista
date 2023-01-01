@@ -4646,6 +4646,15 @@ https://demahinleonid.s3.us-west-1.amazonaws.com/group6_1280x720_3300k.m3u8
 https://demahinleonid.s3.us-west-1.amazonaws.com/group9_1280x720_3300k.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Jacksonville Jaguars vs Houston Texans
 https://demahinleonid.s3.us-west-1.amazonaws.com/group10_1280x720_3300k.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", San Francisco 49ers vs Las Vegas Raider
+https://storage.googleapis.com/projectz90/giants/mux_video/index-1.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", New York Jets vs Seattle Seahawks
+https://storage.googleapis.com/projectz90/eagles/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Minnesota Vikings vs Green Bay Packers
+https://storage.googleapis.com/projectz90/lions/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL AE", Los Angeles Rams vs Los Angeles Chargers
+https://storage.googleapis.com/projectz90/texans/manifest.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QBaJl4MaL.png" group-title="NFL GP", Redzone
 https://cacskakb.azureedge.net/streams/NFL/playlist.m3u8
