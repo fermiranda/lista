@@ -1519,6 +1519,8 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 https://v3.playerlatino.live/stream/m3u8/64|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD*
+https://flash.shortgod.com/shortgodfl/tv4.php?id=4017
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://flash.shortgod.com/shortgodfl/tv8.php?id=173447
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
