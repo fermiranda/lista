@@ -2113,9 +2113,9 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
-https://dai.google.com/linear/hls/event/Cq_gZiisQ2SyiKV3neh7Mg/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
-https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1vCiDCxmi4vyVjiz-fnvvZNdwtX14_J-xeGgwheP57CTp-rOGcD9GE3HVC9VIQFandCqB39jHoxDW1quLbuhyRSoEV6VRobXgniyqJkond16l-vflIndqBpk95Dr4kL2ocAZFxjrqSf8ZWBMxICS3rwrF6YZflWVU9I1hEX6T2mR-b_-60Hrfo1Tww/s320/mixed-martial-arts-stock-photography-clip-art-mma-kickboxing-logo-73a4b5065e60848c39d54707108b4d4f.png" group-title="MMA",  
@@ -2128,16 +2128,16 @@ https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Pm
 https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Nb
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
+http://ys-users.com:8080/MjR4ud5MTu/R67gDawmzb/418181
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/51643
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
+http://ys-users.com:8080/MjR4ud5MTu/R67gDawmzb/418490
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 
-
+http://ys-users.com:8080/MjR4ud5MTu/R67gDawmzb/299145
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
+http://ys-users.com:8080/MjR4ud5MTu/R67gDawmzb/367112
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
@@ -3849,7 +3849,7 @@ https://v-la.mybtv.net/live/983.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 
 #EXTINF:-1 tvg-id="KGTVDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego (KGTV-DT1)
-http://51.161.118.146:8080/ISG03_ABC_SAN_DIEGO_CA_KGTV/video.m3u8
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1835
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
 https://v-sd.mybtv.net/live/491.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
@@ -3857,15 +3857,17 @@ https://v-sd.mybtv.net/live/491/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
 https://v-sd.mybtv.net/live/491/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
-http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1860
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54093.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
-http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1885
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Kswb_fox_promo.png/200px-Kswb_fox_promo.png" group-title="USA", FOX 5 San Diego(KSWB)
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/179946.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54390.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1911
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
 https://v-sd.mybtv.net/live/512.m3u8?env=prd&uid=-2&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
@@ -3884,8 +3886,6 @@ https://v-sd.mybtv.net/live/528/1280x720.m3u8?env=prd&uid=-1&x=1
 https://v-sd.mybtv.net/live/528/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego SD
 https://v-sd.mybtv.net/live/528/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/favicon.png" group-title="USA", FOX (KSWB) San Diego CA
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
@@ -4097,15 +4097,15 @@ http://51.161.118.146:8080/ISG03_NBC_PITTSBURGH_PA_WPXI/video.m3u8
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335107.ts
 #EXTINF:-1 tvg-id="WPXIDT1.us" tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", WPXI NBC 11 Pittsburgh 
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54418.m3u8
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh (KDKA-DT1)
-http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh (KDKA-DT1)
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334908.ts
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh
 
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334908.ts
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/64546
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54089.m3u8
-#EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", KDKA CBS 2 Pittsburgh
 
@@ -4324,9 +4324,9 @@ https://webudi.openhd.lol/lb/premium338/index.m3u8?|Referer=https://player.licen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
 http://ys-users.com:8080/MjR4ud5MTu/R67gDawmzb/417915
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
-
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
-
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/64205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA", TNT
