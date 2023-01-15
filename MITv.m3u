@@ -8,10 +8,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://v-sd.mybtv.net/live/497.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
 https://v-sd.mybtv.net/live/497/1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/live/497/1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
-https://v-sd.mybtv.net/live/497/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali Web
