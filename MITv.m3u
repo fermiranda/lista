@@ -3887,24 +3887,16 @@ http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/179946.m3u8
 http://hostengine.live:25461/live/Keyboard/Gsha58T4qd/54390.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1911
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego
+https://v-sd.mybtv.net/live/512.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
-https://v-sd.mybtv.net/live/512.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego FHD
-https://v-sd.mybtv.net/live/512/1920x1080.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego HD
-https://v-sd.mybtv.net/live/512/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="USA", KNSD 39.1 NBC 7 - San Diego SD
-https://v-sd.mybtv.net/live/512/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/512/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA", KNSD 39.2 Cozi TV - San Diego
 https://v-sd.mybtv.net/live/513.m3u8?env=prd&uid=-2&x=1
+#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego
+https://v-sd.mybtv.net/live/528.m3u8
 #EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
-https://v-sd.mybtv.net/live/528.m3u8?env=prd&uid=-2&x=1
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
-https://v-sd.mybtv.net/live/528/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego HD
-https://v-sd.mybtv.net/live/528/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://littlepenguinpublicrelations.com/wp-content/uploads/2015/06/kusi2.png" group-title="USA", KUSI 51.1 News - San Diego SD
-https://v-sd.mybtv.net/live/528/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/528/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO web
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
@@ -3912,9 +3904,9 @@ https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/KFMB_hd_logo.png/150px-KFMB_hd_logo.png" group-title="USA", CBS SAN DIEGO
 
 #EXTINF:-1 tvg-logo="https://listimg.pinclipart.com/picdir/s/141-1415523_the-history-of-the-world-kpbs-san-diego.png" group-title="USA", KPBS SAN DIEGO
-https://v-sd.mybtv.net/live/1004.m3u8?env=prd&uid=-1&x=1
+https://v-sd.mybtv.net/live/1004.m3u8
 #EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
-https://v-pi.mybtv.net/live/318.m3u8?env=prd&uid=-2&x=1
+https://v-pi.mybtv.net/live/318.m3u8
 #EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly FHD
 https://v-pi.mybtv.net/live/318/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="KYWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="USA", KYW-CBS 3 Philly HD
@@ -3928,19 +3920,17 @@ http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco
 http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco
-https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/162.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco FHD
-https://v-ca.mybtv.net/live/162/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/162/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-832121_transparent-cbs-eye-logo-png-kpix-tv-png.png" group-title="USA",  KPIX-CBS 5 San Francisco HD
-https://v-ca.mybtv.net/live/162/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/162/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA
-https://v-la.mybtv.net/live/161.m3u8?env=prd&uid=-2&x=1
+https://v-la.mybtv.net/live/161.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA FHD
-https://v-la.mybtv.net/live/161/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-la.mybtv.net/live/161/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA HD
-https://v-la.mybtv.net/live/161/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA SD
-https://v-la.mybtv.net/live/161/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-la.mybtv.net/live/161/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/11-113727_cbs-2-logo-png-transparent-cbs-2-vector.png" group-title="USA", CBS 2 LA FHD
 http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="USA", CBS HOUSTON
@@ -3962,37 +3952,33 @@ http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/CBS46logo.png" group-title="USA", CBS 46 Atlanta HD
 http://51.161.118.146:8080/ISG03_CBS_ATLANTA_GA_WGCL/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York
-https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-2&x=1
+https://v-ny.mybtv.net/live/545.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York FHD
-https://v-ny.mybtv.net/live/545/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-ny.mybtv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York HD
-https://v-ny.mybtv.net/live/545/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1905239.jpg" group-title="USA", CBS 2 New York SD
-https://v-ny.mybtv.net/live/545/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ny.mybtv.net/live/545/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/952/1011/png-transparent-indianapolis-wttv-cbs-news-television-others-television-angle-sport-thumbnail.png" group-title="USA", CBS 4 INDIANAPOLIS
-https://v-in.mybtv.net/live/826/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-in.mybtv.net/live/826/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 Phoenix
-https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-2&x=1
+https://v-px.mybtv.net/live/48.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png"  group-title="USA", CBS 5 Phoenix FHD
-https://v-px.mybtv.net/live/48/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-px.mybtv.net/live/48/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-phoenix-KPHO.png" group-title="USA", CBS 3 Phoenix HD
-https://v-px.mybtv.net/live/48/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-px.mybtv.net/live/48/1280x720.m3u8
 #EXTINF:-1  tvg-logo="https://assets.scrippsdigital.com/cms/images/color_schemes/knxv/square--144.png" group-title="USA", KNXV-TV ABC 15 Phoenix 
-https://v-px.mybtv.net/live/27.m3u8?env=prd&uid=-1&x=1
+https://v-px.mybtv.net/live/27.m3u8
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/226/7/png-clipart-kpnx-phoenix-logo-of-nbc-news-knaz-tv-material-world-television-text.png" group-title="USA", KPNX-TV NBC 12 Phoenix
-https://v-px.mybtv.net/live/55.m3u8?env=prd&uid=-1&x=1
+https://v-px.mybtv.net/live/55.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/1200px-Fts-phoenix-a.svg.png" group-title="USA", KSAZ-TV FOX 10 Phoenix
-https://v-px.mybtv.net/live/159.m3u8?env=prd&uid=-1&x=1
+https://v-px.mybtv.net/live/159.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
-https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/170.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco HD
-https://v-ca.mybtv.net/live/170/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.1 FOX 2 - San Francisco SD
-https://v-ca.mybtv.net/live/170/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/ktvu-fox-2-logo-ktvu-fox-2-logos-11563268186fjirodxwxb.png" group-title="USA", KTVU 2.3 Movies! - San Francisco SD
-https://v-ca.mybtv.net/live/171/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/171/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Buzz_TV_Logo.png" group-title="USA", KTVU 2.4 Buzzr - San Francisco SD
-https://v-ca.mybtv.net/live/729/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/729/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4 Web
 https://difwk89tryvik.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/KRON_AD_CAMPAIGN/index.m3u8
 #EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/e82bdee9-cc7e-40fe-a459-658d517167ea/images/kronon-logo-200x103.png" group-title="USA", KRON 4.1 MyN - San Francisco  HD
@@ -4008,58 +3994,52 @@ https://v-ca.mybtv.net/live/213/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61A76C0LhaL.png" group-title="USA", KRON 4.5 Shop LC - San Francisco SD
 https://v-ca.mybtv.net/live/184/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
-https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/162.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco FHD
-https://v-ca.mybtv.net/live/162/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/162/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco HD
-https://v-ca.mybtv.net/live/162/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Current_KPIX_5_Logo.png" group-title="USA", KPIX 5.1 CBS 5 - San Francisco SD
-https://v-ca.mybtv.net/live/162/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/162/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/610kBTMJ9IL.png" group-title="USA", KPIX 5.2 Start - San Francisco SD
-https://v-ca.mybtv.net/live/214/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/214/768x432.m3u8
 #EXTINF:-1 tvg-logo="http://wildstyle.ink/home/wp-content/uploads/2018/01/sanfran_kpix_310x310.jpg" group-title="USA", KPIX 5.3 Dabl - San Francisco SD
-https://v-ca.mybtv.net/live/306/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/306/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2014/02/kpix-logo.jpg" group-title="USA", KPIX 5.4 Fave - San Francisco SD
-https://v-ca.mybtv.net/live/763/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/763/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco HD
-https://v-ca.mybtv.net/live/119.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/119.m3u8
 #EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco HD
-https://v-ca.mybtv.net/live/119/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://www.seniorseasons.com/wp-content/uploads/2011/10/kgo-tv-abc7color-logo.jpg" group-title="USA", KGO 7.1 ABC - San Francisco SD
-https://v-ca.mybtv.net/live/119/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/119/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco HD
-https://v-ca.mybtv.net/live/215/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/215/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/5867802_012120-cc-localish-network-promo-recut-vid.jpg" group-title="USA", KGO 7.2 Localish - San Francisco SD
-https://v-ca.mybtv.net/live/215/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/215/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/10460095_033021-kgo-hsn-promo-banner-img.jpg" group-title="USA", KGO 7.4 HSN - San Francisco SD
-https://v-ca.mybtv.net/live/146/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/146/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco FHD
-https://v-ca.mybtv.net/live/120.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/120.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco FHD
-https://v-ca.mybtv.net/live/120/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/120/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco HD
-https://v-ca.mybtv.net/live/120/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/120/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppEFWwySO3k/maxresdefault.jpg" group-title="USA", KQED 9.1 PBS - San Francisco SD
-https://v-ca.mybtv.net/live/120/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/120/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/KQED_1981.png.png" group-title="USA", KQED 9.3 World - San Francisco SD
 https://v-ca.mybtv.net/live/221/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/342-3428584_links-pbs-kids-logo-clipart.png" group-title="USA", KQED 9.4 PBS Kids - San Francisco SD
 https://v-ca.mybtv.net/live/219/768x432.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco FHD
-https://v-ca.mybtv.net/live/121.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/121.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco FHD
-https://v-ca.mybtv.net/live/121/1920x1080.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/121/1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco HD
-https://v-ca.mybtv.net/live/121/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1200px-KNTV_11_NBC_Bay_Area.svg.png" group-title="USA", KNTV 11.1 NBC 11 - San Francisco SD
-https://v-ca.mybtv.net/live/121/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/121/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png" group-title="USA", KNTV 11.2 Cozi TV - San Francisco SD
-https://v-ca.mybtv.net/live/122/768x432.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/122/768x432.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA Latinos", KDTV 14.1 Univision 14 - San Francisco HD
-https://v-ca.mybtv.net/live/148.m3u8?env=prd&uid=-2&x=1
+https://v-ca.mybtv.net/live/148.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA Latinos", KDTV 14.1 Univision 14 - San Francisco HD
-https://v-ca.mybtv.net/live/148/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-ca.mybtv.net/live/148/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="USA Latinos", KDTV 14.1 Univision 14 - San Francisco SD
 https://v-ca.mybtv.net/live/148/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="" group-title="USA", KDTV 14.4 Mystery - San Francisco SD
@@ -4147,9 +4127,9 @@ http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/index.m3u8
 #EXTINF:-1 tvg-logo="https://en-academic.com/pictures/enwiki/87/WPVI_Logo.png" group-title="USA", ABC WPVI-DT1 6.1
 https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
-https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-2&x=1
+https://v-ny.mybtv.net/live/554.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="USA", ABC NY WABC-TV 7.1
-https://v-ny.mybtv.net/live/554/1280x720.m3u8?env=prd&uid=-1&x=1
+https://v-ny.mybtv.net/live/554/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego Web
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/KGTV_10_logo.png" group-title="USA", ABC San Diego HD
