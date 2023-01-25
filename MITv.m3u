@@ -265,7 +265,9 @@ https://v-sd.mybtv.net/live/484/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
-http://51.79.18.128:8081/LATINO%7CCANAL4GDL/LATINO%7CCANAL4GDL/playlist.m3u8
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4 Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
 #EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="NACIONALES", QUIEROTV GDL Web
