@@ -4342,16 +4342,18 @@ http://flash.shortgod.com/viscao/tv10.php?id=22591
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 https://webudi.webtv1.lol/lb/premium334/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334763.ts
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA", Showtime
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/47
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA", Showtime
 https://webudi.webtv1.lol/lb/premium333/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA", Showtime
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334767.ts
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="USA", WarnerTV
-http://203.154.243.89:11205
+
 #EXTINF:1 tvg-logo="https://es.wikipedia.org/wiki/A%26E_(Latinoam%C3%A9rica)#/media/Archivo:A&E_Network_logo.svg.png" group-title="USA", A&E (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
