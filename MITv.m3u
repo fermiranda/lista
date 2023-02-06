@@ -1053,7 +1053,7 @@ http://flash.shortgod.com/god291/tv6.php?id=187075
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema West
 http://flash.shortgod.com/god291/tv6.php?id=184565
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
-https://v3.playerlatino.live/stream/m3u8/902|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
 http://45.228.234.185:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
@@ -1544,6 +1544,8 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10886
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/127
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/129
@@ -1560,7 +1562,7 @@ http://flash.shortgod.com/tranquilopeTilin/tv1.php?c=62
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO 
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
-https://v3.playerlatino.live/stream/m3u8/62|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://flash.shortgod.com/god291/tv6.php?id=30346
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
@@ -1574,11 +1576,15 @@ http://flash.shortgod.com/god291/tv7.php?id=118
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Latino
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10885
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Latino
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/65074
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Sub
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10884
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10883
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
@@ -1590,11 +1596,15 @@ http://flash.shortgod.com/god291/tv8.php?id=173442
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://45.232.210.1:8062/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
-https://v3.playerlatino.live/stream/m3u8/300|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 http://flash.shortgod.com/god291/tv8.php?id=173445
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/573
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10879
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10880
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://flash.shortgod.com/god291/tv8.php?id=173452
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
@@ -1606,10 +1616,14 @@ http://190.83.119.67:8000/play/a0ot/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://45.232.210.1:8062/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-https://v3.playerlatino.live/stream/m3u8/64|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/575
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD*
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10877
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10878
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/128
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://flash.shortgod.com/god291/tv4.php?id=4017
@@ -1618,7 +1632,7 @@ http://flash.shortgod.com/god291/tv8.php?id=173447
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
-https://v3.playerlatino.live/stream/m3u8/63|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://flash.shortgod.com/god291/tv8.php?id=173446
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1641,6 +1655,10 @@ http://flash.shortgod.com/god291/tv8.php?id=173456
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/197618
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/157156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
 http://190.83.119.67:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
@@ -1648,7 +1666,7 @@ http://flash.shortgod.com/god291/tv1.php?id=814
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
 http://flash.shortgod.com/god291/tv8.php?id=181846
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
-https://v3.playerlatino.live/stream/m3u8/814|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
@@ -1656,7 +1674,7 @@ http://flash.shortgod.com/god291/tv8.php?id=181847
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
-https://v3.playerlatino.live/stream/m3u8/730|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop
 http://flash.shortgod.com/god291/tv8.php?id=173435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO Pop HD
