@@ -3038,25 +3038,37 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113513
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBA_TV_Canada#/media/File:NBA_TV_Canada_2020.png" group-title="DEPORTES", NBA TV Canada
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-360-201.png" group-title="DEPORTES", SPORTSNET 360 HD
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1154
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-360-201.png" group-title="DEPORTES", Sportsnet 360
 https://webui.vhls.ru.com/lb/premium409/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-east-197.png" group-title="DEPORTES", SPORTSNET EAST HD
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1153
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-east-197.png" group-title="DEPORTES", SportsNet East
 https://webui.vhls.ru.com/lb/premium408/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-one-917.png" group-title="DEPORTES", SPORTSNET ONE HD
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1152
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-one-917.png" group-title="DEPORTES", SportsNet One
 https://webui.vhls.ru.com/lb/premium411/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-ontario-203.png" group-title="DEPORTES", SportsNet Ontario
 https://webui.vhls.ru.com/lb/premium406/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-ontario-203.png" group-title="DEPORTES", SportsNet Ontario
-https://ad2017.openhd.lol/lb/eplayersportsnet-ontario/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-ontario-203.png" group-title="DEPORTES", SPORTSNET ONTARIO HD
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1151
 #EXTINF:-1 tvg-logo="https://ia600802.us.archive.org/34/items/SportsnetPacific/sportsnet%20pacific.png" group-title="DEPORTES", Sportsnet Pacific
 
+#EXTINF:-1 tvg-logo="https://ia600802.us.archive.org/34/items/SportsnetPacific/sportsnet%20pacific.png" group-title="DEPORTES", SPORTSNET PACIFIC HD
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1150
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="DEPORTES", Sportsnet West
-
+http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1155
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="DEPORTES", Sportsnet West
 https://webui.vhls.ru.com/lb/premium407/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="DEPORTES", Sportsnet World
 https://webui.vhls.ru.com/lb/premium410/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="DEPORTES", Sportsnet World
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVASports.svg/1280px-TVASports.svg.png" group-title="DEPORTES", TVA Sports
 
