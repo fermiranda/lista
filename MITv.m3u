@@ -3201,6 +3201,8 @@ http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="YES Network HD" tvg-logo="http://tvgo.re:8080/images/330b8fc654b3f764b2e28cba0542818d.png" group-title="DEPORTES", YES Network HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121876
+#EXTINF:-1 tvg-id="" tvg-name="YES Network HD" tvg-logo="http://tvgo.re:8080/images/330b8fc654b3f764b2e28cba0542818d.png" group-title="DEPORTES", YES Network HD
+http://sdmx.us:25461/live/Ivan3/QCxNLnabwF/2121876.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN TTv
