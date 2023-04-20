@@ -5,9 +5,9 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
 #EXTINF:-1 tvg-logo="https://www.sdpnoticias.com/resizer/q1wINv8vdG9CA4MfZWcHz3mHvCU=/1280x720/filters:format(jpg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/DHJSIDHPSNF2HAGIGUB5TZJX5I.jpg" group-title="La Casa de los Famosos 3", CAM 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/SGHQEr37Bn0
+
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", Canal 12 Tij
-https://m3ukodi.com/developer/budtvultras/budtv.php?4221-901704
+https://m3ukodi.com/developer/universo/universo.php?4221-901704
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali Web
@@ -25,7 +25,7 @@ https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/05sky-logo-lasEstrellas2-150x150-477378814.jpg" group-title="NACIONALES", Las Estrellas -2 Hrs.
 
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx"tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/05sky-logo-lasEstrellas2-150x150-477378814.jpg" group-title="NACIONALES", Las Estrellas -2 Hrs.*
-https://m3ukodi.com/developer/budtvultras/budtv.php?2508-98270
+https://m3ukodi.com/developer/universo/universo.php?2508-98270
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
 http://156.146.38.236:1219
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
@@ -43,13 +43,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/canal52.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 http://iptvhd.club:25461/live/ligatv/i18zeUXnYx/16.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -57,7 +57,7 @@ http://iptvhd.club:25461/live/ligatv/i18zeUXnYx/16.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-http://flash.shortgod.com/cocoli/tv2.php?id=57&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=57&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://v3.playerlatino.live/stream/m3u8/411|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
@@ -73,7 +73,7 @@ http://156.146.38.236:1223
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-http://flash.shortgod.com/cocoli/tv3.php?c=elcinco
+http://flash.shortgod.com/dvp3/tv3.php?c=elcinco
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/canal105.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -81,9 +81,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2251/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=105&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=105&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2251&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2251&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -103,9 +103,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
 
 #EXTINF:-1 tvg-id="XETV-TDT.mx" tvg-name="XETV Tijuana" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE TJ
@@ -127,9 +127,9 @@ https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=104&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=104&f=.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=104&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=104&f=.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -143,13 +143,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=113&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=113&f=.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/19193.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-https://m3ukodi.com/developer/budtvultras/budtv.php?5553-901704
+https://m3ukodi.com/developer/universo/universo.php?5553-901704
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno -2 Hrs.
 http://156.146.38.236:1234
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Web
@@ -161,21 +161,21 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/canal107.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=107&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=107&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=107&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=107&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 https://v3.playerlatino.live/stream/m3u8/5|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=21&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=21&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 
-http://flash.shortgod.com/cocoli/tv2.php?id=1&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=1&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Tijuana 
@@ -199,9 +199,9 @@ https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://208.88.246.11:3473/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV↓
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkQggKi5yHCSLuc61bW1lRmByeOJrdA8m8od3gZJ3sYj)/dm/3/x82z4if/d/live-2.m3u8
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiFJ2GFb7X7Zq5buI-UeWTURL6_RuJOHsYiFqnPy_kHV)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/canal2298.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
@@ -209,19 +209,19 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
-http://flash.shortgod.com/cocoli/tv4.php?id=4149
+http://flash.shortgod.com/dvp3/tv4.php?id=4149
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
-http://flash.shortgod.com/cocoli/tv10.php?id=646501
+http://flash.shortgod.com/dvp3/tv10.php?id=646501
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://iptvhd.club:25461/live/ligatv/i18zeUXnYx/14.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-http://flash.shortgod.com/cocoli/tv2.php?id=65&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=65&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
-http://flash.shortgod.com/cocoli/tv3.php?c=imagentv
+http://flash.shortgod.com/dvp3/tv3.php?c=imagentv
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV 
@@ -229,7 +229,7 @@ http://flash.shortgod.com/cocoli/tv3.php?c=imagentv
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://190.61.102.67:31589/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
-http://flash.shortgod.com/cocoli/tv8.php?id=125
+http://flash.shortgod.com/dvp3/tv8.php?id=125
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web Dl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
 #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Tij
@@ -244,11 +244,11 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png"  group-title="NACIONALES", A+
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Noroeste
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Bajio
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2319/canal2319.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/amas-loqueves_thumb_vxkpuaea.png" group-title="NACIONALES", A+ Bajio
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2319&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2319&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 Web
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40 Web
@@ -256,7 +256,7 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40*
 http://156.146.38.236:1022
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="NACIONALES", ADN 40
@@ -273,7 +273,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="https://quierotv.mx/wp-content/uploads/2021/07/Logo-WEB-e1626917051634.png" group-title="NACIONALES", QUIEROTV GDL Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
 #EXTINF:-1 tvg-logo="https://quierotv.mx/wp-content/uploads/2021/07/Logo-WEB-e1626917051634.png" group-title="NACIONALES", QUIEROTV GDL
-https://stream-03.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOusoHraNXHkqbZXiiEcGfJF15o0TuOVE1EXRxl0rwbI_)/dm/3/x8452uw/s/live-3.m3u8
+https://stream-01.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOmqDnHOLbx0yxXyETWqfcBTAS1FbbC1qfYrn-gd_z50e)/dm/3/x8452uw/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy5
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
@@ -293,17 +293,17 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playl
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA PUEBLA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/canal2312.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA PUEBLA
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2312&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2312&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/canal2355.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2355&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2355&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/canal2050.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2050&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2050&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2061&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2061&f=.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2061/canal2061.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="NACIONALES", CANAL 28 NUEVO LEÓN
@@ -313,7 +313,7 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES",Televisa Monterrey Canal 8 Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2307&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2307&f=.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Canal 8 Mty
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/canal2307.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="NACIONALES", Multimedios Plus
@@ -339,7 +339,7 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg" group-title="NACIONALES", Multimedios Saltillo Web
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2274&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2274&f=.m3u8
 #EXTINF:-1 tvg-id="XHLEGTDT.mx" tvg-name="TV Cuatro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="NACIONALES", TV Cuatro
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2274/canal2274.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="NACIONALES", TVCUATRO 4.1 Web
@@ -410,7 +410,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/canal353.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=353&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=353&f=.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
@@ -424,7 +424,7 @@ http://156.146.38.236:1057
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://hidra.live:80/ivbiqvof/fVimKfhU/302662
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://flash.shortgod.com/cocoli/tv2.php?id=50&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=50&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://45.160.12.253:8000/play/033
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -478,7 +478,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d67800099
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO 
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=377&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=377&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/canal377.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO
@@ -486,7 +486,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/canal377.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="MUNDO Y CULTURA", NAT GEO HD
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png"group-title="MUNDO Y CULTURA", Nat Geo Wild
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=355&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=355&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="MUNDO Y CULTURA", Nat Geo Wild
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL355/canal355.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png"  group-title="MUNDO Y CULTURA", NAT GEO Wild
@@ -494,7 +494,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL355/canal355.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel TP
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/canal371.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=371&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=371&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png" group-title="MUNDO Y CULTURA", Discovery Channel
@@ -506,7 +506,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-def
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-civilization_thumb_rth0rgpd.png" group-title="MUNDO Y CULTURA", Discovery Civilization
 
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=303&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=303&f=.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/canal303.m3u8
 #EXTINF:-1" tvg-logo="https://styles.redditmedia.com/t5_4ihcho/styles/communityIcon_41una2c51g271.png" group-title="MUNDO Y CULTURA", Discovery Kids
@@ -514,43 +514,43 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/canal303.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=381&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=381&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="MUNDO Y CULTURA", Discovery SCIENCE
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=351&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=351&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_xgddhzki.png" group-title="MUNDO Y CULTURA", Discovery THEATER
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/canal351.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2379&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2379&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="MUNDO Y CULTURA", Discovery Turbo
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/canal2379.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=101&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=101&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="MUNDO Y CULTURA", Discovery  World
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=374&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=374&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/canal374.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/h-h_thumb_74jedy2p.png" group-title="MUNDO Y CULTURA", Discovery H&H
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2376&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2376&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="MUNDO Y CULTURA", ID
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/canal2376.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=495&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=495&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/canal495.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/i-sat_thumb_hien3c5o.png", ISAT
 
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2378&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2378&f=.m3u8
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/canal2378.m3u8
 #EXTINF:-1 tvg-group-title="MUNDO Y CULTURA" logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="MUNDO Y CULTURA", Animal Planet
@@ -560,7 +560,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/canal2378.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/food-network_thumb_8zjr5dg0.png" group-title="MUNDO Y CULTURA", FOOD Network
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="MUNDO Y CULTURA", EL Gourmet
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=268&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=268&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="MUNDO Y CULTURA", EL Gourmet
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/canal268.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="MUNDO Y CULTURA", EL Gourmet
@@ -572,7 +572,7 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO" ,LifeTime
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=320&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=320&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
@@ -580,7 +580,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/canal320.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=312&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=312&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
@@ -588,26 +588,26 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/canal312.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=322&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=322&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL322/canal322.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL308/canal308.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr 
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=308&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=308&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2373&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2373&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2373/canal2373.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK 
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=317&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=317&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL317/canal317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=310&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=310&f=.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL310/canal310.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantil", Nick Toons
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=314&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=314&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantil", Nick Toons
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/canal314.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png"group-title="Infantil", ONCE NIÑOS
@@ -615,23 +615,23 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/canal314.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png" group-title="NACIONALES", Canal Once Niños
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/776px-Logo_Once_Ni%C3%B1os.png"group-title="Infantil", ONCE NIÑOS
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=3315&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=3315&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR PlutoTv
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=328&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=328&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/canal328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/canal2591.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7ksSa5.png" group-title="Infantil", BitMe
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8HrXtC.png" group-title="Infantil", Boomerang
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=303&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=303&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/canal303.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBCKEv9.png" group-title="Infantil", PakaPaka 
@@ -1049,9 +1049,9 @@ http://190.149.66.90:16000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema East
 http://190.83.119.67:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema
-http://flash.shortgod.com/cocoli/tv6.php?id=187075
+http://flash.shortgod.com/dvp3/tv6.php?id=187075
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema West
-http://flash.shortgod.com/cocoli/tv6.php?id=184565
+http://flash.shortgod.com/dvp3/tv6.php?id=184565
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
 
 #EXTINF:-1 tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="UNIVERSAL", Universal Cinema HD
@@ -1151,62 +1151,62 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007f
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657304557563.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 2
-https://m3ukodi.com/developer/budtvultras/budtv.php?5955-941970
+https://m3ukodi.com/developer/universo/universo.php?5955-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657304647183.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 3
-https://m3ukodi.com/developer/budtvultras/budtv.php?5956-941970
+https://m3ukodi.com/developer/universo/universo.php?5956-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305500170.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 4
-https://m3ukodi.com/developer/budtvultras/budtv.php?5957-941970
+https://m3ukodi.com/developer/universo/universo.php?5957-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305512226.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 5
-https://m3ukodi.com/developer/budtvultras/budtv.php?5958-941970
+https://m3ukodi.com/developer/universo/universo.php?5958-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305524192.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 6
-https://m3ukodi.com/developer/budtvultras/budtv.php?5959-941970
+https://m3ukodi.com/developer/universo/universo.php?5959-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305538501.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 7
-https://m3ukodi.com/developer/budtvultras/budtv.php?5960-941970
+https://m3ukodi.com/developer/universo/universo.php?5960-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305555451.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 8
-https://m3ukodi.com/developer/budtvultras/budtv.php?5961-941970
+https://m3ukodi.com/developer/universo/universo.php?5961-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305568384.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 9
-https://m3ukodi.com/developer/budtvultras/budtv.php?5962-941970
+https://m3ukodi.com/developer/universo/universo.php?5962-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305644421.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 10
-https://m3ukodi.com/developer/budtvultras/budtv.php?5963-941970
+https://m3ukodi.com/developer/universo/universo.php?5963-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305658500.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 11
-https://m3ukodi.com/developer/budtvultras/budtv.php?5964-941970
+https://m3ukodi.com/developer/universo/universo.php?5964-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305684263.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 12
-https://m3ukodi.com/developer/budtvultras/budtv.php?5965-941970
+https://m3ukodi.com/developer/universo/universo.php?5965-941970
 #EXTGRP:SKY PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTINF:-1 tvg-id="" tvg-logo="https://panel.budtv-ultra.com/posters/1657305723526.png" audio-track="spa" group-title="SKY PREMIER",SKY PREMIER 14
-https://m3ukodi.com/developer/budtvultras/budtv.php?5967-941970
+https://m3ukodi.com/developer/universo/universo.php?5967-941970
 
 
 #EXTINF:-1 tvg-logo="https://eltecolote.mx/wp-content/uploads/2020/10/animaniacs-hulu-trailer-wakko-yakko-dot-social.png" group-title="24/7", ANIMANIACS
@@ -1277,23 +1277,23 @@ https://v3.playerlatino.live/stream/m3u8/357|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
 https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=187&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=187&f=.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/canal187.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/canal185.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=185&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=185&f=.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/canal186.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=186&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=186&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/canal1449.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1449&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1449&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/w/7vy0P1XqrSV1yKCV_" group-title="NOTICIAS", Heraldo Tv
@@ -1301,7 +1301,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="NOTICIAS", Meganoticias MX
 
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="NOTICIAS", Meganoticias MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2156&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2156&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio Web
@@ -1309,17 +1309,17 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1250&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1250&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1252&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1252&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio
 http://hidra.live:80/live/ivbiqvof/fVimKfhU/302702.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/canal161.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=161&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=161&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula Web
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
@@ -1327,7 +1327,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/canal111.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
 
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
@@ -1335,7 +1335,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=111&f=.
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/canal111.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=111&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=111&f=.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
 
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV
@@ -1345,7 +1345,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2149/canal2149.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV 
 
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="NACIONALES", MVS TV
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2149&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2149&f=.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6t7n6t
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="NOTICIAS", MVS Noticias Web
@@ -1407,7 +1407,7 @@ https://v3.playerlatino.live/stream/m3u8/105|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos", Galavision Los Angeles
 https://v3.playerlatino.live/stream/m3u8/102|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos", NBC Universo
-https://m3ukodi.com/developer/budtvultras/budtv.php?5519-2092
+https://m3ukodi.com/developer/universo/universo.php?5519-2092
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos", NBC Universo
 http://iptvhd.club:25461/live/ligatv/i18zeUXnYx/344.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" tvg-name="Universo" tvg-logo="http://mifut.televall.online/images/universo.png" group-title="USA Latinos", NBC Universo
@@ -1425,7 +1425,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="USA Latinos", Estrella TV NEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
-http://flash.shortgod.com/cocoli/tv2.php?id=317&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=317&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png"group-title="Internacionales Latinos", OromarTv
 https://v3.playerlatino.live/stream/m3u8/4191|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png"group-title="Internacionales Latinos", ATV Peru
@@ -1479,7 +1479,7 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg" group-title="ESPAÑA", EITB BASQUE Web
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1120.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1120.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
 http://revteam1.offshorerev.cc:80/SPIDER_anfYqk/b6PVhk9H/105221
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO
@@ -1487,7 +1487,7 @@ http://93.152.174.144:4000/play/cuatrosp/index.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="ESPAÑA", CUATRO HD
 https://webudit.onlinewebtv.lol/lb/premium535/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1136.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1136.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO HD
 http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="ESPAÑA", TELECINCO
@@ -1497,9 +1497,9 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image94583436102.jpg" group-title="ESPAÑA", La2 tve
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg" group-title="ESPAÑA", #0
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1108.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1108.m3u8
 #EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV Mexiquense
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=44&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=44&f=.m3u8
 #EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV Mexiquense
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/canal44.m3u8
 #EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png" group-title="NACIONALES", TV Mexiquense Web
@@ -1543,11 +1543,11 @@ http://170.83.242.155:5350/play/a001
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 http://156.146.38.236:1192
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
-http://flash.shortgod.com/cocoli/tv4.php?id=4112
+http://flash.shortgod.com/dvp3/tv4.php?id=4112
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 https://v3.playerlatino.live/stream/m3u8/62|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
-https://m3ukodi.com/developer/budtvultras/budtv.php?5473-2202
+https://m3ukodi.com/developer/universo/universo.php?5473-2202
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
@@ -1561,7 +1561,7 @@ http://45.232.177.17:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
-https://m3ukodi.com/developer/budtvultras/budtv.php?4786-2202
+https://m3ukodi.com/developer/universo/universo.php?4786-2202
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
@@ -1624,7 +1624,7 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
 http://45.232.177.17:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus
-https://m3ukodi.com/developer/budtvultras/budtv.php?4788-2202
+https://m3ukodi.com/developer/universo/universo.php?4788-2202
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://170.83.242.155:5350/play/a02r
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
@@ -1632,7 +1632,7 @@ http://156.146.38.236:1198
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 https://v3.playerlatino.live/stream/m3u8/63|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
-http://flash.shortgod.com/cocoli/tv4.php?id=4017
+http://flash.shortgod.com/dvp3/tv4.php?id=4017
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://hidra.live:80/ivbiqvof/fVimKfhU/302667
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
@@ -1654,7 +1654,7 @@ http://45.179.140.242:8000/play/a0lc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature HD
 http://156.146.38.236:1197
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
-http://flash.shortgod.com/cocoli/tv5.php?id=37986
+http://flash.shortgod.com/dvp3/tv5.php?id=37986
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature
@@ -1777,11 +1777,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
-http://flash.shortgod.com/cocoli/tv6.php?id=30366
+http://flash.shortgod.com/dvp3/tv6.php?id=30366
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel HD
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="ENTRETENIMIENTO", Paramount Channel
@@ -1813,7 +1813,7 @@ http://45.228.234.185:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/canal205.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=205&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=205&f=.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL HD
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO", WARNER CHANNEL
@@ -1821,9 +1821,9 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=205&f=.
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/canal211.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=211&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E
 
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO", A&E
@@ -1837,7 +1837,7 @@ http://45.228.234.77:4430/play/axnhd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
 http://45.232.177.17:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2507&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2507&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2507/canal2507.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="ENTRETENIMIENTO", AXN
@@ -1849,17 +1849,17 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2507/canal2507.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="ENTRETENIMIENTO", AXN Movies HD
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-http://flash.shortgod.com/cocoli/tv6.php?id=37981
+http://flash.shortgod.com/dvp3/tv6.php?id=37981
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
-http://flash.shortgod.com/cocoli/tv6.php?id=3103
+http://flash.shortgod.com/dvp3/tv6.php?id=3103
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 http://190.61.102.67:31589/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
@@ -1879,13 +1879,13 @@ http://190.149.66.90:16000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png"  group-title="ENTRETENIMIENTO", UNIVERSAL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=492&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=492&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="ENTRETENIMIENTO", Studio Universal
@@ -1897,7 +1897,7 @@ https://v3.playerlatino.live/stream/m3u8/84|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png" group-title="ENTRETENIMIENTO", Universal Crime
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/canal435.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
@@ -1905,7 +1905,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=435&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=435&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT HD
 http://45.228.234.77:4430/play/tnthd
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT 
@@ -1933,13 +1933,13 @@ http://190.83.119.254:8000/play/a0wn/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/canal266.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=266&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=266&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="ENTRETENIMIENTO", TNT SERIES
@@ -1954,17 +1954,17 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/canal2380.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/tlc-discovery_thumb.png" group-title="ENTRETENIMIENTO", TLC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE05.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/tlc-discovery_thumb.png" group-title="ENTRETENIMIENTO", TLC
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/tlc-discovery_thumb.png" group-title="ENTRETENIMIENTO", TLC
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/canal379.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=379&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=379&f=.m3u8
 #EXTINF:-1" tvg-logo="https://www.televall.online/gallery/lifetime_thumb_nl79hb2n.png" group-title="ENTRETENIMIENTO", Lifetime
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM
 http://45.232.177.17:8000/play/a017
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM
@@ -1972,11 +1972,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=496&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=496&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO",TCM España
-http://flash.shortgod.com/cocoli/tv8.php?id=152815
+http://flash.shortgod.com/dvp3/tv8.php?id=152815
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
@@ -1984,9 +1984,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/canal444.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=444&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
-http://flash.shortgod.com/cocoli/tv4.php?id=4118
+http://flash.shortgod.com/dvp3/tv4.php?id=4118
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 http://8.242.179.181:58001/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
@@ -1996,7 +1996,7 @@ http://megatitan.net:8080/live/Victorsepulveda53/VfmdXeFurCKB/24090.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/canal201.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
@@ -2004,7 +2004,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=201&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=201&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
@@ -2012,7 +2012,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=201&f=.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 http://190.83.119.254:8000/play/a0xk/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/canal203.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0xm.png" group-title="ENTRETENIMIENTO", SONY HD
@@ -2020,9 +2020,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=203&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=203&f=.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=203&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=203&f=.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png" group-title="ENTRETENIMIENTO", SONY
 http://190.83.119.254:8000/play/a0x8/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0vl.png" group-title="ENTRETENIMIENTO", Sony Movies HD
@@ -2032,7 +2032,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/canal209.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=209&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=209&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX
@@ -2040,7 +2040,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO", FX 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO", SYFY
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=257&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=257&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO", SYFY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO", SYFY
@@ -2072,7 +2072,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=481&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=481&f=.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://45.232.177.17:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
@@ -2092,7 +2092,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=430&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=430&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
 http://45.232.177.17:8000/play/a01c
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal
@@ -2108,7 +2108,7 @@ http://201.168.205.12:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=445&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=445&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="ENTRETENIMIENTO", SPACE
@@ -2120,7 +2120,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sony.png" group-title="ENTRETENIMIENTO", Sony Channel
 
 #EXTINF:-1 tvg-logo="https://totalplayplanes.mx/s/ma/assets/img/canales/Cine/canal-morbido.png" group-title="ENTRETENIMIENTO", Morbido Tv
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=470&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=470&f=.m3u8
 #EXTINF:-1 tvg-logo="https://totalplayplanes.mx/s/ma/assets/img/canales/Cine/canal-morbido.png" group-title="ENTRETENIMIENTO", MorbidoTv
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
@@ -2128,7 +2128,7 @@ http://156.146.38.236:1066
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=123&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=123&f=.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
 
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
@@ -2140,13 +2140,13 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS
 http://156.146.38.236:1179
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=436&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=436&f=.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="ENTRETENIMIENTO", GOLDEN PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=484&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=484&f=.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
@@ -2166,9 +2166,9 @@ https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
 http://156.146.38.236:1065
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="ENTRETENIMIENTO", DePELICULA
@@ -2180,7 +2180,7 @@ http://156.146.38.236:1177
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema
 
 #EXTINF:-1 tvg-name="Azteca Cinema HD" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=425&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=425&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Cinema HD" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="Azteca Cinema HD" tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="ENTRETENIMIENTO", Azteca Cinema
@@ -2190,7 +2190,7 @@ http://190.83.119.67:8000/play/a0sh/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1499/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1499&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1499&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/742px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO", UNICABLE
@@ -2280,7 +2280,7 @@ https://webudit.onlinewebtv.lol/lb/premium405/index.m3u8|Referer=https://player.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
 http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network 
-http://flash.shortgod.com/cocoli/tv2.php?id=151&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=151&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
 https://v3.playerlatino.live/stream/m3u8/204|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
@@ -2585,7 +2585,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS FHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1174.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1174.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
 
 #EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
@@ -2609,15 +2609,15 @@ http://fx2world.com:8080/live/t3UhMD47PQZ5/2AakT8feEZZf/2395.m3u8
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="DEPORTES", LALIGATV BAR 1 
 http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="DEPORTES", LALIGATV BAR
-http://flash.shortgod.com/cocoli/tves1.php?c=1141
+http://flash.shortgod.com/dvp3/tves1.php?c=1141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga de Campeones
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1092.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1092.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga de Campeones
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1104.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga de Campeones
-http://flash.shortgod.com/cocoli/tves1.php?c=1092
+http://flash.shortgod.com/dvp3/tves1.php?c=1092
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/263px-Movistar_LaLiga.svg.png" group-title="DEPORTES", MOVISTAR LA LIGA FHD
-http://flash.shortgod.com/cocoli/tves1.php?c=1111
+http://flash.shortgod.com/dvp3/tves1.php?c=1111
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 
 http://31.220.41.90:8081/live/es-movistar-deportes.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES 2
@@ -2641,13 +2641,13 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga De Campeones
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
-https://m3ukodi.com/developer/budtvultras/budtv.php?3953-98270
+https://m3ukodi.com/developer/universo/universo.php?3953-98270
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
-http://flash.shortgod.com/cocoli/tv2.php?id=30&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=30&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados*
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
-http://flash.shortgod.com/cocoli/tv2.php?id=30&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=30&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
@@ -2750,11 +2750,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL174/canal174.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL11049/canal11049.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=174&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=174&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1049&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1049&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=1975&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=1975&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
@@ -2792,9 +2792,9 @@ https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX", TUDN 6
 https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
-
+https://m3ukodi.com/developer/universo/universo.php?18-7081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES 
-http://flash.shortgod.com/cocoli/tv2.php?id=15&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=15&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
@@ -2819,7 +2819,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://181.78.10.235:58004/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=561&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=561&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
@@ -2829,7 +2829,7 @@ https://v3.playerlatino.live/stream/m3u8/531|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 http://181.78.10.235:58004/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=558&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=558&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
@@ -2841,11 +2841,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=520&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=520&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=167&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=167&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES", ESPN XTRA
@@ -2861,19 +2861,19 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=522&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=522&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-http://flash.shortgod.com/cocoli/tv2.php?id=24&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=24&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 https://v3.playerlatino.live/stream/m3u8/528|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=527&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=527&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-http://flash.shortgod.com/cocoli/tv2.php?id=25&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=25&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
@@ -2881,11 +2881,11 @@ https://v3.playerlatino.live/stream/m3u8/511|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=178&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=178&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-http://flash.shortgod.com/cocoli/tv2.php?id=26&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=26&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes*
@@ -2901,7 +2901,7 @@ http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/94.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
-http://flash.shortgod.com/cocoli/tv2.php?id=364&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=364&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
@@ -2969,7 +2969,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/canal2564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2564&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sport Web
@@ -2991,15 +2991,15 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-v
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s86779_h3_ba.png" group-title="DEPORTES", Claro Sports 4 Web
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/aym.png" group-title="DEPORTES", A Y M SPORTS
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=180&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=180&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/aym.png" group-title="DEPORTES", A Y M SPORTS
 
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/las.png" group-title="DEPORTES", LAS DeporteS
 
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/las.png" group-title="DEPORTES", LAS Deportes
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2089&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2089&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sport paraguay
-http://flash.shortgod.com/cocoli/tv2.php?id=241&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=241&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports +
@@ -3023,7 +3023,7 @@ http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/77.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
 https://v3.playerlatino.live/stream/m3u8/74|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
-http://flash.shortgod.com/cocoli/tv4.php?id=17418
+http://flash.shortgod.com/dvp3/tv4.php?id=17418
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 https://webudit.onlinewebtv.lol/lb/premium39/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
@@ -3153,7 +3153,7 @@ https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/in
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo01.php?tokennn=Regio&c=2157&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo01.php?tokennn=Regio&c=2157&f=.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/90539f53-3c3e-4026-b9dc-19775f1b6f8f/bf47b616-3a0b-436d-9736-e1827736fb33/snhtv.png" group-title="DEPORTES", SportsNews Highlights
@@ -3209,7 +3209,7 @@ http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66639.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
 http://mains.services/live/cloud9/1994419/049e661c-3eef-4dce-96de-f69159602e44.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh*
-https://m3ukodi.com/developer/budtvultras/budtv.php?2473-2309
+https://m3ukodi.com/developer/universo/universo.php?2473-2309
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/66639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SportsNet Pittsburgh
@@ -3217,7 +3217,7 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/66639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SPORTSNET ROCKY MOUNTAINS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SPORTSNET SOUTHWEST
-https://m3ukodi.com/developer/budtvultras/budtv.php?3531-2309
+https://m3ukodi.com/developer/universo/universo.php?3531-2309
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/520px-Logo_for_AT%26T_SportsNet.svg.png" group-title="DEPORTES", AT&T SPORTSNET SOUTHWEST
 http://sdmx.us:25461/live/Ivan3/QCxNLnabwF/210404.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180620/agt/kisspng-sportsman-channel-new-berlin-television-channel-hu-sportman-5b29f38013bf71.2892580415294759680809.jpg" group-title="DEPORTES", SPORTSMAN CHANNEL 
@@ -3296,13 +3296,13 @@ https://webudit.onlinewebtv.lol/lb/premium376/playlist.m3u8?|Referer=https://pla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ESPN_College_Football_logo.svg/1200px-ESPN_College_Football_logo.svg.png" group-title="NCAA", ESPN GAMETIME
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-https://m3ukodi.com/developer/budtvultras/budtv.php?2212-2309
+https://m3ukodi.com/developer/universo/universo.php?2212-2309
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/85
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/85.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-
+http://allstar.is-by.us:25461/live/MbeniteZ/Cn3UzTmjYV/58722.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
@@ -3310,17 +3310,17 @@ http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/85.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) Dd 
 https://webudit.onlinewebtv.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1193.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1193.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
 
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
-https://m3ukodi.com/developer/budtvultras/budtv.php?5136-2309
+https://m3ukodi.com/developer/universo/universo.php?5136-2309
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
-
+http://allstar.is-by.us:25461/live/MbeniteZ/Cn3UzTmjYV/58728.m3u8
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1190.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1190.m3u8
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA)
@@ -3332,7 +3332,7 @@ http://1.revportal.eu:80/SPIDER_SoYnth/l0gRlzAixv/155577
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png" group-title="DEPORTES", ESPN NEWS
 http://1.revportal.eu:80/SPIDER_SoYnth/l0gRlzAixv/155578
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png" group-title="DEPORTES", ESPN NEWS
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1194.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1194.m3u8
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
 http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
@@ -3407,7 +3407,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 #EXTINF:-1 tvg-logo="-" group-title="MUSICA",
 
 #EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/mtv80s.jpg" group-title="MUSICA", MTV 80's
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=728&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=728&f=.m3u8
 #EXTINF:-1 tvg-logo="http://noticias.radiotormentamx.com/images/mtv80s.jpg" group-title="MUSICA", MTV 80's
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV 90's
@@ -3423,7 +3423,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=728&f=.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA", MTV Classics
-http://flash.shortgod.com/cocoli/tv10.php?id=46027
+http://flash.shortgod.com/dvp3/tv10.php?id=46027
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/exa-tijuana.png" group-title="MX RADIO", Exa Tijuana 91.7
 https://20283.live.streamtheworld.com/XHGLX_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="MX RADIO", Amor 95.3
@@ -3675,7 +3675,7 @@ http://iptvhd.club:25461/live/ligatv/i18zeUXnYx/270.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/KTAZ_Logo.png/300px-KTAZ_Logo.png" group-title="USA Latinos", Telemundo 39.1 Phoenix (KTAZ)
 
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston*
-https://m3ukodi.com/developer/budtvultras/budtv.php?3819-2092
+https://m3ukodi.com/developer/universo/universo.php?228-7086
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston
 http://hidra.live:80/ivbiqvof/fVimKfhU/35089
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston
@@ -3685,11 +3685,11 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/1081
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1081.m3u8
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo Boston
-http://flash.shortgod.com/cocoli/tv4.php?id=3794
+http://flash.shortgod.com/dvp3/tv4.php?id=3794
 #EXTINF:-1 tvg-logo="https://media.telemundochicago.com/2021/10/TLMD_Chicago_On_Light@3x.png" group-title="USA Latinos",Telemundo Chicago 48 (WSNS) 
 https://v3.playerlatino.live/stream/m3u8/110|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://media.telemundochicago.com/2021/10/TLMD_Chicago_On_Light@3x.png" group-title="USA Latinos",Telemundo Chicago 48 (WSNS) *
-https://m3ukodi.com/developer/budtvultras/budtv.php?3820-2092
+https://m3ukodi.com/developer/universo/universo.php?3820-2092
 #EXTINF:-1 tvg-logo="https://media.telemundochicago.com/2021/10/TLMD_Chicago_On_Light@3x.png" group-title="USA Latinos",Telemundo 48 Chicago (WSNS-TV) 
 http://hidra.live:80/ivbiqvof/fVimKfhU/35090
 #EXTINF:-1 tvg-logo="https://media.telemundochicago.com/2021/10/TLMD_Chicago_On_Light@3x.png" group-title="USA Latinos",Telemundo 48 Chicago
@@ -3705,13 +3705,13 @@ http://bgtv.site/play/14--427.php?c=92&dir=laksjhdgflkas&f=.m3u8|user-agent=Lavf
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos",Telemundo East
 
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami*
-https://m3ukodi.com/developer/budtvultras/budtv.php?2870-2092
+https://m3ukodi.com/developer/universo/universo.php?2870-2092
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
 http://bgtv.site/play/tvhd-427.php?id=271&tokeen=laksjhdgflkas&f=.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA Latinos", Telemundo 51 Miami
-http://flash.shortgod.com/cocoli/tv2.php?id=48&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/dvp3/tv2.php?id=48&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY*
-https://m3ukodi.com/developer/budtvultras/budtv.php?3825-2092
+https://m3ukodi.com/developer/universo/universo.php?3825-2092
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY
 
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY
@@ -3719,9 +3719,9 @@ https://m3ukodi.com/developer/budtvultras/budtv.php?3825-2092
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo 47.1 NY (WJNU)
 https://v3.playerlatino.live/stream/m3u8/123|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/2021/10/TLMD_47_On_Light@3x.png" group-title="USA Latinos", Telemundo New jersey
-https://m3ukodi.com/developer/budtvultras/budtv.php?5358-2092
+https://m3ukodi.com/developer/universo/universo.php?5358-2092
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Orlando*
-https://m3ukodi.com/developer/budtvultras/budtv.php?5305-2092
+https://m3ukodi.com/developer/universo/universo.php?5305-2092
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Orlando
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/63967
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/telemundo.png" group-title="USA Latinos", Telemundo Tampa*
@@ -4004,11 +4004,11 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="USA", AMC
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="USA", FX
-http://flash.shortgod.com/cocoli/tv10.php?id=22527
+http://flash.shortgod.com/dvp3/tv10.php?id=22527
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS East
-http://flash.shortgod.com/cocoli/tv10.php?id=22627
+http://flash.shortgod.com/dvp3/tv10.php?id=22627
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS West
-http://flash.shortgod.com/cocoli/tv10.php?id=22628
+http://flash.shortgod.com/dvp3/tv10.php?id=22628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS Pm
 https://webudit.onlinewebtv.lol/lb/premium336/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS
@@ -4018,11 +4018,11 @@ https://webudit.onlinewebtv.lol/lb/premium336/index.m3u8|Referer=https://player.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/1200px-TBS_Network-logo.svg.png" group-title="USA", TBS HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
-http://flash.shortgod.com/cocoli/tv10.php?id=22643
+http://flash.shortgod.com/dvp3/tv10.php?id=22643
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 https://webudit.onlinewebtv.lol/lb/premium343/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
-http://flash.shortgod.com/cocoli/tv4.php?id=3780
+http://flash.shortgod.com/dvp3/tv4.php?id=3780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
@@ -4030,7 +4030,7 @@ http://flash.shortgod.com/cocoli/tv4.php?id=3780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="USA", USA Network
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
-http://flash.shortgod.com/cocoli/tv10.php?id=22591
+http://flash.shortgod.com/dvp3/tv10.php?id=22591
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
 https://webudit.onlinewebtv.lol/lb/premium334/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/285/417/png-clipart-logo-paramount-network-television-network-paramount-channel-others-television-text.png" group-title="USA", Paramount Network
@@ -4199,17 +4199,17 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1213.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1213.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1214.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1214.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
-http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1215.m3u8
+http://fxorexworld.com:8080/live/lB929WW8aX/5e2GAZvprY/1215.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
@@ -4286,45 +4286,45 @@ http://fxorexworld.com:8080/live/HWxUS44gnA/gXtoJmzxtA/1215.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965984402.png"  group-title="BALLY SPORTS" , KANSAS CITY HD
-http://flash.shortgod.com/cocoli/tv5.php?id=370-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=370-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965963146.png" group-title="BALLY SPORTS" , INDIANA HD
-http://flash.shortgod.com/cocoli/tv5.php?id=369-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=369-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965952544.png" group-title="BALLY SPORTS" , GREAT LAKES HD
-http://flash.shortgod.com/cocoli/tv5.php?id=368-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=368-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965920184.png" group-title="BALLY SPORTS" , FLORIDA HD
-http://flash.shortgod.com/cocoli/tv5.php?id=367-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=367-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965901386.png" group-title="BALLY SPORTS" , DETROIT HD
-http://flash.shortgod.com/cocoli/tv5.php?id=366-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=366-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637965769433.png" group-title="BALLY SPORTS" , ARIZONA HD
-http://flash.shortgod.com/cocoli/tv5.php?id=365-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=365-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966006151.png" group-title="BALLY SPORTS" , MIDWEST HD
-http://flash.shortgod.com/cocoli/tv5.php?id=371-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=371-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966055473.png" group-title="BALLY SPORTS" , NEW ORLEANDS HD
-http://flash.shortgod.com/cocoli/tv5.php?id=372-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=372-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966291544.png" group-title="BALLY SPORTS" , NORTH HD
-http://flash.shortgod.com/cocoli/tv5.php?id=384-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=384-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966278514.png" group-title="BALLY SPORTS" , SOCALHD
-http://flash.shortgod.com/cocoli/tv5.php?id=383-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=383-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966261460.png" group-title="BALLY SPORTS" , WISCONSIN HD
-http://flash.shortgod.com/cocoli/tv5.php?id=382-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=382-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966248159.png" group-title="BALLY SPORTS" , WEST HD
-http://flash.shortgod.com/cocoli/tv5.php?id=381-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=381-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966234354.png" group-title="BALLY SPORTS" , SUN HD
-http://flash.shortgod.com/cocoli/tv5.php?id=380-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=380-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966216450.png" group-title="BALLY SPORTS" , SOUTHWEST HD
-http://flash.shortgod.com/cocoli/tv5.php?id=379-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=379-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966200131.png" group-title="BALLY SPORTS" , SOUTHEAST HD
-http://flash.shortgod.com/cocoli/tv5.php?id=378-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=378-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966169352.png" group-title="BALLY SPORTS" , SOUTH HD
-http://flash.shortgod.com/cocoli/tv5.php?id=377-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=377-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966142305.png" group-title="BALLY SPORTS" , SAN DIEGO HD
-http://flash.shortgod.com/cocoli/tv5.php?id=376-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=376-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966127535.png" group-title="BALLY SPORTS" , OKLAHOMA HD
-http://flash.shortgod.com/cocoli/tv5.php?id=375-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=375-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966077404.png" group-title="BALLY SPORTS" , NORTH PLUS HD
-http://flash.shortgod.com/cocoli/tv5.php?id=373-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=373-7082
 #EXTINF:-1 tvg-logo="https://shortgod.com-sport.com/posters/1637966100131.png" group-title="BALLY SPORTS" , OHIO HD
-http://flash.shortgod.com/cocoli/tv5.php?id=374-7082
+http://flash.shortgod.com/dvp3/tv5.php?id=374-7082
 
 
 
@@ -4401,230 +4401,14 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Tampa Bay Rays vs Cincinnati Reds
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66645.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Tampa Bay Rays vs Cincinnati Reds
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1152.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Tampa Bay Rays vs Cincinnati Reds
-https://w1.livemodo.click/9_XcifmLIZCihQZruQ-fuA/1681952975/3230312e3137312e3131302e313736/ff1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Tampa Bay Rays vs Cincinnati Reds
-https://s3.livemodo.click/gz5w1y4fvthYt2s7eujZPw/1681953006/3230312e3137312e3131302e313736/ff100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Tampa Bay Rays vs Cincinnati Reds
-https://webudit.onlinewebtv.lol/lb/premium11/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Cleveland Guardians vs Detroit Tigers
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66644.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Cleveland Guardians vs Detroit Tigers
-https://w2.livemodo.click/JQyR9oaFBGSmn2ogozhVLQ/1681953386/3230312e3137312e3131302e313736/ff2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Cleveland Guardians vs Detroit Tigers
-https://s3.livemodo.click/6ltX_YjnGld3G7iv6gS_0w/1681953430/3230312e3137312e3131302e313736/ff101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Cleveland Guardians vs Detroit Tigers
-https://webudit.onlinewebtv.lol/lb/premium12/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  San Francisco Giants vs Miami Marlins
-http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  San Francisco Giants vs Miami Marlins
-https://w2.livemodo.click/y1Jq9qeSdVpkGEOCVhiyYQ/1681953557/3230312e3137312e3131302e313736/ff102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  San Francisco Giants vs Miami Marlins
-https://s3.livemodo.click/pwxhFF00OVEPRv1HnJ73Ug/1681953594/3230312e3137312e3131302e313736/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  San Francisco Giants vs Miami Marlins
-https://webudit.onlinewebtv.lol/lb/premium13/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Arizona Diamondbacks vs St. Louis Cardinals
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66643.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Arizona Diamondbacks vs St. Louis Cardinals
-https://s3.livemodo.click/Ry7Y28YbBQSJGZlat-9eUg/1681953682/3230312e3137312e3131302e313736/ff4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Arizona Diamondbacks vs St. Louis Cardinals
-https://s3.livemodo.click/rLU9NF-Q4nJTD5UK47mL-A/1681953711/3230312e3137312e3131302e313736/ff103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Arizona Diamondbacks vs St. Louis Cardinals
-https://webudit.onlinewebtv.lol/lb/premium14/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Texas Rangers vs Kansas City Royals
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66648.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Texas Rangers vs Kansas City Royals
-https://s3.livemodo.click/4dljMmRJQJub88vMV5Gv-Q/1681957017/3230312e3137312e3131302e313736/ff6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Texas Rangers vs Kansas City Royals
-https://w2.livemodo.click/i3n-UZeGSHTaQ8Z0rBNGDQ/1681957053/3230312e3137312e3131302e313736/ff105/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Texas Rangers vs Kansas City Royals
-https://webudit.onlinewebtv.lol/lb/premium15/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Philadelphia Phillies vs Chicago White Sox
-http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Philadelphia Phillies vs Chicago White Sox
-http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Philadelphia Phillies vs Chicago White Sox
-https://w2.livemodo.click/6vIhLKe07nZD3iOGmDnCjg/1681957093/3230312e3137312e3131302e313736/ff104/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Philadelphia Phillies vs Chicago White Sox
-https://s3.livemodo.click/t_iHA-oCHkqT2ePqjf_2Yg/1681957119/3230312e3137312e3131302e313736/ff5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Philadelphia Phillies vs Chicago White Sox
-https://webudit.onlinewebtv.lol/lb/premium16/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  New York Mets vs Los Angeles Dodgers
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/2739.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  New York Mets vs Los Angeles Dodgers
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66637.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  New York Mets vs Los Angeles Dodgers
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  New York Mets vs Los Angeles Dodgers
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  New York Mets vs Los Angeles Dodgers
-https://webudit.onlinewebtv.lol/lb/premium33/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Pittsburgh Pirates vs Colorado Rockies
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66639.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Pittsburgh Pirates vs Colorado Rockies
-http://ds1.espnv2.online/stream/ch126/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Pittsburgh Pirates vs Colorado Rockies
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Pittsburgh Pirates vs Colorado Rockies
-https://webudit.onlinewebtv.lol/lb/premium17/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Chicago Cubs vs Oakland Athletics
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Chicago Cubs vs Oakland Athletics
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Chicago Cubs vs Oakland Athletics
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Chicago Cubs vs Oakland Athletics
-https://webudit.onlinewebtv.lol/lb/premium18/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Atlanta Braves vs San Diego Padres
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Atlanta Braves vs San Diego Padres
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Atlanta Braves vs San Diego Padres
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Atlanta Braves vs San Diego Padres
-https://webudit.onlinewebtv.lol/lb/premium19/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Milwaukee Brewers vs Seattle Mariners
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66650.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Milwaukee Brewers vs Seattle Mariners
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Milwaukee Brewers vs Seattle Mariners
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Milwaukee Brewers vs Seattle Mariners
-https://webudit.onlinewebtv.lol/lb/premium20/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Baltimore Orioles vs Washington Nationals
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Baltimore Orioles vs Washington Nationals
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Baltimore Orioles vs Washington Nationals
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Baltimore Orioles vs Washington Nationals
-https://webudit.onlinewebtv.lol/lb/premium1/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Los Angeles Angels vs New York Yankees
-http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv21/66649.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Los Angeles Angels vs New York Yankees
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Los Angeles Angels vs New York Yankees
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Los Angeles Angels vs New York Yankees
-https://webudit.onlinewebtv.lol/lb/premium31/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Los Angeles Angels vs New York Yankees
-https://webudit.onlinewebtv.lol/lb/premium111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/69.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
+http://ds1.espnv2.online/stream/ch79/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Minnesota Twins vs Boston Red Sox
-https://webudit.onlinewebtv.lol/lb/premium2/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Toronto Blue Jays vs Houston Astros
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1152.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Toronto Blue Jays vs Houston Astros
-http://sdmx.us:25461/live/Ivan3/QCxNLnabwF/210404.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Toronto Blue Jays vs Houston Astros
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Toronto Blue Jays vs Houston Astros
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB",  Toronto Blue Jays vs Houston Astros
-https://webudit.onlinewebtv.lol/lb/premium3/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/7.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/64205.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-https://webudit.onlinewebtv.lol/lb/premium4/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-https://webudit.onlinewebtv.lol/lb/premium338/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-https://webudit.onlinewebtv.lol/lb/premium114/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Memphis Grizzlies vs Los Angeles Lakers 
-https://webudit.onlinewebtv.lol/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Miami Heat 
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/75.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Miami Heat 
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66650.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Miami Heat 
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Miami Heat 
-https://webudit.onlinewebtv.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Milwaukee Bucks vs Miami Heat 
-https://webudit.onlinewebtv.lol/lb/premium115/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/7.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/64205.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-https://webudit.onlinewebtv.lol/lb/premium6/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-https://webudit.onlinewebtv.lol/lb/premium338/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-https://webudit.onlinewebtv.lol/lb/premium114/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-https://webudit.onlinewebtv.lol/lb/premium115/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA",  Minnesota Timberwolves vs Denver Nuggets
-https://webudit.onlinewebtv.lol/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Carolina Hurricanes vs New York Islanders
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/84.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Carolina Hurricanes vs New York Islanders
-https://pl.livemodo.click/pdg/eAEchoX5KIdE0Kjv7lHasA/616521/ffdd367166163f94/236818/3230312e3137312e3131302e313736/1681973871.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Carolina Hurricanes vs New York Islanders
-https://w1.livemodo.click/cEDFiXBrMFuFJlkFstZ8dA/1681974037/3230312e3137312e3131302e313736/ff111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Carolina Hurricanes vs New York Islanders
-https://w1.livemodo.click/z_hzu8MVxMfjFVrNHuBx6w/1681973963/3230312e3137312e3131302e313736/ff112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Carolina Hurricanes vs New York Islanders
-https://webudit.onlinewebtv.lol/lb/premium45/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Boston Bruins vs Florida Panthers
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/85.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Boston Bruins vs Florida Panthers
-
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Boston Bruins vs Florida Panthers
-https://webudit.onlinewebtv.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Boston Bruins vs Florida Panthers
-https://webudit.onlinewebtv.lol/lb/premium406/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Dallas Stars vs Minnesota Wild
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/84.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Dallas Stars vs Minnesota Wild
-
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Dallas Stars vs Minnesota Wild
-https://webudit.onlinewebtv.lol/lb/premium45/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Dallas Stars vs Minnesota Wild
-https://webudit.onlinewebtv.lol/lb/premium409/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Edmonton Oilers vs Los Angeles Kings
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/85.m3u8
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Edmonton Oilers vs Los Angeles Kings
-
-#EXTINF:-1 tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/NHLLockup-White-2.png" group-title="NHL", Edmonton Oilers vs Los Angeles Kings
-https://webudit.onlinewebtv.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://webudit.onlinewebtv.lol/lb/premium24/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 
