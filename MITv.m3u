@@ -4514,7 +4514,36 @@ http://sdmx.vip:8080/live/marvin/marvin/2168211.m3u8
 http://sdmx.vip:8080/live/marvin/marvin/2168212.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Cubs vs St. Louis
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93060.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Arizona vs San Francisco
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93061.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Mets vs Philadelphia
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93062.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Seattle vs Baltimore
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93063.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Texas vs Yankees
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93064.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Oakland vs Toronto
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93065.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Atlanta vs Cincinnati
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93066.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Boston vs Whitesox
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93067.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Kansas City vs Tampa Bay
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93068.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Milwaukee vs Cleveland
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93069.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Pittsburgh vs Miami
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93070.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Houston vs Dodgers
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93159.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Minnesota vs Detroit
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93965.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Washington vs San Diego
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/93966.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB.tv", Angels vs Colorado
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/110779.m3u8
 
 
 
@@ -4620,71 +4649,38 @@ https://temp.diegogeddes.click/live/c14/caxis.m3u8|Referer=https://bestsolaris.c
 https://temp.diegogeddes.click/live/c15/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", St. Louis Cardinals vs Chicago Cubs
-https://wiki.cdnhks.lol/wiki/wiki101/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://wiki.cdnhks.lol/wiki/wiki115/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Baltimore Orioles vs Seattle Mariners
-https://wiki.cdnhks.lol/wiki/wiki102/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", San Francisco Giants vs Arizona Diamondbacks
-https://wiki.cdnhks.lol/wiki/wiki103/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Philadelphia Phillies vs New York Mets
 https://wiki.cdnhks.lol/wiki/wiki104/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", San Francisco Giants vs Arizona Diamondbacks
+https://wiki.cdnhks.lol/wiki/wiki112/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Philadelphia Phillies vs New York Mets
+https://wiki.cdnhks.lol/wiki/wiki113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", New York Yankees vs Texas Rangers
 https://wiki.cdnhks.lol/wiki/wiki105/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Toronto Blue Jays vs Oakland Athletics
 https://wiki.cdnhks.lol/wiki/wiki106/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Tampa Bay Rays vs Kansas City Royals
-https://wiki.cdnhks.lol/wiki/wiki107/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://wiki.cdnhks.lol/wiki/wiki101/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Cincinnati Reds vs Atlanta Braves
-https://wiki.cdnhks.lol/wiki/wiki108/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://wiki.cdnhks.lol/wiki/wiki103/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Chicago White Sox vs Boston Red Sox
-https://wiki.cdnhks.lol/wiki/wiki109/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://wiki.cdnhks.lol/wiki/wiki108/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Miami Marlins vs Pittsburgh Pirates
-https://wiki.cdnhks.lol/wiki/wiki110/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Cleveland Guardians vs Milwaukee Brewers
-https://wiki.cdnhks.lol/wiki/wiki111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Los Angeles Dodgers vs Houston Astros
-https://wiki.cdnhks.lol/wiki/wiki112/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Detroit Tigers vs Minnesota Twins
-https://wiki.cdnhks.lol/wiki/wiki113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", San Diego Padres vs Washington Nationals
 https://wiki.cdnhks.lol/wiki/wiki114/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Cleveland Guardians vs Milwaukee Brewers
+https://wiki.cdnhks.lol/wiki/wiki107/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Los Angeles Dodgers vs Houston Astros
+https://wiki.cdnhks.lol/wiki/wiki102/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Detroit Tigers vs Minnesota Twins
+https://wiki.cdnhks.lol/wiki/wiki109/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", San Diego Padres vs Washington Nationals
+https://wiki.cdnhks.lol/wiki/wiki110/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WIK", Colorado Rockies vs Los Angeles Angels
-https://wiki.cdnhks.lol/wiki/wiki115/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
+https://wiki.cdnhks.lol/wiki/wiki111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", St. Louis Cardinals vs Chicago Cubs
 https://qm2.livemodo.click/gDZ-xYsPD4SHYQuJkvMC2Q/1687659918/3230312e3137312e31362e313431/ff1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Baltimore Orioles vs Seattle Mariners
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", San Francisco Giants vs Arizona Diamondbacks
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Philadelphia Phillies vs New York Mets
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", New York Yankees vs Texas Rangers
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Toronto Blue Jays vs Oakland Athletics
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Tampa Bay Rays vs Kansas City Royals
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cincinnati Reds vs Atlanta Braves
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Chicago White Sox vs Boston Red Sox
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Miami Marlins vs Pittsburgh Pirates
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cleveland Guardians vs Milwaukee Brewers
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Los Angeles Dodgers vs Houston Astros
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Detroit Tigers vs Minnesota Twins
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", San Diego Padres vs Washington Nationals
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Colorado Rockies vs Los Angeles Angels
-
-
-
-
-
 
 
 
