@@ -1,22 +1,7 @@
 #EXTM3U url-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:4419183/5bc9077a93298c47643787e8452871b0" group-title="CASA DE LOS FAMOSOS MX",  GALAS ESTELARES
-https://dcs3-live.mp.lura.live/server/podserve/0ZXvX1TrEXJzs6qj/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6480ed77e937ca46acc21104/77688fcef753dd960c664ba0744e9048" group-title="CASA DE LOS FAMOSOS MX",  Acceso Total Premuim
-https://dcs3-live.mp.lura.live/server/podserve/AwpWpKfpemEGinNj/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a2b1cd9eaa403367f5c4d/f41e9f9da50ae99012169e350605ce3a" group-title="CASA DE LOS FAMOSOS MX",  24/7 Premium
-https://dcs3-live.mp.lura.live/server/podserve/jqyWyXcRp8gDhPej/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a322d0a07d9d6ea8ffb37/3f6717e0e8cdf1269c6114fe7e808aa4" group-title="CASA DE LOS FAMOSOS MX",  CAMARA 1
-https://dcs3-live.mp.lura.live/server/podserve/0bnenbTDekmrc580/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a3211099212b544b66e97/fcbb9d44f7b7d528c0bdd43391e9ec29" group-title="CASA DE LOS FAMOSOS MX",  CAMARA 2
-https://dcs3-live.mp.lura.live/server/podserve/AzX9XeTnwbXQS9Z7/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a31fe09fbae1b3102443e/a209464544a603ae632cb1b9dadef7ed" group-title="CASA DE LOS FAMOSOS MX",  CAMARA 3
-https://dcs3-live.mp.lura.live/server/podserve/Aazyz4fOD2Pgsbgj/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a31ebf416250a59c585e4/cb342da5803c124f39e65191944ffa1a" group-title="CASA DE LOS FAMOSOS MX",  CAMARA 4
-https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZsKw0/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/647a2da4259f35310761f812/2c30aaabedcdae33ba5b607bc4ba64ed" group-title="CASA DE LOS FAMOSOS MX",  CAMARA 5
-https://dcs3-live.mp.lura.live/server/podserve/7RWKW6uLlrqoFg90/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tijuana
@@ -4550,39 +4535,41 @@ http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/110779.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Chicago Cubs vs St. Louis Cardinals
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Chicago Cubs vs St. Louis Cardinals
-https://webudit.cdnhks.lol/lb/premium45/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://webudit.cdnhks.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Chicago Cubs vs St. Louis Cardinals
+https://webudit.cdnhks.lol/lb/premium375/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Seattle Mariners vs Baltimore Orioles
-https://webudit.cdnhks.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Arizona Diamondbacks vs San Francisco Giants
-https://webudit.cdnhks.lol/lb/premium8/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://webudit.cdnhks.lol/lb/premium13/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", New York Mets vs Philadelphia Phillies
-https://webudit.cdnhks.lol/lb/premium39/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", New York Mets vs Philadelphia Phillies
-https://webudit.cdnhks.lol/lb/premium643/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Texas Rangers vs New York Yankees
-https://webudit.cdnhks.lol/lb/premium11/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Oakland Athletics vs Toronto Blue Jays
 https://webudit.cdnhks.lol/lb/premium14/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Kansas City Royals vs Tampa Bay Rays
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Texas Rangers vs New York Yankees
 https://webudit.cdnhks.lol/lb/premium15/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Atlanta Braves vs Cincinnati Reds
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Oakland Athletics vs Toronto Blue Jays
 https://webudit.cdnhks.lol/lb/premium16/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Boston Red Sox vs Chicago White Sox
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Kansas City Royals vs Tampa Bay Rays
 https://webudit.cdnhks.lol/lb/premium17/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Pittsburgh Pirates vs Miami Marlins
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Minnesota Twins vs Detroit Tigers
 https://webudit.cdnhks.lol/lb/premium18/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Milwaukee Brewers vs Cleveland Guardians
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Atlanta Braves vs Cincinnati Reds
 https://webudit.cdnhks.lol/lb/premium19/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Houston Astros vs Los Angeles Dodgers
-https://webudit.cdnhks.lol/lb/premium4/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Minnesota Twins vs Detroit Tigers
-https://webudit.cdnhks.lol/lb/premium6/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Minnesota Twins vs Detroit Tigers
-https://webudit.cdnhks.lol/lb/premium643/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Washington Nationals vs San Diego Padres
-https://webudit.cdnhks.lol/lb/premium7/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Pittsburgh Pirates vs Miami Marlins
+https://webudit.cdnhks.lol/lb/premium20/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Milwaukee Brewers vs Cleveland Guardians
+https://webudit.cdnhks.lol/lb/premium21/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Boston Red Sox vs Chicago White Sox
+https://webudit.cdnhks.lol/lb/premium22/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Los Angeles Angels vs Colorado Rockies
-https://webudit.cdnhks.lol/lb/premium9/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://webudit.cdnhks.lol/lb/premium23/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Arizona Diamondbacks vs San Francisco Giants
+https://webudit.cdnhks.lol/lb/premium4/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Washington Nationals vs San Diego Padres
+https://webudit.cdnhks.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Houston Astros vs Los Angeles Dodgers
+https://webudit.cdnhks.lol/lb/premium31/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Houston Astros vs Los Angeles Dodgers
+https://webudit.cdnhks.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM", Houston Astros vs Los Angeles Dodgers
+https://webudit.cdnhks.lol/lb/premium112/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", St. Louis Cardinals vs Chicago Cubs
