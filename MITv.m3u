@@ -30,7 +30,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51626.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/440998599/logosintesistv_400x400.png" group-title="NACIONALES", SintesisTv Web
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali Web
-https://ythls.onrender.com/video/omSuWX4oaOk.m3u8
+https://ythls.onrender.com/video/8YzK1_s7nlQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51627.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali
@@ -38,7 +38,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51627.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBmbwtySbzbnjziD_AZlKd9wV29Eufu4FxcaYLsw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 4 Mexicali
 
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali Web
-https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjMgNDoyNDozNSBBTSZoYXNoX3ZhbHVlPVd3MkZSdnBGTkc4SDJUTVJJZktzYlE9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
+
 #EXTINF:-1 tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg" group-title="NACIONALES", Canal 66 Mexicali
 
 #EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-name="Las Estrellas-1(HD)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="NACIONALES", Las Estrellas -1 Hrs.
@@ -85,25 +85,25 @@ https://3.ultimate2019.com/stream/hls/411|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://v3.playerlatino.live/stream/m3u8/411|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
-http://45.232.177.17:8000/play/a021
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/32
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5*
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/302619
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://187.189.125.28:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5+
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302619
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
-http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -121,11 +121,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26836.m3u8
 #EXTINF:-1 tvg-id="XETV-TDT.mx" tvg-name="XETV Tijuana" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE TJ
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS Media
-https://dcs3-live.mp.lura.live/server/podserve/j59d9ZhkQbR9IBlj/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
@@ -145,7 +145,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV Tijuana
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
-https://ythls.onrender.com/video/OGPpjx6FR0o.m3u8
+https://ythls.onrender.com/video/QgHv8tOgIL4.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png" group-title="NACIONALES", Azteca Uno Web
@@ -211,13 +211,13 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2125.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste Info7 Web
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dKu7d1Z7kyg/hqdefault.jpg" group-title="NACIONALES", Azteca 7 Noroeste Info7 Web
-https://ythls.onrender.com/video/oAolJPytBTc.m3u8
+https://ythls.onrender.com/video/MGKLikTAAmk.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV Web
-https://ythls.onrender.com/video/NWhvLNruQJA.m3u8
+https://ythls.onrender.com/video/HW02wa9ZZno.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/94
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV♥
-https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrWX1HJxj7dupkkLh0EQwQulldS57XWjCUEdwBL81JOC)/dm/3/x82z4if/d/live-2.m3u8
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvRHY8opKduaY26VCQGGsg02VcxCLyiou1oIL-8RBKSH)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9039
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -316,7 +316,7 @@ http://156.146.38.236:1022
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="NACIONALES", Canal 26 Tv Aguascalientes
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
-https://ythls.onrender.com/video/UfJ4ZMe4G70.m3u8
+https://ythls.onrender.com/video/paqM2y3Ctu4.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
@@ -340,26 +340,26 @@ https://stream-02.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVICh_Giyn1eWOzUIha
 #EXTINF:-1 tvg-logo="https://vallarta.tvmar.tv/lib/dist/img/logo-blanco.png" group-title="NACIONALES", TV Mar Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA PUEBLA
-
+https://ythls.onrender.com/video/mp959QcNgmo.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA PUEBLA
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
-
+https://ythls.onrender.com/video/MKLK5X5KfZg.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA BAJÍO
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
-
+https://ythls.onrender.com/video/SFtv7x816Do.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA CHIHUAHUA
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="NACIONALES", TELEVISA QUERÉTARO
-
+https://ythls.onrender.com/video/JBLsT2B8IkY.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="NACIONALES", CANAL 28 NUEVO LEÓN
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Mexicali-en-vivo-1024x576.png" group-title="NACIONALES", Televisa Monterrey Web
-https://ythls.onrender.com/video/OOiHf7zf1zQ.m3u8
+https://ythls.onrender.com/video/j136RZtsik8.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Televisa Monterrey Canal 8
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/613
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="NACIONALES", Televisa Monterrey Canal 8 Web
@@ -462,9 +462,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
 http://187.102.210.164:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/92
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD*
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8 
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30353.m3u8 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
@@ -486,7 +486,7 @@ http://190.122.186.88:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://190.122.186.88:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3060
+
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
 http://pe.shortgod.com/noapoyo/tv7.php?id=242013
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -500,7 +500,7 @@ http://pe.shortgod.com/noapoyo/tv10.php?id=30352
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://190.61.102.67:31589/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://156.146.38.236:1057
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://131.196.12.237:19000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
@@ -513,7 +513,7 @@ http://pe.shortgod.com/noapoyo/tv2.php?id=173.ts
 http://pe.shortgod.com/noapoyo/tv2.php?id=50&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://pe.shortgod.com/noapoyo/tv4.php?id=178&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37978.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://45.5.118.213:16000/play/a0ky/index.m3u8
@@ -1403,9 +1403,11 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/35.m3u8|user-agent=Amaz0n45
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/lqo4ZAAZ01HQdCTlovCgkA/featured_channel.jpg" group-title="NOTICIAS", Imagen Multicast
-https://ythls.onrender.com/video/yEahzqZ3Zk4.m3u8
+https://ythls.onrender.com/video/UO8kjs8qF7s.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/B0BUmdBOrH9mYU2ebs1eWA/featured_channel.jpg" group-title="NOTICIAS", Imagen Radio
+https://ythls.onrender.com/video/KwjOjyWtDWY.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv 
-https://ythls.onrender.com/video/0hjTkMNQfso.m3u8
+https://ythls.onrender.com/video/UO8kjs8qF7s.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/10790.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv
@@ -1413,9 +1415,9 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/10790.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/ExcelsiorTV.mx.png" group-title="NOTICIAS", ExcelsiorTv Web
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/w/7vy0P1XqrSV1yKCV_" group-title="NOTICIAS", Heraldo Tv
-https://ythls.onrender.com/video/jWj82wSWvVs.m3u8
+https://ythls.onrender.com/video/0THdgl2DwNs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/-bk3CDvTwt2TqPHykduhcQ/featured_channel.jpg" group-title="NOTICIAS", Uno Tv
-https://ythls.onrender.com/video/eF4JjuJVYtY.m3u8
+
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="NOTICIAS", Meganoticias MX
 
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="NOTICIAS", Meganoticias MX
@@ -1425,13 +1427,13 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio Tv Web
 https://ythls.onrender.com/video/mYSualeTexo.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio Tv
-
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/614
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio Tv
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30358.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="NOTICIAS", Milenio Tv
 
-#EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula
-https://ythls.onrender.com/video/uu0Y3BCaCgk.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula Web
+https://ythls.onrender.com/video/x76AC6vqWnk.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30379.m3u8
 
@@ -2937,16 +2939,20 @@ http://23.237.108.234/hls/ESPN_DEPORTES.m3u8|User-Agent=Roku/DVP(10.10.10)
 http://208.88.246.11:4481/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/15453.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/65639
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/34653
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://premiumultra.xyz:8080/live/2ur8924wwa/cmis7475n6/534.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://premiumultra.xyz:8080/2ur8924wwa/cmis7475n6/534
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 https://v3.playerlatino.live/stream/m3u8/530|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://pe.shortgod.com/noapoyo/tv5.php?id=9070
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/22066
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://pe.shortgod.com/noapoyo/tv9.php?id=35
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
@@ -4579,240 +4585,6 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Miami Marlins vs Philadelphia Phillies
-http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", New York Yankees vs Tampa Bay Rays
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5519
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Washington Nationals vs Milwaukee Brewers
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295668
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Pittsburgh Pirates vs Detroit Tigers
-http://line.rs6ott.com:80/bbf58b7073ee/534311b4bddf/272825
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Toronto Blue Jays vs Baltimore Orioles
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280602
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Atlanta Braves vs Los Angeles Angels
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3367
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", St. Louis Cardinals vs Minnesota Twins
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2324
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Chicago Cubs vs Cincinnati Reds
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298969
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Texas Rangers vs Chicago White Sox
-http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Houston Astros vs Cleveland Guardians
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/59945
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Kansas City Royals vs New York Mets
-http://line.rs6ott.com:80/bbf58b7073ee/534311b4bddf/90946
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Colorado Rockies vs San Diego Padres
-http://line.rs6ott.com:80/bbf58b7073ee/534311b4bddf/272826
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299105
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", San Francisco Giants vs Arizona Diamondbacks
-http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Los Angeles Dodgers vs Oakland Athletics
-http://line.rs6ott.com:80/bbf58b7073ee/534311b4bddf/91905
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Philadelphia Phillies vs Miami Marlins
-https://webudit.cdnhks.lol/lb/premium2/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Detroit Tigers vs Pittsburgh Pirates
-https://webudit.cdnhks.lol/lb/premium3/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Tampa Bay Rays vs New York Yankees
-https://webudit.cdnhks.lol/lb/premium4/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Tampa Bay Rays vs New York Yankees
-https://webudit.cdnhks.lol/lb/premium336/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Milwaukee Brewers vs Washington Nationals
-https://webudit.cdnhks.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Baltimore Orioles vs Toronto Blue Jays
-https://webudit.cdnhks.lol/lb/premium32/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Los Angeles Angels vs Atlanta Braves
-https://webudit.cdnhks.lol/lb/premium6/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Minnesota Twins vs St. Louis Cardinals
-https://webudit.cdnhks.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Cincinnati Reds vs Chicago Cubs
-https://webudit.cdnhks.lol/lb/premium33/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Chicago White Sox vs Texas Rangers
-https://webudit.cdnhks.lol/lb/premium8/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Cleveland Guardians vs Houston Astros
-https://webudit.cdnhks.lol/lb/premium9/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  New York Mets vs Kansas City Royals
-https://webudit.cdnhks.lol/lb/premium10/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  San Diego Padres vs Colorado Rockies
-https://webudit.cdnhks.lol/lb/premium11/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Boston Red Sox vs Seattle Mariners
-https://webudit.cdnhks.lol/lb/premium12/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Arizona Diamondbacks vs San Francisco Giants
-https://webudit.cdnhks.lol/lb/premium13/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB PRM",  Oakland Athletics vs Los Angeles Dodgers
-https://webudit.cdnhks.lol/lb/premium14/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Miami Marlins vs Philadelphia Phillies
-https://temp.diegogeddes.click/live/c1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   New York Yankees vs Tampa Bay Rays
-https://temp.diegogeddes.click/live/c2/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Washington Nationals vs Milwaukee Brewers
-https://temp.diegogeddes.click/live/c3/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Pittsburgh Pirates vs Detroit Tigers
-https://temp.diegogeddes.click/live/c4/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Toronto Blue Jays vs Baltimore Orioles
-https://temp.diegogeddes.click/live/c5/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Atlanta Braves vs Los Angeles Angels
-https://temp.diegogeddes.click/live/c6/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   St. Louis Cardinals vs Minnesota Twins
-https://temp.diegogeddes.click/live/c7/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Chicago Cubs vs Cincinnati Reds
-https://temp.diegogeddes.click/live/c8/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Texas Rangers vs Chicago White Sox
-https://temp.diegogeddes.click/live/c9/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Houston Astros vs Cleveland Guardians
-https://temp.diegogeddes.click/live/c10/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Kansas City Royals vs New York Mets
-https://temp.diegogeddes.click/live/c11/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Colorado Rockies vs San Diego Padres
-https://temp.diegogeddes.click/live/c12/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Seattle Mariners vs Boston Red Sox
-https://temp.diegogeddes.click/live/c13/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   San Francisco Giants vs Arizona Diamondbacks
-https://temp.diegogeddes.click/live/c14/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB BS",   Los Angeles Dodgers vs Oakland Athletics
-https://temp.diegogeddes.click/live/c15/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Miami Marlins vs Philadelphia Phillies
-https://az.baseballproduct.com/live/MLB1/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Pittsburgh Pirates vs Detroit Tigers
-https://az.baseballproduct.com/live/MLB2/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", New York Yankees vs Tampa Bay Rays
-https://az.baseballproduct.com/live/MLB3/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Washington Nationals vs Milwaukee Brewers
-https://az.baseballproduct.com/live/MLB4/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Toronto Blue Jays vs Baltimore Orioles
-https://az.baseballproduct.com/live/MLB5/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Atlanta Braves vs Los Angeles Angels
-https://az.baseballproduct.com/live/MLB6/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", St. Louis Cardinals vs Minnesota Twins
-https://az.baseballproduct.com/live/MLB7/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Chicago Cubs vs Cincinnati Reds
-https://az.baseballproduct.com/live/MLB8/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Texas Rangers vs Chicago White Sox
-https://az.baseballproduct.com/live/MLB9/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Kansas City Royals vs New York Mets
-https://az.baseballproduct.com/live/MLB10/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Houston Astros vs Cleveland Guardians
-https://az.baseballproduct.com/live/MLB11/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Colorado Rockies vs San Diego Padres
-https://az.baseballproduct.com/live/MLB12/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Seattle Mariners vs Boston Red Sox
-https://az.baseballproduct.com/live/MLB13/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", San Francisco Giants vs Arizona Diamondbacks
-https://az.baseballproduct.com/live/MLB14/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB MK", Los Angeles Dodgers vs Oakland Athletics
-https://az.baseballproduct.com/live/MLB15/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Miami Marlins vs Philadelphia Phillies
-https://crack.crogghs.shop/streams/MLB1/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Pittsburgh Pirates vs Detroit Tigers
-https://crack.crogghs.shop/streams/MLB2/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", New York Yankees vs Tampa Bay Rays
-https://crack.crogghs.shop/streams/MLB3/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Washington Nationals vs Milwaukee Brewers
-https://crack.crogghs.shop/streams/MLB4/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Toronto Blue Jays vs Baltimore Orioles
-https://crack.crogghs.shop/streams/MLB5/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Atlanta Braves vs Los Angeles Angels
-https://crack.crogghs.shop/streams/MLB6/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", St. Louis Cardinals vs Minnesota Twins
-https://crack.crogghs.shop/streams/MLB7/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Chicago Cubs vs Cincinnati Reds
-https://crack.crogghs.shop/streams/MLB8/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Texas Rangers vs Chicago White Sox
-https://crack.crogghs.shop/streams/MLB9/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Kansas City Royals vs New York Mets
-https://crack.crogghs.shop/streams/MLB10/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Houston Astros vs Cleveland Guardians
-https://crack.crogghs.shop/streams/MLB11/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Colorado Rockies vs San Diego Padres
-https://crack.crogghs.shop/streams/MLB12/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Seattle Mariners vs Boston Red Sox
-https://crack.crogghs.shop/streams/MLB13/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", San Francisco Giants vs Arizona Diamondbacks
-https://crack.crogghs.shop/streams/MLB14/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB CK", Los Angeles Dodgers vs Oakland Athletics
-https://crack.crogghs.shop/streams/MLB15/index.m3u8|Referer=https://crackstreams.biz/&Origin=https://crackstreams.biz
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Miami Marlins vs Philadelphia Phillies
-https://weak.hiweak14.store/live/MLB1/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Pittsburgh Pirates vs Detroit Tigers
-https://weak.hiweak14.store/live/MLB2/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", New York Yankees vs Tampa Bay Rays
-https://weak.hiweak14.store/live/MLB3/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Washington Nationals vs Milwaukee Brewers
-https://weak.hiweak14.store/live/MLB4/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Toronto Blue Jays vs Baltimore Orioles
-https://weak.hiweak14.store/live/MLB5/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Atlanta Braves vs Los Angeles Angels
-https://weak.hiweak14.store/live/MLB6/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", St. Louis Cardinals vs Minnesota Twins
-https://weak.hiweak14.store/live/MLB7/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Chicago Cubs vs Cincinnati Reds
-https://weak.hiweak14.store/live/MLB8/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Texas Rangers vs Chicago White Sox
-https://weak.hiweak14.store/live/MLB9/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Kansas City Royals vs New York Mets
-https://weak.hiweak14.store/live/MLB10/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Houston Astros vs Cleveland Guardians
-https://weak.hiweak14.store/live/MLB11/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Colorado Rockies vs San Diego Padres
-https://weak.hiweak14.store/live/MLB12/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Seattle Mariners vs Boston Red Sox
-https://weak.hiweak14.store/live/MLB13/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK",  San Francisco Giants vs Arizona Diamondbacks
-https://weak.hiweak14.store/live/MLB14/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Los Angeles Dodgers vs Oakland Athletics
-https://weak.hiweak14.store/live/MLB15/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Miami Marlins vs Philadelphia Phillies
-https://qm1.livemodo.click/jRsV6H2nkhy8PLMGMMto6w/1690957891/3230312e3137312e3131392e323036/ff100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Miami Marlins vs Philadelphia Phillies
-https://qm1.livemodo.click/_emp0RkQp8jCdcNpXCf8Xw/1690957085/3230312e3137312e3131392e323036/ff1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Pittsburgh Pirates vs Detroit Tigers
-https://qm1.livemodo.click/YFSov6F8OU8HJpf7YA7Bhg/1690958485/3230312e3137312e3131392e323036/ff101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Pittsburgh Pirates vs Detroit Tigers
-https://qm1.livemodo.click/WM2FhNm_0JgmhdbwIX-OBA/1690958501/3230312e3137312e3131392e323036/ff2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", New York Yankees vs Tampa Bay Rays
-https://qm2.livemodo.click/rrz07pJWpOo7bA3r_yGkXw/1690958658/3230312e3137312e3131392e323036/ff104/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Washington Nationals vs Milwaukee Brewers
-https://qm2.livemodo.click/8jIc-A2GZiiGtxRNjMaRqg/1690958712/3230312e3137312e3131392e323036/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Toronto Blue Jays vs Baltimore Orioles
-https://qm2.livemodo.click/UpVOU6-p0hdWkDFGdYQMyw/1690958774/3230312e3137312e3131392e323036/ff5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Atlanta Braves vs Los Angeles Angels
-https://qm2.livemodo.click/bHh_IgLWTHye9e3FgxObBA/1690959833/3230312e3137312e3131392e323036/ff106/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", St. Louis Cardinals vs Minnesota Twins
-https://qm2.livemodo.click/9JZh7Xgi11yh1Dk2q0gvjA/1690962382/3230312e3137312e3131392e323036/ff7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Chicago Cubs vs Cincinnati Reds
-https://qm2.livemodo.click/3_z5miCO08nQoncZ--dp0g/1690963688/3230312e3137312e3131392e323036/ff11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Texas Rangers vs Chicago White Sox
-https://qm2.livemodo.click/fzN9N7kpKrFBUWiGubPqkg/1690963606/3230312e3137312e3131392e323036/ff108/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Kansas City Royals vs New York Mets
-https://qm2.livemodo.click/saOlwrI4eVqMrJxPnA3eKQ/1690963808/3230312e3137312e3131392e323036/ff13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Houston Astros vs Cleveland Guardians
-https://qm2.livemodo.click/nIL-JRqpjdzarNjjWWaL8Q/1690963757/3230312e3137312e3131392e323036/ff12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Colorado Rockies vs San Diego Padres
-https://qm3.livemodo.click/lgod8EmC69awNbpWlWgiLA/1690964975/3230312e3137312e3131392e323036/ff14/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Seattle Mariners vs Boston Red Sox
-https://qm2.livemodo.click/v_ZgyX0FRUIER4XXY1uqhQ/1690967935/3230312e3137312e3131392e323036/ff113/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", San Francisco Giants vs Arizona Diamondbacks
-https://qm2.livemodo.click/YhCSoIBxtTOR2X8w7MEW6A/1690968010/3230312e3137312e3131392e323036/ff114/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Los Angeles Dodgers vs Oakland Athletics
-https://qm2.livemodo.click/VnwFGe08wo6qvlyR19uXwQ/1690970253/3230312e3137312e3131392e323036/ff115/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Los Angeles Dodgers vs Oakland Athletics
-https://qm3.livemodo.click/n183uo1OVVJ0rAeLzqOqZQ/1690970204/3230312e3137312e3131392e323036/ff17/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/LIGA-MEXICANA-DE-BEISBOL-LOGO-VECTOR.jpg" group-title="LMB", Saraperos de Saltillo vs Toros de Tijuana
-https://ythls.onrender.com/video/JC6E42ahAJM.m3u8
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/LIGA-MEXICANA-DE-BEISBOL-LOGO-VECTOR.jpg" group-title="LMB", Piratas de Campeche vs Diablos Rojos del Mexico
-https://ythls.onrender.com/video/rOLLjwXymik.m3u8
 
 
 
