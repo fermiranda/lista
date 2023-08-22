@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58"
 
 
-EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://ythls.onrender.com/video/M00f1DKbcoE.m3u8
