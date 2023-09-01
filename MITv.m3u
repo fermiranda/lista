@@ -60,7 +60,7 @@ https://3.ultimate2019.com/stream/hls/636|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 https://3.ultimate2019.com/stream/hls/411|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-
+http://cord-cutter.net:8080/jesus1/jesus1/82940
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -4599,6 +4599,7 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Cincinnati Reds vs Chicago Cubs
 https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/2463.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Cincinnati Reds vs Chicago Cubs
@@ -4768,17 +4769,17 @@ https://weak.hiweak14.store/live/MLB15/weak.m3u8|Referer=https://weakstream.org/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WK", Los Angeles Dodgers vs Atlanta Braves
 https://weak.hiweak14.store/live/MLB16/weak.m3u8|Referer=https://weakstream.org/&Origin=https://weakstream.org
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WiKi", Cincinnati Reds vs Chicago Cubs Game 1
-https://webuit.cdndac.lol/lb/wiki109/index.m3u8|Referer=https://superwebplay.xyz/&Origin=https://superwebplay.xyz
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB WiKi", Cincinnati Reds vs Chicago Cubs Game 2
+https://webuit.cdndac.lol/lb/wiki101/index.m3u8|Referer=https://superwebplay.xyz/&Origin=https://superwebplay.xyz
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cincinnati Reds vs Chicago Cubs Game 1
 https://sb3.livemodo.click/l_pRaHRX_qTEgv3o-SQN7w/1693615910/3230312e3137302e302e3931/ff100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cincinnati Reds vs Chicago Cubs Game 1
 https://sb2.livemodo.click/ttEaERG5sdILLYzfcAZ9vA/1693615837/3230312e3137302e302e3931/ff1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cincinnati Reds vs Chicago Cubs Game 2
-
+https://sb2.livemodo.click/cC36EhU2dclAS0PZ-JEVOw/1693636130/3230312e3137302e302e3931/ff100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cincinnati Reds vs Chicago Cubs Game 2
-
+https://sb2.livemodo.click/ttEaERG5sdILLYzfcAZ9vA/1693615837/3230312e3137302e302e3931/ff1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Washington Nationals vs Miami Marlins
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Cleveland Guardians vs Tampa Bay Rays
@@ -4806,6 +4807,58 @@ https://sb2.livemodo.click/ttEaERG5sdILLYzfcAZ9vA/1693615837/3230312e3137302e302
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Arizona Diamondbacks vs Baltimore Orioles
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Oakland Athletics vs Los Angeles Angels
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Los Angeles Dodgers vs Atlanta Braves
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla Juego 3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302637
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla Juego 3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla Juego 3
+http://kuchini.site:8080/xplatinum/rJb5DX4XbdBaHD4F/285105
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla Juego 3
+https://live.telelatinohd.com:8080/MjAxLjE3MC4wLjkx/16_.m3u8?token=sCNblqtrbUHWEYx0trs3lw&expires=1693618723|Referer=https://live.telelatinohd.com/&Origin=https://live.telelatinohd.com
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302638
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34653
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla
+https://live.telelatinohd.com:8080/MjAxLjE3MC4wLjkx/27_.m3u8?token=uqPY8SzsoNjWUoMNrTf-YQ&expires=1693373582|Referer=https://live.telelatinohd.com/&Origin=https://live.telelatinohd.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla
+https://live.telelatinohd.com:8080/MjAxLjE3MC4wLjkx/242_.m3u8?token=zk1CWK5cMQJCVsg52Csv9A&expires=1693373603|Referer=https://live.telelatinohd.com/&Origin=https://live.telelatinohd.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Leones de Yucatan – Pericos de Puebla
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304554
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+https://ythls.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313025
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+https://live.telelatinohd.com:8080/MjAxLjE3MC4wLjkx/364_.m3u8?token=jvBNQEcCf-C3eFmJSiEQbg&expires=1693620813|Referer=https://live.telelatinohd.com/&Origin=https://live.telelatinohd.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+https://live.telelatinohd.com:8080/MjAxLjE3MC4wLjkx/157_.m3u8?token=8fzuuphzFMmK2pEF7PQfJA&expires=1693620868|Referer=https://live.telelatinohd.com/&Origin=https://live.telelatinohd.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1688769276906266624/LJ3LpFvg_200x200.jpg" group-title="LMB", Tecolotes de Nuevo Laredo – Algodoneros de Union Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Los Angeles Dodgers vs Atlanta Braves
 
