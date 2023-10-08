@@ -4830,10 +4830,6 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", NFL RedZone
 https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/261.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL", Buffalo Bills vs Jacksonville Jaguars
 https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/259.m3u8
@@ -5074,7 +5070,21 @@ https://e2.ainakwalajeen.com:999/hls/do3.m3u8?md5=_ZKVq2Hx3xWVwP2Fb37IGg&expires
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL DO", Denver Broncos vs New York Jets
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL SG7",  Buffalo Bills vs Jacksonville Jaguars
+https://flash.shortgod.com/cosk/tv7.php?ch=76&f=.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL SG7", Pittsburgh Steelers vs Baltimore Ravens
+https://flash.shortgod.com/cosk/tv7.php?ch=30680&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL SG7", New England Patriots vs New Orleans Saints
+https://flash.shortgod.com/cosk/tv7.php?ch=30774&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL SG7", Minnesota Vikings vs Kansas City Chiefs
+https://flash.shortgod.com/cosk/tv7.php?ch=33882&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL SG7", Denver Broncos vs New York Jets
+https://flash.shortgod.com/cosk/tv7.php?ch=30767&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB", Baltimore Orioles vs Texas Rangers October
@@ -5111,12 +5121,6 @@ https://weak.hiweak14.store/live/weakstreamsFS1/weak.m3u8|Referer=https://weakst
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Baltimore Orioles vs Texas Rangers October
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_200x200.jpg" group-title="MLB GSE", Houston Astros vs Minnesota Twins October
-
-
-
-
-
-
 
 
 
