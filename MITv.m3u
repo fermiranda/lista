@@ -4991,11 +4991,11 @@ https://givemereddit.cloud/hls/redzone/playlist.m3u8|Referer=https://givemereddi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", RedZone
 https://givemereddit.cloud/hls/redzone/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", New England Patriots vs Buffalo Bills
-https://givemereddit.cloud/hls/s/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
+https://givemereddit.cloud/hls/patriots/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", Tampa Bay Buccaneers vs Atlanta Falcons
-https://givemereddit.cloud/hls/s/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
+https://givemereddit.cloud/hls/buccaneers/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", Chicago Bears vs Las Vegas Raiders
-https://givemereddit.cloud/hls/s/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
+https://givemereddit.cloud/hls/bears/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", Baltimore Ravens vs Detroit Lions
 https://givemereddit.cloud/hls/ravens/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", New York Giants vs Washington Commanders
@@ -5010,7 +5010,6 @@ https://givemereddit.cloud/hls/seahawks/playlist.m3u8|Referer=https://givemeredd
 https://givemereddit.cloud/hls/chiefs/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL GV", Denver Broncos vs Green Bay Packers
 https://givemereddit.cloud/hls/broncos/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL HS", RedZone
 https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL HS", New England Patriots vs Buffalo Bills
