@@ -4947,8 +4947,6 @@ https://givemereddit.cloud/hls/abr_nets/playlist.m3u8|Referer=https://givemeredd
 https://givemereddit.cloud/hls/abr_lakers/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
 
 
-
-
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL SL", Game 1
 https://hls.streambtw.com/live/stream_nhl1.m3u8
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL SL", Game 2
@@ -4983,3 +4981,15 @@ https://temp.elroystoval.store/live/f1/caxi.m3u8|Referer=https://bestsolaris.com
 #EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Anaheim Ducks vs St. Louis Blues
 https://temp.elroystoval.store/live/f1/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
 
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Minnesota Wild vs Toronto Maple Leafs
+https://zp03.dlive.click/O9zx7Ixob4O8sskvRvTDSA/1700460717/3230312e3137312e36382e3137/ff100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Philadelphia Flyers vs Columbus Blue Jackets
+https://zp02.dlive.click/gu89bxnEq77klLOmCR2mxA/1700460759/3230312e3137312e36382e3137/ff16/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Pittsburgh Penguins vs Vegas Golden Knights
+https://zp02.dlive.click/B8QuCRjh_aMIWw3Ptk1kbg/1700461718/3230312e3137312e36382e3137/ff105/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Pittsburgh Penguins vs Vegas Golden Knights
+https://zp03.dlive.click/GKB2cs3BpHkGGk7LlJPrqw/1700461737/3230312e3137312e36382e3137/ff106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Chicago Blackhawks vs Buffalo Sabres
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL GSE", Anaheim Ducks vs St. Louis Blues
