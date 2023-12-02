@@ -4667,9 +4667,10 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
+
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 1
 https://hls.streambtw.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 2
 https://hls.streambtw.com/live/stream_nba2.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 3
 https://hls.streambtw.com/live/stream_nba3.m3u8
@@ -4679,158 +4680,365 @@ https://hls.streambtw.com/live/stream_nba4.m3u8
 https://hls.streambtw.com/live/stream_nba5.m3u8
 #EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 6
 https://hls.streambtw.com/live/stream_nba6.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 7
+https://hls.streambtw.com/live/stream_nba7.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 8
+https://hls.streambtw.com/live/stream_nba8.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 9
+https://hls.streambtw.com/live/stream_nba9.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 11
+https://hls.streambtw.com/live/stream_nba10.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 11
+https://hls.streambtw.com/live/stream_nba11.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", GAME 12
+https://hls.streambtw.com/live/stream_nba12.m3u8
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Orlando Magic vs Washington Wizards
-https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Boston Celtics vs Philadelphia 76ers
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Dallas Mavericks vs Memphis Grizzlies
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 1
+https://sportsleading.online/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 2
+https://sportsleading.online/live/stream_nba2.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 3
+https://sportsleading.online/live/stream_nba3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 4
+https://sportsleading.online/live/stream_nba4.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 5
+https://sportsleading.online/live/stream_nba5.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 6
+https://sportsleading.online/live/stream_nba6.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 7
+https://sportsleading.online/live/stream_nba7.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 8
+https://sportsleading.online/live/stream_nba8.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 9
+https://sportsleading.online/live/stream_nba9.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 10
+https://sportsleading.online/live/stream_nba10.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 11
+https://sportsleading.online/live/stream_nba11.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SP", GAME 12
+https://sportsleading.online/live/stream_nba12.m3u8
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Toronto Raptors vs New York Knicks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Los Angeles Clippers vs Golden State Warriors
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", New Orleans Pelicans vs San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Charlotte Hornets vs Minnesota Timberwolves
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Brooklyn Nets vs Orlando Magic
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Detroit Pistons vs Cleveland Cavaliers
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Milwaukee Bucks vs Atlanta Hawks
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Miami Heat vs Indiana Pacers
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Chicago Bulls vs New Orleans Pelicans
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Dallas Mavericks vs Oklahoma City Thunder
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Phoenix Suns vs Memphis Grizzlies
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Utah Jazz vs Portland Trail Blazers
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Sacramento Kings vs Denver Nuggets
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA HLS", Los Angeles Lakers vs Houston Rockets
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Orlando Magic vs Washington Wizards
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Los Angeles Clippers vs Golden State Warriors
 https://mcdn.mrgamingstreams.com/mrgamingnba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Orlando Magic vs Washington Wizards
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Charlotte Hornets vs Minnesota Timberwolves
 https://mcdn.mrgamingstreams.com/sportsnet.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Boston Celtics vs Philadelphia 76ers
-https://247c.mrgamingstreams.com/mrgamingespn.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Dallas Mavericks vs Memphis Grizzlies
-https://mcdn.mrgamingstreams.com/mrgamingnba3.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Toronto Raptors vs New York Knicks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Brooklyn Nets vs Orlando Magic
 https://mcdn.mrgamingstreams.com/mrgamingnba4.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", New Orleans Pelicans vs San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Detroit Pistons vs Cleveland Cavaliers
+https://mcdn.mrgamingstreams.com/mrgamingnba3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Milwaukee Bucks vs Atlanta Hawks
+https://mcdn.mrgamingstreams.com/mrgamingnba1.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Miami Heat vs Indiana Pacers
+https://247c.mrgamingstreams.com/mrgamingespn.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Chicago Bulls vs New Orleans Pelicans
 https://mcdn.mrgamingstreams.com/mrgamingnba5.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Dallas Mavericks vs Oklahoma City Thunder
+https://mcdn.mrgamingstreams.com/mrgamingnba7.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Phoenix Suns vs Memphis Grizzlies
 https://mcdn.mrgamingstreams.com/mrgamingnba6.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Utah Jazz vs Portland Trail Blazers
+https://mcdn.mrgamingstreams.com/mrgamingnba8.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Sacramento Kings vs Denver Nuggets
+https://mcdn.mrgamingstreams.com/mrgamingnba3.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MRG", Los Angeles Lakers vs Houston Rockets
+https://mcdn.mrgamingstreams.com/mrgamingnba4.m3u8
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Orlando Magic vs Washington Wizards
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Los Angeles Clippers vs Golden State Warriors
 https://usa.raino.site/hls/stream17.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Boston Celtics vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Charlotte Hornets vs Minnesota Timberwolves
 https://usa.raino.site/hls/stream18.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Dallas Mavericks vs Memphis Grizzlies
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Brooklyn Nets vs Orlando Magic
 https://usa.raino.site/hls/stream19.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Toronto Raptors vs New York Knicks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Detroit Pistons vs Cleveland Cavaliers
 https://usa.raino.site/hls/stream20.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", New Orleans Pelicans vs San Antonio Spurs
-https://usa.raino.site/hls/stream21.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Milwaukee Bucks vs Atlanta Hawks
+https://usa.raino.site/hls/stream23.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Miami Heat vs Indiana Pacers
 https://usa.raino.site/hls/stream22.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Chicago Bulls vs New Orleans Pelicans
+https://usa.raino.site/hls/stream21.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Dallas Mavericks vs Oklahoma City Thunder
+https://usa.raino.site/hls/stream17.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Phoenix Suns vs Memphis Grizzlies
+https://usa.raino.site/hls/stream24.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Utah Jazz vs Portland Trail Blazers
+https://usa.raino.site/hls/stream25.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Sacramento Kings vs Denver Nuggets
+https://usa.raino.site/hls/stream26.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA RN", Los Angeles Lakers vs Houston Rockets
+https://usa.raino.site/hls/stream27.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Orlando Magic vs Washington Wizards
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Los Angeles Clippers vs Golden State Warriors
 https://temp.margheritahowe.store/live/n1/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Boston Celtics vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Charlotte Hornets vs Minnesota Timberwolves
 https://temp.margheritahowe.store/live/n2/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Dallas Mavericks vs Memphis Grizzlies
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Brooklyn Nets vs Orlando Magic
 https://temp.margheritahowe.store/live/n3/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Toronto Raptors vs New York Knicks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Detroit Pistons vs Cleveland Cavaliers
 https://temp.margheritahowe.store/live/n4/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", New Orleans Pelicans vs San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Milwaukee Bucks vs Atlanta Hawks
 https://temp.margheritahowe.store/live/n5/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Miami Heat vs Indiana Pacers
 https://temp.margheritahowe.store/live/n6/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Chicago Bulls vs New Orleans Pelicans
+https://temp.margheritahowe.store/live/n7/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Dallas Mavericks vs Oklahoma City Thunder
+https://temp.margheritahowe.store/live/n8/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Phoenix Suns vs Memphis Grizzlies
+https://temp.margheritahowe.store/live/n9/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Utah Jazz vs Portland Trail Blazers
+https://temp.margheritahowe.store/live/n10/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Sacramento Kings vs Denver Nuggets
+https://temp.margheritahowe.store/live/n11/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA BS", Los Angeles Lakers vs Houston Rockets
+https://temp.margheritahowe.store/live/n12/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Orlando Magic vs Washington Wizards
-https://cpaoszf.azureedge.net/streams/Magic/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Boston Celtics vs Philadelphia 76ers
-https://cpaoszf.azureedge.net/streams/Celtics/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Dallas Mavericks vs Memphis Grizzlies
-https://cpaoszf.azureedge.net/streams/Mavericks/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Toronto Raptors vs New York Knicks
-https://cpaoszf.azureedge.net/streams/raptors/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", New Orleans Pelicans vs San Antonio Spurs
-https://cpaoszf.azureedge.net/streams/Pelicans/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Phoenix Suns vs Denver Nuggets
-https://cpaoszf.azureedge.net/streams/Suns/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Orlando Magic vs Washington Wizards
-https://az.baseballproduct.com/live/NBA1/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Boston Celtics vs Philadelphia 76ers
-https://az.baseballproduct.com/live/NBA2/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Dallas Mavericks vs Memphis Grizzlies
-https://az.baseballproduct.com/live/NBA4/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Toronto Raptors vs New York Knicks
-https://az.baseballproduct.com/live/NBA3/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", New Orleans Pelicans vs San Antonio Spurs
-https://az.baseballproduct.com/live/NBA5/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Phoenix Suns vs Denver Nuggets
-https://az.baseballproduct.com/live/NBA6/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Los Angeles Clippers vs Golden State Warriors
+https://crack.crogghs.shop/streams/Clippers/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Charlotte Hornets vs Minnesota Timberwolves
+https://crack.crogghs.shop/streams/Hornets/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Brooklyn Nets vs Orlando Magic
+https://crack.crogghs.shop/streams/Nets/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Detroit Pistons vs Cleveland Cavaliers
+https://crack.crogghs.shop/streams/Pistons/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Milwaukee Bucks vs Atlanta Hawks
+https://crack.crogghs.shop/streams/Bucks/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Miami Heat vs Indiana Pacers
+https://crack.crogghs.shop/streams/Heats/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Chicago Bulls vs New Orleans Pelicans
+https://crack.crogghs.shop/streams/Bulls/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Dallas Mavericks vs Oklahoma City Thunder
+https://crack.crogghs.shop/streams/Mavericks/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Phoenix Suns vs Memphis Grizzlies
+https://crack.crogghs.shop/streams/Suns/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Utah Jazz vs Portland Trail Blazers
+https://crack.crogghs.shop/streams/Jazz/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Sacramento Kings vs Denver Nuggets
+https://crack.crogghs.shop/streams/Kings/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA CK", Los Angeles Lakers vs Houston Rockets
+https://crack.crogghs.shop/streams/Lakers/index.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Orlando Magic vs Washington Wizards
-https://webudit.hlsjs.ru/lb/premium1/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Boston Celtics vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Los Angeles Clippers vs Golden State Warriors
+https://az.baseballproduct.com/live/NBA1/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Charlotte Hornets vs Minnesota Timberwolves
+https://az.baseballproduct.com/live/NBA2/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Brooklyn Nets vs Orlando Magic
+https://az.baseballproduct.com/live/NBA3/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Detroit Pistons vs Cleveland Cavaliers
+https://az.baseballproduct.com/live/NBA4/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Milwaukee Bucks vs Atlanta Hawks
+https://az.baseballproduct.com/live/NBA7/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Miami Heat vs Indiana Pacers
+https://az.baseballproduct.com/live/NBA5/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Chicago Bulls vs New Orleans Pelicans
+https://az.baseballproduct.com/live/NBA6/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Dallas Mavericks vs Oklahoma City Thunder
+https://az.baseballproduct.com/live/NBA8/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Phoenix Suns vs Memphis Grizzlies
+https://az.baseballproduct.com/live/NBA9/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Utah Jazz vs Portland Trail Blazers
+https://az.baseballproduct.com/live/NBA10/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Sacramento Kings vs Denver Nuggets
+https://az.baseballproduct.com/live/NBA11/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA MK", Los Angeles Lakers vs Houston Rockets
+https://az.baseballproduct.com/live/NBA12/mainnet.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
+
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Los Angeles Clippers vs Golden State Warriors
 https://webudit.hlsjs.ru/lb/premium2/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Boston Celtics vs Philadelphia 76ers
-https://webudit.hlsjs.ru/lb/premium44/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Boston Celtics vs Philadelphia 76ers 
-https://webudit.hlsjs.ru/lb/premium411/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Toronto Raptors vs New York Knicks
-https://webudit.hlsjs.ru/lb/premium3/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Toronto Raptors vs New York Knicks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Los Angeles Clippers vs Golden State Warriors
 https://webudit.hlsjs.ru/lb/premium114/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Toronto Raptors vs New York Knicks
-https://webudit.hlsjs.ru/lb/premium113/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Memphis Grizzlies
-https://webudit.hlsjs.ru/lb/premium44/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Memphis Grizzlies
-https://webudit.hlsjs.ru/lb/premium379/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Memphis Grizzlies
-https://webudit.hlsjs.ru/lb/premium375/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Memphis Grizzlies
-https://webudit.hlsjs.ru/lb/premium150/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", New Orleans Pelicans vs San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Charlotte Hornets vs Minnesota Timberwolves
+https://webudit.hlsjs.ru/lb/premium6/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Brooklyn Nets vs Orlando Magic
+https://webudit.hlsjs.ru/lb/premium1/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Detroit Pistons vs Cleveland Cavaliers
 https://webudit.hlsjs.ru/lb/premium4/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Denver Nuggets
-https://webudit.hlsjs.ru/lb/premium44/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Miami Heat vs Indiana Pacers
+https://webudit.hlsjs.ru/lb/premium3/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Chicago Bulls vs New Orleans Pelicans
+https://webudit.hlsjs.ru/lb/premium5/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Milwaukee Bucks vs Atlanta Hawks 
+https://webudit.hlsjs.ru/lb/premium8/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Oklahoma City Thunder
+https://webudit.hlsjs.ru/lb/premium18/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Dallas Mavericks vs Oklahoma City Thunder
 https://webudit.hlsjs.ru/lb/premium114/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Denver Nuggets
-https://webudit.hlsjs.ru/lb/premium113/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Denver Nuggets
-https://webudit.hlsjs.ru/lb/premium375/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Denver Nuggets
-https://webudit.hlsjs.ru/lb/premium150/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Phoenix Suns vs Memphis Grizzlies
+https://webudit.hlsjs.ru/lb/premium19/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Utah Jazz vs Portland Trail Blazers
+https://webudit.hlsjs.ru/lb/premium23/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Utah Jazz vs Portland Trail Blazers
+https://webudit.hlsjs.ru/lb/premium287/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Sacramento Kings vs Denver Nuggets
+https://webudit.hlsjs.ru/lb/premium24/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA PRM", Los Angeles Lakers vs Houston Rockets
+https://webudit.hlsjs.ru/lb/premium25/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", New Jersey Devils vs San Jose Sharks
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Dallas Stars vs Tampa Bay Lightning
+https://247b.mrgamingstreams.com/mrgamingnhlnet.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Winnipeg Jets vs Chicago Blackhawks
 https://mcdn.mrgamingstreams.com/mrgamingnhl.m3u8
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Columbus Blue Jackets vs Ottawa Senators
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Nashville Predators vs New York Rangers
+https://mcdn.mrgamingstreams.com/mrgamingnhl2.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Florida Panthers vs New York Islanders
+https://mcdn.mrgamingstreams.com/mrgamingnhl.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Toronto Maple Leafs vs Boston Bruins
+https://247b.mrgamingstreams.com/mrgamingnhlnet.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Pittsburgh Penguins vs Philadelphia Flyers
+https://mcdn.mrgamingstreams.com/mrgamingnhl5.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Montréal Canadiens vs Detroit Red Wings
+https://mcdn.mrgamingstreams.com/mrgamingnhl4.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Carolina Hurricanes vs Buffalo Sabres
+https://mcdn.mrgamingstreams.com/mrgamingnhl3.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Ottawa Senators vs Seattle Kraken
+https://mcdn.mrgamingstreams.com/mrgamingnhl6.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Arizona Coyotes vs St. Louis Blues
+https://mcdn.mrgamingstreams.com/mrgamingnhl7.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Vegas Golden Knights vs Washington Capitals
+https://mcdn.mrgamingstreams.com/mrgamingnhl.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Anaheim Ducks vs Colorado Avalanche
+https://mcdn.mrgamingstreams.com/mrgamingnhl8.m3u8
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL", Calgary Flames vs Vancouver Canucks
 https://mcdn.mrgamingstreams.com/mrgamingnhl2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", New Jersey Devils vs San Jose Sharks
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Dallas Stars vs Tampa Bay Lightning
 https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Columbus Blue Jackets vs Ottawa Senators
-https://temp.elroystoval.store/live/f2/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Winnipeg Jets vs Chicago Blackhawks
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Nashville Predators vs New York Rangers
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Florida Panthers vs New York Islanders
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Toronto Maple Leafs vs Boston Bruins
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Pittsburgh Penguins vs Philadelphia Flyers
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Montréal Canadiens vs Detroit Red Wings
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Carolina Hurricanes vs Buffalo Sabres
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Ottawa Senators vs Seattle Kraken
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Arizona Coyotes vs St. Louis Blues
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Vegas Golden Knights vs Washington Capitals
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Anaheim Ducks vs Colorado Avalanche
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL BS", Calgary Flames vs Vancouver Canucks
+https://temp.elroystoval.store/live/f1/caxis.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL CK", New Jersey Devils vs San Jose Sharks
-https://cpaoszf.azureedge.net/streams/NHL1/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL CK", Columbus Blue Jackets vs Ottawa Senators
-https://cpaoszf.azureedge.net/streams/NHL2/playlist.m3u8|Referer=https://crackstreams.biz//&Origin=https://crackstreams.biz
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Columbus Blue Jackets vs Ottawa Senators
-https://webudit.hlsjs.ru/lb/premium451/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Columbus Blue Jackets vs Ottawa Senators
-https://webudit.hlsjs.ru/lb/premium115/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", New Jersey Devils vs San Jose Sharks
-https://webudit.hlsjs.ru/lb/premium550/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", New Jersey Devils vs San Jose Sharks
-https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", New Jersey Devils vs San Jose Sharks
+Dallas Stars vs Tampa Bay Lightning
+
+Winnipeg Jets vs Chicago Blackhawks
+
+Nashville Predators vs New York Rangers
+
+Florida Panthers vs New York Islanders
+
+Toronto Maple Leafs vs Boston Bruins
+
+Pittsburgh Penguins vs Philadelphia Flyers
+
+Montréal Canadiens vs Detroit Red Wings
+
+Carolina Hurricanes vs Buffalo Sabres
+
+Ottawa Senators vs Seattle Kraken
+
+Arizona Coyotes vs St. Louis Blues
+
+Vegas Golden Knights vs Washington Capitals
+
+Anaheim Ducks vs Colorado Avalanche
+
+Calgary Flames vs Vancouver Canucks
+
+
+
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Dallas Stars vs Tampa Bay Lightning
+https://webudit.hlsjs.ru/lb/premium7/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Dallas Stars vs Tampa Bay Lightning
+https://webudit.hlsjs.ru/lb/premium597/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Dallas Stars vs Tampa Bay Lightning
 https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", New Jersey Devils vs San Jose Sharks 
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Dallas Stars vs Tampa Bay Lightning
 https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Winnipeg Jets vs Chicago Blackhawks
+https://webudit.hlsjs.ru/lb/premium9/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Winnipeg Jets vs Chicago Blackhawks
+https://webudit.hlsjs.ru/lb/premium113/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Nashville Predators vs New York Rangers
+https://webudit.hlsjs.ru/lb/premium10/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Florida Panthers vs New York Islanders 
+https://webudit.hlsjs.ru/lb/premium451/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Carolina Hurricanes vs Buffalo Sabres
+https://webudit.hlsjs.ru/lb/premium11/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Montreal Canadiens vs Detroit Red Wings
+https://webudit.hlsjs.ru/lb/premium12/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Ottawa Senators vs Seattle Kraken 
+https://webudit.hlsjs.ru/lb/premium13/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Pittsburgh Penguins vs Philadelphia Flyers
+https://webudit.hlsjs.ru/lb/premium14/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Boston Bruins
+https://webudit.hlsjs.ru/lb/premium15/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Boston Bruins
+https://webudit.hlsjs.ru/lb/premium762/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Boston Bruins
+https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Boston Bruins
+https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Boston Bruins
+https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Arizona Coyotes vs St. Louis Blues
+https://webudit.hlsjs.ru/lb/premium16/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Anaheim Ducks vs Colorado Avalanche
+https://webudit.hlsjs.ru/lb/premium17/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs Vancouver Canucks
+https://webudit.hlsjs.ru/lb/premium550/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs Vancouver Canucks
+https://webudit.hlsjs.ru/lb/premium411/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs Vancouver Canucks
+https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs Vancouver Canucks
+https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs Vancouver Canucks 
+https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
+#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vegas Golden Knights vs Washington Capitals
+https://webudit.hlsjs.ru/lb/premium20/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
