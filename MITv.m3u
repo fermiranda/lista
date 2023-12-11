@@ -242,7 +242,7 @@ http://tv.nousiptv.com:8080/live/Veronicafleitas/2528/4149.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30354.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV♥
-https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLih11fQsZdUpCdprPtkeMl5LagBC98dGgIdTiFJedA68)/dm/3/x82z4if/d/live-2.m3u8
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLq_gNQWGCG6w-uDtdXYcNaNbkIExIOcsr52IX5-fKf-Q)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
@@ -352,7 +352,7 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Televisa Guadalajara Canal 4
 https://livestream.zazerconer.workers.dev/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 tvg-logo="https://quierotv.mx/wp-content/uploads/2021/07/Logo-WEB-e1626917051634.png" group-title="NACIONALES", QUIEROTV GDL
-https://stream-01.sv4.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNfyBbP9VoVCJISAApLRNugvSVHPghdKW4nTgo8Pv7zqx)/dm/3/x8lng9k/s/live-3.m3u8
+https://stream-03.sv4.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNTOqNuqO401BtrSwF6Cq7nffu35g9Yp5-uu-Wd-KqCTI)/dm/3/x8lng9k/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="NACIONALES", Canal 44 Gdl
@@ -2331,18 +2331,22 @@ https://3.ultimate2019.com/stream/m3u8/844|user-agent=Dalvik/2.1.0
 http://pe.shortgod.com/zaapw21e/tv6.php?id=107
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/179.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
-https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/27980.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
-http://pe.shortgod.com/zaapw21e/tv1.php?id=638.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://pe.shortgod.com/zaapw21e/tv1.php?id=20.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
-http://pe.shortgod.com/zaapw21e/tv1.php?id=739.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 http://23.148.145.82:25461/live/televall/R1WyjpMhlp/179.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
+http://xloxttv.info:8080/live/9HDVmA36bMTW/CguuCwsF3yRt/105.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
+http://pe.shortgod.com/zaapw21e/tv1.php?id=739.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
+http://pe.shortgod.com/zaapw21e/tv11.php?id=49
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax
@@ -2404,7 +2408,7 @@ http://pe.shortgod.com/zaapw21e/tv1.php?id=751.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
 http://23.148.145.82:25461/live/televall/R1WyjpMhlp/265.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
-http://pe.shortgod.com/zaapw21e/tv2.php?id=190
+http://pe.shortgod.com/zaapw21e/tv1.php?id=57.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
 http://pe.shortgod.com/zaapw21e/tv6.php?id=202
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="ENTRETENIMIENTO", GOLDEN
@@ -4701,89 +4705,7 @@ https://bal.varcdn.top/lb/setantaplusukraina/index.m3u8
 https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://sportsleading.online/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://sports.freesportstime.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://hls.streambtw.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://headlinessportsfoot.com/chunklist/hlsch21.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://mcdn.mrgamingstreams.com/mrgamingnba1.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://temp.margheritahowe.store/live/n1/caxi.m3u8|Referer=https://bestsolaris.com/&Origin=https://bestsolaris.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://usa.raino.site/hls/stream19.m3u8|Referer=https://embed4u.xyz/&Origin=https://embed4u.xyz
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://az.baseballproduct.com/live/NBA2/subchunks.m3u8|Referer=https://markkystreams.com/&Origin=https://markkystreams.com
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://givemereddit.cloud/hls/abr_redzone/playlist.m3u8|Referer=https://givemereddit.eu/&Origin=https://givemereddit.eu
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://cdn-us-east-2.azulito.online/stylesheet/n1/assets.m3u8|Referer=https://fabtech.work/&Origin=https://fabtech.work
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://plpl111.fdhgfdha.space/playlist/16994/afsvvvvv.101streams.online/caxi.m3u8|Referer=https://1stream.eu/&Origin=https://1stream.eu
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://webudit.hlsjs.ru/lb/premium51/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://webudit.hlsjs.ru/lb/premium33/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://webudit.hlsjs.ru/lb/premium411/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://webudit.hlsjs.ru/lb/premium45/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Los Angeles Lakers
-https://webudit.hlsjs.ru/lb/premium375/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Boston Bruins vs Arizona Coyotes
-https://webudit.hlsjs.ru/lb/premium597/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Boston Bruins vs Arizona Coyotes
-https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Boston Bruins vs Arizona Coyotes
-https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs New Jersey Devils
-https://webudit.hlsjs.ru/lb/premium2/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs New Jersey Devils
-https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs New Jersey Devils
-https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Calgary Flames vs New Jersey Devils
-https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Dallas Stars vs Vegas Golden Knights
-https://webudit.hlsjs.ru/lb/premium3/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Buffalo Sabres vs Montreal Canadiens
-https://webudit.hlsjs.ru/lb/premium4/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Buffalo Sabres vs Montreal Canadiens
-https://webudit.hlsjs.ru/lb/premium409/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Detroit Red Wings vs Ottawa Senators
-https://webudit.hlsjs.ru/lb/premium5/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Nashville Predators
-https://webudit.hlsjs.ru/lb/premium6/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Nashville Predators
-https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Nashville Predators
-https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Toronto Maple Leafs vs Nashville Predators
-https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Washington Capitals vs New York Rangers
-https://webudit.hlsjs.ru/lb/premium451/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", New York Islanders vs Los Angeles Kings
-https://webudit.hlsjs.ru/lb/premium10/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Chicago Blackhawks vs St. Louis Blues
-https://webudit.hlsjs.ru/lb/premium11/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Colorado Avalanche vs Philadelphia Flyers
-https://webudit.hlsjs.ru/lb/premium12/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Seattle Kraken vs Tampa Bay Lightning
-https://webudit.hlsjs.ru/lb/premium13/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vancouver Canucks vs Carolina Hurricanes
-https://webudit.hlsjs.ru/lb/premium550/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vancouver Canucks vs Carolina Hurricanes
-https://webudit.hlsjs.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vancouver Canucks vs Carolina Hurricanes
-https://webudit.hlsjs.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vancouver Canucks vs Carolina Hurricanes
-https://webudit.hlsjs.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
-#EXTINF:-1 tvg-logo="https://vpncritic.com/wp-content/uploads/2017/02/nhl-gamecenter-vpn.jpg" group-title="NHL PRM", Vancouver Canucks vs Carolina Hurricanes 
-https://webudit.hlsjs.ru/lb/premium409/index.m3u8|Referer=https://weblivehdplay.ru/&Origin=https://weblivehdplay.ru
