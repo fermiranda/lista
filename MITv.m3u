@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/livestreams/2024/01/17/microsoftteams-image_36_0.png" group-title="LA CASA DE LOS FAMOSOS", CAMARA 1
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8|Referer=https://www.telemundo.com/&Origin=https://www.telemundo.com
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/livestreams/2024/01/17/microsoftteams-image_36_0.png" group-title="LA CASA DE LOS FAMOSOS", CAMARA 2
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8|Referer=https://www.telemundo.com/&Origin=https://www.telemundo.com
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://livestream.zazerconer.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tijuana
