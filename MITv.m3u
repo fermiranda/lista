@@ -1,5 +1,23 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
+
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico",  Multicamaras
+http://home-playtv.com:8080/miralatin2243/JJKTU/550600
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Toda la Casa 24/7
+http://home-playtv.com:8080/miralatin2243/JJKTU/550609
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", acceso total 24/7
+http://home-playtv.com:8080/miralatin2243/JJKTU/550607
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Habitacion Tierra
+http://home-playtv.com:8080/miralatin2243/JJKTU/550602
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Habitacion Mar
+http://home-playtv.com:8080/miralatin2243/JJKTU/550603
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Sala
+http://home-playtv.com:8080/miralatin2243/JJKTU/550605
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Cocina
+http://home-playtv.com:8080/miralatin2243/JJKTU/550606
+#EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Baño
+http://home-playtv.com:8080/miralatin2243/JJKTU/550601
+
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://livestream.zazerconer.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
