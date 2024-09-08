@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
+
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico",  Multicamaras
 http://home-playtv.com:8080/miralatin2243/JJKTU/550600
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Toda la Casa 24/7
@@ -17,6 +18,12 @@ http://home-playtv.com:8080/miralatin2243/JJKTU/550605
 http://home-playtv.com:8080/miralatin2243/JJKTU/550606
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="Casa de los Famosos Mexico", Baño
 http://home-playtv.com:8080/miralatin2243/JJKTU/550601
+
+
+#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/04/Daniel-Reza-2024-04-14T084722.062.png" group-title="La Academia", 24-7
+http://home-playtv.com:8080/miralatin2243/JJKTU/557935
+#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/04/Daniel-Reza-2024-04-14T084722.062.png" group-title="La Academia", 24-7
+https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8?uid=sFYZfvuwhW0NxWEqaskBj0vYPpu89RGn&sid=MzGd3CJE7ZXArZ2yt3LQb0ti1WgYFnnO&pid=Num78bvTmBSkadEkECU1vOgOP9g2ovqG&an=screen&at=web-app&av=v6.0.46&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=542x306&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://livestream.zazerconer.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
@@ -71,7 +78,7 @@ http://45.228.234.167:8000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/05sky-logo-lasEstrellas2-150x150-477378814.jpg" group-title="NACIONALES", Las Estrellas -2 Hrs.
 
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx"tvg-name="Las Estrellas-2(HD)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/05sky-logo-lasEstrellas2-150x150-477378814.jpg" group-title="NACIONALES", Las Estrellas -2 Hrs.*
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKJCXmv4xyER8Ni9TfgeSJT/ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas HD
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1902
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas HD
@@ -90,8 +97,8 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384800.ts
 http://45.228.234.173:4000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas*
 http://45.228.234.173:4000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
-
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMK3YaCI31jCfAxD7WHRIYeL/ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas+
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)"  tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas
@@ -114,8 +121,15 @@ https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png" group-title="NACIONALES", Las Estrellas Int
 
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5 HD
+http://home-playtv.com:8080/miralatin2243/JJKTU/186607
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1821
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIv7JIsWN0VKvIzEsjUQAYV/ts
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMLnuhaIDCkzr8FunJSm778e/ts
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5
@@ -134,6 +148,10 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26973.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="NACIONALES", CANAL 5'
 
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE HD
+http://home-playtv.com:8080/miralatin2243/JJKTU/67449
+#EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKl-ja8vvhF0ilxdpQYYDnW/ts
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
 http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384961.ts
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE
@@ -159,23 +177,23 @@ http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/10837
 #EXTINF:-1 tvg-id="XETV-TDT.mx" tvg-name="XETV Tijuana" tvg-logo="https://www.izzi.mx/bcanales/img/canal109.png" group-title="NACIONALES", EL NU9VE TJ
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS Media
-https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCf2r07k7hxjG51Cxm5brE6Q.m3u8
+#EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
+https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=exp=1725207361~acl=/*~hmac=20c4b531c7f80411b2deeb7c8bed0f27524fbcff1db57526961c04b800215ba3
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/1f/cb/fee395b5479187fa6df34519c50b/nmas-live-player.jpeg" group-title="NACIONALES", NMAS LIVE
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
+
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1725207137~acl=/*~hmac=18806e10a99b05cf76389a2471caecf6fc84d37eec35afee77c672abd298d566
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+http://live.budtvlight.com:25461/diana10/b53ad085/167433
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8
+http://live.budtvlight.com:25461/diana10/b53ad085/167434
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/19.2.png" group-title="NACIONALES", Foro TV
@@ -193,11 +211,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/568
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/122
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIVCbu3uKZ0MZw9T_6bvjmH/ts
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMJmlBo0Tdqgo4cHJP1rl7hI/ts
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
@@ -232,6 +250,8 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/222
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno -2 Hrs.
 
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 HD
+http://home-playtv.com:8080/miralatin2243/JJKTU/241992
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 Web
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 HD
@@ -243,8 +263,9 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 
 http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIBB6KlXFk6-tyMuTE9Xg1u/ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7 HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKZnq6VVpuDYhIZyHa9kcJc/ts
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7"  tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="NACIONALES", Azteca 7
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/111.m3u8|user-agent=Mozilla/5.0
@@ -287,13 +308,13 @@ https://ythls-v3.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV♥
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV♥
-
+http://live.budtvlight.com:25461/diana10/b53ad085/158628
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2092583
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMLWbBcg3ckRuY92jEK0zNBi/ts
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD
-
+http://home-playtv.com:8080/miralatin2243/JJKTU/241993
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="NACIONALES", ImagenTV HD+
@@ -563,25 +584,29 @@ https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.
 #EXTINF:-1, tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="MUNDO Y CULTURA", DW ESP
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://170.254.18.106/HISTORY/index.m3u8
+http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/276369
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2092566
+http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/276385
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://181.78.105.146:2000/play/a017/index.m3u8
+http://live.budtvlight.com:25461/diana10/b53ad085/158861
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://161.132.243.192:50001/play/a003/index.m3u8
+http://live.budtvlight.com:25461/diana10/b53ad085/278628
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=241
+http://live.budtvlight.com:25461/diana10/b53ad085/278631
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/44
+http://186.148.195.206:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
+
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://177.93.45.155:6143/play/a034/index.m3u8 
+
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=44
+
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
+
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
+
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/156.m3u8|user-agent=Mozilla/5.0
+http://live.budtvlight.com:25461/diana10/b53ad085/278631
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY+
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORY HD
@@ -605,43 +630,45 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/156.m3u8|user-agent=Mozilla/
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png" group-title="MUNDO Y CULTURA", HISTORYª
 http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-http://170.254.18.106/HISTORY2/index.m3u8
+http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/276374
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-http://181.78.105.146:2000/play/a00v/index.m3u8
+http://live.budtvlight.com:25461/diana10/b53ad085/278630
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-
+http://live.budtvlight.com:25461/diana10/b53ad085/278629
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIML3bq8RrsFKuEVIzUcpEb/ts
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
+http://186.148.195.206:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
 http://45.166.92.22:58001/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://138.59.177.34:8000/play/a042/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 http://168.181.122.234:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://177.93.45.155:6143/play/a036/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
-http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/178.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2 HD
-http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/240.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://190.61.102.67:31589/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://179.1.64.211:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
-http://nxt.plus:8080/frankssmz/443218/9783
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://131.196.12.237:19000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://190.109.22.233:9991/play/a07u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
-http://177.93.45.155:6143/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2-
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2*
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/157.m3u8|user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png" group-title="MUNDO Y CULTURA", H2+
@@ -1572,9 +1599,9 @@ https://livestream.zazerconer.workers.dev/channel/UC-FVhfqCwhzpJ4DTJOMMofA.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
 https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
-http://190.61.102.67:31589/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61KdjdTZOML.png" group-title="NOTICIAS", CNÑ
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/622.m3u8|user-agent=K@sKadda8p.1
+
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="NOTICIAS", CNN INTERNACIONAL
@@ -1607,6 +1634,8 @@ https://livestream.zazerconer.workers.dev/channel/UC8xbL4UcMY5a2ELqdt-0fLQ.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS", Milenio Tv Web
 https://livestream.zazerconer.workers.dev/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS", Milenio Tv Web
+https://ythls.armelin.one/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS", Milenio Tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS", Milenio Tv
@@ -1619,6 +1648,10 @@ https://livestream.zazerconer.workers.dev/channel/UCzmd9Aj2wmPggWZJpLdBB8Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/a/plantillas/p/radio-formula/imgs/logo-facebook.png" group-title="NOTICIAS", Teleformula Web
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+#EXTINF:-1 tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2014/05/aristeguinoticias.com_.jpg" group-title="NOTICIAS", Aristegui Noticias
+https://livestream.zazerconer.workers.dev/channel/UCafNntv_qTQB26AvbEQNHPw.m3u8
+#EXTINF:-1 tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2014/05/aristeguinoticias.com_.jpg" group-title="NOTICIAS", Aristegui Noticias
+https://ythls.armelin.one/channel/UCafNntv_qTQB26AvbEQNHPw.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once Web
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Canal-Once.jpg" group-title="NACIONALES", Canal Once
@@ -1866,7 +1899,14 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather", WeatherSpy
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://186.148.195.206:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIXP6lea6ZmVdCEAOPjm50I/ts
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIUcR738uibfQaN3scTQW0c/ts
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIXqvBU-ipd2VHWJiy0Qrdg/ts
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO
 http://200.59.188.3:8000/play/a020
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO HD
@@ -1898,6 +1938,12 @@ http://live.lordstreams.co:8080/832396166/1982148236/631875
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png" group-title="ENTRETENIMIENTO", HBO Sub
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VML-KGn4e5w0429jNRFDcxGk/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKfekT02PizulYLtoYnDbrZ/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMI5nH5bZYg11wdCQ9s7bkk6/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 http://200.60.124.19:29000/play/a071/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2 HD
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/184636
@@ -1911,6 +1957,10 @@ http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/184639
 http://186.148.195.206:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="ENTRETENIMIENTO", HBO 2ª
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKVxL92IYOMa1_9GEnk01Ez/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMK4SEIiXtm9_7tEcaK8wf4q/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/184646
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plus HD
@@ -1940,6 +1990,8 @@ http://45.232.177.17:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ENTRETENIMIENTO", HBO Plusª
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMJl5b_LdUJVSDG4kw_DJ-hc/ts
+#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://181.78.105.146:6060/play/a00k
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/184640
@@ -1961,8 +2013,6 @@ http://186.148.195.206:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
 
-#EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family HD
-
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Family
@@ -1973,6 +2023,8 @@ http://186.148.195.206:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="ENTRETENIMIENTO", HBO Familyª
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMJp9iFDEViCzjTQ-ZEEc05_/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature HD
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/184648
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signature HD
@@ -1985,6 +2037,8 @@ http://186.148.195.206:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png" group-title="ENTRETENIMIENTO", HBO Signatureª
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMJrvyIHD9jrcki6oIQ-1-78/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="ENTRETENIMIENTO", HBO Xtreme HD
@@ -2415,15 +2469,15 @@ https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/28036.m3u8
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="ENTRETENIMIENTO", TCM España
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
-http://170.81.241.222:65535/play/a01s/index.m3u8
+http://167.250.135.246:81/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
-http://177.53.153.20:8001/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 http://200.59.188.3:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC HD
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
@@ -2433,33 +2487,33 @@ http://200.59.188.3:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png" group-title="ENTRETENIMIENTO", AMC 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
-http://181.188.216.148:8001/play/a043/index.m3u8
+http://167.250.135.246:81/play/a0b5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
-http://170.81.241.222:65535/play/a00l/index.m3u8
+http://167.250.135.246:81/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
-https://vivo.lamtv.tv:8081/a/0177/playlist.m3u8|user-agent=CCCCC
+http://167.250.135.246:81/play/a07a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
+http://live.budtvlight.com:25461/diana10/b53ad085/166928
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/147
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-http://138.59.177.34:8000/play/a06d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-http://138.59.177.34:8000/play/a05c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-http://45.90.105.74:25461/bud-1882009/1e621f3272/2449|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/181.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="ENTRETENIMIENTO", STAR Channel
-http://177.128.115.21:8080/Binet/6UkGawEA4z/69
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1805px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", SONY HD
-http://45.172.218.126:8000/play/a015/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1805px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", SONY HD
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1805px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", SONY HD
+http://167.250.135.246:81/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1805px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", SONY HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1805px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMIENTO", SONY HD
@@ -2503,27 +2557,27 @@ http://45.172.218.126:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO", SYFY
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
-http://131.161.53.2:8000/play/a01g/index.m3u8
+http://186.148.195.206:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
-http://131.161.53.2:8000/play/a038/index.m3u8
+http://167.250.135.246:81/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
-http://167.250.222.35:16000/play/a04i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
-http://190.149.66.90:4000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-http://45.166.92.22:58001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-http://181.78.78.105:8000/play/a0jr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=220
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE*
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/145.m3u8|user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE HD
-http://38.56.118.88:4000/play/a030/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/26.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="ENTRETENIMIENTO", DHE 
@@ -2539,9 +2593,9 @@ http://177.128.115.21:8080/live/Binet/6UkGawEA4z/26.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
-http://170.81.241.222:65535/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
 
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
+http://167.250.135.246:81/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
@@ -2551,7 +2605,7 @@ http://170.81.241.222:65535/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax*
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
-http://xloxttv.info:8080/live/9HDVmA36bMTW/CguuCwsF3yRt/105.m3u8
+http://xloxttv.info:8080/live/9HDVmA36bMTW/CguuCwsF3yRt/105.m3u8			
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
 http://190.119.178.44:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/untitled-1_147.png" group-title="ENTRETENIMIENTO", Cinemax HD
@@ -2584,9 +2638,9 @@ http://208.88.246.11:3473/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%
 
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal HD
-http://181.188.216.148:8001/play/a04x/index.m3u8
+http://167.250.135.246:81/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal HD
-http://170.81.241.222:65535/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal HD
 http://45.166.92.22:58001/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="ENTRETENIMIENTO", Cinecanal*
@@ -2853,6 +2907,14 @@ http://208.88.246.11:4481/eventox4/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 https://live.tv247us.com/tv247/nfl.m3u8?|Referer=https://tv247.us/&e=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
+http://home-playtv.com:8080/miralatin2243/JJKTU/108408
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
+http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/814520
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
+http://live.budtvlight.com:25461/diana10/b53ad085/158842
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMJCdT0-SaNS71Lv_XSTstqQ/ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
@@ -3402,10 +3464,12 @@ https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/28000
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/10963
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMKxqg_IkDmfPvVBekAf78oU/ts
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX HD
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79542
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79542
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
@@ -3421,13 +3485,13 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384854.ts
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/10962
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIC7_wk0qr-x17f6znjIUkz/ts
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79545
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 http://181.78.10.235:58004/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79544
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
@@ -3439,9 +3503,9 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384858.ts
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/155475
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79546
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+http://aguacongas.xyz:80/edupadremilagros/GXpStCxYHhXG/79547
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
@@ -3637,11 +3701,11 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FuboTv FS US HD
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIxyfXWwdIJWwA0ReuR-Ht1/ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMIxyfXWwdIJWwA0ReuR-Ht1/ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
-
+https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/15907
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US
@@ -3651,9 +3715,9 @@ https://live.tv247us.com/tv247/fs1.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
 https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8|Referer=https://lewblivehdplay.ru/&Origin=https://lewblivehdplay.ru
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-
+http://offshore.lat:8080/play/_JWP8qmZLy8hNi0dQCNEy4Ou2y6MlZ0CijIuOtK7VMISUu5SuVDUhv9LH9g3N4oo/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
-
+https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/15907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
 
 #EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
@@ -3881,7 +3945,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium763/index.m3u8?|Referer=https://lewbli
 #EXTINF:-1 tvg-id="" tvg-name="YES Network HD" tvg-logo="http://tvgo.re:8080/images/330b8fc654b3f764b2e28cba0542818d.png" group-title="DEPORTES", YES Network HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
-
+http://ktv.im:8080/12345/12345/116472
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN TTv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN
@@ -3890,23 +3954,27 @@ https://webhdrus.onlinehdhls.ru/lb/premium763/index.m3u8?|Referer=https://lewbli
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_Sports_Northwest.png/800px-NBC_Sports_Northwest.png" group-title="DEPORTES", NBCSPORTS NORTHWEST 
-
+http://ktv.im:8080/12345/12345/116473
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_California.png/1280px-NBC_Sports_California.png" group-title="DEPORTES", NBCSPORTS CALIFORNIA
-
+http://ktv.im:8080/12345/12345/116470
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/1280px-NBC_Sports_Bay_Area.png" group-title="DEPORTES", NBCSPORTS BAY AREA 
-
+http://ktv.im:8080/12345/12345/116469
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="DEPORTES", NBCSPORTS BOSTON 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1024px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES", NBCSPORTS CHICAGO 
-
+http://ktv.im:8080/12345/12345/116471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg" group-title="DEPORTES", NBCSPORTS PHILADELPHIA 
-
+http://ktv.im:8080/12345/12345/116474
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="DEPORTES", NBCSPORTS WASHINGTON
+http://ktv.im:8080/12345/12345/116475
+
 
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
 http://cord-cutter.net:8080/5ThaSM/484504/108178
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh
 http://104.243.32.122:8080/return20/eftsfspbkcnt/10
+#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
+http://206.212.244.71:8080/4wVQA7/625159/108178
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
 http://104.243.32.122:8080/return20/eftsfspbkcnt/496
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
@@ -3919,6 +3987,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1486
 http://abcnew.site:8880/live/1mk110104/97784496/30065.m3u8
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
 http://abcnew.site:8880/1mk110104/97784496/30065
+#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
+http://ktv.im:8080/12345/12345/116414
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
 http://abcnew.site:8880/1mk110104/97784496/30064
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh HD
@@ -3935,8 +4005,8 @@ https://webufffit.mizhls.ru/lb/primasportsnetpittsburgh/index.m3u8|Referer=https
 https://ddy2.onlinehdhls.ru/ddy2/premium922/tracks-v1a1/mono.m3u8|Referer=https://lewblivehdplay.ru/&Origin=https://lewblivehdplay.ru
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh
 https://esx1.mizhls.ru/esx1/primasportsnetpittsburgh/playlist.m3u8|Referer=https://qqwebplay.xyz/&Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh-
-
+#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh
+http://home-playtv.com:8080/miralatin2243/JJKTU/482108
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh
 
 #EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Pittsburgh-Sportsnet-Logo-c61b04b8-8b59-4b47-a10d-9582d76410c4.png" group-title="DEPORTES", SportsNet Pittsburgh+
@@ -4570,6 +4640,8 @@ https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
 https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/8437
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 http://abcnew.site:8880/1mk110104/97784496/29954
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/8a/23/548a2339-363a-7fe8-6095-52cfa7c9a953/source/512x512bb.jpg" group-title="USA", CBS San Diego
 https://6oclock.xyz:8443/live/GY5ab4se80/hP2xh5C63e/41889.m3u8
@@ -4700,17 +4772,19 @@ https://live.tv247us.com/tv247/cbs.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:-1 tvg-id="WPXIDT1.us" tvg-logo="https://2z3of842kwtd2viawr7ixvbb-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/new-logo.jpg" group-title="USA", WPXI NBC 11 Pittsburgh 
 
 #EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118154
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://live.lordstreams.co:8080/832396166/1982148236/2627
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://104.243.32.122:8080/return20/eftsfspbkcnt/1051
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://cord-cutter.net:8080/5ThaSM/484504/120777
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://cord-cutter.net:8080/live/5ThaSM/484504/120777.m3u8
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://206.212.244.71:8080/4wVQA7/625159/120777
 
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-http://cord-cutter.net:8080/jesus1/jesus1/120777
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-http://cord-cutter.net:8080/live/jesus1/jesus1/120777.m3u8
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-http://samuraitv.online:8000/live/ultraxtvextreme/yjeth438234894543dgds/222777.m3u8
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/41008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/KOAM-TV_logo.svg/125px-KOAM-TV_logo.svg.png" group-title="USA",  CBS 7 Pittsburgh KOAM
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/abc10-vector-logo.png" group-title="USA", ABC Burlington-VA (WVNY-TV1)
@@ -4992,7 +5066,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium404/index.m3u8|Referer=https://lewbliv
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network 4K
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/355200
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
-
+https://rr.vipstreams.in/alpha/js/nhl-network/1/playlist.m3u8|Referer=https://embedme.top/&Origin=https://embedme.top
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
 https://serid-c3.ofemm.com/plyvivo/6e3ivimi2a30narev0la/chunklist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F126.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcuervotv.me%2Fsd0embed%2FNHL
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
@@ -5139,6 +5213,384 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 
 
+
+#EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
+https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", TUDN USA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", TUDN USA
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",  
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", 
+
+#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
+https://livestream4.zazerconer.workers.dev/live/zxBKg9i1BGU.m3u8
+#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
+https://livestream.zazerconer.workers.dev/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
+#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
+https://ythls.armelin.one/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
+
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL REDZONE
+
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL REDZONE 
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1006001
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL REDZONE (US)
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/15890
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL NETWORK HD
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/15891
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL GAME PASS ===>
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/26402
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 00
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004037
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 01
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004038
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 02
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004039
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 03
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004040
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 04
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004041
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 05
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004042
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 06
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004043
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 07
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004044
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 08
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004045
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 09
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004046
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 10
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004047
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL  11
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004048
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 12
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004049
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 13
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004050
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 14
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004051
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 15
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004052
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 000
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520583
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 001
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520584
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 002
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520585
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 003
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520586
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 004
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520587
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 005
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520588
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 006
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520589
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 007
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520590
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 008
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520591
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 009
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520592
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 010
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520593
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 011
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520594
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 012
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520595
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 013
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520596
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 014
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520597
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 015
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520928
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 705
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022654
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 706
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022655
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 707
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022656
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 708
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022657
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 709
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022658
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 710
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022659
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 711
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022660
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 712
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022661
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 713
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022662
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 714
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022663
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 715
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022664
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 716
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022665
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 717
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022666
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 718
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022667
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 719
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022668
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Saints
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022669
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: 49ers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022670
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bears
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022671
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bengals
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022672
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bills
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022673
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Broncos
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022674
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Browns
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022675
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Buccaneers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022676
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Cardinals
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022677
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Chargers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022678
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Chiefs
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022679
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Colts
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022680
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Cowboys
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022681
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Eagles
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022683
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Falcons
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022684
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Giants
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022685
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Jaguars
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022686
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Jets
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022687
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Lions
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022688
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Packers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022689
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Panthers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022690
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Patriots
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022691
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Raiders
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022692
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Rams
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022693
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Ravens
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022694
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Redskins
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022695
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Seahawks
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022696
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Steelers
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022697
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Texans
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022698
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Titans
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022699
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Vikings
+https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022700
+
+
+
+
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: 49ers
+http://live.lordstreams.co:8080/832396166/1982148236/390458
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Bears
+http://live.lordstreams.co:8080/832396166/1982148236/390457
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Bengals
+http://live.lordstreams.co:8080/832396166/1982148236/390456
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Bills
+http://live.lordstreams.co:8080/832396166/1982148236/390455
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Broncos
+http://live.lordstreams.co:8080/832396166/1982148236/390454
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Browns
+http://live.lordstreams.co:8080/832396166/1982148236/390453
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Buccaneers
+http://live.lordstreams.co:8080/832396166/1982148236/390452
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Cardinals
+http://live.lordstreams.co:8080/832396166/1982148236/390451
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Chargers
+http://live.lordstreams.co:8080/832396166/1982148236/390450
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Chiefs
+http://live.lordstreams.co:8080/832396166/1982148236/390449
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Colts
+http://live.lordstreams.co:8080/832396166/1982148236/390448
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Commanders
+http://live.lordstreams.co:8080/832396166/1982148236/390433
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Cowboys
+http://live.lordstreams.co:8080/832396166/1982148236/390447
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Dolphins
+http://live.lordstreams.co:8080/832396166/1982148236/390446
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Eagles
+http://live.lordstreams.co:8080/832396166/1982148236/390445
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Falcons
+http://live.lordstreams.co:8080/832396166/1982148236/390444
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Giants
+http://live.lordstreams.co:8080/832396166/1982148236/390443
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Jaguars
+http://live.lordstreams.co:8080/832396166/1982148236/390442
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Jets
+http://live.lordstreams.co:8080/832396166/1982148236/390441
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Lions
+http://live.lordstreams.co:8080/832396166/1982148236/390440
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Packers
+http://live.lordstreams.co:8080/832396166/1982148236/390439
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Panthers
+http://live.lordstreams.co:8080/832396166/1982148236/390438
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Patriots
+http://live.lordstreams.co:8080/832396166/1982148236/390437
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Raiders
+http://live.lordstreams.co:8080/832396166/1982148236/390436
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Rams
+http://live.lordstreams.co:8080/832396166/1982148236/390435
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Ravens
+http://live.lordstreams.co:8080/832396166/1982148236/390434
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Saints 
+http://live.lordstreams.co:8080/832396166/1982148236/401122
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Seahawks
+http://live.lordstreams.co:8080/832396166/1982148236/390432
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Steelers
+http://live.lordstreams.co:8080/832396166/1982148236/390431
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Texans
+http://live.lordstreams.co:8080/832396166/1982148236/390430
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Titans
+http://live.lordstreams.co:8080/832396166/1982148236/390429
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL LRD",  NFL: Vikings
+http://live.lordstreams.co:8080/832396166/1982148236/390428
+
+
+
+
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", NFL-Network
+http://mohdtv.com:8880/voby1785/15197959/3104
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", NFL RedZone
+http://mohdtv.com:8880/voby1785/15197959/3079
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Browns SD
+http://mohdtv.com:8880/voby1785/15197959/29572
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers FHD
+http://mohdtv.com:8880/voby1785/15197959/29571
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers HD
+http://mohdtv.com:8880/voby1785/15197959/29570
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers SD
+http://mohdtv.com:8880/voby1785/15197959/29569
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals FHD
+http://mohdtv.com:8880/voby1785/15197959/29568
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals HD
+http://mohdtv.com:8880/voby1785/15197959/29567
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals SD
+http://mohdtv.com:8880/voby1785/15197959/29566
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers FHD
+http://mohdtv.com:8880/voby1785/15197959/29565
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers HD
+http://mohdtv.com:8880/voby1785/15197959/29564
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers SD
+http://mohdtv.com:8880/voby1785/15197959/29563
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs FHD
+http://mohdtv.com:8880/voby1785/15197959/29562
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs HD
+http://mohdtv.com:8880/voby1785/15197959/29561
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs SD
+http://mohdtv.com:8880/voby1785/15197959/29545
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers FHD
+http://mohdtv.com:8880/voby1785/15197959/29544
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers HD
+http://mohdtv.com:8880/voby1785/15197959/29543
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers SD
+http://mohdtv.com:8880/voby1785/15197959/29542
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears FHD
+http://mohdtv.com:8880/voby1785/15197959/29541
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears HD
+http://mohdtv.com:8880/voby1785/15197959/29540
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears SD
+http://mohdtv.com:8880/voby1785/15197959/29539
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals FHD
+http://mohdtv.com:8880/voby1785/15197959/29538
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals HD
+http://mohdtv.com:8880/voby1785/15197959/29537
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals SD
+http://mohdtv.com:8880/voby1785/15197959/29536
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills FHD
+http://mohdtv.com:8880/voby1785/15197959/29535
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills HD
+http://mohdtv.com:8880/voby1785/15197959/29534
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills SD
+http://mohdtv.com:8880/voby1785/15197959/29533
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos FHD
+http://mohdtv.com:8880/voby1785/15197959/29532
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos HD
+http://mohdtv.com:8880/voby1785/15197959/29531
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos SD
+http://mohdtv.com:8880/voby1785/15197959/53491
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Browns FHD
+http://mohdtv.com:8880/voby1785/15197959/29529
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Eagles FHD
+http://mohdtv.com:8880/voby1785/15197959/31566
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Vikings FHD
+http://mohdtv.com:8880/voby1785/15197959/68752
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Colts FHD
+http://mohdtv.com:8880/voby1785/15197959/68753
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cowboys FHD
+http://mohdtv.com:8880/voby1785/15197959/68754
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Dolphins FHD
+http://mohdtv.com:8880/voby1785/15197959/68755
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Eagles FHD
+http://mohdtv.com:8880/voby1785/15197959/68756
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Falcons FHD
+http://mohdtv.com:8880/voby1785/15197959/68757
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Giants FHD
+http://mohdtv.com:8880/voby1785/15197959/68758
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Jaguars FHD
+http://mohdtv.com:8880/voby1785/15197959/68759
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Jets FHD
+http://mohdtv.com:8880/voby1785/15197959/68760
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Lions FHD
+http://mohdtv.com:8880/voby1785/15197959/68761
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Packers FHD
+http://mohdtv.com:8880/voby1785/15197959/68762
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Panthers FHD
+http://mohdtv.com:8880/voby1785/15197959/68763
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Patriots FHD
+http://mohdtv.com:8880/voby1785/15197959/68764
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Raiders FHD
+http://mohdtv.com:8880/voby1785/15197959/68765
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Rams FHD
+http://mohdtv.com:8880/voby1785/15197959/68766
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Ravens FHD
+http://mohdtv.com:8880/voby1785/15197959/68767
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Redskins
+http://mohdtv.com:8880/voby1785/15197959/68768
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Saints FHD
+http://mohdtv.com:8880/voby1785/15197959/68769
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Seahawks FHD
+http://mohdtv.com:8880/voby1785/15197959/68770
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Steelers FHD
+http://mohdtv.com:8880/voby1785/15197959/68771
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Texans FHD
+http://mohdtv.com:8880/voby1785/15197959/60979
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Titans
+http://mohdtv.com:8880/voby1785/15197959/60980
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Atlanta Braves
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1603
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB", Baltimore Orioles
@@ -5199,196 +5651,8 @@ http://104.243.32.122:8080/return20/eftsfspbkcnt/1630
 http://104.243.32.122:8080/return20/eftsfspbkcnt/1631
 
 
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL REDZONE 
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1006001
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL REDZONE (US)
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/15890
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL NETWORK HD
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/15891
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL GAME PASS ===>
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/26402
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 00
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004037
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 01
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004038
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 02
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004039
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 03
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004040
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 04
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004041
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 05
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004042
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 06
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004043
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 07
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004044
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 08
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004045
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 09
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004046
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 10
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004047
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL  11
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004048
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 12
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004049
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 13
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004050
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 14
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004051
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 15
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1004052
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 000
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520583
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 001
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520584
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 002
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520585
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 003
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520586
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 004
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520587
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 005
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520588
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 006
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520589
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 007
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520590
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 008
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520591
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 009
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520592
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 010
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520593
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 011
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520594
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 012
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520595
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 013
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520596
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 014
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520597
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL 015
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/520928
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 705
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022654
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 706
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022655
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 707
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022656
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 708
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022657
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 709
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022658
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 710
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022659
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 711
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022660
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 712
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022661
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 713
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022662
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 714
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022663
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 715
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022664
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 716
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022665
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 717
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022666
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 718
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022667
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL Sunday 719
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022668
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Saints
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022669
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: 49ers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022670
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bears
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022671
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bengals
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022672
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Bills
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022673
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Broncos
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022674
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Browns
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022675
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Buccaneers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022676
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Cardinals
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022677
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Chargers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022678
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Chiefs
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022679
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Colts
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022680
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Cowboys
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022681
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Eagles
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022683
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Falcons
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022684
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Giants
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022685
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Jaguars
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022686
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Jets
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022687
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Lions
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022688
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Packers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022689
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Panthers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022690
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Patriots
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022691
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Raiders
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022692
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Rams
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022693
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Ravens
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022694
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Redskins
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022695
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Seahawks
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022696
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Steelers
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022697
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Texans
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022698
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Titans
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022699
-kghvzq31hi#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL PTV", NFL: Vikings
-https://6oclock.xyz:8443/1RLkb794/12MK56Bru/1022700
 
 
-#EXTINF:-1 tvg-logo="-" group-title="troy", Troy Palamalu HOF Spech
-https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", TUDN USA
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", TUDN USA
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX",  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="LIGA MX", 
-
-#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
-https://livestream4.zazerconer.workers.dev/live/zxBKg9i1BGU.m3u8
-#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
-https://livestream.zazerconer.workers.dev/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-#EXTINF:-1 tvg-logo="https://d935larrlkqtz.cloudfront.net/bc2357fb-faa8-4c38-8d12-81284444df6b/images/logo_new.png" group-title="LIGA MX", Caliente TV
-https://ythls.armelin.one/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB CT", MLB 00
 http://cord-cutter.net:8080/5ThaSM/484504/137764
@@ -5547,63 +5811,117 @@ https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/1023036
 #EXTINF:-1 tvg-id="" tvg-name="MLB 61" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB 6ok",MLB 61
 https://6oclock.xyz:8443/GY5ab4se80/hP2xh5C63e/1023037
 
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", NATIONALS @ PIRATES 11:35AM y 4:40PM - ATT Pittsburgh
-http://home-playtv.com:8080/miralatin2243/JJKTU/559477
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", NATIONALS @ PIRATES 11:35AM y 4:40PM - MASN 2
-http://home-playtv.com:8080/miralatin2243/JJKTU/559478
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", YANKEES @ CUBS - 12:20PM en Español - Purple Stream 3
-http://home-playtv.com:8080/miralatin2243/JJKTU/559479
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", YANKEES @ CUBS - 12:20PM - YES
-http://home-playtv.com:8080/miralatin2243/JJKTU/559480
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", YANKEES @ CUBS - 12:20PM - Marquee Sports
-http://home-playtv.com:8080/miralatin2243/JJKTU/559481
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", RAYS @ ORIOLES - 2:05PM - BS Sun
-http://home-playtv.com:8080/miralatin2243/JJKTU/559482
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", RAYS @ ORIOLES - 2:05PM - MASN
-http://home-playtv.com:8080/miralatin2243/JJKTU/559483
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", TIGERS @ ATHLETICS - 2:07PM - BS Detroit
-http://home-playtv.com:8080/miralatin2243/JJKTU/559484
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", TIGERS @ ATHLETICS - 2:07PM - NBCS California
-http://home-playtv.com:8080/miralatin2243/JJKTU/559485
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", D-BACKS @ ASTROS 2:10PM -BLUE JAYS @ BRAVES 5:20PM en Español - Fox Sports
-http://home-playtv.com:8080/miralatin2243/JJKTU/559486
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", D-BACKS @ ASTROS - 2:10PM - ATT
-http://home-playtv.com:8080/miralatin2243/JJKTU/559487
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", REDS @ METS - 2:10PM - BS Cincinnati
-http://home-playtv.com:8080/miralatin2243/JJKTU/559488
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", REDS @ METS - 2:10PM - SNY
-http://home-playtv.com:8080/miralatin2243/JJKTU/559489
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", PHILLIES @ MARLINS - 2:10PM - NBCS Philadelphia
-http://home-playtv.com:8080/miralatin2243/JJKTU/559490
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", PHILLIES @ MARLINS - 2:10PM - BS Florida
-http://home-playtv.com:8080/miralatin2243/JJKTU/559491
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", ANGELS @ RANGERS - 5:05PM - BS West
-http://home-playtv.com:8080/miralatin2243/JJKTU/559492
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", ANGELS @ RANGERS - 5:05PM - BS South West
-http://home-playtv.com:8080/miralatin2243/JJKTU/559493
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", ROCKIES @ BREWERS - 5:10PM - BS Wisconsin
-http://home-playtv.com:8080/miralatin2243/JJKTU/559494
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", MARINERS @ CARDINALS - 5:15PM - NBCS NW
-http://home-playtv.com:8080/miralatin2243/JJKTU/559495
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", MARINERS @ CARDINALS - 5:15PM - BS Mid West
-http://home-playtv.com:8080/miralatin2243/JJKTU/559496
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", WHITE SOX @ RED SOX - 5:15PM - FOX NY
-http://home-playtv.com:8080/miralatin2243/JJKTU/559497
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", TWINS @ ROYALS - 5:15PM - FOX Minnesota
-http://home-playtv.com:8080/miralatin2243/JJKTU/559498
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", BLUE JAYS @ BRAVES - 5:20PM - SN Ontario
-http://home-playtv.com:8080/miralatin2243/JJKTU/559499
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", BLUE JAYS @ BRAVES - 5:20PM - BS Southeast
-http://home-playtv.com:8080/miralatin2243/JJKTU/559500
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", GIANTS @ PADRES - 6:40PM en Español - Purple Stream 4
-http://home-playtv.com:8080/miralatin2243/JJKTU/559501
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", GIANTS @ PADRES - 6:40PM - NBCS Bay Area
-http://home-playtv.com:8080/miralatin2243/JJKTU/559502
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", GUARDIANS @ DODGERS - 7:10PM en Español - Purple Stream 5
-http://home-playtv.com:8080/miralatin2243/JJKTU/559503
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", GUARDIANS @ DODGERS - 7:10PM - Sportsnet LA
-http://home-playtv.com:8080/miralatin2243/JJKTU/559504
-#EXTINF:-1 tvg-logo="https://media.idownloadblog.com/wp-content/uploads/2017/10/MLB-atbat-splashscreen-.jpeg" group-title="MLB PTV", GUARDIANS @ DODGERS - 7:10PM - Bally Sports Great Lakes
-http://home-playtv.com:8080/miralatin2243/JJKTU/559505
+
+
+
+
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", NFL-Network
+http://mohdtv.com:8880/voby1785/15197959/3104
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", NFL RedZone
+http://mohdtv.com:8880/voby1785/15197959/3079
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Browns SD
+http://mohdtv.com:8880/voby1785/15197959/29572
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers FHD
+http://mohdtv.com:8880/voby1785/15197959/29571
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers HD
+http://mohdtv.com:8880/voby1785/15197959/29570
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Buccaneers SD
+http://mohdtv.com:8880/voby1785/15197959/29569
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals FHD
+http://mohdtv.com:8880/voby1785/15197959/29568
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals HD
+http://mohdtv.com:8880/voby1785/15197959/29567
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cardinals SD
+http://mohdtv.com:8880/voby1785/15197959/29566
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers FHD
+http://mohdtv.com:8880/voby1785/15197959/29565
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers HD
+http://mohdtv.com:8880/voby1785/15197959/29564
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chargers SD
+http://mohdtv.com:8880/voby1785/15197959/29563
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs FHD
+http://mohdtv.com:8880/voby1785/15197959/29562
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs HD
+http://mohdtv.com:8880/voby1785/15197959/29561
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Chiefs SD
+http://mohdtv.com:8880/voby1785/15197959/29545
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers FHD
+http://mohdtv.com:8880/voby1785/15197959/29544
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers HD
+http://mohdtv.com:8880/voby1785/15197959/29543
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", 49ers SD
+http://mohdtv.com:8880/voby1785/15197959/29542
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears FHD
+http://mohdtv.com:8880/voby1785/15197959/29541
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears HD
+http://mohdtv.com:8880/voby1785/15197959/29540
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bears SD
+http://mohdtv.com:8880/voby1785/15197959/29539
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals FHD
+http://mohdtv.com:8880/voby1785/15197959/29538
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals HD
+http://mohdtv.com:8880/voby1785/15197959/29537
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bengals SD
+http://mohdtv.com:8880/voby1785/15197959/29536
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills FHD
+http://mohdtv.com:8880/voby1785/15197959/29535
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills HD
+http://mohdtv.com:8880/voby1785/15197959/29534
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Bills SD
+http://mohdtv.com:8880/voby1785/15197959/29533
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos FHD
+http://mohdtv.com:8880/voby1785/15197959/29532
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos HD
+http://mohdtv.com:8880/voby1785/15197959/29531
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Broncos SD
+http://mohdtv.com:8880/voby1785/15197959/53491
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Browns FHD
+http://mohdtv.com:8880/voby1785/15197959/29529
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Eagles FHD
+http://mohdtv.com:8880/voby1785/15197959/31566
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Vikings FHD
+http://mohdtv.com:8880/voby1785/15197959/68752
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Colts FHD
+http://mohdtv.com:8880/voby1785/15197959/68753
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Cowboys FHD
+http://mohdtv.com:8880/voby1785/15197959/68754
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Dolphins FHD
+http://mohdtv.com:8880/voby1785/15197959/68755
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Eagles FHD
+http://mohdtv.com:8880/voby1785/15197959/68756
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Falcons FHD
+http://mohdtv.com:8880/voby1785/15197959/68757
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Giants FHD
+http://mohdtv.com:8880/voby1785/15197959/68758
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Jaguars FHD
+http://mohdtv.com:8880/voby1785/15197959/68759
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Jets FHD
+http://mohdtv.com:8880/voby1785/15197959/68760
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Lions FHD
+http://mohdtv.com:8880/voby1785/15197959/68761
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Packers FHD
+http://mohdtv.com:8880/voby1785/15197959/68762
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Panthers FHD
+http://mohdtv.com:8880/voby1785/15197959/68763
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Patriots FHD
+http://mohdtv.com:8880/voby1785/15197959/68764
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Raiders FHD
+http://mohdtv.com:8880/voby1785/15197959/68765
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Rams FHD
+http://mohdtv.com:8880/voby1785/15197959/68766
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Ravens FHD
+http://mohdtv.com:8880/voby1785/15197959/68767
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Redskins
+http://mohdtv.com:8880/voby1785/15197959/68768
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Saints FHD
+http://mohdtv.com:8880/voby1785/15197959/68769
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Seahawks FHD
+http://mohdtv.com:8880/voby1785/15197959/68770
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Steelers FHD
+http://mohdtv.com:8880/voby1785/15197959/68771
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Texans FHD
+http://mohdtv.com:8880/voby1785/15197959/60979
+#EXTINF:-1 tvg-logo="https://v.markkystreams.com/wp-content/uploads/2019/11/11-1-640x360.jpg" group-title="NFL MOTV", Titans
+http://mohdtv.com:8880/voby1785/15197959/60980
 
 
