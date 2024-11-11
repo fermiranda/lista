@@ -1,13 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-
-
-#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/04/Daniel-Reza-2024-04-14T084722.062.png" group-title="La Academia", 24-7
-http://home-playtv.com:8080/miralatin2243/JJKTU/557935
-#EXTINF:-1 tvg-logo="https://ovaciones.com/wp-content/uploads/2024/04/Daniel-Reza-2024-04-14T084722.062.png" group-title="La Academia", 24-7
-https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8?uid=sFYZfvuwhW0NxWEqaskBj0vYPpu89RGn&sid=MzGd3CJE7ZXArZ2yt3LQb0ti1WgYFnnO&pid=Num78bvTmBSkadEkECU1vOgOP9g2ovqG&an=screen&at=web-app&av=v6.0.46&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=542x306&without_cookies=false&listenerid=&dnt=true
-
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
 https://livestream.zazerconer.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
