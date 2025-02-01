@@ -1,6 +1,15 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", MLB NETWORK
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", TVC DEPORTES 2
+http://live.budtvlight.com:25461/diana10/b53ad085/158566
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", ESPN DEPORTES
+http://live.budtvlight.com:25461/diana10/b53ad085/279426
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", WAPA DEPORTES
+http://live.budtvlight.com:25461/diana10/b53ad085/278885
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", IVC
+http://live.budtvlight.com:25461/diana10/b53ad085/278997
 
 
 #EXTINF:-1 tvg-id="XEWTTDT1.mx" tvg-name="Canal 12 Tijuana" tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij Web
