@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
+#EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-title="CASA DE LOS FAMOSOS ALL-STAR", CAMARA 1
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-title="CASA DE LOS FAMOSOS ALL-STAR", CAMARA 2
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+
 #EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2025/01/yU66EaSNPhuT4RE8xbZ1dVze0cXHQTd3MpFZoWy7.png" group-title="SERIE DEL CARIBE", TVC DEPORTES
